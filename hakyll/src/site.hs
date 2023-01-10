@@ -54,12 +54,12 @@ main = do
         route $ gsubRoute "assets/html/" (const "")
         compile copyFileCompiler
 
-    create ["sitemap.xml"] $ do
-        route idRoute
-        compile $ do
-            let sitemapCtx = builtPageCtx <> lastGitModification
-            makeItem ""
-                >>= loadAndApplyTemplate "templates/sitemap.xml" sitemapCtx
+    -- create ["sitemap.xml"] $ do
+    --     route idRoute
+    --     compile $ do
+    --         let sitemapCtx = builtPageCtx <> lastGitModification
+    --         makeItem ""
+    --             >>= loadAndApplyTemplate "templates/sitemap.xml" sitemapCtx
 
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
