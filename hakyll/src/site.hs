@@ -80,8 +80,8 @@ main = do
 
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
-    { feedTitle = "Spring 2022 RISC-V Week"
-      , feedDescription = "Spring 2022 RISC-V Week"
+    { feedTitle = "RISC-V Summit Europe 2023"
+      , feedDescription = "RISC-V Summit Europe 2023"
       , feedAuthorName = "Christian Fabre, Damien Couroussé, Nicolas Belleville"
       , feedAuthorEmail = "renc-riscv-orga@saxifrage.saclay.cea.fr "
       , feedRoot = "http://open-src-soc.org"
