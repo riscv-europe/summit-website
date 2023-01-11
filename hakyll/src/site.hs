@@ -25,9 +25,19 @@ main = do
 
     -- static content
     match ( "CNAME"
-            .||. "css/*" .||. "css/layouts/*" .||. "js/*"
-            .||. "img/*"
-            .||. "media/*" .||. "media/slides/*" .||. "media/posters/*" .||. "media/logos/*"
+            .||. "css/*"
+            .||. "css/fancybox/*"
+            .||. "fonts/*"
+            .||. "fonts/customicons/*"
+            .||. "js/*"
+            .||. "js/flexslider/*"
+            .||. "js/google-code-prettify/*"
+            .||. "js/portfolio/*"
+            .||. "js/quicksand/*"
+            .||. "media/images/*"
+            .||. "media/slides/*"
+            .||. "media/posters/*"
+            .||. "media/logos/*"
           ) $ do
       route idRoute
       compile copyFileCompiler
