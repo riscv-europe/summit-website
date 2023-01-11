@@ -38,6 +38,7 @@ main = do
             .||. "media/slides/*"
             .||. "media/posters/*"
             .||. "media/logos/*"
+            .||. "*.html"
           ) $ do
       route idRoute
       compile copyFileCompiler
