@@ -8,13 +8,20 @@ import           Text.Pandoc
 
 import           GHC.IO.Encoding
 
+config :: Configuration
+config = defaultConfiguration
+  { destinationDirectory = "../site.tmp"
+  , storeDirectory       = "../cache.tmp"
+  , tmpDirectory         = "../cache.tmp/tmp"
+  , providerDirectory    = "../site.src"
+  }
 
 main :: IO ()
 main = do
   setLocaleEncoding utf8
   setFileSystemEncoding utf8
   setForeignEncoding utf8
-  hakyll $ do
+  hakyllWith config $ do
 
     -- static content
     match ( "CNAME"
