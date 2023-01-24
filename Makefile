@@ -1,7 +1,10 @@
+# Silently include variables overwites.
+sinclude local-config.mak
+
 # CONSTANTS SETTING SECTION
 
-## The current "RISC-V Week" edition.
-RISCV_WEEK=2023-06
+## The current "RISC-V Week" edition is anonymous.
+RISCV_WEEK?=YYYY-MM
 
 ## The directories involved in producing the site content: SITE_SRC is
 ## where the web site's source files lives. SITE_PUB is the root of
