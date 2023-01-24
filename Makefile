@@ -34,6 +34,32 @@ CLOBBER_LIST+=$(HAKYLL_BIN)
 CLOBBER_LIST+=stack.yaml.lock
 
 
+# MANAGEMENT OF REMOTES and BRANCHES
+
+## We pull only from 'origin'. Others remotes are considered backup
+## and therefore we never pull from them automatically.
+REMOTE_PULL:=origin
+
+## We push into all remotes: 'origin' as well as backups remotes.
+REMOTE_PUSH:=$(shell git remote)
+
+## We automate pushing and pulling only for branches 'master' and
+## 'gh-pages'. Others branches, if any, must be managed manually.
+BRANCHES+=master
+BRANCHES+=gh-pages
+
+
+# SHELL OUTPUT COLORING HACKERY.
+
+## Color commands
+TPUT_RED:=$(shell tput setaf 1)
+TPUT_GRN:=$(shell tput setaf 2)
+TPUT_NRM:=$(shell tput sgr0)
+
+## Echo $(2) in color $(1), and execute $(2).
+COLOR_AND_EXEC=echo "$(1)$(2)$(TPUT_NRM)" ; $2 ;
+
+
 # HAKYLL WIZARDRY SECTION
 
 ## To build stack. Whatever that means...
@@ -70,6 +96,17 @@ clean:
 .PHONY: clobber
 clobber: clean
 	rm -rf $(CLOBBER_LIST)
+
+## Do a proper 'git pull' and that includes submodules as well.
+.PHONY: pull-all
+pull-all:
+	@$(foreach r,$(REMOTE_PULL),$(foreach b,$(BRANCHES),$(call COLOR_AND_EXEC,$(TPUT_RED),git pull --recurse-submodules $r $b)))
+
+## Push branches of the source repo to all remotes.
+.PHONY: push-all
+push-all:
+	@$(foreach r,$(REMOTE_PUSH),$(foreach b,$(BRANCHES),$(call COLOR_AND_EXEC,$(TPUT_GRN),git push --recurse-submodules=on-demand $r $b)))
+	@$(foreach r,$(REMOTE_PUSH),$(foreach b,$(BRANCHES),$(call COLOR_AND_EXEC,$(TPUT_GRN),git push --recurse-submodules=on-demand --tags $r $b)))
 
 ## Dump all variables for debug.
 .PHONY: variables
