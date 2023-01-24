@@ -98,7 +98,7 @@ watch-site: stack-build
 .PHONY: clone-pub
 clone-pub:
 	git clone $(SITE_GIT) $(SITE_PUB)
-
+	( cd $(SITE_PUB) && git checkout gh-pages )
 
 # Housekeeping
 
