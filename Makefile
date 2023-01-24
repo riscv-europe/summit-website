@@ -71,25 +71,25 @@ COLOR_AND_EXEC=echo "$(1)$(2)$(TPUT_NRM)" ; $2 ;
 ## To build stack. Whatever that means...
 .PHONY: stack-build
 stack-build:
-	( cd $(HAKYLL_DIR) ; stack build )
+	( cd $(HAKYLL_DIR) && stack build )
 
 ## To rebuild the Hakyll site compiler, and compile the site anew in
 ## $(SOURCE_TEMP_DIR).
 .PHONY: rebuild-site
 rebuild-site: stack-build
-	( cd $(HAKYLL_DIR) ; stack exec site -- rebuild )
+	( cd $(HAKYLL_DIR) && stack exec site -- rebuild )
 
 ## To compile the site in $(SOURCE_TEMP_DIR) with the current Hakyll
 ## site compiler.
 .PHONY: compile-site
 compile-site: stack-build
-	( cd $(HAKYLL_DIR) ; stack exec site -- build )
+	( cd $(HAKYLL_DIR) && stack exec site -- build )
 
 ## To launch a local web server at http://127.0.0.1:8000 and help
 ## debug the site's contents.
 .PHONY: watch-site
 watch-site: stack-build
-	( cd $(HAKYLL_DIR) ; stack exec site -- watch )
+	( cd $(HAKYLL_DIR) && stack exec site -- watch )
 
 
 # Public web repo. management.
