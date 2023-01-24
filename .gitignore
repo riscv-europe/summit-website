@@ -9,6 +9,10 @@ stack.yaml.lock
 /cache.tmp
 /site.tmp
 
+# Local clone of the HTML/CSS/etc. repo. that will actually be
+# published online.
+/site.pub
+
 # Emacs stuff.
 *~
 \#*\#

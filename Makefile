@@ -6,6 +6,9 @@ sinclude local-config.mak
 ## The current "RISC-V Week" edition is anonymous.
 RISCV_WEEK?=YYYY-MM
 
+## The public web site repo. URL
+SITE_GIT=https://github.com/open-src-soc/$(RISCV_WEEK).git
+
 ## The directories involved in producing the site content: SITE_SRC is
 ## where the web site's source files lives. SITE_PUB is the root of
 ## the public web site files, i.e. what is actually published
@@ -89,6 +92,14 @@ watch-site: stack-build
 	( cd $(HAKYLL_DIR) ; stack exec site -- watch )
 
 
+# Public web repo. management.
+
+## Clone properly the Github repo. that carries the whole web site.
+.PHONY: clone-pub
+clone-pub:
+	git clone $(SITE_GIT) $(SITE_PUB)
+
+
 # Housekeeping
 
 ## Clean-up of the local repo.
@@ -115,6 +126,7 @@ push-all:
 .PHONY: variables
 variables: \
 	_print_RISCV_WEEK \
+	_print_SITE_GIT \
 	_print_SITE_SRC \
 	_print_SITE_TMP \
 	_print_SITE_PUB\
