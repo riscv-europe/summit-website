@@ -7,7 +7,7 @@ sinclude local-config.mak
 RISCV_WEEK?=YYYY-MM
 
 ## The public web site repo. URL
-SITE_GIT=https://github.com/open-src-soc/$(RISCV_WEEK).git
+SITE_GIT=git@github.com:open-src-soc/$(RISCV_WEEK).git
 
 ## The directories involved in producing the site content: SITE_SRC is
 ## where the web site's source files lives. SITE_PUB is the root of
