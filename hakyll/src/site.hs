@@ -147,7 +147,7 @@ gitTag = field "gitinfo" $ \item -> do
     date    <- gitLog "%aI"
     return $ concat
              [ "Last modified on "
-             , "<a href=https://github.com/open-src-soc/2022-05/commits/gh-pages>"
+             , "<a href=https://github.com/open-src-soc/YYYY-MM-src/commits/gh-pages>"
              , date
              , "</a>"
              ]
