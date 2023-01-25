@@ -142,7 +142,7 @@ gitTag :: Context String
 gitTag = field "gitinfo" $ \item -> do
   let fp = toFilePath $ itemIdentifier item
       gitLog format =
-        readProcess "git" ["log", "-1", "HEAD", "--pretty=format:" ++ format, fp] ""
+        readProcess "git" ["log", "-1", "HEAD", "--pretty=format:" ++ format, "--", fp] ""
   unsafeCompiler $ do
     date    <- gitLog "%aI"
     return $ concat
