@@ -149,7 +149,7 @@ gitTag = field "gitinfo" $ \item -> do
              [ "Last modified on "
              , "<a href=https://github.com/open-src-soc/YYYY-MM-src/commits/gh-pages>"
              , date
-             , "</a>"
+             , "</a>."
              ]
 
 -- | Extract the last modification date from the git commits
