@@ -28,7 +28,7 @@ main = do
             .||. "css/*"
             .||. "fonts/*"
             .||. "js/*"
-            .||. "media/images/*"
+            .||. "media/banners/*"
             .||. "media/slides/*"
             .||. "media/posters/*"
             .||. "media/logos/*"
