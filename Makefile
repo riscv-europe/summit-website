@@ -16,9 +16,9 @@ SITE_GIT=git@github.com:open-src-soc/$(RISCV_WEEK).git
 ## for off line checking through a local ad-hoc Haskyll web sierver,
 ## then as the base of the final rsync to SITE_DIR. SITE_TMP a
 ## temporary directory and is not versioned by Git -- see .gitignore.
-SITE_PUB=site.pub
-SITE_TMP=site.tmp
-SITE_SRC=site.src
+SITE_PUB:=$(shell pwd)/site.pub
+SITE_TMP:=$(shell pwd)/site.tmp
+SITE_SRC:=$(shell pwd)/site.src
 
 HAKYLL_DIR=hakyll
 HAKYLL_BIN=hakyll/.stack-work
