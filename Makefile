@@ -103,14 +103,14 @@ watch-site: stack-build
 .PHONY: clone-pub
 clone-pub:
 	@$(call COLOR_AND_EXEC,$(TPUT_RED),git clone $(SITE_GIT) $(SITE_PUB))
-	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages))
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages) )
 
 .PHONY: rsync-pub
 rsync-pub:
-	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages ))
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages) )
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git pull) )
 	@$(call COLOR_AND_EXEC,$(TPUT_RED),rsync -avr --delete --exclude='.git' $(SITE_TMP)/ $(SITE_PUB))
-	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status ))
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
 
 .PHONY: diff-pub
 diff-pub:
