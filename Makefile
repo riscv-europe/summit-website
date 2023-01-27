@@ -116,6 +116,12 @@ rsync-pub:
 diff-pub:
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git diff) )
 
+.PHONY: commit-pub
+commit-pub:
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git add $(shell cd $(SITE_PUB) && find . -type d | grep -v .git)) )
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git commit -m "Produced while source repo. was at $(DESCRIBE_SRC_REPO).") )
+
 
 # Housekeeping
 
