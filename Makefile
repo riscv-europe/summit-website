@@ -20,9 +20,9 @@ SITE_PUB:=$(shell pwd)/site.pub
 SITE_TMP:=$(shell pwd)/site.tmp
 SITE_SRC:=$(shell pwd)/site.src
 
-HAKYLL_DIR=hakyll
-HAKYLL_BIN=hakyll/.stack-work
-HAKYLL_TMP=cache.tmp
+HAKYLL_DIR=$(shell pwd)/hakyll
+HAKYLL_BIN=$(shell pwd)/hakyll/.stack-work
+HAKYLL_TMP=$(shell pwd)/cache.tmp
 
 ## Better use the same branches for source code and published web
 ## pages.
