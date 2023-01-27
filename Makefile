@@ -24,6 +24,10 @@ HAKYLL_DIR=$(shell pwd)/hakyll
 HAKYLL_BIN=$(shell pwd)/hakyll/.stack-work
 HAKYLL_TMP=$(shell pwd)/cache.tmp
 
+## The current status of this repo., i.e. the web site source.
+DESCRIBE_SRC_REPO:=$(shell git describe --long --tags --always --abbrev=8)
+
+
 ## Better use the same branches for source code and published web
 ## pages.
 SOURCE_BRANCH=master
@@ -138,6 +142,7 @@ variables: \
 	_print_ONLINE_BRANCH \
 	_print_CLEAN_LIST \
 	_print_CLOBBER_LIST \
+	_print_DESCRIBE_SRC_REPO \
 
 _print_%:
 	@/bin/echo '$*=$($*)'
