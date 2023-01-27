@@ -122,6 +122,11 @@ commit-pub:
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git commit -m "Produced while source repo. was at $(DESCRIBE_SRC_REPO).") )
 
+.PHONY: push-pub
+push-pub:
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages) )
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git push) )
+
 
 # Housekeeping
 
