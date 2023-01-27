@@ -102,8 +102,8 @@ watch-site: stack-build
 ## Clone properly the Github repo. that carries the whole web site.
 .PHONY: clone-pub
 clone-pub:
-	git clone $(SITE_GIT) $(SITE_PUB)
-	( cd $(SITE_PUB) && git checkout gh-pages )
+	@$(call COLOR_AND_EXEC,$(TPUT_RED),git clone $(SITE_GIT) $(SITE_PUB))
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages))
 
 # Housekeeping
 
