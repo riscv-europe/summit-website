@@ -1,4 +1,4 @@
-# The RISC-V Summit Europe
+## The RISC-V Summit Europe
 
 On 5-9th June, in Barcelona, RISC-V Summit Europe brings together
 developers, architects, technical decision and policy makers from
@@ -35,7 +35,7 @@ computing innovation!
 </tbody>
 </table>
 
-# The Program Committee
+## The Program Committee
 
  - Jan Andersson
  - Holger Blasum
@@ -60,7 +60,7 @@ computing innovation!
  - Jérôme Quévremont
  - Borja Pérez Pavon
 
-# The Steering Committee
+## The Steering Committee
 
  - Narcís Avellana (NVision)
  - Teresa Cervero (BSC)
