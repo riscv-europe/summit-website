@@ -1,4 +1,4 @@
-# Call for Submissions
+## Call for Submissions
 
 RISC-V Summit Europe brings together developers, architects, technical
 decision and policy makers from across the European RISC-V
@@ -35,7 +35,7 @@ We also welcome non-blind submissions related to:
  - Policies, strategies, business and industry trends
  - Publicly funded projects presentations and/or results
 
-## Important dates
+### Important dates
 
  - Abstract submissions hard deadline: Monday, March 13th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
@@ -52,7 +52,7 @@ The Steering Committee aims to provide a limited budget for
 stipends. More information will be made available on the conference
 website before the submission deadline.
 
-## Submission format
+### Submission format
 
 The submissions should be provided as a two page abstract, including
 bibliography.
