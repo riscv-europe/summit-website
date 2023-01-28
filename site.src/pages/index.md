@@ -16,6 +16,25 @@ RISC-V Summit Europe is an opportunity not to be missed, comme to
 Barcelona from 5-9th June 2023 to be part of the new wave of European
 computing innovation!
 
+<table class="week">
+<thead>
+<tr>
+<th>Monday 5th</th>
+<th>Tuesday 6th</th>
+<th>Wednesday 7th</th>
+<th>Thursday 8th</th>
+<th>Friday 9th</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Technical<br>Working<br>Groups<br>Meetings</td>
+<td colspan="3">Keynotes, panels, presentations<br>Posters sessions<br>Industrial &amp; Scientific exhibition</td>
+<td>Workshops</td>
+</tr>
+</tbody>
+</table>
+
 # The Program Committee
 
  - Jan Andersson
