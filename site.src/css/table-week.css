@@ -1,0 +1,20 @@
+.week {
+    margin: 0;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.week th {
+    width: 16%;
+    text-align: center;
+    letter-spacing: 1px;
+    color: var(--riscv-y);
+    background-color: var(--riscv-b);
+}
+.week td {
+    width: 18%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: var(--riscv-b);
+    background-color: var(--riscv-y);
+}
