@@ -4,3 +4,13 @@
     --riscv-y:#f7b217;
     font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
+
+html h2 {
+    color: var(--riscv-b);
+    font-weight: bold;
+}
+
+html h3 {
+    color: var(--riscv-y);
+    font-weight: bold;}
+}
