@@ -99,6 +99,9 @@ watch-site: stack-build
 
 # Public web repo. management.
 
+.PHONY: all-pub
+all-pub: rsync-pub diff-pub commit-pub push-pub
+
 ## Clone properly the Github repo. that carries the whole web site.
 .PHONY: clone-pub
 clone-pub:
