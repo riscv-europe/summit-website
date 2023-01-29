@@ -37,28 +37,31 @@ computing innovation!
 
 ## The Program Committee
 
- - Jan Andersson
- - Holger Blasum
- - Alex Bradbury
- - Ramon Canal
- - Denis Dutoit
- - Angelo Garofalo
- - Benedikt Gierlichs
- - Frederic Heitzmann
- - John Hengeveld
- - Eyck Jentzsch
- - Nick Kossifidis
- - Marie-Minerve Louerat
- - Andreas Mauderer
- - Rihards Novickis
- - Katzalin Olcoz Herrero
- - Olivier Savry
- - Davide Schiavone
- - Georg Sigl
- - Jonathan Woodruff
- - Daniel Müller-Gritschneder
- - Jérôme Quévremont
- - Borja Pérez Pavon
+ - Jan Andersson (Cobham Gaisler)
+ - Holger Blasum (Sysgo)
+ - Alex Bradbury (Igalia)
+ - Ramon Canal (UPC)
+ - Denis Dutoit (CEA)
+ - Angelo Garofalo (ETH Zürich)
+ - Benedikt Gierlichs (KU Leuven)
+ - Frederic Heitzmann (Tiempo Secure)
+ - John Hengeveld (Intel)
+ - Eyck Jentzsch (MINRES)
+ - Nick Kossifidis (FORTH)
+ - Marie-Minerve Louerat (LIP6)
+ - Andreas Mauderer (Bosch)
+ - Daniel Müller-Gritschneder (TUM), PC Co-Chair
+ - Jérôme Quévremont (Thales)
+ - Borja Pérez Pavon (Uni. Can.), Submission Chair
+ - Rihards Novickis (EDI, Latvia)
+ - Katzalin Olcoz Herrero (UCM)
+ - Olivier Savry (CEA)
+ - Davide Schiavone (OpenHW Group)
+ - Georg Sigl (TUM), PC Co-Chair
+ - Jonathan Woodruff (Cambridge Univ.)
+ - Daniel Müller-Gritschneder (TU Münich)
+ - Jérôme Quévremont (Thales R&T)
+ - Borja Pérez Pavon (UniCan)
 
 ## The Steering Committee
 
