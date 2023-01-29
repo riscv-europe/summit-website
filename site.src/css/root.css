@@ -19,3 +19,11 @@ html h3 {
     color: var(--riscv-y);
     font-weight: bold;
 }
+
+html footer {
+    font-size: 62.5%;
+}
+
+html footer hr {
+    color: var(--riscv-y);
+}
