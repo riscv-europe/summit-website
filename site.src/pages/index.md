@@ -52,7 +52,6 @@ computing innovation!
  - Andreas Mauderer (Bosch)
  - Daniel Müller-Gritschneder (TUM), PC Co-Chair
  - Jérôme Quévremont (Thales)
- - Borja Pérez Pavon (Uni. Can.), Submission Chair
  - Rihards Novickis (EDI, Latvia)
  - Katzalin Olcoz Herrero (UCM)
  - Olivier Savry (CEA)
@@ -61,7 +60,7 @@ computing innovation!
  - Jonathan Woodruff (Cambridge Univ.)
  - Daniel Müller-Gritschneder (TU Münich)
  - Jérôme Quévremont (Thales R&T)
- - Borja Pérez Pavon (UniCan)
+ - Borja Pérez Pavon (Univ. de Cantabria), Submission Chair
 
 ## The Steering Committee
 
@@ -73,7 +72,7 @@ computing innovation!
  - Christian Fabre (CEA)
  - Frank K. Gürkaynak (ETH Zürich)
  - Daniel Müller-Gritschneder (TU Münich)
- - Borja Pérez Pavon (UniCan)
+ - Borja Pérez Pavon (Univ. de Cantabria)
  - Jérôme Quévremont (Thales R&T)
  - Olivier Sentieys (INRIA, France)
  - Philipp Tomsich (VRULL)
