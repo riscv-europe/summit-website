@@ -140,7 +140,7 @@ builtPageCtx =  constField "siteroot" (feedRoot feedConfiguration)
 -- - Miikka Koskinen at http://vapaus.org/text/hakyll-configuration.html
 gitTag :: Context String
 gitTag = field "gitinfo" $ \item -> do
-  let fp = toFilePath $ itemIdentifier item
+  let fp = (providerDirectory config) ++ "/" ++ (toFilePath $ itemIdentifier item)
       gitLog format =
         readProcess "git" ["log", "-1", "HEAD", "--pretty=format:" ++ format, "--", fp] ""
   unsafeCompiler $ do
