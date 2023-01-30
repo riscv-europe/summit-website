@@ -11,15 +11,19 @@
 }
 
 .menu li {
-    padding: 5px 15px;
+    list-style: none;
     display: inline;
+}
+
+.menu li a {
+    padding: 12px 15px 10px 15px;
+    font-weight: bold;
+}
+
+.menu li a:link, .menu li a:visited {
     color:var(--riscv-b);
     background:var(--riscv-y);
-}
-.menu li a, .menu li a:link, .menu li a:visited {
-    list-style: none;
-    text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .menu li a:hover, .menu li a:active {
@@ -27,9 +31,3 @@
     background: var(--riscv-b);
     text-decoration: none;
 }
-
-/* .menu li a:hover, .menu li a:link, .menu li a:active, .menu li a:visited { */
-/*     color:var(--riscv-y); */
-/*     background:var(--riscv-b); */
-/*     text-decoration: none; */
-/* } */
