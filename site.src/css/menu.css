@@ -1,6 +1,8 @@
 .menu {
     list-style: none;
     text-align: center;
+    display: block;
+    margin: auto;
 }
 
 .menu ul {
