@@ -23,8 +23,8 @@
 }
 
 .menu li a:hover, .menu li a:active {
-    color:var(--riscv-y);
-    background:var(--riscv-b);
+    color: var(--riscv-y);
+    background: var(--riscv-b);
     text-decoration: none;
 }
 
