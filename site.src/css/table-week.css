@@ -6,6 +6,7 @@
 }
 .week th {
     width: 18%;
+    padding: 2px 0px 0px 0px;
     text-align: center;
     letter-spacing: 1px;
     color: var(--riscv-y);
@@ -13,6 +14,7 @@
 }
 .week td {
     width: 18%;
+    padding: 2px 0px 0px 0px;
     text-align: center;
     letter-spacing: 2px;
     color: var(--riscv-b);
