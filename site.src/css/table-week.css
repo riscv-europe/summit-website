@@ -1,11 +1,11 @@
 .week {
     margin: 0;
-    width: 80%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
 .week th {
-    width: 16%;
+    width: 18%;
     text-align: center;
     letter-spacing: 1px;
     color: var(--riscv-y);
