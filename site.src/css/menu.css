@@ -1,9 +1,13 @@
 .menu {
-    margin: 0;
-    padding: 10px 20px;
     list-style: none;
     text-align: center;
 }
+
+.menu ul {
+    padding: 0px;
+    text-align: center;
+}
+
 .menu li {
     padding: 5px 15px;
     display: inline;
