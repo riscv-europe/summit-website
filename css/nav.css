@@ -1,0 +1,35 @@
+ .menu {
+    list-style: none;
+    text-align: center;
+    display: block;
+    margin: auto;
+    background-color: var(--riscv-b);
+    overflow: hidden;
+}
+
+.menu ul {
+    padding: 0px;
+    text-align: center;
+}
+
+.menu li {
+    list-style: none;
+    display: inline;
+}
+
+.menu li a {
+    padding: 12px 15px 10px 15px;
+    font-weight: bold;
+}
+
+.menu li a:link, .menu li a:visited {
+    color: white;
+    background:var(--riscv-b);
+    text-decoration: none;
+}
+
+.menu li a:hover, .menu li a:active {
+    color: var(--riscv-b);
+    background: white;
+    text-decoration: none;
+}

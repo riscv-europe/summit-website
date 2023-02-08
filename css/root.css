@@ -1,12 +1,16 @@
 :root {
     /* RISC-V basic blue and yellow. */
-    --riscv-b:#273272;
-    --riscv-y:#f7b217;
-    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    --riscv-b:#011e41;
+    --riscv-y:#ffc72c;
+    font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 
-html div {
-    width: 90%;
+body {
+    background-color: #ffffff;
+}
+
+html body {
+    width: 70%;
     margin: auto;
 }
 
