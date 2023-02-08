@@ -3,6 +3,8 @@
     text-align: center;
     display: block;
     margin: auto;
+    background-color: var(--riscv-y);
+    overflow: hidden;
 }
 
 .menu ul {
