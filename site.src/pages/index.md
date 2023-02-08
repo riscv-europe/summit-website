@@ -1,4 +1,4 @@
-## The RISC-V Summit Europe
+<img src="media/banners/banner-start.png" style="width: 100%">
 
 On 5-9th June, in Barcelona, RISC-V Summit Europe brings together
 developers, architects, technical decision and policy makers from

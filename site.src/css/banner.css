@@ -1,6 +1,6 @@
-.banner img {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+.banner {
+    color: #011e41;
+    font-weight: bold;
+    font-size:2.0em;
+    padding: 5px;
 }

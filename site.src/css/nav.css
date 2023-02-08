@@ -1,9 +1,9 @@
-.menu {
+ .menu {
     list-style: none;
     text-align: center;
     display: block;
     margin: auto;
-    background-color: var(--riscv-y);
+    background-color: var(--riscv-b);
     overflow: hidden;
 }
 
@@ -23,13 +23,13 @@
 }
 
 .menu li a:link, .menu li a:visited {
-    color:var(--riscv-b);
-    background:var(--riscv-y);
+    color: white;
+    background:var(--riscv-b);
     text-decoration: none;
 }
 
 .menu li a:hover, .menu li a:active {
-    color: var(--riscv-y);
-    background: var(--riscv-b);
+    color: var(--riscv-b);
+    background: white;
     text-decoration: none;
 }
