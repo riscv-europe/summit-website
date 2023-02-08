@@ -5,6 +5,10 @@
     font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 
+body {
+    background-color: #fffdf8;
+}
+
 html div {
     width: 90%;
     margin: auto;
