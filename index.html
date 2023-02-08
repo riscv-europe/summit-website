@@ -14,6 +14,7 @@
   </head>
   <body>
 
+  <header class="header-desktop">
     <div style="display: flex; align-items: center; padding: 5px">
     <div style="flex: 1">
       <img style="width: 100%" src="media/logos/RISCV-logo.png" alt="RISC-V" />
@@ -25,7 +26,7 @@
       5-9 June Barcelona
     </div>
 </div>
-    <nav class="menu">
+    <nav class="menu menu-desktop">
       <ul>
 	<li><a href="index.html" title="Summit">Summit</a></li>
 	<li><a href="program.html" title="Call for Submissions">Call for Submissions</a></li>
@@ -36,6 +37,29 @@
 	<li><a href="about.html" title="About">About</a></li>
       </ul>
     </nav>
+  </header>
+
+  <header class="header-mobile">
+    <div style="color: white; vertical-align: middle; display: inline">
+    RISC-V Summit Europe
+  </div>
+    <!-- Hamburger icon -->
+    <input class="side-menu" type="checkbox" id="side-menu" />
+    <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+    <!-- Menu -->
+    <nav class="menu menu-mobile">
+      <ul>
+        <li><a href="index.html" title="Summit">Summit</a></li>
+        <li><a href="program.html" title="Call for Submissions">Call for Submissions</a></li>
+        <li><a href="exhibition.html" title="Exhibition">Exhibition</a></li>
+        <li><a href="sponsoring.html" title="Sponsoring">Sponsoring</a></li>
+        <li><a href="registration.html" title="Registration">Registration</a></li>
+        <li><a href="venue.html" title="Venue">Venue</a></li>
+        <li><a href="about.html" title="About">About</a></li>
+      </ul>
+    </nav>
+  </header>
+<article>
     <div>
       <p><img src="media/banners/banner-start.png" style="width: 100%"></p>
 <p>On 5-9th June, in Barcelona, RISC-V Summit Europe brings together developers, architects, technical decision and policy makers from across European RISC-V ecosystem. Attendees from academia, research, SMEs, industry and open source communities will gather to exchange knowledge, ideas, technologies, and research shaping the future of RISC-V computing.</p>
@@ -119,7 +143,9 @@ Workshops
 <li>Stefan Wallentowitz (HM Münich)</li>
 </ul>
     </div>
-    <footer>
+
+  </article>
+      <footer>
       <div>
 	<hr />
 	<span style="float: left;">
@@ -127,7 +153,7 @@ Workshops
 	  and <a href="http://johnmacfarlane.net/pandoc">pandoc</a>.
 	</span>
 	<span style="float: right;">
-	   Page last updated on <a href="https://github.com/open-src-soc/YYYY-MM-src/commits/gh-pages">2023-01-30T13:53:57+01:00</a>. 
+	   Page last updated on <a href="https://github.com/open-src-soc/YYYY-MM-src/commits/gh-pages">2023-02-08T15:35:50+01:00</a>. 
 	</span>
 	<p>&nbsp;</p>
       </div>

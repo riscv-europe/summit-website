@@ -9,9 +9,11 @@ body {
     background-color: #ffffff;
 }
 
-html body {
+@media (min-width: 768px) { 
+html article {
     width: 70%;
     margin: auto;
+}
 }
 
 html h2 {
