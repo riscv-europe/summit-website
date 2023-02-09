@@ -13,8 +13,7 @@ jobs:
           ghc-version: '8.8.4'
           enable-stack: true
           stack-version: 'latest'
-      - run: ls
       - uses: freckle/stack-cache-action@v2
         with:
           stack-yaml: ~/hakyll/stack.yaml
-          working-directory: ~/hakyll/
+          working-directory: hakyll/
