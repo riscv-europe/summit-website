@@ -1,0 +1,19 @@
+name: Build and deploy to github pages
+on: push
+
+jobs:
+  build-deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+      
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-haskell@v1
+        with:
+          ghc-version: '8.8.3'
+          enable-stack: true
+          stack-version: 'latest'
+      - uses: freckle/stack-cache-action@v2
+        with:
+          stack-yaml: 'hakyll/stack.yaml'
+          working-directory: 'hakyll/'
