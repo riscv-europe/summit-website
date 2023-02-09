@@ -9,9 +9,18 @@ body {
     background-color: #ffffff;
 }
 
-html body {
+@media (min-width: 768px) { 
+    html article {
+        width: 90%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 1024px) { 
+html article {
     width: 70%;
     margin: auto;
+}
 }
 
 html h2 {
