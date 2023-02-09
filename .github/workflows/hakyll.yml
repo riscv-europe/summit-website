@@ -14,7 +14,6 @@ jobs:
           enable-stack: true
           stack-version: 'latest'
       - run: ls
-      - run: ls ${{ GITHUB_WORKSPACE }}
       - uses: freckle/stack-cache-action@v2
         with:
           stack-yaml: hakyll/stack.yaml
