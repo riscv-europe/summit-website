@@ -15,5 +15,5 @@ jobs:
           stack-version: 'latest'
       - uses: freckle/stack-cache-action@v2
         with:
-          stack-yaml: ~/hakyll/stack.yaml
-          working-directory: hakyll/
+          stack-yaml: '~/hakyll/stack.yaml'
+          working-directory: 'hakyll/'
