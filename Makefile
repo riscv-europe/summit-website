@@ -3,11 +3,8 @@ sinclude local-config.mak
 
 # CONSTANTS SETTING SECTION
 
-## The current "RISC-V Week" edition is anonymous.
-RISCV_WEEK?=YYYY-MM
-
 ## The public web site repo. URL
-SITE_GIT=git@github.com:open-src-soc/$(RISCV_WEEK).git
+SITE_GIT=git@github.com:riscv-europe/summit-website.git
 
 ## The directories involved in producing the site content: SITE_SRC is
 ## where the web site's source files lives. SITE_PUB is the root of
@@ -29,9 +26,9 @@ DESCRIBE_SRC_REPO:=$(shell git describe --long --tags --always --abbrev=8)
 
 
 ## Better use the same branches for source code and published web
-## pages.
+## pages. Or not?
 SOURCE_BRANCH=master
-ONLINE_BRANCH=master
+ONLINE_BRANCH=gh-pages
 
 ## The files and directories that shall be removed when cleaning the
 ## local repo. Making clobber will include making clean.
@@ -114,6 +111,7 @@ rsync-pub:
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git pull) )
 	@$(call COLOR_AND_EXEC,$(TPUT_RED),rsync -avr --delete --exclude='.git' $(SITE_TMP)/ $(SITE_PUB))
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
+	@( cp CNAME $(SITE_PUB) )
 
 .PHONY: diff-pub
 diff-pub:

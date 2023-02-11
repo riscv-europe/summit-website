@@ -10,13 +10,23 @@
     <link rel="stylesheet" href="css/root.css">
     <link rel="stylesheet" href="css/table-week.css">
     <link rel="stylesheet" href="css/banner.css">
-    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/nav.css">
   </head>
   <body>
-    <div class="banner">
-      <img src="media/banners/RISC-V-Summit-Barcelona-banner-01.jpg" alt="RISC-V Summit in Barcelona"/>
+
+  <header class="header-desktop">
+    <div style="display: flex; align-items: center; padding: 5px">
+    <div style="flex: 1">
+      <img style="width: 100%" src="media/logos/RISCV-logo.png" alt="RISC-V"/>
     </div>
-    <div class="menu">
+    <div class="banner" style="flex: 1; text-align: center;">
+      RISC-V Summit Europe
+    </div>
+    <div class="banner" style="flex: 1; text-align: right;">
+      5-9 June Barcelona
+    </div>
+</div>
+    <nav class="menu menu-desktop">
       <ul>
 	<li><a href="index.html" title="Summit">Summit</a></li>
 	<li><a href="program.html" title="Call for Submissions">Call for Submissions</a></li>
@@ -26,11 +36,36 @@
 	<li><a href="venue.html" title="Venue">Venue</a></li>
 	<li><a href="about.html" title="About">About</a></li>
       </ul>
-    </div>
+    </nav>
+  </header>
+
+  <header class="header-mobile">
+    <div style="font-weight: bold; color: white; float: left;">
+        <img src="media/logos/RISCV-logo-mobile.png" style="vertical-align: middle; height: 50px"/>
+        <span style="vertical-align: middle;">Summit Europe 2023, 5-9 June, Barcelona</span>
+      </div>
+        <input class="side-menu" type="checkbox" id="side-menu"/>
+        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        <nav class="menu menu-mobile">
+          <ul>
+            <li><a href="index.html" title="Summit">Summit</a></li>
+            <li><a href="program.html" title="Call for Submissions">Call for Submissions</a></li>
+            <li><a href="exhibition.html" title="Exhibition">Exhibition</a></li>
+            <li><a href="sponsoring.html" title="Sponsoring">Sponsoring</a></li>
+            <li><a href="registration.html" title="Registration">Registration</a></li>
+            <li><a href="venue.html" title="Venue">Venue</a></li>
+            <li><a href="about.html" title="About">About</a></li>
+          </ul>
+        </nav>
+
+  </header>
+<article>
     <div>
       $body$
     </div>
-    <footer>
+
+  </article>
+      <footer>
       <div>
 	<hr/>
 	<span style="float: left;">
