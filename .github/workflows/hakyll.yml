@@ -17,6 +17,7 @@ jobs:
           key: "hakyll-stack-work"
           path: |
             hakyll/.stack-work
+            ~/.stack
       - run: ls hakyll/ -al
       - uses: freckle/stack-action@v3
         with:
