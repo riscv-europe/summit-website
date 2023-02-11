@@ -10,12 +10,12 @@ jobs:
       - uses: actions/checkout@master
       - uses: actions/setup-haskell@v1
         with:
-          ghc-version: '8.8.4'
           enable-stack: true
-          stack-version: 'latest'
-      - uses: freckle/stack-cache-action@v2
+      - name: Cache hakyll build
+        uses: actions/cache@v3
         with:
-          working-directory: hakyll/
+          path: |
+            hakyll/.stack-work
       - run: ls hakyll/ -al
       - uses: freckle/stack-action@v3
         with:
