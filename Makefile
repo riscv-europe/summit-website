@@ -111,7 +111,6 @@ rsync-pub:
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git pull) )
 	@$(call COLOR_AND_EXEC,$(TPUT_RED),rsync -avr --delete --exclude='.git' $(SITE_TMP)/ $(SITE_PUB))
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
-	@( cp CNAME $(SITE_PUB) )
 
 .PHONY: diff-pub
 diff-pub:
