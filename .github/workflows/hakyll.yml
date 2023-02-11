@@ -1,0 +1,29 @@
+name: Build and deploy to github pages
+on: push
+
+jobs:
+  build-deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+      
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-haskell@v1
+        with:
+          enable-stack: true
+      - name: Cache hakyll build
+        uses: actions/cache@v3
+        with:
+          key: "hakyll-stack-work"
+          path: |
+            hakyll/.stack-work
+            ~/.stack
+      - uses: freckle/stack-action@v3
+        with:
+          working-directory: hakyll/
+      - name: Rebuild website
+        run: stack exec site -- rebuild
+        working-directory: hakyll/
+
+
+        
