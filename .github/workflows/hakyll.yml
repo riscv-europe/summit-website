@@ -16,6 +16,7 @@ jobs:
       - uses: freckle/stack-cache-action@v2
         with:
           working-directory: hakyll/
+      - run: ls hakyll/
       - uses: freckle/stack-action@v3
         with:
           working-directory: hakyll/
