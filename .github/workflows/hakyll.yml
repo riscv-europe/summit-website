@@ -19,5 +19,9 @@ jobs:
       - uses: freckle/stack-action@v3
         with:
           working-directory: hakyll/
-          stack-arguments: exec site -- rebuild
+      - name: Rebuild website
+        run: stack exec site -- rebuild
+        working-directory: hakyll/
+      - run: ls site.tmp/
+
         
