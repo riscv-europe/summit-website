@@ -59,6 +59,7 @@ BRANCHES+=gh-pages
 
 # SHELL OUTPUT COLORING HACKERY.
 
+ifeq ($(origin CI),undefined)
 ## Color commands
 TPUT_RED:=$(shell tput setaf 1)
 TPUT_GRN:=$(shell tput setaf 2)
@@ -66,7 +67,14 @@ TPUT_NRM:=$(shell tput sgr0)
 
 ## Echo $(2) in color $(1), and execute $(2).
 COLOR_AND_EXEC=echo "$(1)$(2)$(TPUT_NRM)" ; $2 ;
+else
+TPUT_RED:=
+TPUT_GRN:=
+TPUT_NRM:=
 
+## Echo $(2) in color $(1), and execute $(2).
+COLOR_AND_EXEC=$2 ;
+endif
 
 # HAKYLL WIZARDRY SECTION
 
