@@ -47,17 +47,15 @@ RISC-V Summit Europe is an opportunity not to be missed. Come to Barcelona from
  - Nick Kossifidis (FORTH)
  - Marie-Minerve Louerat (LIP6)
  - Andreas Mauderer (Bosch)
- - Daniel Müller-Gritschneder (TUM), PC Co-Chair
+ - Daniel Müller-Gritschneder (TU Munich), PC Co-Chair
  - Jérôme Quévremont (Thales)
  - Rihards Novickis (EDI, Latvia)
  - Katzalin Olcoz Herrero (UCM)
+ - Borja Pérez Pavon (Univ. de Cantabria), Submission Chair
  - Olivier Savry (CEA)
  - Davide Schiavone (OpenHW Group)
  - Georg Sigl (TUM), PC Co-Chair
  - Jonathan Woodruff (Cambridge Univ.)
- - Daniel Müller-Gritschneder (TU Münich)
- - Jérôme Quévremont (Thales R&T)
- - Borja Pérez Pavon (Univ. de Cantabria), Submission Chair
 
 ## The Steering Committee
 
@@ -68,9 +66,13 @@ RISC-V Summit Europe is an opportunity not to be missed. Come to Barcelona from
  - Roger Espasa (Semidynamics)
  - Christian Fabre (CEA)
  - Frank K. Gürkaynak (ETH Zürich)
- - Daniel Müller-Gritschneder (TU Münich)
+ - Daniel Müller-Gritschneder (TU Munich)
  - Borja Pérez Pavon (Univ. de Cantabria)
  - Jérôme Quévremont (Thales R&T)
  - Olivier Sentieys (INRIA, France)
  - Philipp Tomsich (VRULL)
- - Stefan Wallentowitz (HM Münich)
+ - Stefan Wallentowitz (Munich Univ. of Applied Sciences)
+
+ ## Local Organization
+
+ The event is organized by RISC-V International, BSC and BCO.
