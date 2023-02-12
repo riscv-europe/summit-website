@@ -73,6 +73,6 @@ RISC-V Summit Europe is an opportunity not to be missed. Come to Barcelona from
  - Philipp Tomsich (VRULL)
  - Stefan Wallentowitz (Munich Univ. of Applied Sciences)
 
- ## Local Organization
+## Local Organization
 
- The event is organized by RISC-V International, BSC and BCO.
+The event is organized by RISC-V International, BSC and BCO.
