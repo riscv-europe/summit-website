@@ -27,11 +27,16 @@ jobs:
       - name: Rebuild website
         run: stack exec site -- rebuild
         working-directory: hakyll/
+      - name: Clone Github pages
+        uses: actions/checkout@master
+        with:
+          ref: gh-pages
+          path: site.pub
       - name: Publish site
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "username@users.noreply.github.com"
-          make clone-pub all-pub
+          make all-pub
 
 
         
