@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "username@users.noreply.github.com"
-          make all-pub
+          make clone-pub all-pub
 
 
         
