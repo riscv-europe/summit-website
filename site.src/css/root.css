@@ -39,8 +39,8 @@ html footer {
 
 html footer hr {
     /* color or backgroud-color depending on the browser. */
-    color: var(--riscv-y);
-    background-color: var(--riscv-y);
+    color: var(--riscv-b);
+    background-color: var(--riscv-b);
     height: 2px;
     border: none;
 }
