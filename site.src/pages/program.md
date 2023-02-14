@@ -35,7 +35,7 @@ We also welcome non-blind submissions related to:
  - Policies, strategies, business and industry trends
  - Publicly funded projects presentations and/or results
 
-### Important dates
+<h3 style="color: #cb007b" id="important-dates">Important dates</h3>
 
  - Abstract submissions hard deadline: Monday, March 13th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
@@ -52,19 +52,19 @@ The Steering Committee aims to provide a limited budget for
 stipends. More information will be made available on the conference
 website before the submission deadline.
 
-### Submission format
+<h3 style="color: #60269e" id="submission-format">Submission format</h3>
 
 The submissions should be provided as a two page abstract, including
 bibliography.
 
 Abstract template and instructions for submission will be made
-available on the Summit website at: <https://open-src-soc.org>.  The
+available on the Summit website at: <https://riscv-europe.org>.  The
 Program Committee (PC) will accept most contributions as posters and
 selected submissions for short or long presentations.  Accepted
 abstracts, slides, and posters will be published on the event page,
 together with presentations which will be recorded.
 
-### Guidelines for submission of technical topics for blind review
+<h3 style="color: #0a6b7c" id="guidelines-for-submission-of-technical-topics-for-blind-review">Guidelines for submission of technical topics for blind review</h3>
 
 Submissions on technical topics are for blind review. Please do not
 include author information in the abstract. Submissions must have a
@@ -78,7 +78,7 @@ strong focus on technical content outlining for example:
 The PC may ask for the poster/presentation three weeks before the
 event to confirm the acceptance.
 
-### Guidelines for non-blind topic submissions
+<h3  id="guidelines-for-non-blind-topic-submissions">Guidelines for non-blind topic submissions</h3>
 
 These papers should highlight RISC-V markets, policies, strategies,
 business and industry trends, or present publicly funded projects of
