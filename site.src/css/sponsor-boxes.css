@@ -1,0 +1,66 @@
+.sponsor-box {
+    width: 90%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sponsor-box-heading {
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+    font-weight: 800;   
+}
+
+.diamond-box-heading {
+    background-color: #cb077b;
+    border: 2px #cb077b solid;
+}
+
+.diamond-box {
+    border: 2px #cb077b solid;    
+}
+
+.gold-box-heading {
+    background-color: #60269e;
+    border: 2px #60269e solid;
+}
+.gold-box {
+    border: 2px #60269e solid;    
+}
+
+.silver-box-heading {
+    background-color: #0a6b7c;
+    border: 2px #0a6b7c solid;
+}
+
+.silver-box {
+    border: 2px #0a6b7c solid;    
+}
+
+.other-box-heading {
+    background-color: #ffc72c;
+    border: 2px #ffc72c solid;
+}
+
+.other-box {
+    border: 2px #ffc72c solid;    
+}
+
+.sponsor-button {
+    background-color: var(--riscv-y);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sponsor-button:hover {
+    background-color: var(--riscv-b);
+}
