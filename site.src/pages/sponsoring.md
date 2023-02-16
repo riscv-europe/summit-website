@@ -89,5 +89,5 @@ Sponsorships will be taken on a first-come, first-served basis. Priority is base
 Sponsorship registrations open soon, please contact Tiffany Sparks for more details by clicking the button below
 
 <div style="text-align: center">
-<button class="sponsor-button" onclick="location.href='mailto:tiffany@riscv.org';">Secure your sponsorship!</button>
+<button class="sponsor-button" onclick="location.href='mailto:tiffany@riscv.org';">Find out more</button>
 </div>
