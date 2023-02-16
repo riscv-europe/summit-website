@@ -1,4 +1,6 @@
-The RISC-V Summit Europe will be a unique opportunity to reach the key players and contributors to the European ecosystem of open hardware and RISC-V.
+The RISC-V Summit Europe will be a unique opportunity for members of the ecosystem to engage with the broader community. Becoming a sponsor will enable your organisation to connect with attendees from industry, government, research and academia, developing applications across a range of markets. 
+
+There are three levels of sponsorship package, with benefits that include speaking opportunities, promotional opportunities, exhibition space and conference passes. A la carte opportunities are also available
 
 <div class="sponsor-box">
 <div class="sponsor-box-heading diamond-box-heading">
@@ -84,6 +86,8 @@ The RISC-V Summit Europe will be a unique opportunity to reach the key players a
 
 Sponsorships will be taken on a first-come, first-served basis. Priority is based on when signed sponsor contract is received by sponsor manager at RISC-V International.
 
+Sponsorship registrations open soon, please contact Tiffany Sparks for more details by clicking the button below
+
 <div style="text-align: center">
-<button class="sponsor-button" onclick="location.href='mailto:andy@riscv.org';">Secure your sponsorship!</button>
+<button class="sponsor-button" onclick="location.href='mailto:tiffany@riscv.org';">Secure your sponsorship!</button>
 </div>

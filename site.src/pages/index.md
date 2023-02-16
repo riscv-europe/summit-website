@@ -1,10 +1,8 @@
 <img src="media/banners/banner-start.png" style="width: 100%">
 
-On 5-9th June, in Barcelona, RISC-V Summit Europe brings together developers,
-architects, technical decision makers, and policy makers from across the
-European RISC-V ecosystem. Attendees from academia, research, SMEs, industry,
-and open-source communities will gather to exchange knowledge, ideas,
-technologies, and research shaping the future of the RISC-V computing.
+The RISC-V Summit Europe will be the premier event that connects the European movers and shakers - from industry, government, research, academia and ecosystem support - that are building the future of innovation on RISC-V.
+
+RISC-V, the open standard instruction set architecture (ISA), is enabling a range of new applications and research that will define the future of computing in Europe. The region has been central to RISC-V’s success, with one-third of RISC-V’s global community based in Europe.
 
 <table class="week">
 <thead>
@@ -25,9 +23,7 @@ technologies, and research shaping the future of the RISC-V computing.
 </tbody>
 </table>
 
-The event will include a single track of keynotes, invited and selected talks,
-alongside an exhibition showcasing the latest developments across industry and
-research, including technology demonstrations and poster sessions.
+The event comprises a single track of keynotes, invited and selected talks, alongside an exhibition showcasing the latest developments across industry and research. The exhibition features stands from member companies, a demo theatre for further talks, and poster sessions. Special focus will paid to critical European markets such as automotive, high performance compute and data center, aerospace, embedded, AI/ML, security and more.
 
 <div style="display: flex">
   <div  style="flex: 33%; padding: 5px"><img src="media/img/Event5.jpg" width="100%"></div>
