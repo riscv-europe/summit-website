@@ -4,24 +4,14 @@ The RISC-V Summit Europe will be the premier event that connects the European mo
 
 RISC-V, the open standard instruction set architecture (ISA), is enabling a range of new applications and research that will define the future of computing in Europe. The region has been central to RISC-V’s success, with one-third of RISC-V’s global community based in Europe.
 
-<table class="week">
-<thead>
-<tr>
-<th>Monday 5th</th>
-<th>Tuesday 6th</th>
-<th>Wednesday 7th</th>
-<th>Thursday 8th</th>
-<th>Friday 9th</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Technical<br>Working<br>Groups<br>Meetings</td>
-<td colspan="3">Keynotes, panels, presentations<br>Posters sessions<br>Industrial &amp; Scientific exhibition</td>
-<td>Workshops</td>
-</tr>
-</tbody>
-</table>
+<div class="week">
+  <div class="weekday weekday-header">Monday 5th</div>
+  <div class="weekday weekday-content">Technical Working Groups Meetings</div>
+  <div class="weekday weekday-header">Tuesday 6th - Thursday 8th</div>
+  <div class="weekday weekday-content">Keynotes, panels, presentations<br>Posters sessions<br>Industrial &amp; Scientific exhibition</div>
+  <div class="weekday weekday-header">Friday 9th</div>
+  <div class="weekday weekday-content">Workshops</div>
+</div>
 
 The event comprises a single track of keynotes, invited and selected talks, alongside an exhibition showcasing the latest developments across industry and research. The exhibition features stands from member companies, a demo theatre for further talks, and poster sessions. Special focus will paid to critical European markets such as automotive, high performance compute and data center, aerospace, embedded, AI/ML, security and more.
 

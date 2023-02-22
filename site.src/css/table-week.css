@@ -1,22 +1,47 @@
 .week {
     margin: 0;
     width: 90%;
+    
     margin-left: auto;
     margin-right: auto;
+
+    display: flex;
+    flex-wrap: wrap;
 }
-.week th {
-    width: 18%;
-    padding: 2px 0px 0px 0px;
+
+
+.weekday {
+    border: 2px var(--riscv-b) solid;
+    padding: 2px;
     text-align: center;
-    letter-spacing: 1px;
-    color: var(--riscv-y);
+    overflow: hidden;
+    flex-grow: 1;
+    width: 30%;
+}
+
+
+.weekday-header {
     background-color: var(--riscv-b);
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 700;
+    order: 1;
+    margin: -2px 0 0 -2px;
 }
-.week td {
-    width: 18%;
-    padding: 2px 0px 0px 0px;
-    text-align: center;
-    letter-spacing: 2px;
-    color: var(--riscv-b);
-    background-color: var(--riscv-y);
+
+.weekday-content {
+    order: 2;
+    margin: -2px 0 0 -2px;
+}
+
+@media all and (max-width: 600px) {
+  .week  {
+     display: block;
+  }
+  .weekday {
+    width: 100% !important;
+  }
+  .weekday-content {
+    margin-bottom: 5px;
+  }
 }
