@@ -12,7 +12,7 @@ events, joined by [RISC-V International](https://riscv.org):
 <h2 style="color: #cb007b" id="the-program-committee">The Program Committee</h2>
 
 <ul>
-    <li>Jan Andersson (Cobham Gaisler)</li>
+    <li>Jan Andersson (Frontgrade Gaisler)</li>
     <li>Holger Blasum (Sysgo)</li>
     <li>Alex Bradbury (Igalia)</li>
     <li>Ramon Canal (UPC)</li>
@@ -49,7 +49,7 @@ events, joined by [RISC-V International](https://riscv.org):
     <li>Jérôme Quévremont (Thales R&amp;T)</li>
     <li>Olivier Sentieys (INRIA, France)</li>
     <li>Philipp Tomsich (VRULL)</li>
-    <li>Stefan Wallentowitz (Munich Univ. of Applied Sciences)</li>
+    <li>Stefan Wallentowitz (Hochschule München Univ. of Applied Sciences)</li>
 </ul>
 <h2 style="color: #0a6b7c" id="local-organization">Local Organization</h2>
 <p>The event is organized by RISC-V International, BSC and BCO.</p>
