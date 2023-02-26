@@ -53,6 +53,7 @@ events, joined by [RISC-V International](https://riscv.org):
 </ul>
 <h2 style="color: #ffc72c" id="the-core-team">The Core Team</h2>
 <ul>
+    <li>Paula Bernad (BCO)</li>
     <li>Teresa Cervero (BSC), Local Chair</li>
     <li>Romain Dolbeau (SiPearl)</li>
     <li>Christian Fabre (CEA), Co-General Chair</li>
@@ -62,6 +63,7 @@ events, joined by [RISC-V International](https://riscv.org):
     <li>Borja Pérez Pavon (Univ. de Cantabria), Submission Chair</li>
     <li>Jérôme Quévremont (Thales R&amp;T)</li>
     <li>Calista Redmond (RISC-V International), Co-General Chair</li>
+    <li>Mirtcho Savov (BCO)</li>
     <li>Olivier Sentieys (INRIA)</li>
     <li>Tiffany Sparks (RISC-V International)</li>
     <li>Philipp Tomsich (VRULL)</li>
