@@ -124,17 +124,18 @@ rsync-pub:
 diff-pub:
 	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git diff) )
 
-#.PHONY: commit-pub
-#commit-pub:
-#	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git add $(shell cd $(SITE_PUB) && find . -type d | grep -v .git)) )
-#	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
-#	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git commit -m "Produced while source repo. was at $(DESCRIBE_SRC_REPO).") )
+ifneq ($(origin CI),undefined)
+.PHONY: commit-pub
+commit-pub:
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git add $(shell cd $(SITE_PUB) && find . -type d | grep -v .git)) )
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git status) )
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git commit -m "Produced while source repo. was at $(DESCRIBE_SRC_REPO).") )
 
-#.PHONY: push-pub
-#push-pub:
-#	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages) )
-#	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git push) )
-
+.PHONY: push-pub
+push-pub:
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git checkout gh-pages) )
+	@( cd $(SITE_PUB) && $(call COLOR_AND_EXEC,$(TPUT_RED),git push) )
+endif
 
 # Housekeeping
 
