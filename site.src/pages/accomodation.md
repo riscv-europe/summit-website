@@ -6,7 +6,7 @@
 
 ### Hotel Barceló Sants
 
-The Barceló Sants**** is the headquarters hotel for the *RISC-V Summit
+The **Barceló Sants****** is the headquarters hotel for the *RISC-V Summit
 2023 meeting*. It is the most comfortable option since no travel is
 required for the event. Moreover, you will enjoy a stay in a 4 stars
 hotel within the Sants neighborhood. And you will enjoy a *splendid
