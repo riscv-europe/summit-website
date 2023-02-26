@@ -1,12 +1,16 @@
 <img src="media/img/BarcelonaSants.jpeg" width=100%>
 
-<h3 style="color: #011e41">Barceló Sants</h3>
+(For accomodation rates and booking, go to the [accomodation page](accomodation.html).)
 
-Plaça dels Països Catalans, s/n - 08014 Barcelona - <a href="https://www.barcelo.com/en-gb/barcelo-sants/">Website</a>
+## Barceló Sants
 
-# Hotel Barceló Sants
+Location: Plaça dels Països Catalans, s/n - 08014 Barcelona.
 
-The Barceló Sants**** is the headquarters hotel for the *RISC-V Summit
+Directions with [Google Maps](https://goo.gl/maps/DNoDT74zsk8p8YRu6), with [Apple Maps](https://maps.apple.com/?address=Plaza%20Paisos%20Catalans,%2008014%20Barcelone,%20Barcelona,%20Espagne&auid=13206806577721018865&ll=41.380017,2.141846&lsp=9902&q=Pla%C3%A7a%20dels%20Pa%C3%AFsos%20Catalans), or with [OpenStreetMap](https://osm.org/go/xUbRZqKgJ).
+
+### Hotel Barceló Sants
+
+The **Barceló Sants****** is the headquarters hotel for the *RISC-V Summit
 2023 meeting*. It is the most comfortable option since no travel is
 required for the event. Moreover, you will enjoy a stay in a 4 stars
 hotel within the Sants neighborhood. And you will enjoy a *splendid
@@ -26,7 +30,7 @@ atmosphere, Barceló Sants stands head and shoulders above the
 rest. Fasten your seatbelts and get ready to enjoy a one-of-a-kind
 stay at Barceló Sants.
 
-## Sants Railway Station, the heart of the Sants-Montjuïc district
+### Sants Railway Station, the heart of the Sants-Montjuïc district
 
 Overlooked by the busy Sants Railway Station, one of the largest
 connection and transport hubs in Barcelona, Sants is an urban district
@@ -49,8 +53,7 @@ Why booking on the hotel venue?
  - Excellent facilities and services: an unbeatable environment,
    modernity and spacious rooms to work in
 
-
-# Hotel information
+### Hotel information
 
 Check-in time: 14:00h -- Check-out time: 12:00h
 
@@ -68,7 +71,7 @@ Most popular facilities from Booking.com:
  - Tea/coffee maker in all rooms
  - Very good breakfast
 
-# What's Nearby? Top attractions close to Hotel Barceló Sants
+### What's Nearby? Top attractions close to Hotel Barceló Sants
 
  - [Parc de l'Espanya Industrial](https://www.barcelonaturisme.com/wv3/en/page/3883/parc-de-l-espanya-industrial.html)
  - [Las Arenas Shopping mall](https://www.arenasdebarcelona.com/EN)
