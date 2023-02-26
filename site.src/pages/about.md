@@ -51,6 +51,22 @@ events, joined by [RISC-V International](https://riscv.org):
     <li>Philipp Tomsich (VRULL)</li>
     <li>Stefan Wallentowitz (Hochschule München Univ. of Applied Sciences)</li>
 </ul>
+<h2 style="color: #ffc72c" id="the-core-team">The Core Team</h2>
+<ul>
+    <li>Teresa Cervero (BSC)</li>
+    <li>Romain Dolbeau (SiPearl)</li>
+    <li>Christian Fabre (CEA)</li>
+    <li>Frank K. Gürkaynak (ETH Zürich)</li>
+    <li>Andy Moore (RISC-V International)</li>
+    <li>Daniel Müller-Gritschneder (TU Munich)</li>
+    <li>Borja Pérez Pavon (Univ. de Cantabria)</li>
+    <li>Jérôme Quévremont (Thales R&amp;T)</li>
+    <li>Calista Redmond (RISC-V International)</li>
+    <li>Olivier Sentieys (INRIA)</li>
+    <li>Tiffany Sparks (RISC-V International)</li>
+    <li>Philipp Tomsich (VRULL)</li>
+    <li>Stefan Wallentowitz (Hochschule München Univ. of Applied Sciences)</li>
+</ul>
 <h2 style="color: #0a6b7c" id="local-organization">Local Organization</h2>
 <p>The event is organized by RISC-V International, BSC and BCO.</p>
 </div>
