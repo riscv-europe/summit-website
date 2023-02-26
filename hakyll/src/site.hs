@@ -30,6 +30,7 @@ main = do
             .||. "js/*"
             .||. "media/banners/*"
             .||. "media/slides/*"
+            .||. "media/template/*"
             .||. "media/img/*"
             .||. "media/posters/*"
             .||. "media/logos/*"
