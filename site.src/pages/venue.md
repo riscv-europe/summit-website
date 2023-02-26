@@ -26,19 +26,6 @@ atmosphere, Barceló Sants stands head and shoulders above the
 rest. Fasten your seatbelts and get ready to enjoy a one-of-a-kind
 stay at Barceló Sants.
 
-## Special Accomodation at the Barceló Sants for the RISC-V Summit Europe
-
-Take advantage of the preferential rates!
-
- - Single Room:	175,00 €
- - Double Room:	195,00 €
- - Twin Room: 195,00 €
-
-Rates include the buffet breakfast and 10% VAT. Rates don’t include the [tourist tax](https://ajuntament.barcelona.cat/hisenda/en/procedures-payments/tourist-establishments-tax) (4,90 € per person.night).
-
-The accomodation form for the Summit is accessible online at
-[`https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register`](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)
-
 ## Sants Railway Station, the heart of the Sants-Montjuïc district
 
 Overlooked by the busy Sants Railway Station, one of the largest
