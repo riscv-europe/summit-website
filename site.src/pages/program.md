@@ -57,8 +57,8 @@ website before the submission deadline.
 The submissions should be provided as a two page abstract, including
 bibliography.
 
-Abstract template and instructions for submission will be made
-available on the Summit website at: <https://riscv-europe.org>.  The
+Abstract template and instructions for submission are available at <https://github.com/riscv-europe/riscv-europe-summit-templates>.
+The
 Program Committee (PC) will accept most contributions as posters and
 selected submissions for short or long presentations.  Accepted
 abstracts, slides, and posters will be published on the event page,
