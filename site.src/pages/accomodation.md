@@ -2,7 +2,7 @@
 
 ## Accomodation at the Barceló Sants
 
-**Quick link**: the booking form for accomodation at the Summit is now [accessible online](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)!
+**Quick link**: [accomodation booking for the Summit is now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)!
 
 ### Hotel Barceló Sants
 
@@ -36,7 +36,7 @@ Take advantage of the preferential rates!
 
 Rates include the buffet breakfast and 10% VAT. Rates don’t include the [tourist tax](https://ajuntament.barcelona.cat/hisenda/en/procedures-payments/tourist-establishments-tax) (4,90 € per person.night).
 
-The booking form for accomodation at the Summit is [accessible online](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register).
+Accomodation booking for the Summit is [now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register).
 
 ### Hotel information
 
