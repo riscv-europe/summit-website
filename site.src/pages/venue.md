@@ -6,7 +6,7 @@
 
 Location: Plaça dels Països Catalans, s/n - 08014 Barcelona.
 
-Directions with [Google Maps](https://goo.gl/maps/DNoDT74zsk8p8YRu6), with [Apple Maps](https://maps.apple.com/?address=Plaza%20Paisos%20Catalans,%2008014%20Barcelone,%20Barcelona,%20Espagne&auid=13206806577721018865&ll=41.380017,2.141846&lsp=9902&q=Pla%C3%A7a%20dels%20Pa%C3%AFsos%20Catalans), or with [OpenStreetMap](https://osm.org/go/xUbRZqKgJ).
+Directions with [Google Maps](https://goo.gl/maps/DNoDT74zsk8p8YRu6), [Apple Maps](https://maps.apple.com/?address=Plaza%20Paisos%20Catalans,%2008014%20Barcelone,%20Barcelona,%20Espagne&auid=13206806577721018865&ll=41.380017,2.141846&lsp=9902&q=Pla%C3%A7a%20dels%20Pa%C3%AFsos%20Catalans), or with [OpenStreetMap](https://osm.org/go/xUbRZqKgJ).
 
 ### Hotel Barceló Sants
 
