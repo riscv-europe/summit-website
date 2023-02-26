@@ -42,7 +42,7 @@ nearby.
 *Discover 5 reasons why the hotel Barceló Sants is your best
  accommodation option for the RISC-V 2023 meeting.*
 
-Why booking on the hotel venue?
+Why [booking on the hotel venue](accomodation.html)?
 
  - Best location: No need to travel to the venue. Save time and money
    on transfers!
