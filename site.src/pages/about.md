@@ -47,7 +47,7 @@ events, joined by [RISC-V International](https://riscv.org):
     <li>Daniel Müller-Gritschneder (TU Munich)</li>
     <li>Borja Pérez Pavon (Univ. de Cantabria)</li>
     <li>Jérôme Quévremont (Thales R&amp;T)</li>
-    <li>Olivier Sentieys (INRIA, France)</li>
+    <li>Olivier Sentieys (INRIA)</li>
     <li>Philipp Tomsich (VRULL)</li>
     <li>Stefan Wallentowitz (Hochschule München Univ. of Applied Sciences)</li>
 </ul>
