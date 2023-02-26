@@ -86,7 +86,9 @@ There are three levels of sponsorship package, with benefits that include speaki
 
 Sponsorships will be taken on a first-come, first-served basis. Priority is based on when signed sponsor contract is received by sponsor manager at RISC-V International.
 
-Sponsorship registrations open soon, please contact Tiffany Sparks for more details by clicking the button below
+**Sponsorships will open at 3PM CET on 27th February.**
+
+Please contact Tiffany Sparks for more details by clicking the button below
 
 <div style="text-align: center">
 <button class="sponsor-button" onclick="location.href='mailto:tiffany@riscv.org';">Find out more</button>
