@@ -73,3 +73,14 @@ events, joined by [RISC-V International](https://riscv.org):
 <h2 style="color: #0a6b7c" id="local-organization">Local Organization</h2>
 <p>The event is organized by RISC-V International, BSC and BCO.</p>
 </div>
+<div class="organizers">
+  <figure class="organizers__item organizers__item--1">
+    <a href="https://riscv.org"><img src="media/logos/RISCV-logo.png" alt="RISC-V logo" class="organizers__img"/></a>
+  </figure>
+  <figure class="organizers__item organizers__item--2">
+    <a href="https://www.bsc.es"><img src="media/logos/BSC.png" alt="BSC logo" class="organizers__img"/></a>
+  </figure>
+  <figure class="organizers__item organizers__item--3">
+    <a href="https://www.bcocongresos.com"><img src="media/logos/BCO.png" alt="BCO Congreso logo" class="organizers__img"/></a>
+  </figure>
+</div>
