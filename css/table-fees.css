@@ -1,0 +1,32 @@
+table.fees {
+  width: 80%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  color: #000000;
+  text-align:center;
+  margin-left:15%; 
+  margin-right:15%;
+}
+
+table.fees td {
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  padding: 3px;
+  text-align:center;
+}
+
+table.fees th {
+  border-width: 2px;
+  border-color: #ffffff;
+  border-style: solid;
+  padding: 3px;
+  text-align:center;
+}
+
+table.fees thead {
+  background-color: #ffcc00;
+}
