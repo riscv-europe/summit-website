@@ -23,17 +23,16 @@ The RISC-V Summit Europe has three tiers of registration fees:
 
 The RISC-V Summit Europe has three mains periods:
 
- - **Monday June 5th, afternoon**. Technical Working Group (TWG)
-   Meetings. Attending the meetings requires to be a member of the TWG
-   organizing body.
- - **Tuesday 6th to Thursday 8th**. This is the core of the Summit,
-   with keynotes, presentations, panel, industrial exhibition, demos,
-   posters, etc.
- - **Friday 9th** is for side events related to RISC-V and open source
-   technologies: open workshops, consortium meetings, etc.
+ - **Technical Working Group (TWG) Meetings** from Monday June 5th,
+   afternoon. Attending the meetings requires to be a member of the
+   TWG organizing body.
+ - **Core summit** from Tuesday 6th to Thursday 8th: with keynotes,
+   presentations, panel, industrial exhibition, demos, posters, etc.
+ - **Side events** on Friday 9th, for events related to RISC-V and
+   open source technologies: open workshops, consortium meetings, etc.
 
 The Monday TWG meetings are free of charge. The fees for remaining of
-the week are presented in the table below. Fees are ex-VAT 21%.
+the week are presented in the table below. **Fees are ex-VAT 21%**.
 
 <table class="fees">
   <thead>
