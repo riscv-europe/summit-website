@@ -65,13 +65,12 @@ There are three levels of sponsorship package, with benefits that include speaki
 
 <div class="sponsor-box">
 <div class="sponsor-box-heading other-box-heading">
-  Other options - TBD 
+  Other options
 </div>
 <div class="other-box">
   <ul>
     <li>Lanyards Sponsorship (1) – 3000 Euros</li>
     <li>Tuesday Community Reception Sponsorship (2) – 5000 Euros each</li>
-    <li>Wednesday Social Event Sponsor (TBD)</li>
   </ul>
 
   <ul>
