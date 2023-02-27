@@ -83,7 +83,8 @@ There are three levels of sponsorship package, with benefits that include speaki
 </div>
 </div>
 
-Sponsorships will be taken on a first-come, first-served basis. Priority is based on when signed sponsor contract is received by technical secretary (BCO).
+Sponsorships will be taken on a first-come, first-served basis. Priority is based on when completed sponsor form is received by Technical Secretary (BCO). 
+
 
 **Sponsorships will open at 3PM CET on 27th February.**
 
