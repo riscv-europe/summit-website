@@ -2,7 +2,7 @@
 
 ### Online registration form
 
-**The online registration will soon be open!**
+The online registration form is now available at <https://barcelo.eventsair.com/risc-v2023/registrationform/Site/Register>!
 
 ### Fees tiers
 
