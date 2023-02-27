@@ -83,12 +83,12 @@ There are three levels of sponsorship package, with benefits that include speaki
 </div>
 </div>
 
-Sponsorships will be taken on a first-come, first-served basis. Priority is based on when signed sponsor contract is received by sponsor manager at RISC-V International.
+Sponsorships will be taken on a first-come, first-served basis. Priority is based on when signed sponsor contract is received by technical secretary (BCO).
 
 **Sponsorships will open at 3PM CET on 27th February.**
 
-Please contact Tiffany Sparks for more details by clicking the button below
+Please contact Andrew Moore (europe-summit-marketing@riscv.org) for questions.
 
 <div style="text-align: center">
-<button class="sponsor-button" onclick="location.href='mailto:tiffany@riscv.org';">Find out more</button>
+<button class="sponsor-button" onclick="location.href='europe-summit-marketing@riscv.org';">Secure your sponsorship</button>
 </div>
