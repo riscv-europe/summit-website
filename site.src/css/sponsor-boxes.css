@@ -50,6 +50,12 @@
 }
 
 .sponsor-button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+
     background-color: var(--riscv-y);
     border: none;
     color: white;

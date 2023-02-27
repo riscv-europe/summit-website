@@ -91,5 +91,5 @@ Sponsorships will be taken on a first-come, first-served basis. Priority is base
 Please contact Andrew Moore (europe-summit-marketing@riscv.org) for questions.
 
 <div style="text-align: center">
-<a link="mailto:europe-summit-marketing@riscv.org"><button class="sponsor-button">Secure your sponsorship</button></a>
+<a href="https://barcelo.eventsair.com/risc-v2023/invoicing-form/Site/Register" class="sponsor-button">Secure your sponsorship</a>
 </div>
