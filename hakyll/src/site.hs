@@ -31,6 +31,7 @@ main = do
             .||. "media/banners/*"
             .||. "media/slides/*"
             .||. "media/template/*"
+            .||. "media/lic-mlic/*"
             .||. "media/img/*"
             .||. "media/posters/*"
             .||. "media/logos/*"
