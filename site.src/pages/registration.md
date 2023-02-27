@@ -61,13 +61,13 @@ the week are presented in the table below. Fees are ex-VAT 21%.
   </thead>
   <tbody>
     <tr>
-      <td>MSc, LIC & MLIC</td>
-      <td>240 €</td>
-      <td>40 €</td>
-      <td>270 €</td>
-      <td>45 €</td>
-      <td>300 €</td>
-      <td>50 €</td>
+      <td>Industry & Academia</td>
+      <td>400 €</td>
+      <td>60 €</td>
+      <td>450 €</td>
+      <td>70 €</td>
+      <td>500 €</td>
+      <td>80 €</td>
     </tr>
     <tr>
       <td>Phd students & PostDocs</td>
@@ -79,13 +79,13 @@ the week are presented in the table below. Fees are ex-VAT 21%.
       <td>75 €</td>
     </tr>
     <tr>
-      <td>Industry & Academics</td>
-      <td>400 €</td>
-      <td>60 €</td>
-      <td>450 €</td>
-      <td>70 €</td>
-      <td>500 €</td>
-      <td>80 €</td>
+      <td>MSc, LIC & MLIC</td>
+      <td>240 €</td>
+      <td>40 €</td>
+      <td>270 €</td>
+      <td>45 €</td>
+      <td>300 €</td>
+      <td>50 €</td>
     </tr>
   </tbody>
 </table>
