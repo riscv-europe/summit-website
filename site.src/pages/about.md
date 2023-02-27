@@ -63,12 +63,13 @@ events, joined by [RISC-V International](https://riscv.org):
     <li>Borja Pérez Pavon (Univ. de Cantabria), Submission Chair</li>
     <li>Jérôme Quévremont (Thales R&amp;T)</li>
     <li>Calista Redmond (RISC-V International), Co-General Chair</li>
+    <li>Iara Ruibal (BCO)</li>
     <li>Mirtcho Savov (BCO)</li>
     <li>Olivier Sentieys (INRIA)</li>
     <li>Tiffany Sparks (RISC-V International)</li>
     <li>Philipp Tomsich (VRULL)</li>
     <li>Stefan Wallentowitz (Hochschule München Univ. of Applied Sciences)</li>
-</ul>
+	</ul>
 <h2 style="color: #0a6b7c" id="local-organization">Local Organization</h2>
 <p>The event is organized by RISC-V International, BSC and BCO.</p>
 </div>
