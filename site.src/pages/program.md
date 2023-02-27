@@ -37,7 +37,7 @@ We also welcome non-blind submissions related to:
 
 <h3 style="color: #cb007b" id="important-dates">Important dates</h3>
 
- - Abstract submissions hard deadline: Monday, March 13th, 2023,
+ - Abstract submissions deadline: Monday, March 13th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
  - Author notifications: Monday, April 24th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
@@ -86,3 +86,7 @@ interest to the RISC-V and open hardware community.
 
 For these topics, make sure to name authors and their affiliation and
 include a short bio of all.
+
+<div style="text-align: center">
+<a href="https://barcelo.eventsair.com/PresentationPortal/risc-v2023/presentationportalrisc-v23" class="sponsor-button">Submit a proposal!</a>
+</div>

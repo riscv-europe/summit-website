@@ -86,7 +86,7 @@ There are three levels of sponsorship package, with benefits that include speaki
 Sponsorships will be taken on a first-come, first-served basis. Priority is based on when completed sponsor form is received by Technical Secretary (BCO). 
 
 
-**Sponsorships will open at 3PM CET on 27th February.**
+**Sponsorship opportunities are available now!**
 
 Please contact Andrew Moore (europe-summit-marketing@riscv.org) for questions.
 
