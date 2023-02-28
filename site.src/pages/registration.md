@@ -1,3 +1,5 @@
+<img src="media/img/RISC-V-Paris-2019-09.jpg" width=100%>
+
 ## Registration
 
 ### Online registration form
