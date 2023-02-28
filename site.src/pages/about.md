@@ -1,5 +1,6 @@
-## The Summit
+<img src="media/img/RISC-V-Embedded-World-2020-02.jpg" width=100%>
 
+## The Summit
 
 The RISC-V Summit Europe in Barcelona is a merger of three European
 events, joined by [RISC-V International](https://riscv.org):
