@@ -1,3 +1,5 @@
+<img src="media/img/RISC-V-London-2019-09.jpg" width=100%>
+
 RISC-V Summit Europe takes place from Monday 5 to Friday 9 June. The combination of  strong industrial and academic communities is key to the success of RISC-V in Europe, and for this reason the conference is designed to help attendees to explore both commercial and research applications.
 
 Monday is dedicated to RISC-V technical group meetings for RISC-V members, and Friday to workshops for projects related to RISC-V and open computing. 
