@@ -10,7 +10,7 @@ Europe.
 The event will have a single track of keynotes, invited and selected
 talks alongside an exhibition showcasing the latest developments
 across industry and research, including technology demonstrations and
-poster sessions.  We invite blind submissions related to RISC-V
+poster sessions.  We invite blind submissions of **extended abstracts** related to RISC-V
 addressing the following technical topics of interest:
 
  - Automotive 
@@ -37,11 +37,11 @@ We also welcome non-blind submissions related to:
 
 <h3 style="color: #cb007b" id="important-dates">Important dates</h3>
 
- - Abstract submissions deadline: Monday, March ~~13th~~ 20th, 2023,
+ - Extended abstract submissions deadline: Monday, March ~~13th~~ 20th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
  - Author notifications: Monday, April 24th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
- - Final abstract version, de-anonymized, deadline: Thursday, Monday
+ - Final extended abstract version, de-anonymized, deadline: Thursday, Monday
    May 1st, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
  - Final slides and poster deadline: Thursday, June 1st,
@@ -54,20 +54,20 @@ website before the submission deadline.
 
 <h3 style="color: #60269e" id="submission-format">Submission format</h3>
 
-The submissions should be provided as a two page abstract, including
+The submissions should be provided as a two pages extended abstract, including
 bibliography.
 
-Abstract template and instructions for submission are available at <https://github.com/riscv-europe/riscv-europe-summit-templates>.
+Extended abstract template and instructions for submission are available at <https://github.com/riscv-europe/riscv-europe-summit-templates>.
 The
 Program Committee (PC) will accept most contributions as posters and
-selected submissions for short or long presentations.  Accepted
+selected submissions for short or long presentations.  Accepted extended
 abstracts, slides, and posters will be published on the event page,
 together with presentations which will be recorded.
 
 <h3 style="color: #0a6b7c" id="guidelines-for-submission-of-technical-topics-for-blind-review">Guidelines for submission of technical topics for blind review</h3>
 
 Submissions on technical topics are for blind review. Please do not
-include author information in the abstract. Submissions must have a
+include author information in the extended abstract. Submissions must have a
 strong focus on technical content outlining for example:
 
  - Present research advances 
@@ -85,7 +85,7 @@ business and industry trends, or present publicly funded projects of
 interest to the RISC-V and open hardware community.
 
 For these topics, make sure to name authors and their affiliation and
-include a short bio of all.
+include a short bio of all in the extended abstract.
 
 <div style="text-align: center">
 <a href="https://barcelo.eventsair.com/PresentationPortal/risc-v2023/presentationportalrisc-v23" class="sponsor-button">Submit a proposal!</a>
