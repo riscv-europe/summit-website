@@ -85,7 +85,7 @@ business and industry trends, or present publicly funded projects of
 interest to the RISC-V and open hardware community.
 
 For these topics, make sure to name authors and their affiliation and
-include a short bio of all in the extended abstract.
+include a short bio of all in the two pages extended abstract.
 
 <div style="text-align: center">
 <a href="https://barcelo.eventsair.com/PresentationPortal/risc-v2023/presentationportalrisc-v23" class="sponsor-button">Submit a proposal!</a>
