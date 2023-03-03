@@ -54,7 +54,7 @@ website before the submission deadline.
 
 <h3 style="color: #60269e" id="submission-format">Submission format</h3>
 
-The submissions should be provided as a two pages extended abstract, including
+The submissions should be provided as a **two pages extended abstracts**, including
 bibliography.
 
 Extended abstract template and instructions for submission are available at <https://github.com/riscv-europe/riscv-europe-summit-templates>.
