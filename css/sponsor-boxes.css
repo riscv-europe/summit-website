@@ -1,11 +1,11 @@
-.sponsor-box {
+.highlight-box {
     width: 90%;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
 }
 
-.sponsor-box-heading {
+.highlight-box-heading {
     margin: 0;
     margin-left: auto;
     margin-right: auto;
@@ -49,7 +49,7 @@
     border: 2px #ffc72c solid;    
 }
 
-.sponsor-button {
+.highlight-button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
@@ -67,6 +67,6 @@
     margin-bottom: 20px;
 }
 
-.sponsor-button:hover {
+.highlight-button:hover {
     background-color: var(--riscv-b);
 }
