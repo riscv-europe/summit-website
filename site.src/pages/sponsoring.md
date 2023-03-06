@@ -2,8 +2,8 @@ The RISC-V Summit Europe will be a unique opportunity for members of the ecosyst
 
 There are three levels of sponsorship package, with benefits that include speaking opportunities, promotional opportunities, exhibition space and conference passes. A la carte opportunities are also available
 
-<div class="sponsor-box">
-<div class="sponsor-box-heading diamond-box-heading">
+<div class="highlight-box">
+<div class="highlight-box-heading diamond-box-heading">
   Diamond Sponsorship - 16.5K Euros
 </div>
 <div class="diamond-box">
@@ -23,8 +23,8 @@ There are three levels of sponsorship package, with benefits that include speaki
 </div>
 </div>
 
-<div class="sponsor-box">
-<div class="sponsor-box-heading gold-box-heading">
+<div class="highlight-box">
+<div class="highlight-box-heading gold-box-heading">
   Gold Sponsorship - 8.5K Euros
 </div>
 <div class="gold-box">
@@ -40,8 +40,8 @@ There are three levels of sponsorship package, with benefits that include speaki
 </div>
 </div>
 
-<div class="sponsor-box">
-<div class="sponsor-box-heading silver-box-heading">
+<div class="highlight-box">
+<div class="highlight-box-heading silver-box-heading">
   Silver Sponsorship: 2 Options - 2.5K Euros
 </div>
 <div class="silver-box">
@@ -63,8 +63,8 @@ There are three levels of sponsorship package, with benefits that include speaki
 </div>
 </div>
 
-<div class="sponsor-box">
-<div class="sponsor-box-heading other-box-heading">
+<div class="highlight-box">
+<div class="highlight-box-heading other-box-heading">
   Other options
 </div>
 <div class="other-box">
@@ -91,5 +91,5 @@ Sponsorships will be taken on a first-come, first-served basis. Priority is base
 Please contact Andrew Moore (europe-summit-marketing@riscv.org) for questions.
 
 <div style="text-align: center">
-<a href="https://barcelo.eventsair.com/risc-v2023/invoicing-form/Site/Register" class="sponsor-button">Secure your sponsorship</a>
+<a href="https://barcelo.eventsair.com/risc-v2023/invoicing-form/Site/Register" class="highlight-button">Secure your sponsorship</a>
 </div>
