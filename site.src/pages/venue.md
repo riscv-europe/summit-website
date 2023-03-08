@@ -1,6 +1,6 @@
 <img src="media/img/BarcelonaSants.jpeg" width=100%>
 
-(For accomodation rates and booking, go to the [accomodation page](accomodation.html).)
+(For accommodation rates and booking, go to the [accommodation page](accomodation.html).)
 
 ## Barceló Sants
 

@@ -1,8 +1,8 @@
 <img src="media/img/barcelo-orbital-room.jpg" width=100%>
 
-## Accomodation at the Barceló Sants
+## Accommodation at the Barceló Sants
 
-**Quick link**: [accomodation booking for the Summit is now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)!
+**Quick link**: [accommodation booking for the Summit is now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)!
 
 ### Hotel Barceló Sants
 
@@ -26,7 +26,7 @@ atmosphere, Barceló Sants stands head and shoulders above the
 rest. Fasten your seatbelts and get ready to enjoy a one-of-a-kind
 stay at Barceló Sants.
 
-### Special Accomodation at the Barceló Sants for the RISC-V Summit Europe
+### Special Accommodation at the Barceló Sants for the RISC-V Summit Europe
 
 Take advantage of the preferential rates!
 
@@ -36,7 +36,7 @@ Take advantage of the preferential rates!
 
 Rates include the buffet breakfast and 10% VAT. Rates don’t include the [tourist tax](https://ajuntament.barcelona.cat/hisenda/en/procedures-payments/tourist-establishments-tax) (4,90 € per person.night).
 
-Accomodation booking for the Summit is [now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register).
+Accommodation booking for the Summit is [now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register).
 
 ### Hotel information
 
