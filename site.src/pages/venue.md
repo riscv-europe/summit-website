@@ -1,6 +1,6 @@
 <img src="media/img/BarcelonaSants.jpeg" width=100%>
 
-(For accommodation rates and booking, go to the [accommodation page](accomodation.html).)
+(For accommodation rates and booking, go to the [accommodation page](accommodation.html).)
 
 ## Barceló Sants
 
@@ -42,7 +42,7 @@ nearby.
 *Discover 5 reasons why the hotel Barceló Sants is your best
  accommodation option for the RISC-V 2023 meeting.*
 
-Why [booking on the hotel venue](accomodation.html)?
+Why [booking on the hotel venue](accommodation.html)?
 
  - Best location: No need to travel to the venue. Save time and money
    on transfers!
