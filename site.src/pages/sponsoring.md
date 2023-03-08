@@ -16,7 +16,7 @@ There are three levels of sponsorship package, with benefits that include speaki
     <li>15-minute demo theater presentation (1) - recorded (priority in the demo playlist)</li>
     <li>Talk promoted in pre-show email</li>
     <li>Demo promoted in pre-show email</li>
-    <li>Logo on event T-shirt</li>
+    <li>Logo on event giveaway</li>
     <li>Logo on slide/signage</li>
     <li>15 percent discount for 10 additional full-conference passes</li>
   </ul>
