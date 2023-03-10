@@ -66,7 +66,7 @@ details will follow.
       <td>13:30</td>
       <td>17:00</td>
 	  <td>*TBA*</td>
-      <td>Women in HPC</td>
+      <td>Women in tech.</td>
     </tr>
   </tbody>
 </table>
