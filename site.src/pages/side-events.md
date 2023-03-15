@@ -11,7 +11,7 @@ Participation to one or several *side events* requires **registration
 for Friday 9th**, and payment of the associated fees to covers breaks
 and lunch.
 
-### Side Events Schedule and Location
+### Side events schedule and location
 
 <table class="riscv-sb">
 <thead>
@@ -119,7 +119,7 @@ Private meeting: **EU Pilot Consortium Meeting**.
 
 ### EU Pilot WS
 
-Open workshop: **EU Pilot Public Workshop**
+Open workshop: **EU Pilot Public Workshop**.
 
 
 ### Orshin
