@@ -39,7 +39,7 @@ table.riscv-sb {
   border-width: 2px;
   border-color: var(--riscv-sb);
   border-style: solid;
-  color: #000000;
+  color: #ffffff;
   text-align:center;
   margin-left:15%;
   margin-right:15%;
@@ -73,7 +73,7 @@ table.riscv-sg {
   border-width: 2px;
   border-color: var(--riscv-sg);
   border-style: solid;
-  color: #000000;
+  color: #ffffff;
   text-align:center;
   margin-left:15%;
   margin-right:15%;
@@ -107,7 +107,7 @@ table.riscv-sp {
   border-width: 2px;
   border-color: var(--riscv-sp);
   border-style: solid;
-  color: #000000;
+  color: #ffffff;
   text-align:center;
   margin-left:15%;
   margin-right:15%;
@@ -141,7 +141,7 @@ table.riscv-sv {
   border-width: 2px;
   border-color: var(--riscv-sv);
   border-style: solid;
-  color: #000000;
+  color: #ffffff;
   text-align:center;
   margin-left:15%;
   margin-right:15%;
