@@ -4,7 +4,7 @@ There are three levels of sponsorship package, with benefits that include speaki
 
 <div class="highlight-box">
 <div class="highlight-box-heading diamond-box-heading">
-  Diamond Sponsorship - 16.5K Euros
+  <s>Diamond Sponsorship - 16.5K Euros</s> SOLD OUT
 </div>
 <div class="diamond-box">
   <ul>
