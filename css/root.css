@@ -2,6 +2,17 @@
     /* RISC-V basic blue and yellow. */
     --riscv-b:#011e41;
     --riscv-y:#ffc72c;
+    /* Full list of RISC-V colors from https://riscv.org/about/risc-v-branding-guidelines/ */
+    --riscv-sy:#ffc72c; /* RISC-V strong yellow. */
+    --riscv-sb:#011e41; /* RISC-V strong blue. */
+    --riscv-sg:#0a6b7c; /* RISC-V strong green. */
+    --riscv-sp:#cb007b; /* RISC-V strong pink. */
+    --riscv-sv:#60269e; /* RISC-V strong violet. */
+    --riscv-ly:#fdda64; /* RISC-V light yellow. */
+    --riscv-lb:#0a3799; /* RISC-V light blue. */
+    --riscv-lg:#62cbc9; /* RISC-V light green. */
+    --riscv-lp:#fe9bb1; /* RISC-V light pink. */
+    --riscv-lv:#c2a6e1; /* RISC-V light violet. */
     font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 
