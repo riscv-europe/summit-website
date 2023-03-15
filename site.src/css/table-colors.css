@@ -1,9 +1,9 @@
-table.fees {
+table.riscv-sy {
   width: 80%;
   background-color: #ffffff;
   border-collapse: collapse;
   border-width: 2px;
-  border-color: #ffcc00;
+  border-color: var(--riscv-sy);
   border-style: solid;
   color: #000000;
   text-align:center;
@@ -11,15 +11,15 @@ table.fees {
   margin-right:15%;
 }
 
-table.fees td {
+table.riscv-sy td {
   border-width: 2px;
-  border-color: #ffcc00;
+  border-color: var(--riscv-sy);
   border-style: solid;
   padding: 3px;
   text-align:center;
 }
 
-table.fees th {
+table.riscv-sy th {
   border-width: 2px;
   border-color: #ffffff;
   border-style: solid;
@@ -27,6 +27,6 @@ table.fees th {
   text-align:center;
 }
 
-table.fees thead {
-  background-color: #ffcc00;
+table.riscv-sy thead {
+  background-color: var(--riscv-sy);
 }

@@ -16,7 +16,7 @@ and lunch.
 The following public workshops will be hosted on Fiday June 9th. More
 details will follow.
 
-<table class="fees">
+<table class="riscv-sy">
   <thead>
     <tr>
       <th>Start</th>
@@ -76,7 +76,7 @@ details will follow.
 The following private consortium meetings will be hosted on Friday
 June 9th.:
 
-<table class="fees">
+<table class="riscv-sy">
   <thead>
     <tr>
       <th>Start</th>
@@ -106,7 +106,7 @@ June 9th.:
 
 The side events will share a common schedule, including break and pauses:
 
-<table class="fees">
+<table class="riscv-sy">
   <thead>
     <tr>
       <th>Start</th>
