@@ -28,12 +28,12 @@ and lunch.
 <tbody>
 <tr>
 <td>09:00</td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#EUPILOT" >EU Pilot</a></td>
-<td style="background:var(--riscv-lp);" rowspan="3"><a href="#ORSHIN"  >Orshin</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#REDRISCV">Red RISC-V</a></td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#OPENMPW" >Open MPW</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#OHWG"    >OpenHW Group</a></td>
-<td style="background:var(--riscv-lp);" rowspan="3"><a href="#OHWG"    >OpenHW Group</a></td>
+<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW Group](#openhw-group)</td>
 </tr>
 <tr>
 <td>09:30</td>
@@ -47,12 +47,12 @@ and lunch.
 </tr>
 <tr>
 <td>11:00</td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#EUPILOT" >EU Pilot</a></td>
-<td style="background:var(--riscv-lp);" rowspan="3"><a href="#ORSHIN"  >Orshin</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#REDRISCV">Red RISC-V</a></td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#OPENMPW" >Open MPW</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#OHWG"    >OpenHW Group</a></td>
-<td style="background:var(--riscv-lp);" rowspan="3"><a href="#OHWG"    >OpenHW Group</a></td>
+<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW Group](#openhw-group)</td>
 </tr>
 <tr>
 <td>11:30</td>
@@ -70,11 +70,11 @@ and lunch.
 </tr>
 <tr>
 <td>13:30</td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#EUPILOT" >EU Pilot</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#RISER"   >RISER</a></td>
-<td style="background:var(--riscv-lp);" rowspan="3"><a href="#WOMENTEC">Women in tech</a></td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#OPENMPW" >Open MPW</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#OHWG"    >OpenHW Group</a></td>
+<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[RISER](#riser)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
 <td style="background:white;"           rowspan="3">                    (TBD)</td>
 </tr>
 <tr>
@@ -89,11 +89,11 @@ and lunch.
 </tr>
 <tr>
 <td>15:30</td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#EUPILOT" >EU Pilot</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#RISER"   >RISER</a></td>
-<td style="background:var(--riscv-lp);" rowspan="3"><a href="#WOMENTEC">Women in tech</a></td>
-<td style="background:var(--riscv-ly);" rowspan="3"><a href="#OPENMPW" >Open MPW</a></td>
-<td style="background:var(--riscv-lg);" rowspan="3"><a href="#OHWG"    >OpenHW Group</a></td>
+<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[RISER](#riser)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
 <td style="background:white;"           rowspan="3">                    (TBD)</td>
 </tr>
 <tr>
