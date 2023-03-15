@@ -109,3 +109,59 @@ and lunch.
 </tr>
 </tbody>
 </table>
+
+## Side Events Details
+
+### EU Pilot CM
+
+Private meeting: **EU Pilot Consortium Meeting**.
+
+
+### EU Pilot WS
+
+Open workshop: **EU Pilot Public Workshop**
+
+
+### Orshin
+
+Open workshop: **ORSHIN -- Open-source ReSilient Hardware and software for Internet of thiNgs.**
+
+The primary goal of the ORSHIN project is to create a generic and
+holistic methodology, which we call the ‘trusted life cycle’ to
+develop and manage connected devices based on open-source hardware.
+We identified a chain of six essential phases: Design, Implementation,
+Evaluation, Installation, Maintenance, and Retirement. The life cycle
+will specify how to translate abstract security goals (e.g., build a
+secure IoT product) into security policies for the phases, and further
+into concrete security requirements for the building blocks of the
+product (e.g., use 128-bit keys). More: <https://horizon-orshin.eu>
+
+
+### RISER
+
+Open workshop:
+
+
+### Red RISC-V
+
+Private meeting:
+
+
+### Women in Tech
+
+Open workshop:
+
+
+### Open MPW
+
+Open workshop:
+
+
+### OpenHW Group
+
+Open workshop:
+
+
+### OpenHW Group
+
+Open workshop:
