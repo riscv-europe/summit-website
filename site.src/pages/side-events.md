@@ -70,7 +70,7 @@ and lunch.
 </tr>
 <tr>
 <td>13:30</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[RISER](#riser)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
@@ -89,7 +89,7 @@ and lunch.
 </tr>
 <tr>
 <td>15:30</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[RISER](#riser)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
