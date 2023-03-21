@@ -32,6 +32,8 @@ The RISC-V Summit Europe has three mains periods:
    presentations, panel, industrial exhibition, demos, posters, etc.
  - **Side events** on Friday 9th, for events related to RISC-V and
    open source technologies: open workshops, consortium meetings, etc.
+   More details on the <a href="side-events.html" target="_blank">Fri
+   9th Side Events</a> page.
 
 The Monday TWG meetings are free of charge. The fees for remaining of
 the week are presented in the table below. **Fees are ex-VAT 21%**.
