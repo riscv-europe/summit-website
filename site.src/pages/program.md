@@ -37,7 +37,7 @@ We also welcome non-blind submissions related to:
 
 <h3 style="color: #cb007b" id="important-dates">Important dates</h3>
 
- - Extended abstract submissions deadline: Monday, March ~~13th~~ 20th, 2023,
+ - Extended abstract submissions deadline: Monday, March ~~13th~~ ~~20th~~ 21st, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
  - Author notifications: Monday, April 24th, 2023,
    [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
