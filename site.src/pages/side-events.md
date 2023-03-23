@@ -71,7 +71,7 @@ and lunch.
 <tr>
 <td>13:30</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[RISER](#riser)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[RISER WS](#riser-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
@@ -90,7 +90,7 @@ and lunch.
 <tr>
 <td>15:30</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[RISER](#riser)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[RISER WS](#riser-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
@@ -137,9 +137,28 @@ into concrete security requirements for the building blocks of the
 product (e.g., use 128-bit keys). More: <https://horizon-orshin.eu>
 
 
-### RISER
+### RISER WS
 
-Open workshop:
+Open workshop: **RISC-V for Cloud Services.**
+
+What is missing, if anything, for RISC-V to become a viable choice for
+Cloud services?
+
+This workshop aims to facilitate a critical examination of this
+question, with particular focus on relevant developments within
+Europe.
+
+Invited speakers will provide an up-to-date outlook on the RISC-V
+ecosystem and its rapid evolution, covering standardization
+developments as well as ongoing research and innovation activities
+within Europe, particularly from a set of concurrently running
+projects funded by the EU under the proposal call on “Open source for
+cloud-based services”. The workshop will also host a panel to elicit
+further insights and concrete action lines for further enhancements of
+RISC-V technology in support of Cloud services.
+
+Web site: [RISER project](https://riser-project.eu).
+Mail: [Workshop RISER 2023](mailto:riser-workshop23@ics.forth.gr).
 
 
 ### Red RISC-V
