@@ -159,7 +159,7 @@ Open workshop:
 
 ### OpenHW Group WS
 
-Open workshop: **Open-Source Hardware Basic Training**
+Open workshop: **Open-Source Hardware Basic Training.**
 
 This course will cover basic training for open-source hardware development.
 It is open to members of the Tristan KDT project as well as to the general public.
