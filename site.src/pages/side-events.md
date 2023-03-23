@@ -32,7 +32,7 @@ and lunch.
 <td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[OpenHW Group](#openhw-group)</td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ and lunch.
 <td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[OpenHW Group](#openhw-group)</td>
 </tr>
 <tr>
@@ -157,10 +157,20 @@ Open workshop:
 Open workshop:
 
 
-### OpenHW Group
+### OpenHW Group WS
 
-Open workshop:
+Open workshop: **Open-Source Hardware Basic Training**
 
+This course will cover basic training for open-source hardware development.
+It is open to members of the Tristan KDT project as well as to the general public.
+There is no charge to attend, but [registration](registration.html) for *Fri 9th Side Events* is required.
+The following topics will be covered during the course:
+
+ - Creating Open-Source Projects on [GitHub](https://github.com/openhwgroup) with [OpenHW Group](https://www.openhwgroup.org).
+ - How to contribute new features to existing OpenHW projects.
+ - How to run simulations on existing OpenHW CORE-V cores within the CVE2, CVE4 and CVA6 families using core-v-verif.
+ - How to develop new test programs to run on existing OpenHW CORE-V cores using core-v-verif.
+ - Case Study of a new High Performance L1 Data-Cache IP block.
 
 ### OpenHW Group
 
