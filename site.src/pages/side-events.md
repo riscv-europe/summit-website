@@ -74,7 +74,7 @@ and lunch.
 <td style="background:var(--riscv-lg);" rowspan="3">[RISER WS](#riser-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
 <td style="background:white;"           rowspan="3">                    (TBD)</td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ and lunch.
 <td style="background:var(--riscv-lg);" rowspan="3">[RISER WS](#riser-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
 <td style="background:white;"           rowspan="3">                    (TBD)</td>
 </tr>
 <tr>
