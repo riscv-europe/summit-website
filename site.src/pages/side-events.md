@@ -33,7 +33,7 @@ and lunch.
 <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td>
 </tr>
 <tr>
 <td>09:30</td>
@@ -52,7 +52,7 @@ and lunch.
 <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW Group](#openhw-group)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td>
 </tr>
 <tr>
 <td>11:30</td>
@@ -191,6 +191,13 @@ The following topics will be covered during the course:
  - How to develop new test programs to run on existing OpenHW CORE-V cores using core-v-verif.
  - Case Study of a new High Performance L1 Data-Cache IP block.
 
-### OpenHW Group
+### OpenHW TWG TG
 
-Open workshop:
+Open workshop: **OpenHW Group Meetings for Technical Working Groups (TWG) & Task Groups (TG).**
+
+OpenHW Technical Working Group and Task Group meetings. Open to OpenHW
+members and the general public.
+
+Detailed agenda TBD.
+
+There is no charge to attend, but [registration](registration.html) for *Fri 9th Side Events* is required.
