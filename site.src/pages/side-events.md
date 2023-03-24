@@ -136,6 +136,9 @@ secure IoT product) into security policies for the phases, and further
 into concrete security requirements for the building blocks of the
 product (e.g., use 128-bit keys). More: <https://horizon-orshin.eu>
 
+Participation in the WS itself is free of charge, but
+[registration](registration.html) for the *Friday 9 Side Events* is
+required to cover the costs of breaks and lunch.
 
 ### RISER WS
 
@@ -160,6 +163,10 @@ RISC-V technology in support of Cloud services.
 Web site: [RISER project](https://riser-project.eu).
 Mail: [Workshop RISER 2023](mailto:riser-workshop23@ics.forth.gr).
 
+Participation in the WS itself is free of charge, but
+[registration](registration.html) for the *Friday 9 Side Events* is
+required to cover the costs of breaks and lunch.
+
 
 ### Red RISC-V
 
@@ -182,7 +189,6 @@ Open workshop: **Open-Source Hardware Basic Training.**
 
 This course will cover basic training for open-source hardware development.
 It is open to members of the Tristan KDT project as well as to the general public.
-There is no charge to attend, but [registration](registration.html) for *Fri 9th Side Events* is required.
 The following topics will be covered during the course:
 
  - Creating Open-Source Projects on [GitHub](https://github.com/openhwgroup) with [OpenHW Group](https://www.openhwgroup.org).
@@ -190,6 +196,10 @@ The following topics will be covered during the course:
  - How to run simulations on existing OpenHW CORE-V cores within the CVE2, CVE4 and CVA6 families using core-v-verif.
  - How to develop new test programs to run on existing OpenHW CORE-V cores using core-v-verif.
  - Case Study of a new High Performance L1 Data-Cache IP block.
+
+Participation in the WS itself is free of charge, but
+[registration](registration.html) for the *Friday 9 Side Events* is
+required to cover the costs of breaks and lunch.
 
 ### OpenHW TWG TG
 
@@ -200,4 +210,6 @@ members and the general public.
 
 Detailed agenda TBD.
 
-There is no charge to attend, but [registration](registration.html) for *Fri 9th Side Events* is required.
+Participation to the meetings is free of charge, but
+[registration](registration.html) for the *Friday 9 Side Events* is
+required to cover the costs of breaks and lunch.
