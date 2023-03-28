@@ -161,7 +161,7 @@ and lunch.
 <tr>
 <td>17:30</td>
 <td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 4</td>
-<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 8</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">RISC-V in Europe</td>
 </tr>
 <tr>
 <td>17:45</td>
