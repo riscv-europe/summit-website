@@ -13,7 +13,7 @@ and lunch.
 
 ### Side events schedule and location
 
-<table class="riscv-sy">
+<table class="riscv-bb">
 <thead>
 <tr>
 <th>&nbsp;</th>
@@ -40,23 +40,23 @@ and lunch.
 </tr>
 <tr>
 <td>09:00</td>
-<td style="background:white;" rowspan="2">Welcome & Intro</td>
-<td style="background:white;" rowspan="4">R&D Session 2</td>
-<td style="background:white;" rowspan="4">R&D Session 4</td>
+<td style="background:var(--riscv-lg);" rowspan="2">Welcome & Intro</td>
+<td style="background:var(--riscv-sy);" rowspan="4">R&D Session 2</td>
+<td style="background:var(--riscv-sy);" rowspan="4">R&D Session 4</td>
 </tr>
 <tr>
 <td>09:15</td>
 </tr>
 <tr>
 <td>09:30</td>
-<td style="background:white;" rowspan="2">Sponsored Keynotes</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Sponsored Keynotes</td>
 </tr>
 <tr>
 <td>09:45</td>
 </tr>
 <tr>
 <td>10:00</td>
-<td style="background:white;" colspan="3" rowspan="4">Break in Expo Hall & Demo Theater</td>
+<td style="background:var(--riscv-sg);color:white;" colspan="3" rowspan="4">Break in Expo Hall & Demo Theater</td>
 </tr>
 <tr>
 <td>10:15</td>
@@ -69,9 +69,9 @@ and lunch.
 </tr>
 <tr>
 <td>11:00</td>
-<td style="background:white;" rowspan="6">Industry Track 1</td>
-<td style="background:white;" rowspan="6">Industry Track 5</td>
-<td style="background:white;" rowspan="6">R&D Session 5</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="6">Industry Track 1</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="6">Industry Track 5</td>
+<td style="background:var(--riscv-sy);" rowspan="6">R&D Session 5</td>
 </tr>
 <tr>
 <td>11:15</td>
@@ -90,7 +90,7 @@ and lunch.
 </tr>
 <tr>
 <td>12:30</td>
-<td style="background:white;" colspan="3" rowspan="6">Lunch in Expo Hall & Demo Theater</td>
+<td style="background:var(--riscv-sg);color:white;" colspan="3" rowspan="6">Lunch in Expo Hall & Demo Theater</td>
 </tr>
 <tr>
 <td>12:45</td>
@@ -109,9 +109,9 @@ and lunch.
 </tr>
 <tr>
 <td>14:00</td>
-<td style="background:white;" rowspan="6">R&D Session 1</td>
-<td style="background:white;" rowspan="6">R&D Session 3</td>
-<td style="background:white;" rowspan="6">R&D Session 6</td>
+<td style="background:var(--riscv-sy);" rowspan="6">R&D Session 1</td>
+<td style="background:var(--riscv-sy);" rowspan="6">R&D Session 3</td>
+<td style="background:var(--riscv-sy);" rowspan="6">R&D Session 6</td>
 </tr>
 <tr>
 <td>14:15</td>
@@ -130,7 +130,7 @@ and lunch.
 </tr>
 <tr>
 <td>15:30</td>
-<td style="background:white;" colspan="3" rowspan="4">Break in Expo Hall & Demo Theater</td>
+<td style="background:var(--riscv-sg);color:white;" colspan="3" rowspan="4">Break in Expo Hall & Demo Theater</td>
 </tr>
 <tr>
 <td>15:45</td>
@@ -143,29 +143,29 @@ and lunch.
 </tr>
 <tr>
 <td>16:30</td>
-<td style="background:white;" rowspan="2">Industry Track 2</td>
-<td style="background:white;" rowspan="2">Industry Track 6</td>
-<td style="background:white;" rowspan="5">R&D Session 7</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 2</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 6</td>
+<td style="background:var(--riscv-sy);" rowspan="5">R&D Session 7</td>
 </tr>
 <tr>
 <td>16:45</td>
 </tr>
 <tr>
 <td>17:00</td>
-<td style="background:white;" rowspan="2">Industry Track 3</td>
-<td style="background:white;" rowspan="2">Industry Track 7</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 3</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 7</td>
 </tr>
 <tr>
 <td>17:15</td>
 </tr>
 <tr>
 <td>17:30</td>
-<td style="background:white;" rowspan="2">Industry Track 4</td>
-<td style="background:white;" rowspan="2">Industry Track 8</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 4</td>
+<td style="background:var(--riscv-sb);color:white;" rowspan="2">Industry Track 8</td>
 </tr>
 <tr>
 <td>17:45</td>
-<td style="background:white;" rowspan="1">Closing</td>
+<td style="background:var(--riscv-lg);" rowspan="1">Closing</td>
 </tr>
 <tr>
 <td>18:00</td>
