@@ -1,3 +1,30 @@
+table.riscv-bb {
+  width: 80%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  color: #000000;
+  text-align:center;
+  margin-left:15%;
+  margin-right:15%;
+}
+
+table.riscv-bb td {
+  border-width: 2px;
+  border-style: solid;
+  padding: 3px;
+  text-align:center;
+}
+
+table.riscv-bb th {
+  border-width: 2px;
+  border-style: solid;
+  padding: 3px;
+  text-align:center;
+}
+
 table.riscv-sy {
   width: 80%;
   background-color: #ffffff;
