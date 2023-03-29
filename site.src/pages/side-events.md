@@ -71,11 +71,10 @@ and lunch.
 <tr>
 <td>13:30</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[RISER WS](#riser-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:white;"           rowspan="3">                    (TBD)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Women in tech](#women-in-tech)</td>
 </tr>
 <tr>
 <td>14:00</td>
@@ -90,11 +89,10 @@ and lunch.
 <tr>
 <td>15:30</td>
 <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[RISER WS](#riser-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[Women in tech](#women-in-tech)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td>
+<td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:white;"           rowspan="3">                    (TBD)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Women in tech](#women-in-tech)</td>
 </tr>
 <tr>
 <td>16:00</td>
@@ -210,6 +208,16 @@ members and the general public.
 
 Detailed agenda TBD.
 
-Participation to the meetings is free of charge, but
+Participation to the meeting is free of charge, but
+[registration](registration.html) for the *Friday 9 Side Events* is
+required to cover the costs of breaks and lunch.
+
+### Tristan PMB
+
+Private meeting: **Tristan Project Management Board (PMB).**
+
+Tristan Project Management Board (PMB) meeting.
+
+Participation to the meeting is free of charge, but
 [registration](registration.html) for the *Friday 9 Side Events* is
 required to cover the costs of breaks and lunch.
