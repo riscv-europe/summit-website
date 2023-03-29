@@ -1,17 +1,11 @@
 <img src="media/img/RISC-V-London-2019-09.jpg" width=100%>
 
-## Side Events: public workshops & consortium meetings
+## Conference Programm, Tue 6th to Thu 8th
 
-Friday June 9th will be dedicated to RISC-V and open source hardware
-*side events*, e.g. public workshops or private consortium meetings.
+The core of the Summit will be the three days of conferences,
+exhibitions and demo from Tuesday 6th until Thursday 8th.
 
-### Extra registration required
-
-Participation to one or several *side events* requires **registration
-for Friday 9th**, and payment of the associated fees to covers breaks
-and lunch.
-
-### Side events schedule and location
+The schedule is described in the table below.
 
 <table class="riscv-bb">
 <thead>
