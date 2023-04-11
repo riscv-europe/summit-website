@@ -16,7 +16,7 @@ The talks for the academic sessions will be selected from the <a href="program.h
 
 Industry sessions will pay special focus to key markets and technologies for Europe, including Automotive HPC, AI, Security and Tools. In between the talk tracks, an exhibition will run, featuring stands from member companies and organizations, a series of talks in the Demo Theatre, and posters.
 
-Speaking slots and exhibition space can be booked via the <a href="https://riscv-europe.org/sponsoring.html" title="Sponsoring">sponsorship</a> page, with further speaking opportunities being filled through the Call for Submissions
+Speaking slots and exhibition space can be booked via the <a href="sponsoring.html" title="Sponsoring">sponsorship</a> page, with further speaking opportunities being filled through the <a href="program.html" title="Call for Submissions">Call for Submissions</a>.
 
 *RISC-V Summit Europe* is an opportunity not to be missed. Come to Barcelona from
 5-9th June 2023 to be part of the new wave of European computing innovation!
