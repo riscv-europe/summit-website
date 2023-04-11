@@ -12,7 +12,7 @@ The main body of the conference takes place from Tuesday 6th to Thursday 8th, co
 
 <img src="media/img/Agenda5Days.png" style="width: 100%">
 
-The talks for the academic sessions will be selected from the <a href="https://riscv-europe.org/program.html" title="Call for Submissions">Call for Submissions</a>
+The talks for the academic sessions will be selected from the <a href="program.html" title="Call for Submissions">Call for Submissions</a>.
 
 Industry sessions will pay special focus to key markets and technologies for Europe, including Automotive HPC, AI, Security and Tools. In between the talk tracks, an exhibition will run, featuring stands from member companies and organizations, a series of talks in the Demo Theatre, and posters.
 
