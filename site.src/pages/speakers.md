@@ -16,6 +16,14 @@ during these three days.
 
 [Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- [Center for Advanced Computer Systems (ACS)](http://acs.ict.ac.cn)
 
+**Abstract**
+
+TBD.
+
+*Bio*
+
+TBD.
+
 #### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
 [Luca
