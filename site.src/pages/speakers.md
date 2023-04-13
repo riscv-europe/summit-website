@@ -171,7 +171,7 @@ small developer community and long product life cycles.
 
 *Bio*
 
-Graduated 1993 in Electrical Engineering and Semiconductor Physics
+*Graduated 1993 in Electrical Engineering and Semiconductor Physics
 from Ecole Supérieure d’Electricité (“Supélec”) in Paris /
 France. Worked as digital ASIC designer for Infineon in Munich and Tel
 Aviv in various consumer electronics projects (e.g. TV frame rate
@@ -180,4 +180,4 @@ DSP cores. Joined the European Space Agency (ESA) in 2000 as a
 Microelectronics Engineer. In charge of various IC development
 projects, a predominant topic are standard microprocessors and SoC’s
 built around microprocessor cores, as well as radiation-hard design
-methodology.
+methodology.*
