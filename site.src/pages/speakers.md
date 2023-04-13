@@ -58,6 +58,20 @@ recipient of the 2016 IEEE CAS Mac Van Valkenburg award, the 2020 EDAA
 achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 2023 IEEE CS Edward J. McCluskey award.*
 
+
+#### Alex Bradbudy -- (Title TBA)
+
+[Alex Bradbury](https://asbradbury.org) -- [Igalia](https://www.igalia.com) (UK).
+
+**Abstract**
+
+TBD.
+
+*Bio*
+
+TBD.
+
+
 #### Roland Weigand -- (Title TBA).
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
