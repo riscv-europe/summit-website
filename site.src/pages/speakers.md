@@ -14,7 +14,7 @@ during these three days.
 
 #### Dr Yungang Bao -- (Title TBA).
 
-[Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- [Center for Advanced Computer Systems (ACS)](http://acs.ict.ac.cn)
+[Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- [Center for Advanced Computer Systems (ACS)](http://acs.ict.ac.cn) (Beijing, China).
 
 **Abstract**
 
