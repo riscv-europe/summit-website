@@ -10,8 +10,8 @@ International, [personal or corporate
 membership](https://riscv.org/membership) is required.
 
 The groups that will meet on Monday 5th afternoon are listed below. A
-detailled schedule, with actual time and room number, will be
-published in a few weeks.
+detailled schedule, with actual time and room number for each meeting,
+will be published in a few weeks.
 
 ### Security Horizontal Committee (Security HC)
 
