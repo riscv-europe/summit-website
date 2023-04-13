@@ -42,10 +42,10 @@ RISC-V International.
 Vector crypto updates and preparing for Post-Quantum
 
 CETG web site: [`https://lists.riscv.org/g/tech-crypto-ext`](https://lists.riscv.org/g/tech-crypto-ext) --
-Contact: Dr. Markku-Juhani O. Saarinen [`mjos@pqshield.com](mailto:mjos@pqshield.com).
+Contact: Dr. Markku-Juhani O. Saarinen ([`mjos@pqshield.com`](mailto:mjos@pqshield.com)).
 
 PQCTG web site: [`https://lists.riscv.org/g/tech-pqc-cryptography`](https://lists.riscv.org/g/tech-pqc-cryptography) --
-Contact: Dr. Markku-Juhani O. Saarinen [`mjos@pqshield.com](mailto:mjos@pqshield.com).
+Contact: Dr. Markku-Juhani O. Saarinen ([`mjos@pqshield.com`](mailto:mjos@pqshield.com)).
 
 ### Architectural Compatibility Test Special Interest Group
 
