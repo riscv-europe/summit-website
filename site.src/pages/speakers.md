@@ -22,7 +22,7 @@ during these three days.
 Benini](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html) --
 ETH Zürich, Università di Bologna.
 
-*Abstract*
+**Abstract**
 
 Today's data-parallel workloads in HPC, AI, IoT demand ever-growing
 performance under an (almost) constant power envelope. To address this
