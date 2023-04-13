@@ -26,9 +26,9 @@ TBD.
 
 #### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
-[Luca
-Benini](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html) --
-ETH Zürich, Università di Bologna.
+[Luca Benini](https://pulp-platform.org) -- [ETH
+Zürich](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html),
+[Università di Bologna](https://www.unibo.it/sitoweb/luca.benini).
 
 **Abstract**
 
