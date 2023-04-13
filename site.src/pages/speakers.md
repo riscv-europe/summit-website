@@ -72,6 +72,19 @@ TBD.
 TBD.
 
 
+#### PhD Thierry Collette -- (Title TBA)
+
+PhD Thierry Collette -- [Thales Research & Technology](https://www.thalesgroup.com/en/global/innovation/research-and-technology) (France).
+
+**Abstract**
+
+TBD.
+
+*Bio*
+
+TBD.
+
+
 #### Roland Weigand -- (Title TBA).
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
