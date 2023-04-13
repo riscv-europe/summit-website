@@ -1,6 +1,6 @@
 <img src="media/img/RISC-V-London-2019-09.jpg" width=100%>
 
-## Technical Working Group Meeings
+## Technical Working Group Meetings
 
 Monday June 5th afternoon will be dedicated to Technical Working Group
 (TWG) meetings from the RISC-V ecosystem.
@@ -53,7 +53,7 @@ RISC-V International.
 
 Talking future plans.
 
-Contcat: Allen Baum ([`allen.baum@esperantotech.com`](mailto:allen.baum@esperantotech.com)).
+Contact: Allen Baum ([`allen.baum@esperantotech.com`](mailto:allen.baum@esperantotech.com)).
 
 ### Automotive Special Interest Group (Automotive SIG)
 
