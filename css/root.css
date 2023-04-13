@@ -47,6 +47,7 @@ html h3 {
 html h4 {
     color: var(--riscv-sg);
     font-weight: bold;
+    prefix: "-- ";
 }
 
 html footer {
