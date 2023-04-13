@@ -85,6 +85,19 @@ TBD.
 TBD.
 
 
+#### Patrick Pype -- (Title TBA).
+
+[Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Tristan KDT Project, NXP.
+
+**Abstract**
+
+TBD.
+
+*Bio*
+
+TBD.
+
+
 #### Roland Weigand -- (Title TBA).
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
