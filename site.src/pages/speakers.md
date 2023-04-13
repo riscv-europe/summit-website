@@ -85,17 +85,54 @@ TBD.
 TBD.
 
 
-#### Patrick Pype -- (Title TBA).
+#### Patrick Pype -- TRISTAN: Together for RISc-v Technology and ApplicatioNs
 
-[Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Tristan KDT Project, NXP.
+[Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
+Strategic Partnerships, NXP Semiconductors.
 
 **Abstract**
 
-TBD.
+TRISTAN is a European KDT cooperation project which started in
+December 2022 and runs for 3 years.  The overarching aim is to expand,
+mature and industrialize the European RISC-V ecosystem so that it is
+able to compete with existing commercial alternatives. This will be
+achieved by leveraging the Open-Source community to gain in
+productivity and quality. This goal will be achieved by defining a
+European strategy for RISC-V based designs including the creation of a
+repository of industrial quality building blocks to be used for SoC
+designs in different application domains (e.g. automotive, industrial,
+etc.). The TRISTAN approach is holistic, covering both electronic
+design automation tools (EDA) and the full software stack. The TRISTAN
+consortium is composed of 46 partners from industry (both large
+industries as well as SMEs), research organizations, universities and
+RISC-V related industry associations, originating from Austria,
+Belgium, Finland, France, Germany, Israel, Italy, the Netherlands,
+Poland, Romania, Turkey and Switzerland.  The presentation will focus
+on some of the specific targets and expected results of the project
+and how this fits in the Europen RISC-V Open-Source Roadmap which was
+developed by a European Working Group and is documented in a report:
+[``Recommendations and roadmap for European sovereignty on open source
+hardware, software and RISC-V Technologies | Shaping Europe’s digital
+future''](https://digital-strategy.ec.europa.eu/en/library/recommendations-and-roadmap-european-sovereignty-open-source-hardware-software-and-risc-v))
 
 *Bio*
 
-TBD.
+*Patrick is Director of Strategic Partnerships at NXP Semiconductors,
+and has held this position since 2012. He began his career at IMEC in
+Belgium in 1986. In 1996 he started the start-up company CoWare on
+hardware/software co-design which was later acquired by Synopsys.
+Thereafter he worked at Philips in different positions.  Patrick is
+Chairman of the AENEAS Technical Expert Group since 2018 and he is
+member of the INSIDE Steering Board since 2015.  He was co-chair of
+the overall ECSEL Strategic Research Agenda 2019-2021 and is also
+co-chair of the chapter on “Transport & Mobility”.  Patrick was
+Chairman of the Engineering Alumni Association of the KULeuven from
+2005-2008.  Patrick has contributed several papers in two books
+published by Springer on “Automated Driving’’ and “Internet of
+Vehicles’’.  He is author of the book “Zest for Opera – Unleash your
+Leadership”, which was published in October 2018.  The book offers
+inspiring insights from the world of opera for leaders in business &
+politics, coaches, teachers and students.*
 
 
 #### Roland Weigand -- (Title TBA).
