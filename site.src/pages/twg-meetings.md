@@ -59,4 +59,5 @@ Contact: Allen Baum ([`allen.baum@esperantotech.com`](mailto:allen.baum@esperant
 
 RISC-V International.
 
+Web site: [`https://lists.riscv.org/g/sig-automotive`](https://lists.riscv.org/g/sig-automotive) --
 Contact: Pete Lewin ([`peter.lewin@imgtec.com`](mailto:peter.lewin@imgtec.com)).
