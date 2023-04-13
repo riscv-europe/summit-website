@@ -44,6 +44,11 @@ html h3 {
     font-weight: bold;
 }
 
+html h4 {
+    color: var(--riscv-sg);
+    font-weight: bold;
+}
+
 html footer {
     font-size: 62.5%;
 }
