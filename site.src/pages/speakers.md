@@ -135,7 +135,7 @@ inspiring insights from the world of opera for leaders in business &
 politics, coaches, teachers and students.*
 
 
-#### Roland Weigand -- (Title TBA).
+#### Roland Weigand -- RISC-V: a Shooting Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
 
