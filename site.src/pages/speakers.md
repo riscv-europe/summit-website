@@ -1,6 +1,11 @@
 <img src="media/img/RISC-V-London-2019-09.jpg" width=100%>
 
-## Core Conference Speakers
+The list of keynotes speakers, presenters and panelist of the plenary
+sessions, from Tuesday June 6th to Thursday 8th, are presented below.
+
+The actual schedule will be provided in the comming weeks.
+
+## Speakers
 
 The core of the conference will be from Tuesday 6th to Thursday 8th
 with a single track of keynotes, invited and selected talks, alongside
