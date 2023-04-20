@@ -10,7 +10,7 @@ research.
 The following speakers will be delivering keynotes and regular talks
 during these three days.
 
-### Keynotes
+### Keynotes Speakers
 
 #### Dr Yungang Bao -- (Title TBA).
 
