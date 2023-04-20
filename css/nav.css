@@ -118,7 +118,7 @@
 .header-mobile{
     display:none;
    }
-@media (max-width: 1024px) { 
+@media (max-width: 3072px) {
     .header-desktop{
         display:none;
        }
