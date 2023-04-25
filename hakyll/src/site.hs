@@ -35,6 +35,7 @@ main = do
             .||. "media/img/*"
             .||. "media/posters/*"
             .||. "media/logos/*"
+            .||. "media/logos/sponsors/*"
             .||. "*.html"
           ) $ do
       route idRoute
