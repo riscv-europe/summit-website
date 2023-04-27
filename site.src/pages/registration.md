@@ -48,8 +48,8 @@ the week are presented in the table below. **Fees are ex-VAT 21%**.
     </tr>
     <tr>
       <th>Registration date</th>
-      <th colspan="2">&rarr; April 30</th>
-      <th colspan="2">May 1 &rarr; May 21</th>
+      <th colspan="2">&rarr; May 7th</th>
+      <th colspan="2">May 8 &rarr; May 21</th>
       <th colspan="2">May 22 &rarr; June 9</th>
     </tr>
     <tr>
