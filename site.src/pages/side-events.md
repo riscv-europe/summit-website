@@ -74,7 +74,7 @@ and lunch.
 <td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Women in tech](#women-in-tech)</td>
+<td style="background:white;"           rowspan="3">&nbsp;</td>
 </tr>
 <tr>
 <td>14:00</td>
@@ -92,7 +92,7 @@ and lunch.
 <td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Women in tech](#women-in-tech)</td>
+<td style="background:white;"           rowspan="3">&nbsp;</td>
 </tr>
 <tr>
 <td>16:00</td>
@@ -169,11 +169,6 @@ required to cover the costs of breaks and lunch.
 ### Red RISC-V
 
 Private meeting:
-
-
-### Women in Tech
-
-Open workshop:
 
 
 ### Open MPW
