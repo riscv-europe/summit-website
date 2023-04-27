@@ -140,6 +140,47 @@ inspiring insights from the world of opera for leaders in business &
 politics, coaches, teachers and students.*
 
 
+#### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
+
+Dominic Rizzo -- CEO zeroRISC
+Inc. [OpenTitan](https://www.opentitan.org) Project Director.
+
+**Abstract**
+
+OpenTitan brought a new level of transparency to secure silicon
+development with its first discrete chip design, freely available
+today. However, OpenTitan has always had broader goals than a single
+discrete silicon root of trust.
+
+This talk will discuss the entire OpenTitan family of permissively
+licensed design and verification IP in the broader context of creating
+a high quality open silicon ecosystem. I will review the current state
+of the project, both the upcoming commercial discrete device tapeout
+and forthcoming designs built from the OpenTitan IP ecosystem.
+
+I will explore our unique Silicon Commons approach to development
+across diverse partners and geographies, including how our governance
+model – hosted by the non-profit engineering firm, lowRISC C.I.C. –
+created a stable community development platform. Finally, I will
+present how our commitment to open development led to commercial and
+research innovations today, concretely demonstrating the value of
+implementation and development transparency
+
+*Bio*
+
+*Mr. Dominic Rizzo is CEO and co-founder of zeroRISC Inc., a RISC-V
+start-up working in the open source silicon space. He founded the
+OpenTitan project, the world’s first open source silicon root of trust
+design, and currently serves as its Project Director. He previously
+developed the first FIPS 140-2 certified Enterprise U2F Security Key,
+and has research interests in hardening silicon against physical
+attacks and side channels, trustworthy authenticators, and formal
+methods for proof of implementation correctness. He received his BS in
+Aerospace Engineering from the Massachusetts Institute of Technology
+and his MS in Computer Science from the California Institute of
+Technology.*
+
+
 #### Roland Weigand -- RISC-V: a Shooting Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
