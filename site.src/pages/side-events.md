@@ -168,7 +168,45 @@ required to cover the costs of breaks and lunch.
 
 ### Red RISC-V
 
-Private meeting:
+Open Workshop (in Spanish): **Kickoff meeting for the second edition of Red-RISCV.**
+
+Red-RISCV is a Spanish research, training and innovation
+network that targets new open architectures, with a focus on
+RISC-V. Its goal is to ensure that researchers, teachers, students and
+professionals join the momentum of this new emerging technology, that
+still lacks a critical mass of qualified personnel, development
+infrastructure and application. To do so, the aim is to bring together
+a critical mass of groups and individuals and to set a roadmap that
+projects our environment towards a sustainable ecosystem around RISC-V
+and open-source HW/SW.
+
+This meeting will mark the beginning of the second edition of the
+network and will feature a discussion regarding its tasks and duties,
+a technical talk, and a panel on financing opportunities in Spain
+within the PERTE program.
+
+Being a local meeting, sessions will be held in Spanish.
+
+ - 08:30 -- Red-RISCV: Breve introducción, resumen de la edición
+   anterior y Presentación de la nueva propuesta recientemente
+   aprovada. Espacio de análisis y propuestas para el desarrollo y
+   ejecución de la nueva edición de Red-RISCV.
+ - 09:45 -- Ponencia invitada: “Open hardware to build trusted and
+   verifiable chips“ Piedad Brox Jiménez, Instituto de
+   Microelectrónica de Sevilla (CSIC / Universidad de Sevilla)
+ - 10:30 -- Pausa-café
+ - 11:00 -- Mesa redonda sobre “El estado del PERTE-Chip,
+   expectativas, oportunidades y dificultades en formación,
+   investigación e innovación”.  Moderador: José Luis Bosque de
+   Univ. de Cantabria (Coordinador de Red-RISCV).
+   Ponentes:
+    - Teresa Riesgo (Secretaria General de Innovación del MICIN)
+    - Jaime Martorell (Comisionado para el PERTE-Chip) 
+    - Pedro Mier (Presidente de AMETIC)
+    - Mateo Valero (Director del BSC-CNS)
+    - Luis Fonseca (Director del IMB-CNM-CSIC)
+ - 12:30 -- Conclusiones y cierre de la jornada
+ - 12:40 -- Comida
 
 
 ### Open MPW
