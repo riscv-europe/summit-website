@@ -170,7 +170,7 @@ required to cover the costs of breaks and lunch.
 
 Open Workshop (in Spanish): **Kickoff meeting for the second edition of Red-RISCV.**
 
-Red-RISCV is a Spanish research, training and innovation
+[Red-RISCV](http://red-riscv.org) is a Spanish research, training and innovation
 network that targets new open architectures, with a focus on
 RISC-V. Its goal is to ensure that researchers, teachers, students and
 professionals join the momentum of this new emerging technology, that
