@@ -56,11 +56,11 @@ membership](https://riscv.org/membership) is required.
 <td rowspan="2" style="background:var(--riscv-lg);">CVA6</td>
 <tr>
 <td>15:30</td>
-<td style="background:var(--riscv-lp);">Cryptographic Extensions Task Group</td>
+<td style="background:var(--riscv-lp);">Cryptographic Extensions TG</td>
 <td rowspan="2" style="background:var(--riscv-ly);">ACT Plans and Challenges</td>
 </tr>
 <td>15:45</td>
-<td style="background:var(--riscv-lp);">Post-Quantum Cryptography (PQC)</td>
+<td style="background:var(--riscv-lp);">Post-Quantum Cryptography</td>
 <td>Break</td>
 <tr>
 <td>16:00</td>
@@ -68,7 +68,7 @@ membership](https://riscv.org/membership) is required.
 <td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
 <tr>
 <td>16:15</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Architectural Compatibility Test SIG</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Architectural Compatibility<br>Test SIG</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
 </tr>
 <tr>
