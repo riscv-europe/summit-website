@@ -9,7 +9,7 @@ Monday June 5th afternoon will be dedicated to Technical Working Group
  - [OpenHW Group](https://www.openhwgroup.org).
 
 The **preliminary schedule** of the meetings that will meet on Monday
-5th is provided listed below. The **final schedule**, and room numbers
+5th is provided below. The **final schedule**, and room numbers
 will be published in a few weeks.
 
 Please note that to attend TWG meetings organized by RISC-V
@@ -52,7 +52,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>15:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Code Size</td>
-<td rowspan="2" style="background:var(--riscv-ly);">Soc HC</td>
+<td rowspan="2" style="background:var(--riscv-ly);">SoC HC</td>
 </tr>
 <tr>
 <td>15:15</td>
