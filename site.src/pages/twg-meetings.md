@@ -5,6 +5,97 @@
 Monday June 5th afternoon will be dedicated to Technical Working Group
 (TWG) meetings from the RISC-V ecosystem.
 
+<table class="riscv-sb">
+<thead>
+<tr>
+<th>TWG</th>
+<th colspan="2">RISC-V International</th>
+<th>OpenHW Group</th>
+</tr>
+<tr>
+<th>Room</th>
+<th>(TBA)</th>
+<th>(TBA)</th>
+<th>(TBA)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<tr>
+<td>14:00</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Security HC</td>
+<td rowspan="2" style="background:var(--riscv-ly);">Data Centrer SIG</td>
+<td style="background:var(--riscv-lg);">Welcome -- Agenda Review</td>
+</tr>
+<tr>
+<td>14:15</td>
+<td rowspan="4" style="background:var(--riscv-lg);">Project Release Process<br>RTL Freeze Checklist</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td rowspan="2" style="background:var(--riscv-lp);">RVM-CSI</td>
+<td rowspan="2" style="background:var(--riscv-ly);">HPC SIG</td>
+<tr>
+<td>14:45</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Code Size</td>
+<td rowspan="2" style="background:var(--riscv-ly);">Soc HC</td>
+</tr>
+<tr>
+<td>15:15</td>
+<td rowspan="2" style="background:var(--riscv-lg);">CVA6</td>
+<tr>
+<td>15:30</td>
+<td style="background:var(--riscv-lp);">Cryptographic Extensions Task Group</td>
+<td rowspan="2" style="background:var(--riscv-ly);">ACT Plans and Challenges</td>
+</tr>
+<td>15:45</td>
+<td style="background:var(--riscv-lp);">Post-Quantum Cryptography (PQC)</td>
+<td>Break</td>
+<tr>
+<td>16:00</td>
+<td colspan="2">Break</td>
+<td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
+<tr>
+<td>16:15</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Architectural Compatibility Test SIG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
+</tr>
+<tr>
+<td>16:30</td>
+<td rowspan="4" style="background:var(--riscv-lg);">CV32E40Pv2</td>
+<tr>
+<td>16:45</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Automotive SIG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">SIG-SOFT-CPU</td>
+</tr>
+<tr>
+<td>17:00</td>
+</tr>
+<tr>
+<td>17:15</td>
+<td rowspan="2" style="background:var(--riscv-lp);">FP SIG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">Ambassadors</td>
+</tr>
+<tr>
+<td>17:30</td>
+<td rowspan="2" style="background:var(--riscv-lg);">CV-X-IF Project</td>
+</tr>
+<tr>
+<td>17:45</td>
+<td>Closing</td>
+<td>Closing</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td colspan="2">&nbsp;</td>
+<td>Closing</td>
+</tr>
+</tbody>
+</table>
+
 <!-- Please note that to attend TWG meetings organized by RISC-V -->
 <!-- International, [personal or corporate -->
 <!-- membership](https://riscv.org/membership) is required. -->
