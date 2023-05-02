@@ -3,7 +3,10 @@
 ## Technical Working Group Meetings
 
 Monday June 5th afternoon will be dedicated to Technical Working Group
-(TWG) meetings from the RISC-V ecosystem.
+(TWG) meetings, organized by:
+
+ - [RISC-V International](https://riscv.org).
+ - [OpenHW Group](https://www.openhwgroup.org).
 
 The **preliminary schedule** of the meetings that will meet on Monday
 5th is provided listed below. The **final schedule**, and room numbers
