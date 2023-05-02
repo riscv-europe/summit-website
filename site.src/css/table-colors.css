@@ -7,8 +7,8 @@ table.riscv-bb {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-bb td {
@@ -34,8 +34,8 @@ table.riscv-sy {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-sy td {
@@ -67,8 +67,8 @@ table.riscv-sb {
   border-color: var(--riscv-sb);
   border-style: solid;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-sb td {
@@ -103,8 +103,8 @@ table.riscv-sg {
   border-style: solid;
   color: #ffffff;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-sg td {
@@ -137,8 +137,8 @@ table.riscv-sp {
   border-style: solid;
   color: #ffffff;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-sp td {
@@ -171,8 +171,8 @@ table.riscv-sv {
   border-style: solid;
   color: #ffffff;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-sv td {
@@ -205,8 +205,8 @@ table.riscv-sy {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-sy td {
@@ -239,8 +239,8 @@ table.riscv-ly {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-ly td {
@@ -273,8 +273,8 @@ table.riscv-lb {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-lb td {
@@ -307,8 +307,8 @@ table.riscv-lg {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-lg td {
@@ -341,8 +341,8 @@ table.riscv-lp {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-lp td {
@@ -375,8 +375,8 @@ table.riscv-lv {
   border-style: solid;
   color: #000000;
   text-align:center;
-  margin-left:15%;
-  margin-right:15%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 table.riscv-lv td {
