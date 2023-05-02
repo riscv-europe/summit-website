@@ -5,6 +5,14 @@
 Monday June 5th afternoon will be dedicated to Technical Working Group
 (TWG) meetings from the RISC-V ecosystem.
 
+The **preliminary schedule** of the meetings that will meet on Monday
+5th is provided listed below. The **final schedule**, and room numbers
+will be published in a few weeks.
+
+Please note that to attend TWG meetings organized by RISC-V
+International, a [personal or corporate
+membership](https://riscv.org/membership) is required.
+
 <table class="riscv-sb">
 <thead>
 <tr>
@@ -95,14 +103,6 @@ Monday June 5th afternoon will be dedicated to Technical Working Group
 </tr>
 </tbody>
 </table>
-
-<!-- Please note that to attend TWG meetings organized by RISC-V -->
-<!-- International, [personal or corporate -->
-<!-- membership](https://riscv.org/membership) is required. -->
-
-<!-- The groups that will meet on Monday 5th afternoon are listed below. A -->
-<!-- detailled schedule, with actual time and room number for each meeting, -->
-<!-- will be published in a few weeks. -->
 
 <!-- ### Security Horizontal Committee (Security HC) -->
 
