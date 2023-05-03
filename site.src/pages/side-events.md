@@ -31,7 +31,7 @@ and lunch.
 <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Open Source Chips](#fossi-foundation-tiny-tapeout)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td>
 </tr>
@@ -50,7 +50,7 @@ and lunch.
 <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Open MPW](#open-mpw)</td>
+<td style="background:var(--riscv-ly);" rowspan="3">[Open Source Chips](#fossi-foundation-tiny-tapeout)</td>
 <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
 <td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td>
 </tr>
