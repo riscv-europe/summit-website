@@ -77,17 +77,46 @@ TBD.
 TBD.
 
 
-#### PhD Thierry Collette -- (Title TBA)
+#### PhD Thierry Collette -- 4 years of Open Source RISC-V at Thales
 
-PhD Thierry Collette -- [Thales Research & Technology](https://www.thalesgroup.com/en/global/innovation/research-and-technology) (France).
+PhD Thierry Collette -- Director, Information Sciences and Techniques
+Research Group, [Thales Research & Technology
+France](https://www.thalesgroup.com).
 
 **Abstract**
 
-TBD.
+Thales has identified RISC-V as a great opportunity to master the
+performance, safety, security and certification of its solutions and
+has decided to actively contribute to these open source initiatives at
+different levels. After 4 years of Thales involvement, the
+opportunities of this technology are more important, the industrial
+ecosystem is being built and already products are being designed that
+take into account the use of RISC-V. Thales' involvement in the OpenHW
+Group has collectively enabled the emergence of the CVA6
+processor. Nevertheless, we must continue to meet the other challenges
+linked to this adventure, and thanks to the support of the European
+public authorities, we will be able to develop the ecosystem to
+integrate these new components into products more quickly. Finally,
+the new freedom to refine processor architectures offers new
+opportunities to address our future applications.
 
 *Bio*
 
-TBD.
+*Thierry Collette is director of the Information Sciences and
+Techniques research group at Thales Research and Technology. The group
+focuses on disruptive technologies such as embedded and trusted AI,
+open hardware, continuum computing, quantum computing, etc, in order
+to facilitate their adoption and integration into future Thales
+products. Previously, Thierry Collette led the technology development
+division for embedded computing and components at CEA Leti & List for
+eight years. He contributed to set up the European Processor
+Initiative (EPI) in cooperation with industrial and academic
+partners. Previously, he was deputy director in charge of programs and
+strategy at CEA List. He holds several patents on multi-core
+architectures and has contributed to the creation of more than 10
+startups, including Kalray and SiPearl. He holds an engineering degree
+in computer science and electrical engineering and a PhD in
+microelectronics.*
 
 
 #### Patrick Pype -- TRISTAN: Together for RISc-v Technology and ApplicatioNs
