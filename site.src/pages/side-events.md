@@ -209,10 +209,27 @@ Being a local meeting, sessions will be held in Spanish.
  - 12:40 -- Comida
 
 
-### Open MPW
+### FOSSi Foundation & Tiny Tapeout
 
-Open workshop:
+Open workshop: **Open Source Chips with Open Source Tools**
 
+This workshop will demonstrate the advances and recent developments of Open
+Source PDKs and tapeouts of open source chips with open source tools.
+
+Sessions:
+
+- Recent highlights in open source chip design and tapeouts, Matt Venn
+- Tiny Tapeout workshop, Matt Venn
+- tbd, Frank Vater
+- FOSSi Foundation helps building open source ecosystems, Stefan Wallentowitz
+
+Participation to the meeting is free of charge, but
+[registration](registration.html) for the *Friday 9 Side Events* is required to
+cover the costs of breaks and lunch.
+
+Also, please register your attendance here, so that we can share more details
+about the workshop with you: [Sign-Up for event
+updates](https://forms.gle/xBggWVoPmXT3iZzQ8).
 
 ### OpenHW Group WS
 
