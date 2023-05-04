@@ -64,17 +64,34 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 2023 IEEE CS Edward J. McCluskey award.*
 
 
-#### Alex Bradbudy -- (Title TBA)
+#### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
 
-[Alex Bradbury](https://asbradbury.org) -- [Igalia](https://www.igalia.com) (UK).
+[Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
 
 **Abstract**
 
-TBD.
+The ongoing development and maturation of RISC-V LLVM support has been
+a major success story for RISC-V software ecosystem enablement through
+cross-party collaboration. This talk will bring you up to date on the
+current status of that effort (both for scalar and vector instruction
+set extensions), highlighting some of the more interesting challenges
+along the way. Looking to the future, we'll explore how the nature of
+LLVM development for RISC-V is changing as support for the standard
+ratified extensions matures, more hardware reaches the market, and as
+RISC-V support is added for additional LLVM project tools and
+sub-projects beyond the backend and the Clang C/C++ frontend.
 
 *Bio*
 
-TBD.
+*Alex Bradbury is a compiler engineer at
+[Igalia](https://www.igalia.com), working within a growing LLVM
+sub-team largely focused on RISC-V compiler support. He has been
+heavily involved in the RISC-V ecosystem since its inception, working
+across the hardware and software stack, previously co-founding lowRISC
+CIC. He initiated the upstream RISC-V LLVM backend implementation,
+authoring the initial patchset, acting as upstream code owner, and
+collaborating with a growing set of contributors. Alex is also well
+known within the LLVM community for the LLVM Weekly newsletter.*
 
 
 #### PhD Thierry Collette -- 4 years of Open Source RISC-V at Thales
