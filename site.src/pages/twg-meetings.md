@@ -94,7 +94,7 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>17:45</td>
-<td rowspan="2" style="background:var(--riscv-ly);">ACT Plans and Challenges</td>
+<td rowspan="2" style="background:var(--riscv-lp);">ACT Plans and Challenges</td>
 <td>Closing</td>
 </tr>
 <tr>
