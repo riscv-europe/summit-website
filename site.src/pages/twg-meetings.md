@@ -35,7 +35,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>14:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Security HC</td>
-<td rowspan="2" style="background:var(--riscv-ly);">Data Centrer SIG</td>
+<td rowspan="4" style="background:var(--riscv-ly);">Ambassadors<br>Megan Lehn</td>
 <td style="background:var(--riscv-lg);">Welcome -- Agenda Review</td>
 </tr>
 <tr>
@@ -45,25 +45,23 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>14:30</td>
 <td rowspan="2" style="background:var(--riscv-lp);">RVM-CSI</td>
-<td rowspan="2" style="background:var(--riscv-ly);">HPC SIG</td>
 <tr>
 <td>14:45</td>
 </tr>
 <tr>
 <td>15:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Code Size</td>
-<td rowspan="2" style="background:var(--riscv-ly);">SoC HC</td>
+<td rowspan="2" style="background:var(--riscv-ly);">Data Centrer SIG</td>
 </tr>
 <tr>
 <td>15:15</td>
 <td rowspan="2" style="background:var(--riscv-lg);">CVA6</td>
 <tr>
 <td>15:30</td>
-<td style="background:var(--riscv-lp);">Cryptographic Extensions TG</td>
-<td rowspan="2" style="background:var(--riscv-ly);">ACT Plans and Challenges</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Cryptographic Extensions TG<br>Post-Quantum Cryptography</td>
+<td rowspan="2" style="background:var(--riscv-ly);">HPC SIG</td>
 </tr>
 <td>15:45</td>
-<td style="background:var(--riscv-lp);">Post-Quantum Cryptography</td>
 <td>Break</td>
 <tr>
 <td>16:00</td>
@@ -72,7 +70,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>16:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Architectural Compatibility<br>Test SIG</td>
-<td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">SoC HC</td>
 </tr>
 <tr>
 <td>16:30</td>
@@ -80,7 +78,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>16:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Automotive SIG</td>
-<td rowspan="2" style="background:var(--riscv-ly);">SIG-SOFT-CPU</td>
+<td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
 </tr>
 <tr>
 <td>17:00</td>
@@ -88,7 +86,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>17:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">FP SIG</td>
-<td rowspan="2" style="background:var(--riscv-ly);">Ambassadors</td>
+<td rowspan="2" style="background:var(--riscv-ly);">SIG-SOFT-CPU</td>
 </tr>
 <tr>
 <td>17:30</td>
@@ -96,13 +94,18 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>17:45</td>
-<td>Closing</td>
+<td rowspan="2" style="background:var(--riscv-ly);">ACT Plans and Challenges</td>
 <td>Closing</td>
 </tr>
 <tr>
 <td>18:00</td>
-<td colspan="2">&nbsp;</td>
+<td rowspan="2">&nbsp;</td>
 <td>Closing</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td>Closing</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
