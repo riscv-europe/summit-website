@@ -84,7 +84,7 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>17:15</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Floating-Point SIG</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[Floating-Point SIG](#floating-point-sig)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SIG-SOFT-CPU</td>
 </tr>
 <tr>
@@ -208,3 +208,11 @@ strategic input into activities enabling or accelerating adoption of
 RISC-V related technology in the Automotive industry.
 
 More info at <https://lists.riscv.org/g/sig-automotive>.
+
+
+### Floating-Point SIG
+
+The *Floating Point (FP) SIG* will manage the existing FP formats and
+evaluate emerging formats for inclusion in the RISC-V architecture.
+
+More info at <https://lists.riscv.org/g/sig-fp>.
