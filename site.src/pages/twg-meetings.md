@@ -75,7 +75,7 @@ membership](https://riscv.org/membership) is required.
 <td>16:30</td>
 <tr>
 <td>16:45</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Automotive SIG</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[Automotive SIG](#automotive-sig)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
 <td rowspan="4" style="background:var(--riscv-lg);">CV32E40Pv2</td>
 </tr>
@@ -199,3 +199,12 @@ requirements for RV32I compliance tests, release compliance test
 format spec, release compliance suite for RV32I.
 
 More info at <https://lists.riscv.org/g/sig-arch-test>.
+
+
+### Automotive SIG
+
+The *Automotive SIG* provides a global forum for technical and
+strategic input into activities enabling or accelerating adoption of
+RISC-V related technology in the Automotive industry.
+
+More info at <https://lists.riscv.org/g/sig-automotive>.
