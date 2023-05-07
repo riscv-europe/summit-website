@@ -17,17 +17,41 @@ during these three days.
 
 ### Keynotes Speakers
 
-#### Dr Yungang Bao -- (Title TBA).
+#### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
 
-[Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- [Center for Advanced Computer Systems (ACS)](http://acs.ict.ac.cn) (Beijing, China).
+[Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- Secretary-General,
+[China RISC-V Alliance (CRVA)](http://crva.ict.ac.cn), Chief
+Scientist, [Beijing Institute of Open-Source Chip
+(BOSC)](https://www.bosc.ac.cn).
 
 **Abstract**
 
-TBD.
+RISC-V has made a significant impact on the chip industry and academia
+all over the world. China’s RISC-V community shares the same goals of
+building a shared global RISC-V ecosystem and has been one of the main
+contributors to the RISC-V ecosystem. In this talk, I will first
+summarize the status of RISC-V in China and then introduce two
+specific projects towards building an open-source chip ecosystem: (1)
+The XiangShan project targets an open-source high-performance RISC-V
+core (https://github.com/OpenXiangShan/XiangShan); (2) The One Student
+One Chip (OSOC) Initiative aims to train undergraduates by building
+real RISC-V chips and has already attracted about 3000 participants
+from 300+ universities.
 
 *Bio*
 
-TBD.
+*Yungang Bao is a professor of Institute of Computing Technology
+(ICT), Chinese Academy of Sciences (CAS) and is the deputy director of
+ICT, CAS. He also serves as Chief Scientist of Beijing Institute of
+Open Source Chip (BOSC) and BoD/TSC member of RISC-V International. He
+founded the China RSIC-V Alliance (CRVA) and serves as the
+secretary-general of CRVA. His prior research works have been adopted
+by Alibaba, Huawei, Intel and Microsoft etc. Over the past years, he
+has been leading the XiangShan project and the One Student One Chip
+(OSOC) Initiative. He was the winner of CCF-Intel Young Faculty Award
+of the year for 2013 and the winner of CCF-IEEE CS Young Computer
+Scientist Award and China’s National Lofty Honor for Youth under 40 of
+the year for 2019.*
 
 #### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
