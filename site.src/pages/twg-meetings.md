@@ -50,7 +50,7 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>15:00</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Code Size</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[Code Size](#code-size)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">Data Centrer SIG</td>
 </tr>
 <tr>
@@ -138,3 +138,16 @@ The *RISC-V Common Software Interface (RVM-CSI) Special Interest Group
 Common Software Interface (CSI) for RISC-V Microcontrollers.
 
 More info at <https://lists.riscv.org/g/sig-rvm-csi>.
+
+### Code Size
+
+The *Code Size Reduction TG* will develop a holistic solution to
+reducing code size, covering different profiles to be competitive with
+other core implementations of other architectures of a similar class.
+
+Priority is given to small embedded cores which often have very
+constrained memory sizes and so code size reduction is most important
+for cost reduction. Larger/higher performance cores will also benefit
+from reduced code size.
+
+More info at <https://lists.riscv.org/g/tech-code-size>.
