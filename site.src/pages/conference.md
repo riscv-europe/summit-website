@@ -297,3 +297,15 @@ Microelectronics Engineer. In charge of various IC development
 projects, a predominant topic are standard microprocessors and SoC’s
 built around microprocessor cores, as well as radiation-hard design
 methodology.*
+
+#### Matthew Xuereb -- (TBA).
+
+[Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172) -- Policy Officer, European Commission / [DG Communications Networks, Content and Technology](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/communications-networks-content-and-technology_en) / [Unit A3 Microelectronics and Photonics Industry](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_241435)
+
+**Abstract**
+
+TBD.
+
+*Bio*
+
+TBD.
