@@ -44,7 +44,7 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>14:30</td>
-<td rowspan="2" style="background:var(--riscv-lp);">RVM-CSI</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[RVM-CSI](#rvm-csi)</td>
 <tr>
 <td>14:45</td>
 </tr>
@@ -130,3 +130,11 @@ The main goals of the *Security Horizontal Committee* are:
    and embedded systems
 
 More info at <https://lists.riscv.org/g/security>.
+
+### RVM-CSI
+
+The *RISC-V Common Software Interface (RVM-CSI) Special Interest Group
+(SIG)* drives the strategy and coordinates the development of RISC-V’s
+Common Software Interface (CSI) for RISC-V Microcontrollers.
+
+More info at <https://lists.riscv.org/g/sig-rvm-csi>.
