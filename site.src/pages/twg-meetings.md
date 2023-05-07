@@ -34,7 +34,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <tr>
 <td>14:00</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Security HC</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[Security HC](#security-hc)</td>
 <td rowspan="4" style="background:var(--riscv-ly);">Ambassadors<br>Megan Lehn</td>
 <td style="background:var(--riscv-lg);">Welcome -- Agenda Review</td>
 </tr>
@@ -109,3 +109,18 @@ membership](https://riscv.org/membership) is required.
 </table>
 
 
+## RISC-V International WG Meetings
+
+### Security HC
+
+The main goals of the *Security Horizontal Committee* are:
+
+ - Promote RISC-V as an ideal vehicle for the security community
+ - Liaise with other internal RISC V committees and with external security committees
+ - Create an information repository on new attack trends, threats and countermeasures
+ - Identify top 10 open challenges in security for the RISC-V community to address
+ - Propose security committees (Marketing or Technical) to tackle specific security topics
+ - Recruit security talent to the RISC-V ecosystem (e.g., into committees)
+ - Develop consensus around best security practices for IoT devices and embedded systems
+
+Link: <https://lists.riscv.org/g/security>
