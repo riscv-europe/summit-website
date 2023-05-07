@@ -58,7 +58,7 @@ membership](https://riscv.org/membership) is required.
 <td rowspan="3" style="background:var(--riscv-lg);">CVA6</td>
 <tr>
 <td>15:30</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Cryptographic Extensions TG<br>Post-Quantum Cryptography</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[Cryptographic Extensions TG](#cryptographic-extensions-tg)<br>[Post-Quantum Cryptography](#post-quantum-cryptography)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">HPC SIG</td>
 </tr>
 <td>15:45</td>
@@ -154,3 +154,38 @@ for cost reduction. Larger/higher performance cores will also benefit
 from reduced code size.
 
 More info at <https://lists.riscv.org/g/tech-code-size>.
+
+
+### Cryptographic Extensions TG
+
+The *Cryptographic Extensions Task Group* will propose ISA extensions
+to the vector extensions for the standardized and secure execution of
+popular cryptography algorithms.  To ensure that processor
+implementers are able to support a wide range of performance and
+security levels the committee will create a base and an extended
+specification. The base will be comprised of low-cost instructions
+that are useful for the acceleration of common algorithms. The
+extended specification will include greater functionality, reserve
+encodings for more algorithms, and will facilitate improved security
+of execution and higher performance.  The scope will include symmetric
+and asymmetric cryptographic algorithms and related primitives such as
+message digests.
+
+The committee will also make ISA extension proposals for lightweight
+scalar instructions for 32 and 64 bit machines that improve the
+performance and reduce the code size required for software execution
+of common algorithms like AES and SHA and lightweight algorithms like
+PRESENT and GOST, as well as ISA proposals regarding the use of random
+bits and secure key management.
+
+More info at <https://wiki.riscv.org/display/HOME/Cryptographic+Extensions+TG>.
+
+### Post-Quantum Cryptography
+
+The *Post-Quantum Cryptography* explore and recommend RISC-V
+Instruction Set Architecture (ISA) Extensions that enhance performance
+and implementation efficiency for contemporary public-key
+cryptography, with a focus on standard Post-Quantum Cryptography
+algorithms like Kyber, Dilithium, and others.
+
+More info at <https://lists.riscv.org/g/tech-pqc-cryptography>.
