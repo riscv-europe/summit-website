@@ -67,7 +67,7 @@ membership](https://riscv.org/membership) is required.
 <td colspan="3">Break</td>
 <tr>
 <td>16:15</td>
-<td rowspan="2" style="background:var(--riscv-lp);">Architectural Compatibility<br>Test SIG</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[Architectural Compatibility<br>Test SIG](#architectural-compatibility-test-sig)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SoC HC</td>
 <td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
 </tr>
@@ -190,3 +190,12 @@ cryptography, with a focus on standard Post-Quantum Cryptography
 algorithms like Kyber, Dilithium, and others.
 
 More info at <https://lists.riscv.org/g/tech-pqc-cryptography>.
+
+
+### Architectural Compatibility Test SIG
+
+The *Architectural Compatibility Test SIG* defines coverage
+requirements for RV32I compliance tests, release compliance test
+format spec, release compliance suite for RV32I.
+
+More info at <https://lists.riscv.org/g/sig-arch-test>.
