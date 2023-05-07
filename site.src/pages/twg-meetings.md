@@ -84,7 +84,7 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>17:15</td>
-<td rowspan="2" style="background:var(--riscv-lp);">FP SIG</td>
+<td rowspan="2" style="background:var(--riscv-lp);">Floating-Point SIG</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SIG-SOFT-CPU</td>
 </tr>
 <tr>
