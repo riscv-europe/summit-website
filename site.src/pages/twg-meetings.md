@@ -116,11 +116,17 @@ membership](https://riscv.org/membership) is required.
 The main goals of the *Security Horizontal Committee* are:
 
  - Promote RISC-V as an ideal vehicle for the security community
- - Liaise with other internal RISC V committees and with external security committees
- - Create an information repository on new attack trends, threats and countermeasures
- - Identify top 10 open challenges in security for the RISC-V community to address
- - Propose security committees (Marketing or Technical) to tackle specific security topics
- - Recruit security talent to the RISC-V ecosystem (e.g., into committees)
- - Develop consensus around best security practices for IoT devices and embedded systems
+ - Liaise with other internal RISC V committees and with external
+   security committees
+ - Create an information repository on new attack trends, threats and
+   countermeasures
+ - Identify top 10 open challenges in security for the RISC-V
+   community to address
+ - Propose security committees (Marketing or Technical) to tackle
+   specific security topics
+ - Recruit security talent to the RISC-V ecosystem (e.g., into
+   committees)
+ - Develop consensus around best security practices for IoT devices
+   and embedded systems
 
-Link: <https://lists.riscv.org/g/security>
+More info at <https://lists.riscv.org/g/security>.
