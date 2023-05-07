@@ -55,30 +55,29 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>15:15</td>
-<td rowspan="2" style="background:var(--riscv-lg);">CVA6</td>
+<td rowspan="3" style="background:var(--riscv-lg);">CVA6</td>
 <tr>
 <td>15:30</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Cryptographic Extensions TG<br>Post-Quantum Cryptography</td>
 <td rowspan="2" style="background:var(--riscv-ly);">HPC SIG</td>
 </tr>
 <td>15:45</td>
-<td>Break</td>
 <tr>
 <td>16:00</td>
-<td colspan="2">Break</td>
-<td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
+<td colspan="3">Break</td>
 <tr>
 <td>16:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Architectural Compatibility<br>Test SIG</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SoC HC</td>
+<td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
 </tr>
 <tr>
 <td>16:30</td>
-<td rowspan="4" style="background:var(--riscv-lg);">CV32E40Pv2</td>
 <tr>
 <td>16:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">Automotive SIG</td>
 <td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
+<td rowspan="4" style="background:var(--riscv-lg);">CV32E40Pv2</td>
 </tr>
 <tr>
 <td>17:00</td>
@@ -90,22 +89,21 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>17:30</td>
-<td rowspan="2" style="background:var(--riscv-lg);">CV-X-IF Project</td>
 </tr>
 <tr>
 <td>17:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">ACT Plans and Challenges</td>
 <td>Closing</td>
+<td rowspan="2" style="background:var(--riscv-lg);">CV-X-IF Project</td>
 </tr>
 <tr>
 <td>18:00</td>
 <td rowspan="2">&nbsp;</td>
-<td>Closing</td>
 </tr>
 <tr>
 <td>18:15</td>
 <td>Closing</td>
-<td>&nbsp;</td>
+<td>Closing</td>
 </tr>
 </tbody>
 </table>
