@@ -152,7 +152,7 @@ Project Release Process<br>RTL Freeze Checklist
 15:00
 </td>
 <td rowspan="2" style="background:var(--riscv-lp);">
-Code Size
+<a href="#code-size">Code Size</a>
 </td>
 <td rowspan="2" style="background:var(--riscv-ly);">
 Data Centrer SIG
@@ -170,7 +170,7 @@ CVA6
 15:30
 </td>
 <td rowspan="2" style="background:var(--riscv-lp);">
-Cryptographic Extensions TG<br>Post-Quantum Cryptography
+<a href="#cryptographic-extensions-tg">Cryptographic Extensions TG</a><br><a href="#post-quantum-cryptography">Post-Quantum Cryptography</a>
 </td>
 <td rowspan="2" style="background:var(--riscv-ly);">
 HPC SIG
@@ -191,7 +191,7 @@ Break
 16:15
 </td>
 <td rowspan="2" style="background:var(--riscv-lp);">
-Architectural Compatibility<br>Test SIG
+<a href="#architectural-compatibility-test-sig">Architectural Compatibility<br>Test SIG</a>
 </td>
 <td rowspan="2" style="background:var(--riscv-ly);">
 SoC HC
@@ -209,7 +209,7 @@ Verification Task Group
 16:45
 </td>
 <td rowspan="2" style="background:var(--riscv-lp);">
-Automotive SIG
+<a href="#automotive-sig">Automotive SIG</a>
 </td>
 <td rowspan="2" style="background:var(--riscv-ly);">
 SSLP-TG
@@ -228,7 +228,7 @@ CV32E40Pv2
 17:15
 </td>
 <td rowspan="2" style="background:var(--riscv-lp);">
-Floating-Point SIG
+<a href="#floating-point-sig">Floating-Point SIG</a>
 </td>
 <td rowspan="2" style="background:var(--riscv-ly);">
 SIG-SOFT-CPU
@@ -290,6 +290,26 @@ Closing
 <h3 id="rvm-csi">RVM-CSI</h3>
 <p>The <em>RISC-V Common Software Interface (RVM-CSI) Special Interest Group (SIG)</em> drives the strategy and coordinates the development of RISC-V’s Common Software Interface (CSI) for RISC-V Microcontrollers.</p>
 <p>More info at <a href="https://lists.riscv.org/g/sig-rvm-csi" class="uri">https://lists.riscv.org/g/sig-rvm-csi</a>.</p>
+<h3 id="code-size">Code Size</h3>
+<p>The <em>Code Size Reduction TG</em> will develop a holistic solution to reducing code size, covering different profiles to be competitive with other core implementations of other architectures of a similar class.</p>
+<p>Priority is given to small embedded cores which often have very constrained memory sizes and so code size reduction is most important for cost reduction. Larger/higher performance cores will also benefit from reduced code size.</p>
+<p>More info at <a href="https://lists.riscv.org/g/tech-code-size" class="uri">https://lists.riscv.org/g/tech-code-size</a>.</p>
+<h3 id="cryptographic-extensions-tg">Cryptographic Extensions TG</h3>
+<p>The <em>Cryptographic Extensions Task Group</em> will propose ISA extensions to the vector extensions for the standardized and secure execution of popular cryptography algorithms. To ensure that processor implementers are able to support a wide range of performance and security levels the committee will create a base and an extended specification. The base will be comprised of low-cost instructions that are useful for the acceleration of common algorithms. The extended specification will include greater functionality, reserve encodings for more algorithms, and will facilitate improved security of execution and higher performance. The scope will include symmetric and asymmetric cryptographic algorithms and related primitives such as message digests.</p>
+<p>The committee will also make ISA extension proposals for lightweight scalar instructions for 32 and 64 bit machines that improve the performance and reduce the code size required for software execution of common algorithms like AES and SHA and lightweight algorithms like PRESENT and GOST, as well as ISA proposals regarding the use of random bits and secure key management.</p>
+<p>More info at <a href="https://wiki.riscv.org/display/HOME/Cryptographic+Extensions+TG" class="uri">https://wiki.riscv.org/display/HOME/Cryptographic+Extensions+TG</a>.</p>
+<h3 id="post-quantum-cryptography">Post-Quantum Cryptography</h3>
+<p>The <em>Post-Quantum Cryptography</em> explore and recommend RISC-V Instruction Set Architecture (ISA) Extensions that enhance performance and implementation efficiency for contemporary public-key cryptography, with a focus on standard Post-Quantum Cryptography algorithms like Kyber, Dilithium, and others.</p>
+<p>More info at <a href="https://lists.riscv.org/g/tech-pqc-cryptography" class="uri">https://lists.riscv.org/g/tech-pqc-cryptography</a>.</p>
+<h3 id="architectural-compatibility-test-sig">Architectural Compatibility Test SIG</h3>
+<p>The <em>Architectural Compatibility Test SIG</em> defines coverage requirements for RV32I compliance tests, release compliance test format spec, release compliance suite for RV32I.</p>
+<p>More info at <a href="https://lists.riscv.org/g/sig-arch-test" class="uri">https://lists.riscv.org/g/sig-arch-test</a>.</p>
+<h3 id="automotive-sig">Automotive SIG</h3>
+<p>The <em>Automotive SIG</em> provides a global forum for technical and strategic input into activities enabling or accelerating adoption of RISC-V related technology in the Automotive industry.</p>
+<p>More info at <a href="https://lists.riscv.org/g/sig-automotive" class="uri">https://lists.riscv.org/g/sig-automotive</a>.</p>
+<h3 id="floating-point-sig">Floating-Point SIG</h3>
+<p>The <em>Floating Point (FP) SIG</em> will manage the existing FP formats and evaluate emerging formats for inclusion in the RISC-V architecture.</p>
+<p>More info at <a href="https://lists.riscv.org/g/sig-fp" class="uri">https://lists.riscv.org/g/sig-fp</a>.</p>
     </div>
 
     <div style="width: 100%; text-align: center;">
@@ -332,7 +352,7 @@ Closing
 	  and <a href="http://johnmacfarlane.net/pandoc">pandoc</a>.
 	</span>
 	<span style="float: right;">
-	   Page last updated on <a href="https://github.com/riscv-europe/summit-website">2023-05-07T18:45:17+02:00</a>. 
+	   Page last updated on <a href="https://github.com/riscv-europe/summit-website">2023-05-07T19:06:35+02:00</a>. 
 	</span>
 	<p>&nbsp;</p>
       </div>
