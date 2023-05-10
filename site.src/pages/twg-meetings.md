@@ -68,7 +68,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>16:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Architectural Compatibility<br>Test SIG](#architectural-compatibility-test-sig)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">SoC HC</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[SoC HC](#soc-hc)</td>
 <td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
 </tr>
 <tr>
@@ -247,3 +247,18 @@ More info at <https://lists.riscv.org/g/sig-datacenter> and
 Special Interest Group on *High-Performance Computing* (HPC).
 
 More info at <https://lists.riscv.org/g/sig-hpc>.
+
+
+### SoC HC
+
+The *System on Chip (SoC) infrastructure Horizontal Committee*
+contains but not limited to the components that straddle the
+hardware/software boundary and are necessary to boot and operate
+systems in every product from IOT/embedded through Data Center/Cloud
+and beyond. By their nature these components are also often matrixed
+into other committees pertaining to security, RAS, platforms, etc. The
+intent is to provide a robust set of specifications that product
+implementer's need to be successful while minimizing duplication of
+effort and fragmentation of design choices in the RISC-V community.
+
+More info at <https://lists.riscv.org/g/soc-infra>.
