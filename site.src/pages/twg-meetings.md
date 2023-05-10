@@ -76,7 +76,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>16:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Automotive SIG](#automotive-sig)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">SSLP-TG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[Shadow Stack & Landing Pads<br>Task Group (SSLP-TG)](#shadow-stack-and-landing-pads-task-group)</td>
 <td rowspan="4" style="background:var(--riscv-lg);">CV32E40Pv2</td>
 </tr>
 <tr>
@@ -262,3 +262,19 @@ implementer's need to be successful while minimizing duplication of
 effort and fragmentation of design choices in the RISC-V community.
 
 More info at <https://lists.riscv.org/g/soc-infra>.
+
+
+### Shadow Stack and Landing Pads Task Group
+
+The *Shadow Stack and Landing Pads for Control Flow Integrity
+(SSLP-CFI)* task group will define privileged and unprivileged ISA
+extensions that can be used by privileged and unprivileged programs to
+protect the integrity of their control-flow. Specifically, for
+protecting backward-edges we will define a shadow stack for storing
+return-addresses in each privilege level. For protecting forward-edges
+we will design a flexible label based landing pads approach which will
+ensure that the execution adheres to the application’s Control-Flow
+Graph. The design will follow the threat model compiled in CFI-SIG and
+will be updated on demand.
+
+More info at <https://lists.riscv.org/g/tech-ss-lp-cfi>.
