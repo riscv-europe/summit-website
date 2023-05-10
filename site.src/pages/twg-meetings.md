@@ -92,7 +92,7 @@ membership](https://riscv.org/membership) is required.
 </tr>
 <tr>
 <td>17:45</td>
-<td rowspan="2" style="background:var(--riscv-lp);">ACT Plans and Challenges</td>
+<td rowspan="2" style="background:var(--riscv-lp);">[ACT Plans and Challenges](#act-plans-and-challenges)</td>
 <td>Closing</td>
 <td rowspan="2" style="background:var(--riscv-lg);">CV-X-IF Project</td>
 </tr>
@@ -216,3 +216,7 @@ The *Floating Point (FP) SIG* will manage the existing FP formats and
 evaluate emerging formats for inclusion in the RISC-V architecture.
 
 More info at <https://lists.riscv.org/g/sig-fp>.
+
+### ACT Plans and Challenges
+
+(TBD).
