@@ -35,7 +35,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>14:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Security HC](#security-hc)</td>
-<td rowspan="4" style="background:var(--riscv-ly);">[Ambassadors<br>Megan Lehn](#ambassadors-megan-lehn)</td>
+<td rowspan="4" style="background:var(--riscv-ly);">[RISC-V<br>Ambassadors](#risc-v-ambassadors)</td>
 <td style="background:var(--riscv-lg);">Welcome -- Agenda Review</td>
 </tr>
 <tr>
@@ -223,7 +223,9 @@ More info at <https://lists.riscv.org/g/sig-fp>.
 (TBD).
 
 
-### Ambassadors Megan Lehn
+### RISC-V Ambassadors
+
+Run by Ms Megan Lehn (RISC-V International).
 
 (TBD).
 
