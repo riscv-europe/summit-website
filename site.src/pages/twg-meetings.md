@@ -51,7 +51,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>15:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Code Size](#code-size)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">Data Centrer SIG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[Data Centrer SIG](#data-center-sig)</td>
 </tr>
 <tr>
 <td>15:15</td>
@@ -226,3 +226,15 @@ More info at <https://lists.riscv.org/g/sig-fp>.
 ### Ambassadors Megan Lehn
 
 (TBD).
+
+
+### Data Center SIG
+
+The *Data center SIG* will provide strategy and oversight for
+technology sectors encompassing multiple industries and extensions in
+Datacenter & Cloud Computing. This SIG will identify gaps across
+industries and RISC-V groups and create TGs that will address these
+gaps.
+
+More info at <https://lists.riscv.org/g/sig-datacenter> and
+<https://github.com/riscv-admin/datacenter/blob/main/CHARTER.md>.
