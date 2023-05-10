@@ -13,7 +13,7 @@ and lunch.
 
 ### Side events schedule and location
 
-<table class="riscv-sb">
+<table class="riscv-sb" style="width:95%;">
 <thead>
 <tr>
 <th>Room</th>
