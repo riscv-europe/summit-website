@@ -280,7 +280,7 @@ will be updated on demand.
 More info at <https://lists.riscv.org/g/tech-ss-lp-cfi>.
 
 
-# SIG Soft-CPU
+### SIG Soft-CPU
 
 Special intersest group on soft CPU.
 
