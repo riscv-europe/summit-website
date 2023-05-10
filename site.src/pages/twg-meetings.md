@@ -59,7 +59,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>15:30</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Cryptographic Extensions TG](#cryptographic-extensions-tg)<br>[Post-Quantum Cryptography](#post-quantum-cryptography)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">HPC SIG</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[HPC SIG](#hpc-sig)</td>
 </tr>
 <td>15:45</td>
 <tr>
@@ -240,3 +240,10 @@ gaps.
 
 More info at <https://lists.riscv.org/g/sig-datacenter> and
 <https://github.com/riscv-admin/datacenter/blob/main/CHARTER.md>.
+
+
+### HPC-SIG
+
+Special Interest Group on *High-Performance Computing* (HPC).
+
+More info at <https://lists.riscv.org/g/sig-hpc>.
