@@ -16,7 +16,7 @@ Please note that to attend TWG meetings organized by RISC-V
 International, a [personal or corporate
 membership](https://riscv.org/membership) is required.
 
-<table class="riscv-sb">
+<table class="riscv-sb" style="width:95%;">
 <thead>
 <tr>
 <th>TWG</th>
