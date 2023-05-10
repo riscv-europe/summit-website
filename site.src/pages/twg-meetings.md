@@ -85,7 +85,7 @@ membership](https://riscv.org/membership) is required.
 <tr>
 <td>17:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Floating-Point SIG](#floating-point-sig)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">SIG-SOFT-CPU</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[SIG SOFT-CPU](#sig-soft-cpu)</td>
 </tr>
 <tr>
 <td>17:30</td>
@@ -278,3 +278,10 @@ Graph. The design will follow the threat model compiled in CFI-SIG and
 will be updated on demand.
 
 More info at <https://lists.riscv.org/g/tech-ss-lp-cfi>.
+
+
+# SIG Soft-CPU
+
+Special intersest group on soft CPU.
+
+More info at <https://lists.riscv.org/g/sig-soft-cpu>.
