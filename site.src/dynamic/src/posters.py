@@ -32,11 +32,15 @@ with open('gdocs/authors-info.csv') as csv_file:
                 location = " ("+city+", "+country+")."
 
             print(f'{row["First Name"]} {row["Last Name"]} -- {row["Organization"]}{location}')
+            print(f'\n**Summary**\n')
             if row['Final abstract'] != "":
-                print(f'\n**Summary**\n')
                 print(f'{row["Final abstract"]}')
+            else:
+                print(f'(TBD)')
+            print(f'\n*Bio*\n')
             if row['Bio'] != "":
-                print(f'\n*Bio*\n')
                 print(f'{row["Bio"]}')
+            else:
+                print(f'(TBD)')
             print(f'')
             print(f'')
