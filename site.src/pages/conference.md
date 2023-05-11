@@ -280,21 +280,7 @@ Lars Bergstrom, [Google](https://google.com),
 
 **Abstract**
 
-In this talk, we will discuss the progress that has been made in
-supporting RISC-V in Android and the [Android Open Source Platform
-(AOSP)](https://source.android.com). We will also provide an update on
-a new peer foundation to RISC-V International at the Linux Foundation,
-RISE, that will support open source development for RISC-V.
-
-We will cover the following topics:
-
- - The progress that has been made in supporting RISC-V and
-   recently-ratified extensions and the RVA22 profile in Android and
-   AOSP.
- - Updates on language support from C/C++, Rust, Java, and other
-   languages for new RISC-V specifications targeting Android.
- - The new open source foundation, RISE, that will drive RISC-V
-   production-readiness across the open source ecosystem.
+*(TBD)*
 
 *Bio*
 
