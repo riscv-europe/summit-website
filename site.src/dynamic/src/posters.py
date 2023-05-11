@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+# Columns are: ID, Title, First Name, Last Name, Position,
+# Organization, Primary Address - City, Primary Address - Country,
+# Primary Email, Additional Email, Paper Title, Paper Number,
+# Presentation Status, Presentation Type, Theme, Presenting Author
+# Names, Registered, Bio, Final abstract
+
 import csv
 
 
