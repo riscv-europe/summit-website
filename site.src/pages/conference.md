@@ -1,9 +1,229 @@
 <img src="media/img/RISC-V-London-2019-09.jpg" width=100%>
 
-The list of keynotes speakers, presenters and panelist of the plenary
-sessions, from Tuesday June 6th to Thursday 8th, are presented below.
+The core of the Summit will be the three days of conferences,
+exhibitions and demo from Tuesday 6th until Thursday 8th.
 
-The actual schedule will be provided in the comming weeks.
+## Schedule
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=2 class="schedule-day">Tuesday, June 6th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="3" class="schedule-block break"><span class="schedule-block-time">9:00-9:45</span><br/><span class="schedule-block-title">Opening and Introduction</span></th>
+      <td><span class="schedule-time">9:00</span> - <span class="schedule-author">Calista Redmond</span> - <span class="schedule-title">Opening</spam></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">9:20</span> - <span class="schedule-author">Christian Fabré</span> - <span class="schedule-title">Opening from European Committee</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder</span> - <span class="schedule-title">Program Overview</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">9:45-10:30</span><br/>Sponsor Keynotes</th>
+      <td>tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">10:30-11:30</span><br/>Break & Booths</th>
+      <td>Demo Theatre, 10:40: Antmicro<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">11:30-12:15</span><br/>Sponsor Keynotes</th>
+      <td>tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block technical"><span class="schedule-block-time">12:15-12:30</span><br/>Technical Presentations</th>
+      <td><span class="schedule-time">12:15</span> - <span class="schedule-author">University of Pisa</span> - <span class="schedule-title">HW-SW Interface for RAS in RISC-V Architectures</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">12:30-14:00</span><br/>Lunch & Booths</th>
+      <td>Demo Theatre, 13:00: Open Hardware Group<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">14:00-14:30</span><br/>Sponsor Keynotes</th>
+      <td>tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="4" class="schedule-block technical"><span class="schedule-block-time">14:30-15:30</span><br/>Technical Presentations</th>
+      <td><span class="schedule-time">14:30</span> - <span class="schedule-author">CEA Leti</span> - <span class="schedule-title">Enhancing the RISC-V Trace Encoder to verify the control-flow and code execution integrity</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">14:45</span> - <span class="schedule-author">Unina</span> - <span class="schedule-title">Enabling Virtualisation on RISC-V Microcontrollers</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">15:00</span> - <span class="schedule-author">University of Cambridge</span> - <span class="schedule-title">Mitigating Transient-Execution Attacks with CHERI Compartments</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">15:15</span> - <span class="schedule-author">Frontgrade Gaisler</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">15:30-16:30</span><br/>Break & Booths</th>
+      <td>Demo Theatre, 15:40: tbd<br/>Demo Theatre, 15:55: tbd<br/>Demo Theatre, 16:10: tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="4" class="schedule-block technical"><span class="schedule-block-time">16:30-18:15</span><br/>Technical Presentations</th>
+      <td><span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">tbd</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">17:00</span> - <span class="schedule-author">Imagination</span> - <span class="schedule-title">Imagination RISC-V CPU in an Automotive Safety Island</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">17:15</span> - <span class="schedule-author">Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">17:30</span> - <span class="schedule-title">Automotive/Embedded Panel</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">18:15-18:30</span><br/>Closing</th>
+      <td>Closing Remarks</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=2 class="schedule-day">Wednesday, June 7th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="3" class="schedule-block technical"><span class="schedule-block-time">9:00-10:30</span><br/>Keynotes</th>
+      <td><span class="schedule-time">9:00</span> - <span class="schedule-author">Luca Benini</span> - <span class="schedule-title">Platform Energy Efficiency</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">9:30</span> - <span class="schedule-author">Dr Yungang Bao</span> - <span class="schedule-title">RISC-V in China</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">10:00</span> - <span class="schedule-author">Dominic Rizzo</span> - <span class="schedule-title">OpenTitan</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">10:30-11:30</span><br/>Break & Booths</th>
+      <td>Demo Theatre, 10:40: Codasip<br/>Demo Theatre, 10:55: Andes<br/>Demo Theatre, 11:10: Semidynamics</td>
+    </tr>
+    <tr>
+      <th rowspan="3" class="schedule-block technical"><span class="schedule-block-time">11:30-12:30</span><br/>Keynotes</th>
+      <td><span class="schedule-time">11:30</span> - <span class="schedule-author">Lars Bergstrom</span> - <span class="schedule-title">Android</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">12:00</span> - <span class="schedule-author">Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">12:15</span> - <span class="schedule-author">Barcelona Supercomputing</span> - <span class="schedule-title">MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">12:30-14:00</span><br/>Lunch & Booths</th>
+      <td>Demo Theatre, 13:00: tbd<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="schedule-block technical"><span class="schedule-block-time">14:00-15:30</span><br/>Industry Talks</th>
+      <td><span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN</span></td>
+    </tr>
+    <tr>
+      <td>tbd</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">15:30-16:30</span><br/>Break & Booths</th>
+      <td>Exhibition / Demo theatre talks / Poster Sessions</td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="schedule-block technical"><span class="schedule-block-time">16:30-17:15</span><br/>Industry Talks</th>
+      <td><span class="schedule-time">16:30</span> - tbd</td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">16:45</span> - <span class="schedule-author">Matthiew</span> - <span class="schedule-title">Chips Act & RISC-V</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block technical"><span class="schedule-block-time">17:15-18:15</span><br/>Panel</th>
+      <td><span class="schedule-time">17:15</span> - Panel on EU & RISC-V</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=2 class="schedule-day">Thursday, June 8th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="4" class="schedule-block technical"><span class="schedule-block-time">9:00-10:30</span><br/>Keynotes</th>
+      <td><span class="schedule-time">9:00</span> - <span class="schedule-title">Introduction</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">9:15</span> - <span class="schedule-author">Philipp Tomisch</span> - <span class="schedule-title">Software Keynote</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette</span> - <span class="schedule-title">Open Source SW Strategy</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">10:15</span> - <span class="schedule-author">Mark Himelstein</span> - <span class="schedule-title">tbd</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">10:30-11:30</span><br/>Break & Booths</th>
+      <td>Exhibition / Demo theatre talks / Poster Sessions</td>
+    </tr>
+    <tr>
+      <th rowspan="3" class="schedule-block technical"><span class="schedule-block-time">11:30-12:30</span><br/>Technical Presentations</th>
+      <td><span class="schedule-time">11:30</span> - <span class="schedule-author">Alex Bradbury</span> - <span class="schedule-title">LLVM</td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">12:00</span> - <span class="schedule-author">Embecosm</span> - <span class="schedule-title">The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains</td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">12:15</span> - <span class="schedule-author">Intel</span> - <span class="schedule-title">Multi-ISA Firmware Compatibility - Bringing RISC-V and IHV Ecosystems Together</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">12:30-14:00</span><br/>Lunch & Booths</th>
+      <td>Exhibition / Demo theatre talks / Poster Sessions</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block technical"><span class="schedule-block-time">14:00-14:30</span><br/>Keynote</th>
+      <td><span class="schedule-time">14:00</span> - <span class="schedule-author">Roland</span> - <span class="schedule-title">RISC-V and the Stars</td>
+    </tr>
+    <tr>
+      <th rowspan="4" class="schedule-block technical"><span class="schedule-block-time">14:30-15:30</span><br/>Keynote</th>
+      <td><span class="schedule-time">14:30</span> - <span class="schedule-author">NXP</span> - <span class="schedule-title">Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication</td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">14:45</span> - <span class="schedule-author">University Of British Columbia</span> - <span class="schedule-title"> From CCX to CIX: A Modest Proposal for (Custom) Composable Instruction eXtensions</td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">15:00</span> - <span class="schedule-author">Codasip</span> - <span class="schedule-title">RISC-V code-size reduction with Zc extensions and  dictionary compression custom instruction</td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">15:15</span> - <span class="schedule-author">ETH Zurich</span> - <span class="schedule-title">RIVETS: An Efficient Training and Inference Library for RISC-V with Snitch Extensions</td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">15:30-16:30</span><br/>Break & Booths</th>
+      <td>Exhibition / Demo theatre talks / Poster Sessions</td>
+    </tr>
+    <tr>
+      <th rowspan="5" class="schedule-block technical"><span class="schedule-block-time">16:30-17:45</span><br/>Technical Talks</th>
+      <td><span class="schedule-time">16:30</span> - <span class="schedule-author">lowRISC</span> - <span class="schedule-title">Building commercially relevant open source silicon: The many aspects of Ibex</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">16:45</span> - <span class="schedule-author">imec-DistriNet, KU Leuven</span> - <span class="schedule-title">Proteus: An Extensible RISC-V Core for Hardware Extensions</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">17:00</span> - <span class="schedule-author">ETH Zurich</span> - <span class="schedule-title">Puma: An End-to-End Open-Source Linux-capable RISC-V SoC in 130nm CMOS</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">17:15</span> - <span class="schedule-author">University Of Minho</span> - <span class="schedule-title">RISC-V Virtualization: A Case Study on the CVA6</span></td>
+    </tr>
+    <tr>
+      <td><span class="schedule-time">17:30</span> - <span class="schedule-author">Rios Lab, Tsinghua-berkeley Shenzhen Institute, Tsinghua University</span> - <span class="schedule-title">GreenRio: A Linux-Compatible RISC-V Processor Designed for Open-Source EDA Implementations</span></td>
+    </tr>
+    <tr>
+      <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">17:45-18:00</span><br/>Closing</th>
+      <td>Closing & Announcements</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Speakers
 

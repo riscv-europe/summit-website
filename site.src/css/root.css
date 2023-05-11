@@ -61,3 +61,46 @@ html footer hr {
     height: 2px;
     border: none;
 }
+
+
+.schedule-block {
+    color: var(--riscv-b);
+    text-align: left;
+}
+
+.break {
+    background-color: var(--riscv-lg);
+}
+
+.sponsor {
+    background-color: var(--riscv-lg);
+}
+
+.technical {
+    background-color: var(--riscv-lg);
+}
+
+.schedule-block-time {
+    font-weight: normal;
+}
+
+.schedule-time {
+    font-style: italic;
+}
+
+.schedule-author {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.schedule-title {
+    font-weight: bold;
+}
+
+.schedule-day {
+    color: var(--riscv-b);
+    font-size: x-large;
+    font-weight: 900;
+    padding: .5em;
+}
+
