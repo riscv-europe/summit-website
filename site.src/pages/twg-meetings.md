@@ -12,9 +12,9 @@ The **preliminary schedule** of the meetings that will meet on Monday
 5th is provided below. The **final schedule**, and room numbers
 will be published in a few weeks.
 
-Please note that to attend TWG meetings organized by RISC-V
-International, a [personal or corporate
-membership](https://riscv.org/membership) is required.
+Please note that **to attend RISC-V International TWG meetings, a
+[personal or corporate membership](https://riscv.org/membership) is
+required**.
 
 <table class="riscv-sb" style="width:95%;">
 <thead>
@@ -110,6 +110,9 @@ membership](https://riscv.org/membership) is required.
 
 
 ## RISC-V International WG Meetings
+
+Reminder: *to attend RISC-V International TWG meetings*, a [personal
+or corporate membership](https://riscv.org/membership) is required.
 
 
 ### Security HC
