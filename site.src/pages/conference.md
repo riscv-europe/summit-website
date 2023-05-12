@@ -8,336 +8,336 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
 <div class="schedule">
   <div class="schedule-day">Tuesday, June 6th</div>
 
-  <div class="sched-block-title org">
-  <span class="schedule-block-time">9:00-9:45</span><br/><span class="schedule-block-title">Opening and Introduction</span>
+  <div class="schedule-block-title org">
+  <span class="schedule-block-time">9:00-9:45</span><br/><span class="schedule-block-name">Opening and Introduction</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">9:00</span> - <span class="schedule-author">Calista Redmond</span> - <span class="schedule-title">Opening</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">9:20</span> - <span class="schedule-author">Christian Fabré</span> - <span class="schedule-title">Welcome from European Committee</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder</span> - <span class="schedule-title">Program Overview</span>
   </div>
   </div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">9:45-10:30</span><br/><span class="schedule-block-title">Keynotes</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">9:45-10:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   tbd
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-title">Break & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Demo Theatre, 10:40: tbd<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd
   </div>
   </div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">11:30-12:15</span><br/><span class="schedule-block-title">Keynotes</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">11:30-12:15</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   tbd
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">12:15-12:30</span><br/><span class="schedule-block-title">Technical Presentations</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">12:15-12:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author">University of Pisa</span> - <span class="schedule-title">HW-SW Interface for RAS in RISC-V Architectures
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-title">Lunch & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Demo Theatre, 13:00: tbd<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd
   </div>
   </div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">14:00-14:30</span><br/><span class="schedule-block-title">Keynotes</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">14:00-14:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   tbd
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">14:40-15:30</span><br/><span class="schedule-block-title">Technical Presentations</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">14:40-15:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">14:30</span> - <span class="schedule-author">CEA Leti</span> - <span class="schedule-title">Enhancing the RISC-V Trace Encoder to verify the control-flow and code execution integrity</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">14:45</span> - <span class="schedule-author">Unina</span> - <span class="schedule-title">Enabling Virtualisation on RISC-V Microcontrollers</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">15:00</span> - <span class="schedule-author">University of Cambridge</span> - <span class="schedule-title">Mitigating Transient-Execution Attacks with CHERI Compartments</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">15:15</span> - <span class="schedule-author">Frontgrade Gaisler</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-title">Break & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Demo Theatre, 15:40: tbd<br/>Demo Theatre, 15:55: tbd<br/>Demo Theatre, 16:10: tbd
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">16:30-18:15</span><br/><span class="schedule-block-title">Technical Presentations</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">16:30-18:15</span><br/><span class="schedule-block-name">Technical Presentations</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">tbd</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">17:00</span> - <span class="schedule-author">Imagination</span> - <span class="schedule-title">Imagination RISC-V CPU in an Automotive Safety Island</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">17:15</span> - <span class="schedule-author">Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">17:30</span> - <span class="schedule-title">Automotive/Embedded Panel</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">18:15-18:30</span><br/><span class="schedule-block-title">Closing</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">18:15-18:30</span><br/><span class="schedule-block-name">Closing</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Closing remarks
   </div>
   </div>
 
   <div class="schedule-day">Wednesday, June 7th</div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-title">Keynotes</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">9:00</span> - <span class="schedule-author">Luca Benini</span> - <span class="schedule-title">Platform Energy Efficiency</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Dr Yungang Bao</span> - <span class="schedule-title">RISC-V in China</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">10:00</span> - <span class="schedule-author">Dominic Rizzo</span> - <span class="schedule-title">OpenTitan</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-title">Break & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Demo Theatre, 10:40: tbd<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd
   </div>
   </div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-title">Keynotes</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">11:30</span> - <span class="schedule-author">Lars Bergstrom</span> - <span class="schedule-title">Android</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author">Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author">Barcelona Supercomputing</span> - <span class="schedule-title">MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-title">Lunch & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Demo Theatre, 13:00: tbd<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">14:00-15:30</span><br/><span class="schedule-block-title">Industry Talks</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">14:00-15:30</span><br/><span class="schedule-block-name">Industry Talks</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   tbd
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-title">Break & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Exhibition / Demo theatre talks / Poster Sessions
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">16:30-18:30</span><br/><span class="schedule-block-title">Industry Talks</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">16:30-18:30</span><br/><span class="schedule-block-name">Industry Talks</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   tbd
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">16:45</span> - <span class="schedule-author">Matthiew</span> - <span class="schedule-title">Chips Act & RISC-V</span>
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">17:15-18:30</span><br/><span class="schedule-block-title">Panel</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">17:15-18:30</span><br/><span class="schedule-block-name">Panel</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">17:15</span> - Panel on EU & RISC-V
   </div>
   </div>
 
   <div class="schedule-day">Wednesday, June 7th</div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-title">Keynotes</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">9:00</span> - <span class="schedule-title">Introduction</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">9:15</span> - <span class="schedule-author">Philipp Tomisch</span> - <span class="schedule-title">Software Keynote</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette</span> - <span class="schedule-title">Open Source SW Strategy</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">10:15</span> - <span class="schedule-author">Mark Himelstein</span> - <span class="schedule-title">tbd</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-title">Break & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Exhibition / Demo theatre talks / Poster Sessions
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-title">Technical Presentations</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">11:30</span> - <span class="schedule-author">Alex Bradbury</span> - <span class="schedule-title">LLVM</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author">Embecosm</span> - <span class="schedule-title">The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author">Intel</span> - <span class="schedule-title">Multi-ISA Firmware Compatibility - Bringing RISC-V and IHV Ecosystems Together</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-title">Lunch & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Exhibition / Demo theatre talks / Poster Sessions
   </div>
   </div>
 
-  <div class="sched-block-title keynote">
-  <span class="schedule-block-time">14:00-14:30</span><br/><span class="schedule-block-title">Keynote</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">14:00-14:30</span><br/><span class="schedule-block-name">Keynote</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">14:00</span> - <span class="schedule-author">Roland</span> - <span class="schedule-title">RISC-V and the Stars</span>
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">14:30-15:30</span><br/><span class="schedule-block-title">Technical Talks</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">14:30-15:30</span><br/><span class="schedule-block-name">Technical Talks</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">14:30</span> - <span class="schedule-author">NXP</span> - <span class="schedule-title">Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">14:45</span> - <span class="schedule-author">University Of British Columbia</span> - <span class="schedule-title"> From CCX to CIX: A Modest Proposal for (Custom) Composable Instruction eXtensions</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   span class="schedule-time">15:00</span> - <span class="schedule-author">Codasip</span> - <span class="schedule-title">RISC-V code-size reduction with Zc extensions and  dictionary compression custom instruction</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   span class="schedule-time">15:15</span> - <span class="schedule-author">ETH Zurich</span> - <span class="schedule-title">RIVETS: An Efficient Training and Inference Library for RISC-V with Snitch Extensions</span>
   </div>
   </div>
 
-  <div class="sched-block-title break">
-  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-title">Break & Booths</span>
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break & Booths</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Exhibition / Demo theatre talks / Poster Sessions
   </div>
   </div>
 
-  <div class="sched-block-title technical">
-  <span class="schedule-block-time">16:30-17:45</span><br/><span class="schedule-block-title">Technical Talks</span>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">16:30-17:45</span><br/><span class="schedule-block-name">Technical Talks</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   <span class="schedule-time">16:30</span> - <span class="schedule-author">lowRISC</span> - <span class="schedule-title">Building commercially relevant open source silicon: The many aspects of Ibex</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">16:45</span> - <span class="schedule-author">imec-DistriNet, KU Leuven</span> - <span class="schedule-title">Proteus: An Extensible RISC-V Core for Hardware Extensions</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">17:00</span> - <span class="schedule-author">ETH Zurich</span> - <span class="schedule-title">Puma: An End-to-End Open-Source Linux-capable RISC-V SoC in 130nm CMOS</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">17:15</span> - <span class="schedule-author">University Of Minho</span> - <span class="schedule-title">RISC-V Virtualization: A Case Study on the CVA6</span>
   </div>
-  <div class="sched-entry">
+  <div class="schedule-entry">
   <span class="schedule-time">17:30</span> - <span class="schedule-author">Rios Lab, Tsinghua-berkeley Shenzhen Institute, Tsinghua University</span> - <span class="schedule-title">GreenRio: A Linux-Compatible RISC-V Processor Designed for Open-Source EDA Implementations</span>
   </div>
   </div>
 
-  <div class="sched-block-title org">
-  <span class="schedule-block-time">17:45-18:00</span><br/><span class="schedule-block-title">Closing</span>
+  <div class="schedule-block-title org">
+  <span class="schedule-block-time">17:45-18:00</span><br/><span class="schedule-block-name">Closing</span>
   </div>
-  <div class="sched-block">
-  <div class="sched-entry">
+  <div class="schedule-block">
+  <div class="schedule-entry">
   Closing & Announcements
   </div>
   </div>
