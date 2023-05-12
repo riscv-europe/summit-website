@@ -142,3 +142,12 @@ html footer hr {
 .schedule-block-name {
     font-weight: bold;
 }
+
+@media all and (max-width: 768px) {
+    .schedule-block-title {
+        width: 100%;
+    }
+    .schedule-block {
+        width: 100%;
+    }
+}
