@@ -55,7 +55,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">12:15</span> - <span class="schedule-author">University of Pisa</span> - <span class="schedule-title">HW-SW Interface for RAS in RISC-V Architectures
+  <span class="schedule-time">12:15</span> - <span class="schedule-author">Daniele Rossi, University of Pisa</span> - <span class="schedule-title">HW-SW Interface for RAS in RISC-V Architectures
   </div>
   </div>
 
@@ -82,16 +82,16 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">14:30</span> - <span class="schedule-author">CEA Leti</span> - <span class="schedule-title">Enhancing the RISC-V Trace Encoder to verify the control-flow and code execution integrity</span>
+  <span class="schedule-time">14:30</span> - <span class="schedule-author">Anthony Zgheib, CEA Leti</span> - <span class="schedule-title">Enhancing the RISC-V Trace Encoder to verify the control-flow and code execution integrity</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">14:45</span> - <span class="schedule-author">Unina</span> - <span class="schedule-title">Enabling Virtualisation on RISC-V Microcontrollers</span>
+  <span class="schedule-time">14:45</span> - <span class="schedule-author">Stefano Mercogliano, University of Naples Federico II</span> - <span class="schedule-title">Enabling Virtualisation on RISC-V Microcontrollers</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">15:00</span> - <span class="schedule-author">University of Cambridge</span> - <span class="schedule-title">Mitigating Transient-Execution Attacks with CHERI Compartments</span>
+  <span class="schedule-time">15:00</span> - <span class="schedule-author">Franz Fuchs, University of Cambridge</span> - <span class="schedule-title">Mitigating Transient-Execution Attacks with CHERI Compartments</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">15:15</span> - <span class="schedule-author">Frontgrade Gaisler</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span>
+  <span class="schedule-time">15:15</span> - <span class="schedule-author">Jimmy Le Rhun, Frontgrade Gaisler</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span>
   </div>
   </div>
 
@@ -112,10 +112,10 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">tbd</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">17:00</span> - <span class="schedule-author">Imagination</span> - <span class="schedule-title">Imagination RISC-V CPU in an Automotive Safety Island</span>
+  <span class="schedule-time">17:00</span> - <span class="schedule-author">Peter Lewin, Imagination</span> - <span class="schedule-title">Imagination RISC-V CPU in an Automotive Safety Island</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">17:15</span> - <span class="schedule-author">Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span>
+  <span class="schedule-time">17:15</span> - <span class="schedule-author">Abdoulaye Berthe, Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">17:30</span> - <span class="schedule-title">Automotive/Embedded Panel</span>
