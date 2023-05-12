@@ -102,6 +102,16 @@ watch-site: stack-build
 	( cd $(HAKYLL_DIR) && stack exec site -- watch )
 
 
+# Generation of the posters docs.
+
+.PHONY: posters
+posters: posters.md
+
+.PHONY: posters.md
+posters.md:
+	( cd site.src/dynamic ; make posters.md )
+	( cd site.src/pages ; git commit -m "Fix: auto update of the poster.md page." posters.md )
+
 # Public web repo. management.
 
 .PHONY: all-pub
