@@ -18,12 +18,14 @@ Some notes:
  - Each author must print his poster in advance and bring it on its
    own to the conference.
 
-Quick link to reach posters presented each day.:
+Quick link to reach posters presented each day0
+:
  - [Tuesday 6th](#posters-on-display-tuesday-june-6th).
  - [Wednesday 7th](#posters-on-display-wednesday-june-7th)
  - [Thursday 8th](#posters-on-display-thursday-june-8th).
 
 Posters are sorted by alphabetical order of presenter's last name.
+
 ## Posters on Display Tuesday June 6th
 
 Presenters are expected to be with their poster during the morning break, lunch and afternoon break, as well as during the early evening cocktail on Tuesday 6.
