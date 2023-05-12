@@ -62,13 +62,6 @@ html footer hr {
     border: none;
 }
 
-
-.schedule-block {
-    color: var(--riscv-b);
-    text-align: left;
-}
-
-
 .schedule-time {
     font-style: italic;
 }
@@ -92,7 +85,7 @@ html footer hr {
 }
 
 .schedule {
-    width: 90%;
+    width: 100%;
     display: flex;
     flex-flow: row wrap;
 }
@@ -101,29 +94,29 @@ html footer hr {
     box-sizing: border-box;
 }
 
-.sched-block-title {
+.schedule-block-title {
   width: 25%;
   text-align: center;
   padding: 0.5em;
 }
 
-.sched-block-title.org {
+.schedule-block-title.org {
     background-color: var(--riscv-sy);
 }
 
-.sched-block-title.break {
+.schedule-block-title.break {
     background-color: var(--riscv-lg);
 }
 
-.sched-block-title.keynote {
+.schedule-block-title.keynote {
     background-color: var(--riscv-ly);
 }
 
-.sched-block-title.technical {
+.schedule-block-title.technical {
     background-color: var(--riscv-lv);
 }
 
-.sched-block {
+.schedule-block {
   display: flex;
   flex-flow: column wrap;
   width: 75%;
@@ -131,13 +124,14 @@ html footer hr {
 
 }
 
-.sched-entry {
+.schedule-entry {
   width: 100%;
   text-align: left;
   padding-left: 1em;
   padding-top: 0.5em;
 }
-.sched-entry:last-of-type {
+
+.schedule-entry:last-of-type {
   padding-bottom: 0.5em;
 }
 
@@ -145,6 +139,6 @@ html footer hr {
     font-weight: normal;
 }
 
-.schedule-block-title {
+.schedule-block-name {
     font-weight: bold;
 }
