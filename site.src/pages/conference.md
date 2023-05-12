@@ -138,13 +138,13 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">9:00</span> - <span class="schedule-author">Luca Benini</span> - <span class="schedule-title">Platform Energy Efficiency</span>
+  <span class="schedule-time">9:00</span> - <span class="schedule-author">Luca Benini</span> - <span class="schedule-title">Platform Energy Efficiency</span> - <a href="luca-benini-open-risc-v-platforms-for-energy-efficient-scalable-computing">Details</a>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:30</span> - <span class="schedule-author">Dr Yungang Bao</span> - <span class="schedule-title">RISC-V in China</span>
+  <span class="schedule-time">9:30</span> - <span class="schedule-author">Dr Yungang Bao</span> - <span class="schedule-title">RISC-V in China</span> - <a href="#dr-yungang-bao-risc-v-in-china-embracing-the-era-of-open-source-chip">Details</a>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">10:00</span> - <span class="schedule-author">Dominic Rizzo</span> - <span class="schedule-title">OpenTitan</span>
+  <span class="schedule-time">10:00</span> - <span class="schedule-author">Dominic Rizzo</span> - <span class="schedule-title">OpenTitan</span> - <a href="#dominic-rizzo-opentitan-past-present-and-future-of-open-source-secure-silicon">Details</a>
   </div>
   </div>
 
@@ -162,7 +162,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">11:30</span> - <span class="schedule-author">Lars Bergstrom</span> - <span class="schedule-title">Android</span>
+  <span class="schedule-time">11:30</span> - <span class="schedule-author">Lars Bergstrom</span> - <span class="schedule-title">Android</span> - <a href="#lars-bergstrom-android-on-risc-v-progress-and-updates">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author">Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span>
@@ -186,7 +186,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN</span>
+  <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN</span> - <a href="#patrick-pype-tristan-together-for-risc-v-technology-and-applications">Details</a>
   </div>
   <div class="schedule-entry">
   tbd
@@ -236,7 +236,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">9:15</span> - <span class="schedule-author">Philipp Tomisch</span> - <span class="schedule-title">Software Keynote</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette</span> - <span class="schedule-title">Open Source SW Strategy</span>
+  <span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette</span> - <span class="schedule-title">Open Source SW Strategy</span> - <a href="#phd-thierry-collette-4-years-of-open-source-risc-v-at-thales">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">10:15</span> - <span class="schedule-author">Mark Himelstein</span> - <span class="schedule-title">tbd</span>
@@ -257,7 +257,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">11:30</span> - <span class="schedule-author">Alex Bradbury</span> - <span class="schedule-title">LLVM</span>
+  <span class="schedule-time">11:30</span> - <span class="schedule-author">Alex Bradbury</span> - <span class="schedule-title">LLVM</span> - <a href="#alex-bradbudy-developments-in-llvm-based-toolchains-and-tooling-for-risc-v">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author">Embecosm</span> - <span class="schedule-title">The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains</span>
@@ -281,7 +281,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">14:00</span> - <span class="schedule-author">Roland</span> - <span class="schedule-title">RISC-V and the Stars</span>
+  <span class="schedule-time">14:00</span> - <span class="schedule-author">Roland Weigand</span> - <span class="schedule-title">RISC-V and the Stars</span> - <a href="#roland-weigand-risc-v-a-shooting-star-in-space">Details</a>
   </div>
   </div>
 
