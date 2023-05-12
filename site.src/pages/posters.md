@@ -7,6 +7,8 @@ Some notes:
    conference (Tue-Thu). Posters without registered posters will not
    be on display.
  - Each poster will be displayed for a full day.
+ - Posters have been dispatched throughout the three days to match
+   topics addressed in the plenary track.
  - In order to allow authors to attend the conference pleanry track,
    the exhibition and poster area will be open only during the break
    and lunches, and for Tuesday 6th, during the on-site cocktail.
@@ -32,7 +34,8 @@ Presenters are expected to be with their poster during the morning break, lunch 
 
 ### Karim Ait Lahssaine -- Memory Authenticated Encryption Engine for a RISC-V processor
 
-Karim Ait Lahssaine -- Cea (Grenoble, France).
+Karim Ait Lahssaine (Cea, Grenoble, France)
+, Olivier Savry.
 
 **Summary**
 
@@ -45,7 +48,8 @@ Karim Ait Lahssaine -- Cea (Grenoble, France).
 
 ### Mehdi Akeddar -- An opensource framework for edge-to-cloud inference on resource-constrained RISC-V systems
 
-Mehdi Akeddar -- 
+Mehdi Akeddar
+, Thomas Rieder, Guillaume Chacun, Bruno Da Rocha Carvalho, Marina Zapater.
 
 **Summary**
 
@@ -58,7 +62,8 @@ Mehdi Akeddar --
 
 ### Caaliph Andriamisaina -- SECURE PLATFORM FOR ICT SYSTEMS ROOTED AT THE SILICON MANUFACTURING PROCESS
 
-Caaliph Andriamisaina -- Cea, List (Palaiseau, France).
+Caaliph Andriamisaina (Cea, List, Palaiseau, France)
+, Farhat Thabet, Jean-Roch Coulon, Guillaume Chauvon, Alejandro Cabrera Aldaya, Nicola Tuveri, Macarena C. Martinez-Rodriguez, Piedad Brox.
 
 **Summary**
 
@@ -71,7 +76,8 @@ Caaliph Andriamisaina -- Cea, List (Palaiseau, France).
 
 ### Marcello Barbirotta -- Adding Dynamic Triple Modular Redundancy on a RISC-V Microarchitecture
 
-Marcello Barbirotta -- Sapienza University Of Rome (Roma, Italia).
+Marcello Barbirotta (Sapienza University Of Rome, Roma, Italia)
+, Abdallah Cheikh, Antonio Mastrandrea, Francesco Menichelli, Mauro Olivieri.
 
 **Summary**
 
@@ -84,7 +90,7 @@ Marcello Barbirotta -- Sapienza University Of Rome (Roma, Italia).
 
 ### Benjamin Cabé -- Open Source All the Way Down with Zephyr and RISC-V
 
-Benjamin Cabé -- Linux Foundation (Toulouse, France).
+Benjamin Cabé (Linux Foundation, Toulouse, France)
 
 **Summary**
 
@@ -97,7 +103,8 @@ Benjamin Cabé -- Linux Foundation (Toulouse, France).
 
 ### Joaquim Maria Castella Triginer -- Enhancing Safety with RISC-V-based SPIDER Autonomous Robot: A Use-Case from the ECSEL FRACTAL Project
 
-Joaquim Maria Castella Triginer -- Virual Vehicle Research Gmbh (Graz, Austria).
+Joaquim Maria Castella Triginer (Virual Vehicle Research Gmbh, Graz, Austria)
+, Joaquim Maria Castella Triginer, Helio Fernandez, FENG CHANG, Sergi Alcaide, Ramon Canal, Jaume Abella.
 
 **Summary**
 
@@ -110,7 +117,8 @@ Joaquim Maria Castella Triginer -- Virual Vehicle Research Gmbh (Graz, Austria).
 
 ### Balaji Chegu -- Software Hardware Co-processing in RISC-V using OpenVX™ for Embedded Vision Applications
 
-Balaji Chegu -- Microchip (Bangalore, India).
+Balaji Chegu (Microchip, Bangalore, India)
+, Prakash Reddy Battu, Divyang Agrawal, Arun Naik.
 
 **Summary**
 
@@ -123,7 +131,8 @@ Balaji Chegu -- Microchip (Bangalore, India).
 
 ### Junchao Chen -- Towards High-Reliability Systems Design using Agile Hardware Development Flow
 
-Junchao Chen -- IHP-Innovations for High Performance Microelectronics (Frankfurt Oder, Germany).
+Junchao Chen (IHP-Innovations for High Performance Microelectronics, Frankfurt Oder, Germany)
+, Li Lu, Markus Ulbricht, Milos Krstic.
 
 **Summary**
 
@@ -136,7 +145,8 @@ Junchao Chen -- IHP-Innovations for High Performance Microelectronics (Frankfurt
 
 ### Warren Chen -- Latency Reduction in a System with IOPMP
 
-Warren Chen -- Andes Technology (Hsinchu, Taiwan).
+Warren Chen (Andes Technology, Hsinchu, Taiwan)
+, Paul Shan-Chyun Ku.
 
 **Summary**
 
@@ -149,7 +159,8 @@ Warren Chen -- Andes Technology (Hsinchu, Taiwan).
 
 ### Raúl de la Cruz -- Providing QoS policies for mixed-criticality applications on RISC-V based MPSoCs
 
-Raúl de la Cruz -- Collins Aerospace (Cork, Ireland).
+Raúl de la Cruz (Collins Aerospace, Cork, Ireland)
+, Gonzalo Salinas Hernando.
 
 **Summary**
 
@@ -162,7 +173,8 @@ Raúl de la Cruz -- Collins Aerospace (Cork, Ireland).
 
 ### Wolfgang Ecker -- Scale4Edge – Scaling RISC-V for Edge Applications
 
-Wolfgang Ecker -- Infineon Technologies
+Wolfgang Ecker (Infineon Technologies)
+, Milos Krstic, Markus Ulbricht, Andreas Mauderer, Eyck Jentzsch, Andreas Koch, Bastian Koppelmann, Wolfgang Mueller, Babak Sadiye, Niklas Bruns, Rolf Drechsler, Daniel Mueller-gritschneder, Jan Schlamelcher, Kim Grüttner, Jörg Bormann, Wolfgang Kunz, Reinhold Heckmann, Gerhard Angst, Ralf Wimmer, Bernd Becker, Tobias Faller, Paul Palomero Bernardo, Oliver Bringmann, Johannes Partzsch, Christian Mayr.
 
 **Summary**
 
@@ -175,7 +187,7 @@ Wolfgang Ecker -- Infineon Technologies
 
 ### Zaruba Florian -- Next-Generation Edge AI Solutions built on RISC-V
 
-Zaruba Florian -- Axelera AI / OpenHW Group (Zürich, Switzerland).
+Zaruba Florian (Axelera AI / OpenHW Group, Zürich, Switzerland)
 
 **Summary**
 
@@ -188,7 +200,7 @@ Zaruba Florian -- Axelera AI / OpenHW Group (Zürich, Switzerland).
 
 ### Bob Frankel -- Introducing Em – Taking RISC-V Software Over The Edge
 
-Bob Frankel -- Bespoke IoT (Santa Barbara, United States).
+Bob Frankel (Bespoke IoT, Santa Barbara, United States)
 
 **Summary**
 
@@ -201,7 +213,8 @@ Bob Frankel -- Bespoke IoT (Santa Barbara, United States).
 
 ### Francisco Javier Fuentes -- SafeTI Traffic Injector Enhancement for Effective Interference Testing in Critical Real-Time Systems
 
-Francisco Javier Fuentes -- Barcelona Supercomputing Center (La Garriga, Spain).
+Francisco Javier Fuentes (Barcelona Supercomputing Center, La Garriga, Spain)
+, Raimon Casanova, Sergi Alcaide, Jaume Abella.
 
 **Summary**
 
@@ -214,7 +227,8 @@ Francisco Javier Fuentes -- Barcelona Supercomputing Center (La Garriga, Spain).
 
 ### Pablo Fuentes -- Towards an Educational Hardware Lab Based on RISC-V
 
-Pablo Fuentes -- Universidad de Cantabria (Cantabria, Spain).
+Pablo Fuentes (Universidad de Cantabria, Cantabria, Spain)
+, Vladimir Mateev, Borja Pérez, Cristóbal Camarero, Pablo Fuentes, Carmen Martínez.
 
 **Summary**
 
@@ -227,7 +241,8 @@ Pablo Fuentes -- Universidad de Cantabria (Cantabria, Spain).
 
 ### Felix Garcia-Carballeira -- CREATOR: a tool for teaching assembly programming with RISC-V
 
-Felix Garcia-Carballeira -- Universidad Carlos III De Madrid (Leganes, Spain).
+Felix Garcia-Carballeira (Universidad Carlos III De Madrid, Leganes, Spain)
+, Alejandro Calderon, Diego Camarmas-Alonso, Elias del Pozo-Puñal.
 
 **Summary**
 
@@ -240,7 +255,8 @@ Felix Garcia-Carballeira -- Universidad Carlos III De Madrid (Leganes, Spain).
 
 ### Tobias Jauch -- Detecting and Patching Transient Execution Side Channels in an Out-of-Order RISC-V Core
 
-Tobias Jauch -- RPTU Kaiserslautern-Landau (Kaiserslautern, Germany).
+Tobias Jauch (RPTU Kaiserslautern-Landau, Kaiserslautern, Germany)
+, Alex Wezel, Mohammad Fadiheh, Dominik Stoffel, Wolfgang Kunz.
 
 **Summary**
 
@@ -253,7 +269,8 @@ Tobias Jauch -- RPTU Kaiserslautern-Landau (Kaiserslautern, Germany).
 
 ### Leonidas Kosmidis -- The METASAT Hardware Platform: A High-Performance Multicore, AI SIMD and GPU RISC-V Platform for On-board Processing
 
-Leonidas Kosmidis -- Barcelona Supercomputing Center (BSC) (Barcelona, Spain).
+Leonidas Kosmidis (Barcelona Supercomputing Center (BSC), Barcelona, Spain)
+, Marc Solé I Bonet, Jannis Wolf, Ivan Rodriguez Ferrández, Matina Maria Trompouki.
 
 **Summary**
 
@@ -266,7 +283,8 @@ Leonidas Kosmidis -- Barcelona Supercomputing Center (BSC) (Barcelona, Spain).
 
 ### Helmut Kurth -- Security Evaluation of a RISC-V-based SoC
 
-Helmut Kurth -- atsec GmbH
+Helmut Kurth (atsec GmbH)
+, Rasma Araby, Cheng Jiang.
 
 **Summary**
 
@@ -279,7 +297,8 @@ Helmut Kurth -- atsec GmbH
 
 ### Jingzhou Li -- Falcon: A Dual-Core Lockstep Microprocessor Based on RISC-V ISA
 
-Jingzhou Li -- Tsinghua University (Beijing, China).
+Jingzhou Li (Tsinghua University, Beijing, China)
+, Huaiyu Chen, Wenbin Zhang, Hu He.
 
 **Summary**
 
@@ -292,7 +311,8 @@ Jingzhou Li -- Tsinghua University (Beijing, China).
 
 ### Li Lu -- Simulation-based Fault Injection on Ibex Core with UVM Environment
 
-Li Lu -- IHP-Leibniz-Institut für innovative Mikroelektronik (Frankfurt Oder, Germany).
+Li Lu (IHP-Leibniz-Institut für innovative Mikroelektronik, Frankfurt Oder, Germany)
+, Junchao Chen, Markus Ulbricht, Milos Krstic.
 
 **Summary**
 
@@ -305,7 +325,8 @@ Li Lu -- IHP-Leibniz-Institut für innovative Mikroelektronik (Frankfurt Oder, G
 
 ### Javier Mora -- A three perspective analysis of RISC-V design tools for safety and security architectures
 
-Javier Mora -- Collins Aerospace (Cork, Ireland).
+Javier Mora (Collins Aerospace, Cork, Ireland)
+, Alejandro García-Gener, Gonzalo Salinas Hernando.
 
 **Summary**
 
@@ -318,7 +339,8 @@ Javier Mora -- Collins Aerospace (Cork, Ireland).
 
 ### Shahzaib Muhammad Kashif -- ChipShop: A Cloud-Based GUI for Accelerating SoC Design
 
-Shahzaib Muhammad Kashif -- Usman Institute Of Technology (uit) (Karachi, Pakistan).
+Shahzaib Muhammad Kashif (Usman Institute Of Technology (uit), Karachi, Pakistan)
+, Talha Ahmed, Farhan Ahmed Karim, Mahnoor Ismail.
 
 **Summary**
 
@@ -331,7 +353,8 @@ Shahzaib Muhammad Kashif -- Usman Institute Of Technology (uit) (Karachi, Pakist
 
 ### Pegdwende Romaric Nikiema -- Time-Bounded Error Mitigation through Dual-Core Lockstep RISC-V using HLS
 
-Pegdwende Romaric Nikiema -- Univ Rennes, Inria, IRISA, CNRS
+Pegdwende Romaric Nikiema (Univ Rennes, Inria, IRISA, CNRS)
+, Marcello Traiola, Olivier Sentieys, Angeliki Kritikakou.
 
 **Summary**
 
@@ -344,7 +367,8 @@ Pegdwende Romaric Nikiema -- Univ Rennes, Inria, IRISA, CNRS
 
 ### William PENSEC -- When in-core DIFT faces fault injection attacks
 
-William PENSEC -- University Southern Brittany (Lorient, France).
+William PENSEC (University Southern Brittany, Lorient, France)
+, Vianney Lapôtre, Guy GOGNIAT.
 
 **Summary**
 
@@ -357,7 +381,8 @@ William PENSEC -- University Southern Brittany (Lorient, France).
 
 ### Darek Palubiak -- Evaluation of critical flip-flops in RISC-V cores using fault injection for improved single-event-upset resilience
 
-Darek Palubiak -- Cadence Design Systems (Cork, Ireland).
+Darek Palubiak (Cadence Design Systems, Cork, Ireland)
+, Vitali Karasenko, Connie O'Shea.
 
 **Summary**
 
@@ -370,7 +395,8 @@ Darek Palubiak -- Cadence Design Systems (Cork, Ireland).
 
 ### Sandro Pinto -- Interoperable IoT Security Stack: The RISC-V Opportunity
 
-Sandro Pinto -- Universidade do Minho (Guimaraes, Portugal).
+Sandro Pinto (Universidade do Minho, Guimaraes, Portugal)
+, Matjaz Breskvar, Tiago Gomes, Hristo Koshutanski, Aljosa Pasic, Piotr Krol, Emna Amri, David Puron, Zoltan Hornak, Marco Rovieri, Alexandra Dmitrienko, Ahmad-Reza Sadeghi, Bruno Crispo.
 
 **Summary**
 
@@ -383,7 +409,8 @@ Sandro Pinto -- Universidade do Minho (Guimaraes, Portugal).
 
 ### Enrique S. Quintana-ortí -- Parallelizing BLIS-style Matrix Multiplication for TinyML on Ultra-Low-Power multicore RISC-V
 
-Enrique S. Quintana-ortí -- Universitat Politècnica de València (Valencia, España).
+Enrique S. Quintana-ortí (Universitat Politècnica de València, Valencia, España)
+, Cristian Ramirez, Adrián Castelló.
 
 **Summary**
 
@@ -396,7 +423,8 @@ Enrique S. Quintana-ortí -- Universitat Politècnica de València (Valencia, Es
 
 ### Gerard Rauwerda -- SmallSat Payload Control & Data Processing: High-Reliability and High-Security With RISC-V
 
-Gerard Rauwerda -- Technolution B.V. (Gouda, Netherlands).
+Gerard Rauwerda (Technolution B.V., Gouda, Netherlands)
+, Camiel Vletter, Dave Marples, Marco Ottavi, Bruno Forlin, Sybren de Jong, Hans Dekker.
 
 **Summary**
 
@@ -409,7 +437,8 @@ Gerard Rauwerda -- Technolution B.V. (Gouda, Netherlands).
 
 ### Alvise Rigo -- VOSySzator: A flexible embedded RISC-V system virtualizer targeting the cloud
 
-Alvise Rigo -- Virtual Open Systems (Grenoble, France).
+Alvise Rigo (Virtual Open Systems, Grenoble, France)
+, Daniel Raho, Samuele Paone, Timos Ampelikiotis.
 
 **Summary**
 
@@ -422,7 +451,8 @@ Alvise Rigo -- Virtual Open Systems (Grenoble, France).
 
 ### Luis Felipe Rojas Muñoz -- Root of Trust Components to Increase Security  of RISC-V Based Systems on Chips
 
-Luis Felipe Rojas Muñoz -- Imse-cnm (CSIC/Universidad de Sevilla) (Sevilla, Spain).
+Luis Felipe Rojas Muñoz (Imse-cnm (CSIC/Universidad de Sevilla), Sevilla, Spain)
+, Macarena Cristina Martínez Rodríguez, Santiago Sánchez Solano, Piedad Brox Jiménez.
 
 **Summary**
 
@@ -435,7 +465,8 @@ Luis Felipe Rojas Muñoz -- Imse-cnm (CSIC/Universidad de Sevilla) (Sevilla, Spa
 
 ### Marcel Sarraseca -- SafeLS: Toward Building a Lockstep NOEL-V Core
 
-Marcel Sarraseca -- Barcelona Supercomputing Center (Terrassa, Spain).
+Marcel Sarraseca (Barcelona Supercomputing Center, Terrassa, Spain)
+, Sergi Alcaide, Francisco Javier Fuentes, Juan Carlos Rodríguez, FENG CHANG, Ilham Lasfar, Ramon Canal, Francisco J Cazorla, Jaume Abella.
 
 **Summary**
 
@@ -448,7 +479,8 @@ Marcel Sarraseca -- Barcelona Supercomputing Center (Terrassa, Spain).
 
 ### Jonas Schupp -- Silicon Proven Hardware Acceleration of Post-Quantum Cryptography on RISC-V
 
-Jonas Schupp -- Technical University Of Munich (Munich, Germany).
+Jonas Schupp (Technical University Of Munich, Munich, Germany)
+, Patrick Karl, Georg Sigl.
 
 **Summary**
 
@@ -461,7 +493,8 @@ Jonas Schupp -- Technical University Of Munich (Munich, Germany).
 
 ### Matteo Sonza Reorda -- Self-Test Libraries for RISC-V safety-critical applications: recent advances
 
-Matteo Sonza Reorda -- Politecnico di Torino
+Matteo Sonza Reorda (Politecnico di Torino)
+, Riccardo Cantoro, Josie Esteban Rodriguez Condia, Annachiara Ruospo, Ernesto Sanchez.
 
 **Summary**
 
@@ -474,7 +507,8 @@ Matteo Sonza Reorda -- Politecnico di Torino
 
 ### Markus Ulbricht -- The TETRISC SoC - A resilient quad-core system based on Pulpissimo
 
-Markus Ulbricht -- IHP - Leibniz Institute For High Performance Microelectronics (Frankfurt (Oder), Germany).
+Markus Ulbricht (IHP - Leibniz Institute For High Performance Microelectronics, Frankfurt (Oder), Germany)
+, Li Lu, Junchao Chen, Milos Krstic.
 
 **Summary**
 
@@ -487,7 +521,7 @@ Markus Ulbricht -- IHP - Leibniz Institute For High Performance Microelectronics
 
 ### Siqi Zhao -- Hardware-Assisted Virtual IOMMU with Nested Translation
 
-Siqi Zhao -- T-head Semiconductor (Hangzhou, China).
+Siqi Zhao (T-head Semiconductor, Hangzhou, China)
 
 **Summary**
 
@@ -505,7 +539,8 @@ Presenters are expected to be with their poster during the morning break, lunch 
 
 ### Xabier Abancens Calvo -- Extending OpenPiton framework towards the HPC domain: first steps
 
-Xabier Abancens Calvo -- Barcelona Supercomputing Center (BSC) (Barcelona, España).
+Xabier Abancens Calvo (Barcelona Supercomputing Center (BSC), Barcelona, España)
+, Mohsin Shahbaz, Teresa Cervero Garcia.
 
 **Summary**
 
@@ -518,7 +553,8 @@ Xabier Abancens Calvo -- Barcelona Supercomputing Center (BSC) (Barcelona, Espa�
 
 ### Côme Allart -- Performance Modeling of CVA6 with Cycle-Based Simulation
 
-Côme Allart -- Thales DIS, Meyreuil France - Mines Saint-Etienne, CEA, Leti, Centre CMP, F - 13541 Gardanne France (Aix-en-Provence, France).
+Côme Allart (Thales DIS, Meyreuil France - Mines Saint-Etienne, CEA, Leti, Centre CMP, F - 13541 Gardanne France, Aix-en-Provence, France)
+, Jean-Roch Coulon, André Sintzoff, Olivier Potin, Jean-Baptiste Rigaud.
 
 **Summary**
 
@@ -531,7 +567,8 @@ Côme Allart -- Thales DIS, Meyreuil France - Mines Saint-Etienne, CEA, Leti, Ce
 
 ### Marco Bertuletti -- Parallel Sparse Deep Learning Operators on Lightweight RISC-V Processors
 
-Marco Bertuletti -- ETH Zurich (Zurich, Switzerland).
+Marco Bertuletti (ETH Zurich, Zurich, Switzerland)
+, Tim Fischer, Yichao Zhang, Luca Benini.
 
 **Summary**
 
@@ -544,7 +581,8 @@ Marco Bertuletti -- ETH Zurich (Zurich, Switzerland).
 
 ### Nick Brown -- Experiences of running an HPC RISC-V testbed
 
-Nick Brown -- Epcc At The University Of Edinburgh (Edinburgh, United Kingdom).
+Nick Brown (Epcc At The University Of Edinburgh, Edinburgh, United Kingdom)
+, Maurice Jamieson, Joseph Lee.
 
 **Summary**
 
@@ -557,7 +595,8 @@ Nick Brown -- Epcc At The University Of Edinburgh (Edinburgh, United Kingdom).
 
 ### Gregory Chadwick -- Developing an Open-Source Silicon Ecosystem: The Silicon Commons
 
-Gregory Chadwick -- Lowrisc Cic (Bristol, United Kingdom).
+Gregory Chadwick (Lowrisc Cic, Bristol, United Kingdom)
+, Andreas Kurth, Marno van der Maas.
 
 **Summary**
 
@@ -570,7 +609,8 @@ Gregory Chadwick -- Lowrisc Cic (Bristol, United Kingdom).
 
 ### Jin Chufeng -- A Micro Arch Design of L1 Cache for GPGPUs Supporting Release Consistency-directed Coherence Based on RVWMO
 
-Jin Chufeng -- Tsinghua University (Beijing, China).
+Jin Chufeng (Tsinghua University, Beijing, China)
+, Kexiang Yang, Jingzhou Li, He Hu.
 
 **Summary**
 
@@ -583,7 +623,8 @@ Jin Chufeng -- Tsinghua University (Beijing, China).
 
 ### Ashish Darbari -- End-to-end formal verification of RISC-V SoCs
 
-Ashish Darbari -- Axiomise (London, United Kingdom).
+Ashish Darbari (Axiomise, London, United Kingdom)
+, Adeel Liaquat, Muhammad Bilal Sakhawat.
 
 **Summary**
 
@@ -596,7 +637,8 @@ Ashish Darbari -- Axiomise (London, United Kingdom).
 
 ### Conrad Foik -- Extended Abstract: A Flexible Simulation Environment for RISC-V
 
-Conrad Foik -- Technical University Munich (Munich, Germany).
+Conrad Foik (Technical University Munich, Munich, Germany)
+, Karsten Emrich, Daniel Mueller-gritschneder, Ulf Schlichtmann, Johannes Kappes, Sebastian Prebeck, Wolfgang Ecker.
 
 **Summary**
 
@@ -609,7 +651,8 @@ Conrad Foik -- Technical University Munich (Munich, Germany).
 
 ### Michael Gielda -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
 
-Michael Gielda -- Antmicro (Gothenburg, Sweden).
+Michael Gielda (Antmicro, Gothenburg, Sweden)
+, Karol Gugala, Matt Cockrell.
 
 **Summary**
 
@@ -622,7 +665,8 @@ Michael Gielda -- Antmicro (Gothenburg, Sweden).
 
 ### Gert Goossens -- Taking the Risk out of Optimizing Your Own RISC-V Architecture Design
 
-Gert Goossens -- Synopsys (Leuven, Belgium).
+Gert Goossens (Synopsys, Leuven, Belgium)
+, Patrick Verbist, Dominik Auras.
 
 **Summary**
 
@@ -635,7 +679,7 @@ Gert Goossens -- Synopsys (Leuven, Belgium).
 
 ### Jean-Michel Gorius -- Design Exploration of RISC-V Soft-Cores through Speculative High-Level Synthesis
 
-Jean-Michel Gorius -- University of Rennes, Irisa (Rennes, France).
+Jean-Michel Gorius (University of Rennes, Irisa, Rennes, France)
 
 **Summary**
 
@@ -648,7 +692,8 @@ Jean-Michel Gorius -- University of Rennes, Irisa (Rennes, France).
 
 ### Muhammad Hassan -- Expanding RISC-V Horizons: Streamlining Heterogeneous Systems Evaluation with Open Source RISC-V AMS VP Framework
 
-Muhammad Hassan -- DFKI GmbH And University Of Bremen (Bremen, Germany).
+Muhammad Hassan (DFKI GmbH And University Of Bremen, Bremen, Germany)
+, Muhammad Hassan, Rolf Drechsler.
 
 **Summary**
 
@@ -661,7 +706,8 @@ Muhammad Hassan -- DFKI GmbH And University Of Bremen (Bremen, Germany).
 
 ### Salaheddin Hetalani -- Wedging with formal verification to strengthen the quality of custom RISC-V SoC
 
-Salaheddin Hetalani -- Siemens EDA
+Salaheddin Hetalani (Siemens EDA)
+, Nicolae Tusinschi, Pascal Gouedo.
 
 **Summary**
 
@@ -674,7 +720,7 @@ Salaheddin Hetalani -- Siemens EDA
 
 ### Lavanya Jagadeeswaran -- Changing the RISC-V Verification Paradigm with Vyoma’s Verification-as-a-Service Framework
 
-Lavanya Jagadeeswaran -- Vyoma Systems Private Limited (Chennai, India).
+Lavanya Jagadeeswaran (Vyoma Systems Private Limited, Chennai, India)
 
 **Summary**
 
@@ -687,7 +733,8 @@ Lavanya Jagadeeswaran -- Vyoma Systems Private Limited (Chennai, India).
 
 ### Stanislaw Kaushanski -- Automated Cross-level Verification Flow of a Highly Configurable RISC-V Core Family with Custom Instructions
 
-Stanislaw Kaushanski -- MINRES Technologies GmbH (Munich, Germany).
+Stanislaw Kaushanski (MINRES Technologies GmbH, Munich, Germany)
+, Eyck Jentzsch.
 
 **Summary**
 
@@ -700,7 +747,8 @@ Stanislaw Kaushanski -- MINRES Technologies GmbH (Munich, Germany).
 
 ### Tanuj Khandelwal -- Functional Verification Strategy for an Open-Source High-Performance L1 Data-Cache for RISC-V cores
 
-Tanuj Khandelwal -- Univ. Grenoble Alpes, CEA, LIST (Grenoble, France).
+Tanuj Khandelwal (Univ. Grenoble Alpes, CEA, LIST, Grenoble, France)
+, Ludovic Pion, César Fuguet Tortolero, Adrian Evans.
 
 **Summary**
 
@@ -713,7 +761,8 @@ Tanuj Khandelwal -- Univ. Grenoble Alpes, CEA, LIST (Grenoble, France).
 
 ### Lucas Klemmer -- A DSL for Visualizing Pipelines: A RISC-V Case Study
 
-Lucas Klemmer -- Johannes Kepler University Linz (Linz, Austria).
+Lucas Klemmer (Johannes Kepler University Linz, Linz, Austria)
+, Daniel Große.
 
 **Summary**
 
@@ -726,7 +775,8 @@ Lucas Klemmer -- Johannes Kepler University Linz (Linz, Austria).
 
 ### Larry Lapides -- Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification
 
-Larry Lapides -- Imperas Software
+Larry Lapides (Imperas Software)
+, Kevin McDermott, Simon Davidmann.
 
 **Summary**
 
@@ -739,7 +789,7 @@ Larry Lapides -- Imperas Software
 
 ### Sylvain Lefebvre -- Iron: Selectively turn RISC-V binaries into hardware co-processors.
 
-Sylvain Lefebvre -- Inria (Villers-les-nancy, France).
+Sylvain Lefebvre (Inria, Villers-les-nancy, France)
 
 **Summary**
 
@@ -752,7 +802,8 @@ Sylvain Lefebvre -- Inria (Villers-les-nancy, France).
 
 ### Marno van der Maas -- Verifying Enhanced PMP Behavior in Ibex
 
-Marno van der Maas -- lowRISC CIC (Cambridge, United Kingdom).
+Marno van der Maas (lowRISC CIC, Cambridge, United Kingdom)
+, Andreas Kurth, Harry Callahan, Gregory Chadwick.
 
 **Summary**
 
@@ -765,7 +816,8 @@ Marno van der Maas -- lowRISC CIC (Cambridge, United Kingdom).
 
 ### Kevin McDermott -- Cycle Approximate Simulation of RISC-V Processors for Architectural Exploration
 
-Kevin McDermott -- Imperas Software (Thame, United Kingdom).
+Kevin McDermott (Imperas Software, Thame, United Kingdom)
+, Lee Moore, Larry Lapides.
 
 **Summary**
 
@@ -778,7 +830,8 @@ Kevin McDermott -- Imperas Software (Thame, United Kingdom).
 
 ### Alberto Moreno -- RISC-V Core FPGA tracing for verification
 
-Alberto Moreno -- Semidynamics (Barcelona, España).
+Alberto Moreno (Semidynamics, Barcelona, España)
+, Josep Sans I Prats, Alex Torregrosa, Roger Espasa.
 
 **Summary**
 
@@ -791,7 +844,8 @@ Alberto Moreno -- Semidynamics (Barcelona, España).
 
 ### Stepan Nassyr -- Programmatically Reaching the Roof: Automated BLIS Kernel Generator for SVE and RVV
 
-Stepan Nassyr -- Forschungszentrum Juelich Gmbh (Aachen, Germany).
+Stepan Nassyr (Forschungszentrum Juelich Gmbh, Aachen, Germany)
+, Kaveh Haghighi Mood, Andreas Herten.
 
 **Summary**
 
@@ -804,7 +858,8 @@ Stepan Nassyr -- Forschungszentrum Juelich Gmbh (Aachen, Germany).
 
 ### Karan Pathak -- Validating Full-System RISC-V Simulator: A Systematic Approach
 
-Karan Pathak -- Tu Delft/EPFL (Lausanne, Switzerland).
+Karan Pathak (Tu Delft/EPFL, Lausanne, Switzerland)
+, Joshua Klein, Giovanni Ansaloni, Marina Zapater, David Atienza.
 
 **Summary**
 
@@ -817,7 +872,8 @@ Karan Pathak -- Tu Delft/EPFL (Lausanne, Switzerland).
 
 ### Jérôme Quévremont -- Recent Achievements of the Open-Source CVA6 Core: FPGA Optimizations, Coprocessor Acceleration, Yocto Linux Support
 
-Jérôme Quévremont -- Thales Research & Technology (Palaiseau, France).
+Jérôme Quévremont (Thales Research & Technology, Palaiseau, France)
+, Sébastien Jacq, Jean-Roch Coulon, Kevin Eyssartier.
 
 **Summary**
 
@@ -830,7 +886,7 @@ Jérôme Quévremont -- Thales Research & Technology (Palaiseau, France).
 
 ### Pierre Ravenel -- A gem5-based CVA6 Framework for Microarchitectural Pathfinding
 
-Pierre Ravenel -- Kalray (Grenoble, France).
+Pierre Ravenel (Kalray, Grenoble, France)
 
 **Summary**
 
@@ -843,7 +899,8 @@ Pierre Ravenel -- Kalray (Grenoble, France).
 
 ### Manuel Rodríguez -- Open-source RISC-V Input/Output Memory Management Unit (IOMMU) IP
 
-Manuel Rodríguez -- Centro ALGORITMI/LASI, Universidade Do Minho (Guimarães, Portugal).
+Manuel Rodríguez (Centro ALGORITMI/LASI, Universidade Do Minho, Guimarães, Portugal)
+, Francisco Marques da Costa, Bruno Sá, Sandro Pinto.
 
 **Summary**
 
@@ -856,7 +913,8 @@ Manuel Rodríguez -- Centro ALGORITMI/LASI, Universidade Do Minho (Guimarães, P
 
 ### Peter Rugg -- Randomized Testing of RISC-V CPUs using Direct Instruction Injection
 
-Peter Rugg -- University Of Cambridge (Cambridge, United Kingdom).
+Peter Rugg (University Of Cambridge, Cambridge, United Kingdom)
+, Alexandre Joannou, Jonathan Woodruff, Franz Fuchs, Marno van der Maas, Matthew Naylor, Michael Roe, Robert N. M. Watson, Peter Neumann, Simon W. Moore.
 
 **Summary**
 
@@ -869,7 +927,8 @@ Peter Rugg -- University Of Cambridge (Cambridge, United Kingdom).
 
 ### Fatima Saleem -- Open-Source RISC-V Vector Test Suites: A Comparative Analysis
 
-Fatima Saleem -- 10xengineers (Lahore, Pakistan).
+Fatima Saleem (10xengineers, Lahore, Pakistan)
+, UMER IMRAN, Quswar Abid, Kamran Malik.
 
 **Summary**
 
@@ -882,7 +941,8 @@ Fatima Saleem -- 10xengineers (Lahore, Pakistan).
 
 ### Josep Sans I Prats -- Open source verification environment for RISC-V
 
-Josep Sans I Prats -- Semidynamics (Barcelona, España).
+Josep Sans I Prats (Semidynamics, Barcelona, España)
+, Alberto Moreno, Alex Torregrosa.
 
 **Summary**
 
@@ -895,7 +955,8 @@ Josep Sans I Prats -- Semidynamics (Barcelona, España).
 
 ### Davide Schiavone -- X-HEEP: an open-source eXtendible\\Heterogeneous Energy-Efficient RISC-V Platform for Embedded-class systems
 
-Davide Schiavone -- Openhw Group (Geneva, Switzerland).
+Davide Schiavone (Openhw Group, Geneva, Switzerland)
+, Jose Miranda Calero, David Atienza.
 
 **Summary**
 
@@ -908,7 +969,7 @@ Davide Schiavone -- Openhw Group (Geneva, Switzerland).
 
 ### Quentin Schibler -- You only use 10% of your FPGA
 
-Quentin Schibler -- École Normale Supérieure Paris-Saclay (Cambridge, United Kingdom).
+Quentin Schibler (École Normale Supérieure Paris-Saclay, Cambridge, United Kingdom)
 
 **Summary**
 
@@ -921,7 +982,8 @@ Quentin Schibler -- École Normale Supérieure Paris-Saclay (Cambridge, United K
 
 ### Aimee Sutton -- Adapting verification methodologies and techniques for the innovation of RISC-V
 
-Aimee Sutton -- Imperas Software
+Aimee Sutton (Imperas Software)
+, Lee Moore, Simon Davidmann.
 
 **Summary**
 
@@ -934,7 +996,8 @@ Aimee Sutton -- Imperas Software
 
 ### Eduardo Tomasi Ribeiro -- Towards Simulation of an Unified Address Space for 128-bit Massively Parallel Computers
 
-Eduardo Tomasi Ribeiro -- CEA List (Grenoble, France).
+Eduardo Tomasi Ribeiro (CEA List, Grenoble, France)
+, César Fuguet Tortolero, Christian FABRE, Frédéric Pétrot.
 
 **Summary**
 
@@ -947,7 +1010,7 @@ Eduardo Tomasi Ribeiro -- CEA List (Grenoble, France).
 
 ### Roddy Urquhart -- Unlocking the potential of RISC-V with HW/SW co-design
 
-Roddy Urquhart -- Codasip
+Roddy Urquhart (Codasip)
 
 **Summary**
 
@@ -960,7 +1023,8 @@ Roddy Urquhart -- Codasip
 
 ### Kexiang Yang -- Ventus: an RVV-based General Purpose GPU Design and Implementation
 
-Kexiang Yang -- Tsinghua University (Beijing, China).
+Kexiang Yang (Tsinghua University, Beijing, China)
+, Hualin Wu, Jingzhou Li, Jin Chufeng, Yujie Shi, Xudong Liu, Zexia Yang, Fangfei Yu, Mingyuan Ma, Sipeng Hu, Tianwei Gong, Hu He.
 
 **Summary**
 
@@ -973,7 +1037,8 @@ Kexiang Yang -- Tsinghua University (Beijing, China).
 
 ### Lilia Zaourar -- Exploring RISC-V based platforms within VPSim simulation tool for High Performance Computing
 
-Lilia Zaourar -- CEA LIST LECA (Paris, France).
+Lilia Zaourar (CEA LIST LECA, Paris, France)
+, Mohamed Benazouz, Lilia Zaourar.
 
 **Summary**
 
@@ -991,7 +1056,8 @@ Presenters are expected to be with their poster during the morning break, lunch 
 
 ### David Aguiló -- Kameleon, a RISC-V based 2-core multi-accelerator academic SoC
 
-David Aguiló -- Barcelona Supercomputing Center
+David Aguiló (Barcelona Supercomputing Center)
+, David Aguiló Domínguez, Oscar Alonso, Max Doblas, César Hernández, Vatistas Kostalampros, Santiago Marco-Sola, Abbas Haghi, Jordi Fornt, Juan Miguel De Haro, Carlos Rojas, Enrico Reggiani, Roger Figueras, Pau Fontova, Xavier Carrril, Hugo Safadi, Diego Mateo, Xavier Aragonés, Jordi Sacristán, Carmen Martínez, Ángel Diéguez, Sergio Moreno, Manuel Lopez, Fernando Arreza, Lluís Terés, Miquel Moretó, Adrián Cristal, Osman Unsal, Mateo Valero.
 
 **Summary**
 
@@ -1004,7 +1070,8 @@ David Aguiló -- Barcelona Supercomputing Center
 
 ### Riccardo Alidori -- Hardware Support for Variable Precision Floating Point Formats Exploration
 
-Riccardo Alidori -- CEA-List (Grenoble, France).
+Riccardo Alidori (CEA-List, Grenoble, France)
+, Andrea Bocco.
 
 **Summary**
 
@@ -1017,7 +1084,7 @@ Riccardo Alidori -- CEA-List (Grenoble, France).
 
 ### Jack Andrew -- Virtual machines on RISC-V
 
-Jack Andrew -- Imagination Technologies (Cambridge, United Kingdom).
+Jack Andrew (Imagination Technologies, Cambridge, United Kingdom)
 
 **Summary**
 
@@ -1030,7 +1097,8 @@ Jack Andrew -- Imagination Technologies (Cambridge, United Kingdom).
 
 ### Gerardo Bandera Burgueño -- Floating Point HUB Adder for RISC-V Sargantana Processor
 
-Gerardo Bandera Burgueño -- University of Malaga
+Gerardo Bandera Burgueño (University of Malaga)
+, Javier Salamero, Miquel Moretó, Julio Villalba-moreno.
 
 **Summary**
 
@@ -1043,7 +1111,8 @@ Gerardo Bandera Burgueño -- University of Malaga
 
 ### Ramon Canal -- Vitamin-V: Virtual Environment and Tool-boxing for Trustworthy Development of RISC-V based Cloud Services
 
-Ramon Canal -- Universitat Politècnica De Catalunya (Barcelona, Spain).
+Ramon Canal (Universitat Politècnica De Catalunya, Barcelona, Spain)
+, Angelos Arelakis, Alberto Moreno, Josep Lluís Berral, Aaron Call, Stefano Di Carlo, Juanjo Costa, Dimitris Gizopoulos, Vasileios Karakostas, Francesco Lubrano, Konstantinos Nikas, Yiannis Nikolakopoulos, Beatriz Otero, George Papadimitriou, Yannis Papaefstathiou, Dionisios Pnevmatikatos, Daniel Raho, Alvise Rigo, Eva Rodríguez, Alessandro Savino, Alberto Scionti, Nikos Tampouratzis, Alex Torregrosa.
 
 **Summary**
 
@@ -1056,7 +1125,8 @@ Ramon Canal -- Universitat Politècnica De Catalunya (Barcelona, Spain).
 
 ### Henri-pierre Charles -- How to generate data dependent applications and handle  platform heterogeneity ?
 
-Henri-pierre Charles -- CEA (Grenoble, France).
+Henri-pierre Charles (CEA, Grenoble, France)
+, Maha Kooli, Thaddée Bricout, Benjamin Lacour.
 
 **Summary**
 
@@ -1069,7 +1139,8 @@ Henri-pierre Charles -- CEA (Grenoble, France).
 
 ### Odysseas Chatzopoulos -- Enabling Design Space Exploration of RISC-V Accelerator-rich Computing Systems on gem5
 
-Odysseas Chatzopoulos -- University Of Athens (Athens, Greece).
+Odysseas Chatzopoulos (University Of Athens, Athens, Greece)
+, George Papadimitriou, Vasileios Karakostas, Dimitris Gizopoulos.
 
 **Summary**
 
@@ -1082,7 +1153,8 @@ Odysseas Chatzopoulos -- University Of Athens (Athens, Greece).
 
 ### Iacopo Colonnelli -- Experimenting with PyTorch on RISC-V
 
-Iacopo Colonnelli -- University Of Torino (Torino, Italy).
+Iacopo Colonnelli (University Of Torino, Torino, Italy)
+, Robert Birke, Marco Aldinucci.
 
 **Summary**
 
@@ -1095,7 +1167,8 @@ Iacopo Colonnelli -- University Of Torino (Torino, Italy).
 
 ### Francisco Costa -- Open Source RISC-V Advanced Interrupt Architecture (AIA) IP
 
-Francisco Costa -- University of Minho (Guimaraes, Portugal).
+Francisco Costa (University of Minho, Guimaraes, Portugal)
+, Manuel Rodríguez, Bruno Sá, Sandro Pinto.
 
 **Summary**
 
@@ -1108,7 +1181,8 @@ Francisco Costa -- University of Minho (Guimaraes, Portugal).
 
 ### Tamer Eren -- A RISC-V-based, Multi-threaded General Purpose GPU Core
 
-Tamer Eren -- TÜBİTAK / BİLGEM (İstanbul, Turkey).
+Tamer Eren (TÜBİTAK / BİLGEM, İstanbul, Turkey)
+, Mehmet Eyyüp Ergin, Ömer Güzel, Hasan Erdem Yantır.
 
 **Summary**
 
@@ -1121,7 +1195,8 @@ Tamer Eren -- TÜBİTAK / BİLGEM (İstanbul, Turkey).
 
 ### Jerome Fereyre -- VPSDK : a portability library for extended arithmetic operations targetting a RISC-V Variable eXended   Precision accelerator.
 
-Jerome Fereyre -- Cea (Grenoble, France).
+Jerome Fereyre (Cea, Grenoble, France)
+, Alexandre Hoffmann.
 
 **Summary**
 
@@ -1134,7 +1209,8 @@ Jerome Fereyre -- Cea (Grenoble, France).
 
 ### Jaume Gauchola -- Hypervision Extension for a RISC-V Processor
 
-Jaume Gauchola -- 
+Jaume Gauchola
+, Juanjo Costa, Jaume Gauchola, Ramon Canal, Xavier Carril, Max Doblas, Beatriz Otero, Manuel Alejandro Pajuelo, Eva Rodríguez, Javier Salamero, Javier Verdú.
 
 **Summary**
 
@@ -1147,7 +1223,8 @@ Jaume Gauchola --
 
 ### Pascal Gouedo -- CV32E40P updates: customizing an open-source RISC-V core at industrial-grade; experiences and challenges
 
-Pascal Gouedo -- Dolphin Design (Grenoble, France).
+Pascal Gouedo (Dolphin Design, Grenoble, France)
+, Yoann PRUVOST, Xavier AUBERT, Olivier MONTFORT, Mike Thompson, Davide Schiavone.
 
 **Summary**
 
@@ -1160,7 +1237,8 @@ Pascal Gouedo -- Dolphin Design (Grenoble, France).
 
 ### Léo Gourdin -- Formally verified advanced optimizations for RISC-V
 
-Léo Gourdin -- UGA (Grenoble, France).
+Léo Gourdin (UGA, Grenoble, France)
+, Léo Gourdin, Sylvain Boulmé.
 
 **Summary**
 
@@ -1173,7 +1251,8 @@ Léo Gourdin -- UGA (Grenoble, France).
 
 ### Frank Gurkaynak -- 10 years of making PULP based chips
 
-Frank Gurkaynak --  (Switzerland).
+Frank Gurkaynak (Switzerland)
+, Luca Benini.
 
 **Summary**
 
@@ -1186,7 +1265,7 @@ Frank Gurkaynak --  (Switzerland).
 
 ### Jonas Hahnfeld -- Porting ROOT and Cling to RISC-V
 
-Jonas Hahnfeld -- CERN (Geneva, Switzerland).
+Jonas Hahnfeld (CERN, Geneva, Switzerland)
 
 **Summary**
 
@@ -1199,7 +1278,8 @@ Jonas Hahnfeld -- CERN (Geneva, Switzerland).
 
 ### Lawrence Hunter -- QEMU Vector Cryptography extension support
 
-Lawrence Hunter -- Codethink (Manchester, United Kingdom).
+Lawrence Hunter (Codethink, Manchester, United Kingdom)
+, Nazar Kazakov, Kiran Ostrolenk.
 
 **Summary**
 
@@ -1212,7 +1292,8 @@ Lawrence Hunter -- Codethink (Manchester, United Kingdom).
 
 ### Alexandre Joannou -- CHERI-RISCV Extension Progress
 
-Alexandre Joannou -- University of Cambridge (Cambridge, United Kingdom).
+Alexandre Joannou (University of Cambridge, Cambridge, United Kingdom)
+, Robert N. M. Watson, Alex Ridchardson, Jessica Clarke, John Davis, Lawrence Esswood, Ben Laurie, Simon W. Moore, Peter Rugg, Peter Sewell.
 
 **Summary**
 
@@ -1225,7 +1306,8 @@ Alexandre Joannou -- University of Cambridge (Cambridge, United Kingdom).
 
 ### Philipp van Kempen -- Automated Generation of a RISC-V LLVM Toolchain for Custom MACs
 
-Philipp van Kempen -- Technical University of Munich (Munich, Germany).
+Philipp van Kempen (Technical University of Munich, Munich, Germany)
+, Karsten Emrich, Daniel Mueller-gritschneder, Ulf Schlichtmann.
 
 **Summary**
 
@@ -1238,7 +1320,8 @@ Philipp van Kempen -- Technical University of Munich (Munich, Germany).
 
 ### Maha Kooli -- RISC-V based Programming Model of a Computational SRAM Vector Processing Unit
 
-Maha Kooli -- Cea Grenoble (Grenoble, France).
+Maha Kooli (Cea Grenoble, Grenoble, France)
+, Henri-pierre Charles, Jean Philippe Noël, Bastien Giraud, Thaddée Bricout, Maria Ramirez Corrales.
 
 **Summary**
 
@@ -1251,7 +1334,8 @@ Maha Kooli -- Cea Grenoble (Grenoble, France).
 
 ### Christos Kotselidis -- Harnessing Hardware Acceleration with RISC-V and the EU Processor
 
-Christos Kotselidis -- The University Of Manchester (Manchester, United Kingdom).
+Christos Kotselidis (The University Of Manchester, Manchester, United Kingdom)
+, Juan Fumero, Athanasios Stratikopoulos, Mehdi Goli, Ruyman Reyes, Konstantinos Nikas, Dionisios Pnevmatikatos, Nectarios Koziris.
 
 **Summary**
 
@@ -1264,7 +1348,7 @@ Christos Kotselidis -- The University Of Manchester (Manchester, United Kingdom)
 
 ### Guy Lemieux -- RVV-lite v0.5: A Modest Proposal for Reducing the RISC-V Vector Extension
 
-Guy Lemieux -- University Of British Columbia (Vancouver, Canada).
+Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 
 **Summary**
 
@@ -1277,7 +1361,8 @@ Guy Lemieux -- University Of British Columbia (Vancouver, Canada).
 
 ### Charisios Loukas -- Low-latency user-level communication for RISC-V clusters
 
-Charisios Loukas -- FORTH (Herakleion, Greece).
+Charisios Loukas (FORTH, Herakleion, Greece)
+, Pantelis Xirouchakis, Michalis Gianioudis, Aggelos Ioannou, Manolis Katevenis, Nikos Chrysos.
 
 **Summary**
 
@@ -1290,7 +1375,8 @@ Charisios Loukas -- FORTH (Herakleion, Greece).
 
 ### David Mallasén Quintana -- PERCIVAL: Integrating Posit and Quire Arithmetic into the RISC-V Ecosystem
 
-David Mallasén Quintana -- Universidad Complutense De Madrid (Madrid, España).
+David Mallasén Quintana (Universidad Complutense De Madrid, Madrid, España)
+, Raul Murillo, Alberto A. Del Barrio, Guillermo Botella, Luis Piñuel, Manuel Prieto-Matias.
 
 **Summary**
 
@@ -1303,7 +1389,8 @@ David Mallasén Quintana -- Universidad Complutense De Madrid (Madrid, España).
 
 ### Hugo McNally -- Relocatable RISC-V Rust Applications for Embedded Systems
 
-Hugo McNally -- Lowrisc Cic (Cambridge, United Kingdom).
+Hugo McNally (Lowrisc Cic, Cambridge, United Kingdom)
+, Luís Marques.
 
 **Summary**
 
@@ -1316,7 +1403,8 @@ Hugo McNally -- Lowrisc Cic (Cambridge, United Kingdom).
 
 ### Stephan Nolting -- Developing Custom RISC-V ISA Extensions for General Embedded Image Processing Operations
 
-Stephan Nolting -- Fraunhofer IMS (Duisburg, Germany).
+Stephan Nolting (Fraunhofer IMS, Duisburg, Germany)
+, Alexander Utz.
 
 **Summary**
 
@@ -1329,7 +1417,8 @@ Stephan Nolting -- Fraunhofer IMS (Duisburg, Germany).
 
 ### Arthur Perais -- We had 64-bit, yes. What about second 64-bit?
 
-Arthur Perais -- CNRS (Grenoble, France).
+Arthur Perais (CNRS, Grenoble, France)
+, Mathieu Bacou, Adam Chader, Chandana Deshpande, Christian FABRE, César Fuguet Tortolero, Pierre Michaud, Frédéric Pétrot, Gaël Thomas, Eduardo Tomasi Ribeiro.
 
 **Summary**
 
@@ -1342,7 +1431,7 @@ Arthur Perais -- CNRS (Grenoble, France).
 
 ### Zdenek Prikryl -- RISC-V as an Enabler of Heterogeneous Compute
 
-Zdenek Prikryl -- Codasip
+Zdenek Prikryl (Codasip)
 
 **Summary**
 
@@ -1355,7 +1444,8 @@ Zdenek Prikryl -- Codasip
 
 ### Maria Ramirez Corrales -- Improving Post-Quantum Cryptography coupling Near-Memory Computing and RISC-V Cores
 
-Maria Ramirez Corrales -- CEA (Grenoble, France).
+Maria Ramirez Corrales (CEA, Grenoble, France)
+, Emanuele Valea, Jean Philippe Noël.
 
 **Summary**
 
@@ -1368,7 +1458,7 @@ Maria Ramirez Corrales -- CEA (Grenoble, France).
 
 ### Kenneth Rovers -- The landscape of RISC-V floating point support with BF16 at the centre
 
-Kenneth Rovers -- Imagination Technologies (Sint-Michielsgestel, Netherlands).
+Kenneth Rovers (Imagination Technologies, Sint-Michielsgestel, Netherlands)
 
 **Summary**
 
@@ -1381,7 +1471,8 @@ Kenneth Rovers -- Imagination Technologies (Sint-Michielsgestel, Netherlands).
 
 ### Paul Scheffler -- Accelerating Irregular Workloads with Cooperating Indexed Stream Registers
 
-Paul Scheffler -- ETH Zurich (Zürich, Switzerland).
+Paul Scheffler (ETH Zurich, Zürich, Switzerland)
+, Luca Benini.
 
 **Summary**
 
@@ -1394,7 +1485,8 @@ Paul Scheffler -- ETH Zurich (Zürich, Switzerland).
 
 ### Frank Schirrmeister -- Accelerating RISC V Developments Through Network-on-Chip (NoC) Automation
 
-Frank Schirrmeister -- Arteris (Campbell, United States).
+Frank Schirrmeister (Arteris, Campbell, United States)
+, Michael Frank.
 
 **Summary**
 
@@ -1407,7 +1499,8 @@ Frank Schirrmeister -- Arteris (Campbell, United States).
 
 ### Alexey Shchekin -- Compact CORDIC accelerator implementation for embedded RISC-V core
 
-Alexey Shchekin -- Codasip
+Alexey Shchekin (Codasip)
+, Ettore Antonino Giliberti.
 
 **Summary**
 
@@ -1420,7 +1513,7 @@ Alexey Shchekin -- Codasip
 
 ### Martin Troiber -- A Vulkan Graphics Driver for RISC-V CPUs
 
-Martin Troiber -- Technical University Of Munich (Munich, Germany).
+Martin Troiber (Technical University Of Munich, Munich, Germany)
 
 **Summary**
 
@@ -1433,7 +1526,8 @@ Martin Troiber -- Technical University Of Munich (Munich, Germany).
 
 ### Daniel Vázquez -- Extending RISC-V Datapaths with Coarse-Grained Reconfigurable Architectures
 
-Daniel Vázquez -- Universidad Politécnica De Madrid (Madrid, Spain).
+Daniel Vázquez (Universidad Politécnica De Madrid, Madrid, Spain)
+, Andrés Otero, Alfonso Rodríguez, Eduardo de la Torre.
 
 **Summary**
 
@@ -1446,7 +1540,8 @@ Daniel Vázquez -- Universidad Politécnica De Madrid (Madrid, Spain).
 
 ### Nils Wistoff -- Towards Full Time Protection of an Open-Source, Out-of-Order RISC-V Core
 
-Nils Wistoff -- ETH Zürich (Zürich, Switzerland).
+Nils Wistoff (ETH Zürich, Zürich, Switzerland)
+, Gernot Heiser, Luca Benini.
 
 **Summary**
 
@@ -1459,7 +1554,7 @@ Nils Wistoff -- ETH Zürich (Zürich, Switzerland).
 
 ### Michael Wong -- Towards RISC-V Datacenter and Cloud Computing with Accelerators, Ecosystem and new ISA
 
-Michael Wong -- Codeplay (Toronto, Canada).
+Michael Wong (Codeplay, Toronto, Canada)
 
 **Summary**
 
@@ -1472,7 +1567,8 @@ Michael Wong -- Codeplay (Toronto, Canada).
 
 ### Jonathan Woodruff -- CHERIoT: Rethinking Security for Low-Cost Embedded Systems
 
-Jonathan Woodruff -- University of Cambridge (Cambridge, United Kingdom).
+Jonathan Woodruff (University of Cambridge, Cambridge, United Kingdom)
+, Saar Amar, Tony Chen, David Chisnall, Felix Domke, Nathaniel Filardo, Kunyan Liu, Robert Norton-Wright, Yucong Tao, Robert N. M. Watson, Hongyan Xia.
 
 **Summary**
 
@@ -1485,7 +1581,8 @@ Jonathan Woodruff -- University of Cambridge (Cambridge, United Kingdom).
 
 ### Hualin Wu -- Accelerate HPC and AI applications with RVV auto vectorization
 
-Hualin Wu -- Terapines Ltd (Wuhan, China).
+Hualin Wu (Terapines Ltd, Wuhan, China)
+, Ming Yan.
 
 **Summary**
 
