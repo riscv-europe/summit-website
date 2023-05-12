@@ -34,7 +34,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">10.00</span> - <span class="schedule-author">Rick O’Connor, OpenHW Group</span> - <span class="schedule-title">Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">10.15</span> - <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">10.15</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
   </div>
   </div>
 
