@@ -52,7 +52,13 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  tbd
+  <span class="schedule-time">11.30</span> - <span class="schedule-author">Simon Davidmann - Imperas Software Ltd</span> - <span class="schedule-title">The RISC-V Verification Ecosystem with Open Standards and Commercial Tools</span>
+  </div>
+  <div class="schedule-entry">
+  <span class="schedule-time">11.45</span> - <span class="schedule-author">Brett Cline, Codasip</span> - <span class="schedule-title">RISC-V customization, HW/SW co-optimization, and custom compute</span>
+  </div>
+  <div class="schedule-entry">
+  <span class="schedule-time">12.00</span> - <span class="schedule-author">Charlie Su, Andes Technology</span> - <span class="schedule-title">RISC-V is Firing on All Cylinders</span>
   </div>
   </div>
 
@@ -78,13 +84,16 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-block-time">14:00-14:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
   <div class="schedule-block">
+   <div class="schedule-entry">
+  <span class="schedule-time">14.00</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
+  </div>
   <div class="schedule-entry">
-  tbd
+  <span class="schedule-time">14.15</span> - <span class="schedule-author">Michael Gielda, Antmicro</span> - <span class="schedule-title">RISC-V and Antmicro’s visual system designer: Everything everywhere all at once</span>
   </div>
   </div>
 
   <div class="schedule-block-title technical">
-  <span class="schedule-block-time">14:40-15:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
+  <span class="schedule-block-time">14:30-15:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
