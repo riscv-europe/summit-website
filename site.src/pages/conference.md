@@ -411,16 +411,38 @@ the year for 2019.*
 
 #### Lars Bergstrom -- Android on RISC-V: Progress and Updates
 
-Lars Bergstrom, [Google](https://google.com),
+Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
 
 **Abstract**
 
-*(TBD)*
+In this talk, we will discuss the progress that has been made in
+supporting RISC-V in Android and the [Android Open Source Platform
+(AOSP)](https://source.android.com).
+
+We will cover the following topics:
+
+ - The progress that has been made in supporting RISC-V and
+   recently-ratified extensions and the RVA22 profile in Android and
+   AOSP
+ - Updates on language support from C/C++, Rust, Java, and other
+   languages for new RISC-V specifications targeting Android
+ - An overview of how we have been investing alongside the broader
+   RISC-V ecosystem to bring production-readiness to some key open
+   source projects
 
 *Bio*
 
-*(TBD)*
-
+*Lars Bergstrom is a Director of Engineering at Google on the Android
+team, working on their platform programming languages, including Java,
+C/C++, and Rust and the supporting tools and libraries. He also serves
+as Google’s Corporate Director to RISC-V International and Chair of
+the Board of Directors of the Rust Foundation. Before Google, he was
+at Mozilla Research, initially contributing to the Servo browser
+project and directing the integration of Rust into Firefox and the
+partner ecosystem. Later, he led Mozilla’s AR and VR work, shipping
+software and building OEM relationships on many different devices. He
+received his Ph.D. in Computer Science from the University of Chicago
+in 2013.*
 
 #### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
