@@ -223,7 +223,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
-  <div class="schedule-day">Wednesday, June 7th</div>
+  <div class="schedule-day">Thursday, June 8th</div>
 
   <div class="schedule-block-title keynote">
   <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-name">Keynotes</span>
