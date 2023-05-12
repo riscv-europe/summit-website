@@ -150,4 +150,7 @@ html footer hr {
     .schedule-block {
         width: 100%;
     }
+    .schedule-entry {
+        text-align: left;
+      }
 }
