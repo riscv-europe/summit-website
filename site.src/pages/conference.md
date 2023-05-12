@@ -21,15 +21,15 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <div class="schedule-entry">
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder, Technical University Munich</span> - <span class="schedule-title">Program Overview</span>
   </div>
+  <div class="schedule-entry">
+  <span class="schedule-time">9:45</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
+  </div>
   </div>
 
   <div class="schedule-block-title keynote">
   <span class="schedule-block-time">9:45-10:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
   <div class="schedule-block">
-  <div class="schedule-entry">
-  <span class="schedule-time">9:45</span> - <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
-  </div>
   <div class="schedule-entry">
   <span class="schedule-time">10.00</span> - <span class="schedule-author">Rick O’Connor, OpenHW Group</span> - <span class="schedule-title">Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned</span>
   </div>
