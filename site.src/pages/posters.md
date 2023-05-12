@@ -12,14 +12,14 @@ Some notes:
    and lunches, and for Tuesday 6th, during the on-site cocktail.
  - The final PDF of the 2 pages abstract will be permatenlty available
    on the conference web site.
- - The abstract and the bio will be posted soon.
+ - Final abstracts and bios will be posted soon.
  - The PDF version of the poster can also be made permanently
    available on the conference web site.
  - Each author must print his poster in advance and bring it on its
    own to the conference.
 
-Quick link to reach posters presented each day0
-:
+Quick link to reach posters presented each day:
+
  - [Tuesday 6th](#posters-on-display-tuesday-june-6th).
  - [Wednesday 7th](#posters-on-display-wednesday-june-7th)
  - [Thursday 8th](#posters-on-display-thursday-june-8th).
