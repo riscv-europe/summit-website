@@ -23,7 +23,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
       <td><span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder</span> - <span class="schedule-title">Program Overview</span></td>
     </tr>
     <tr>
-      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">9:45-10:30</span><br/>Sponsor Keynotes</th>
+      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">9:45-10:30</span><br/>Keynotes</th>
       <td>tbd</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
       <td>Demo Theatre, 10:40: Antmicro<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd</td>
     </tr>
     <tr>
-      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">11:30-12:15</span><br/>Sponsor Keynotes</th>
+      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">11:30-12:15</span><br/>Keynotes</th>
       <td>tbd</td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
       <td>Demo Theatre, 13:00: Open Hardware Group<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd</td>
     </tr>
     <tr>
-      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">14:00-14:30</span><br/>Sponsor Keynotes</th>
+      <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">14:00-14:30</span><br/>Keynotes</th>
       <td>tbd</td>
     </tr>
     <tr>
