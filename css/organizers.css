@@ -1,6 +1,6 @@
 .organizers {
     display: grid;
-    grid-template-columns: repeat(3, 30%);
+    grid-template-columns: repeat(4, 20%);
     grid-gap: 5%;
 }
 .organizers__img {
