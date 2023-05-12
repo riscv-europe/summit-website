@@ -213,7 +213,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Exhibition / Demo theatre talks / Poster Sessions
+  Exhibition /  Poster Sessions
   </div>
   </div>
 
@@ -263,7 +263,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Exhibition / Demo theatre talks / Poster Sessions
+  Exhibition /  Poster Sessions
   </div>
   </div>
 
@@ -287,7 +287,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Exhibition / Demo theatre talks / Poster Sessions
+  Exhibition / Poster Sessions
   </div>
   </div>
 
@@ -323,7 +323,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Exhibition / Demo theatre talks / Poster Sessions
+  Exhibition / Poster Sessions
   </div>
   </div>
 
