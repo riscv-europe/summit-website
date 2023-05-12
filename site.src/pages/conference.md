@@ -28,7 +28,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
     </tr>
     <tr>
       <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">10:30-11:30</span><br/>Break & Booths</th>
-      <td>Demo Theatre, 10:40: Antmicro<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd</td>
+      <td>Demo Theatre, 10:40: tbd<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd</td>
     </tr>
     <tr>
       <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">11:30-12:15</span><br/>Keynotes</th>
@@ -40,7 +40,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
     </tr>
     <tr>
       <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">12:30-14:00</span><br/>Lunch & Booths</th>
-      <td>Demo Theatre, 13:00: Open Hardware Group<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd</td>
+      <td>Demo Theatre, 13:00: tbd<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd</td>
     </tr>
     <tr>
       <th rowspan="1" class="schedule-block sponsor"><span class="schedule-block-time">14:00-14:30</span><br/>Keynotes</th>
@@ -102,7 +102,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
     </tr>
     <tr>
       <th rowspan="1" class="schedule-block break"><span class="schedule-block-time">10:30-11:30</span><br/>Break & Booths</th>
-      <td>Demo Theatre, 10:40: Codasip<br/>Demo Theatre, 10:55: Andes<br/>Demo Theatre, 11:10: Semidynamics</td>
+      <td>Demo Theatre, 10:40: tbd<br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd</td>
     </tr>
     <tr>
       <th rowspan="3" class="schedule-block technical"><span class="schedule-block-time">11:30-12:30</span><br/>Keynotes</th>
