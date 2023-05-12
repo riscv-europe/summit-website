@@ -6,20 +6,24 @@ Some notes:
  - At least one author of the poster must register for the core
    conference (Tue-Thu). Posters without registered posters will not
    be on display.
- - Each poster will be displayed for a full day. The dispatch will
-   soon be anounced on this page.
- - In order to allow authors to attend the conference track, the
-   exhibition and poster area will be open only during the break and
-   lunches, and for Tuesday 6th, the on-site cocktail.
+ - Each poster will be displayed for a full day.
+ - In order to allow authors to attend the conference pleanry track,
+   the exhibition and poster area will be open only during the break
+   and lunches, and for Tuesday 6th, during the on-site cocktail.
  - The final PDF of the 2 pages abstract will be permatenlty available
    on the conference web site.
- - The abstract and the bio will be posted as they come in.
+ - The abstract and the bio will be posted soon.
  - The PDF version of the poster can also be made permanently
    available on the conference web site.
  - Each author must print his poster in advance and bring it on its
    own to the conference.
 
+Quick link to reach posters presented each day.:
+ - [Tuesday 6th](#posters-on-display-tuesday-june-6th).
+ - [Wednesday 7th](#posters-on-display-wednesday-june-7th)
+ - [Thursday 8th](#posters-on-display-thursday-june-8th).
 
+Posters are sorted by alphabetical order of presenter's last name.
 ## Posters on Display Tuesday June 6th
 
 Presenters are expected to be with their poster during the morning break, lunch and afternoon break, as well as during the early evening cocktail on Tuesday 6.
