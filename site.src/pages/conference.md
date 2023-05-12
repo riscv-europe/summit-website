@@ -13,13 +13,13 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">9:00</span> - <span class="schedule-author">Calista Redmond</span> - <span class="schedule-title">Opening</span>
+  <span class="schedule-time">9:00</span> - <span class="schedule-author">Calista Redmond, RISC-V International</span> - <span class="schedule-title">Opening</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:20</span> - <span class="schedule-author">Christian Fabré</span> - <span class="schedule-title">Welcome from European Committee</span>
+  <span class="schedule-time">9:20</span> - <span class="schedule-author">Christian Fabre, CEA Leti</span> - <span class="schedule-title">Welcome from European Committee</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder</span> - <span class="schedule-title">Program Overview</span>
+  <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder, Technical University Munich</span> - <span class="schedule-title">Program Overview</span>
   </div>
   </div>
 
