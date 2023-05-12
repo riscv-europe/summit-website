@@ -296,10 +296,10 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">14:45</span> - <span class="schedule-author">University Of British Columbia</span> - <span class="schedule-title"> From CCX to CIX: A Modest Proposal for (Custom) Composable Instruction eXtensions</span>
   </div>
   <div class="schedule-entry">
-  span class="schedule-time">15:00</span> - <span class="schedule-author">Codasip</span> - <span class="schedule-title">RISC-V code-size reduction with Zc extensions and  dictionary compression custom instruction</span>
+  <span class="schedule-time">15:00</span> - <span class="schedule-author">Codasip</span> - <span class="schedule-title">RISC-V code-size reduction with Zc extensions and  dictionary compression custom instruction</span>
   </div>
   <div class="schedule-entry">
-  span class="schedule-time">15:15</span> - <span class="schedule-author">ETH Zurich</span> - <span class="schedule-title">RIVETS: An Efficient Training and Inference Library for RISC-V with Snitch Extensions</span>
+  <span class="schedule-time">15:15</span> - <span class="schedule-author">ETH Zurich</span> - <span class="schedule-title">RIVETS: An Efficient Training and Inference Library for RISC-V with Snitch Extensions</span>
   </div>
   </div>
 
