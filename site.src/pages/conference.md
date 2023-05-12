@@ -370,7 +370,7 @@ research.
 The following speakers will be delivering keynotes and regular talks
 during these three days.
 
-### Keynotes Speakers & Invited Talks
+### Keynotes Speakers
 
 #### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
 
