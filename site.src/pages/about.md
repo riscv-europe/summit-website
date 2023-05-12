@@ -72,7 +72,7 @@ events, joined by [RISC-V International](https://riscv.org):
     <li>Stefan Wallentowitz (Hochschule München Univ. of Applied Sciences)</li>
 	</ul>
 <h2 style="color: #0a6b7c" id="local-organization">Local Organization</h2>
-<p>The event is organized by RISC-V International, BSC and BCO.</p>
+<p>The event is organized by RISC-V International, BSC, BCO and Red RISCV.</p>
 </div>
 <div class="organizers">
   <figure class="organizers__item organizers__item--1">
@@ -83,5 +83,8 @@ events, joined by [RISC-V International](https://riscv.org):
   </figure>
   <figure class="organizers__item organizers__item--3">
     <a href="https://www.bcocongresos.com"><img src="media/logos/BCO.png" alt="BCO Congreso logo" class="organizers__img"/></a>
+  </figure>
+  <figure class="organizers__item organizers__item--4">
+    <a href="http://red-riscv.org"><img src="media/logos/Red-RISCV.png" alt="Red RISCV logo" class="organizers__img" style="width:70%"></a>
   </figure>
 </div>
