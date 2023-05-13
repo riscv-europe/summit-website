@@ -10,9 +10,7 @@ Monday June 5th afternoon is dedicated to Technical Working Group (TWG) meetings
 
 The main body of the conference takes place from Tuesday 6th to Thursday 8th, comprising a single track of keynotes, invited and selected talks, alongside an exhibition showcasing the latest developments across industry and research. The exhibition features stands from member companies and other contributers, a demo theatre for further talks, and poster sessions. Special focus will paid to critical European markets such as automotive, high performance computing and data center, aerospace, embedded, AI/ML, security and more.
 
-<img src="media/img/Agenda5Days.png" style="width: 100%">
-
-The talks for the academic sessions will be selected from the <a href="program.html" title="Call for Submissions">Call for Submissions</a>.
+The talks for the academic sessions have been selected from the <a href="cfp.html" title="Call for Submissions">Call for Submissions</a>.
 
 Industry sessions will pay special focus to key markets and technologies for Europe, including Automotive HPC, AI, Security and Tools. In between the talk tracks, an exhibition will run, featuring stands from member companies and organizations, a series of talks in the Demo Theatre, and posters.
 
