@@ -39,7 +39,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break & Booths</span>
+  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break, Booth, Posters &&nbsp;Demos</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -72,7 +72,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch & Booths</span>
+  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch, Booth, Posters &&nbsp;Demos</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -111,7 +111,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break & Booths</span>
+  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break, Booth, Posters &&nbsp;Demos</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -164,7 +164,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break & Booths</span>
+  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break, Booth, Posters &&nbsp;Demos</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -188,7 +188,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch & Booths</span>
+  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch, Booth, Posters &&nbsp;Demos</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -209,7 +209,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break & Booths</span>
+  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break, Booths &&nbsp;Posters</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -259,7 +259,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break & Booths</span>
+  <span class="schedule-block-time">10:30-11:30</span><br/><span class="schedule-block-name">Break, Booths &&nbsp;Posters</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -283,7 +283,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch & Booths</span>
+  <span class="schedule-block-time">12:30-14:00</span><br/><span class="schedule-block-name">Lunch, Booths &&nbsp;Posters</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -319,7 +319,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break & Booths</span>
+  <span class="schedule-block-time">15:30-16:30</span><br/><span class="schedule-block-name">Break, Booths &&nbsp;Posters</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
