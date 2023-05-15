@@ -204,7 +204,15 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN: Together for RISC-V Technology and Applications</span> - <a href="#patrick-pype-tristan-together-for-risc-v-technology-and-applications">Details</a>
   </div>
   <div class="schedule-entry">
-  tbd
+  <span class="schedule-time">14:30</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools</span>
+  </div><div class="schedule-entry">
+  <span class="schedule-time">14:45</span> - <span class="schedule-author">Joaquim Maria Castella Triginer, Virtual Vehicle Research GmbH</span> - <span class="schedule-title">Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project</span>
+  </div>
+  <div class="schedule-entry">
+  <span class="schedule-time">15:00</span> - <span class="schedule-author">Larry Lapides, Imperas Software</span> - <span class="schedule-title">Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification</span>
+  </div>
+  <div class="schedule-entry">
+  <span class="schedule-time">15:15</span> - <span class="schedule-author">Hualin Wu, Terapines Ltd</span> - <span class="schedule-title">Accelerate HPC and AI applications with RVV auto vectorization</span>
   </div>
   </div>
 
