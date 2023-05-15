@@ -127,7 +127,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">tbd</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">17:00</span> - <span class="schedule-author">Peter Lewin, Imagination</span> - <span class="schedule-title">Imagination RISC-V CPU in an Automotive Safety Island</span>
+  <span class="schedule-time">17:00</span> - <span class="schedule-author">Peter Lewin, Imagination</span> - <span class="schedule-title">Developing a RISC-V Automotive Safety Island</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">17:15</span> - <span class="schedule-author">Abdoulaye Berthe, Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span>
