@@ -137,7 +137,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
-  <div class="schedule-block-title break">
+  <div class="schedule-block-title org">
   <span class="schedule-block-time">18:15-18:30</span><br/><span class="schedule-block-name">Closing</span>
   </div>
   <div class="schedule-block">
