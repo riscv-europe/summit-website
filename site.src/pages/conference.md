@@ -229,7 +229,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
-  <div class="schedule-block-title technical">
+  <div class="schedule-block-title keynote">
   <span class="schedule-block-time">17:15-18:30</span><br/><span class="schedule-block-name">Panel</span>
   </div>
   <div class="schedule-block">
