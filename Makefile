@@ -25,6 +25,10 @@ HAKYLL_TMP=$(shell pwd)/cache.tmp
 DESCRIBE_SRC_REPO:=$(shell git describe --long --tags --always --abbrev=8)
 
 
+## Root of the posters generation hackery.
+POSTERS_DIR:=$(shell pwd)/site.src/dynamic
+
+
 ## Better use the same branches for source code and published web
 ## pages. Or not?
 SOURCE_BRANCH=master
@@ -109,8 +113,7 @@ posters: posters.md
 
 .PHONY: posters.md
 posters.md:
-	( cd site.src/dynamic ; make posters.md )
-	( cd site.src/pages ; git commit -m "Fix: auto update of the poster.md page." posters.md )
+	( cd $(POSTERS_DIR) ; make posters.md-make )
 
 # Public web repo. management.
 
