@@ -1,7 +1,6 @@
-The following posters have been accepted for publication, i.e. display
-during the RISC-V Summit Europe.
+This page list the posters thta have been accepted for publication.
 
-Some notes:
+Some notes to posters presenters:
 
  - Preparation before the conference:
    - Posters shall be printed in A0 format, in portrait mode.
