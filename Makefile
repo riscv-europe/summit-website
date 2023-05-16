@@ -90,19 +90,19 @@ stack-build:
 ## To rebuild the Hakyll site compiler, and compile the site anew in
 ## $(SOURCE_TEMP_DIR).
 .PHONY: rebuild-site
-rebuild-site: stack-build
+rebuild-site: stack-build posters.md
 	( cd $(HAKYLL_DIR) && stack exec site -- rebuild )
 
 ## To compile the site in $(SOURCE_TEMP_DIR) with the current Hakyll
 ## site compiler.
 .PHONY: compile-site
-compile-site: stack-build
+compile-site: stack-build posters.md
 	( cd $(HAKYLL_DIR) && stack exec site -- build )
 
 ## To launch a local web server at http://127.0.0.1:8000 and help
 ## debug the site's contents.
 .PHONY: watch-site
-watch-site: stack-build
+watch-site: stack-build posters.md
 	( cd $(HAKYLL_DIR) && stack exec site -- watch )
 
 
