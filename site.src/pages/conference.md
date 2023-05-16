@@ -559,6 +559,43 @@ in computer science and electrical engineering and a PhD in
 microelectronics.*
 
 
+#### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
+
+Michael Gielda -- Co-Founder and VP Business Development, Antmicro.
+
+**Abstract**
+
+RISC-V offers unprecedented freedom in designing hardware systems,
+prompting a renaissance in new core implementations, system building
+blocks and SW-HW co-design paradigms. Drawing on the experience of
+working with the expansive landscape of RISC-V implementations, both
+on the hardware and software level, Antmicro is developing a visual
+platform designer which helps navigate this complexity. The tool
+builds on the configurability of RISC-V and the our vast open source
+database of hardware components to let you create advanced, real-world
+systems which can be simulated with the open source Renode simulator
+and seeded with software such as Zephyr or Linux.
+
+Thanks to Renode’s support for vector and custom instructions and
+integration with Google’s IREE toolchain through Antmicro’s Kenning ML
+framework, the designer is also a great entrypoint for
+hardware-accelerated ML co-design, and combined with Antmicro’s
+photorealistic 3D component model library and open source HW design
+methodology it can be used to kickstart the development of custom
+RISC-V based devices.
+
+Combine cores and HW peripherals, SoCs, modules and other hardware
+components, all the way to heterogeneous connected systems to build,
+simulate and develop software for any kind of RISC-V platform. The
+transparency and flexibility of this comprehensive design paradigm
+will provide infinite possibilities for collecting both hardware and
+software data for efficient co-design
+
+*Bio*
+
+TBD.
+
+
 #### Patrick Pype -- TRISTAN: Together for RISc-v Technology and ApplicatioNs
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
