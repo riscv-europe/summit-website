@@ -687,6 +687,50 @@ and his MS in Computer Science from the California Institute of
 Technology.*
 
 
+#### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
+
+Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)).
+
+**Abstract**
+
+(TBD)
+
+*Bio*
+
+*Dr. Philipp Tomsich is Chief Technologist and Founder of VRULL, a
+Software Engineering company building Software Ecosystems enabling
+next-generation silicon solutions for ARMv8 and RISC-V
+architectures. Philipp is an expert in runtime systems, high-assurance
+applications, secure/trusted boot, and embedded hardware. In Austria,
+Philipp is a court-certified expert on embedded systems, low-level
+programming, programming languages, compilers, and software
+performance.*
+
+*With VRULL, he supports RISC-V International’s mission as the Chair
+of the Applications & Tools Horizontal Committee. He oversees the
+software ecosystem outreach, standardization of Platforms, and the
+development of performance modeling, dynamic instrumentation, and
+analysis tools for RISC-V.*
+
+*Philipp also sits on the Board of Directors of RISC-V, continuing to
+empower the software ecosystem perspective within RISC-V and work
+towards making RISC-V the premier platform for software innovation.*
+
+*In his early years, Philipp held teaching and research roles at the
+Vienna University of Technology. He started his career as a compiler
+engineer at Silicon Graphics Inc., worked several years as a
+technology consultant in banking and government IT, and went on to
+found and bootstrap Theobroma Systems (a Software and Hardware
+engineering company offering tailored & standard modular solutions for
+high-assurance computing) later acquired by Cherry GmbH.  Philipp
+holds a Master's Degree and a Doctorate Degree in Computer Science
+from the Technical University of Vienna.*
+
+*For his contributions at RISC-V, Philipp has been awarded the 2021
+RISC-V Community Contributor Award and the 2021 RISC-V Board of
+Directors Technical Leadership Award.*
+
+
 #### Roland Weigand -- RISC-V: a Shooting Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
