@@ -805,6 +805,16 @@ projects, a predominant topic are standard microprocessors and SoC’s
 built around microprocessor cores, as well as radiation-hard design
 methodology.*
 
+#### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
+
+Abstract: It takes a global community to bring out the best of an open standard.
+
+So how do we tap into and embrace the diversity of the ecosystem to strengthen solutions around RISC-V? RISC-V is a global standard, so it requires groups around the world to find ways to bring together individuals with different skillsets and experience, in different stages in their careers, from various
+industries, or across different regions, and channeling their strengths to make RISC-V the standard for open computing. From projects in Europe that pull together members across industry, academia and research, to individuals that need to rally resources across a nation or a university, here's a chance to
+hear from members of the global community on how they address culture. create high-performing groups and collaborate to get the most out of their teams.
+
+Moderator: Calista Redmond, CEO, RISC-V International
+
 #### Matthew Xuereb -- (TBA).
 
 [Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172) -- Policy Officer, European Commission / [DG Communications Networks, Content and Technology](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/communications-networks-content-and-technology_en) / [Unit A3 Microelectronics and Photonics Industry](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_241435)
