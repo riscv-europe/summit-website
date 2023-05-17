@@ -1,6 +1,6 @@
-This page list the posters thta have been accepted for publication.
+This page lists posters accepted for publication.
 
-Some notes to posters presenters:
+First of all, a few remarks for the poster presenters:
 
  - Preparation before the conference:
    - Posters shall be printed in A0 format, in portrait mode.
