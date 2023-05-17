@@ -135,7 +135,7 @@ Joaquim Maria Castella Triginer (Virual Vehicle Research Gmbh, Graz, Austria)
 ### Balaji Chegu -- Software Hardware Co-processing in RISC-V using OpenVX™ for Embedded Vision Applications
 
 Balaji Chegu (Microchip, Bangalore, India)
-, Prakash Reddy Battu, Divyang Agrawal, Arun Naik.
+, Prakash Reddy Battu, Yogesh Agrawal, Arun Naik.
 
 **Summary**
 
@@ -655,7 +655,7 @@ Ashish Darbari (Axiomise, London, United Kingdom)
 ### Conrad Foik -- Extended Abstract: A Flexible Simulation Environment for RISC-V
 
 Conrad Foik (Technical University Munich, Munich, Germany)
-, Karsten Emrich, Daniel Mueller-gritschneder, Ulf Schlichtmann, Johannes Kappes, Sebastian Prebeck, Wolfgang Ecker.
+, Conrad Foik, Daniel Mueller-gritschneder, Ulf Schlichtmann, Johannes Kappes, Sebastian Prebeck, Wolfgang Ecker.
 
 **Summary**
 
@@ -684,19 +684,6 @@ Michael Gielda (Antmicro, Gothenburg, Sweden)
 
 Gert Goossens (Synopsys, Leuven, Belgium)
 , Patrick Verbist, Dominik Auras.
-
-**Summary**
-
-(TBD)
-
-*Bio*
-
-(TBD)
-
-
-### Jean-Michel Gorius -- Design Exploration of RISC-V Soft-Cores through Speculative High-Level Synthesis
-
-Jean-Michel Gorius (University of Rennes, Irisa, Rennes, France)
 
 **Summary**
 
@@ -780,6 +767,20 @@ Tanuj Khandelwal (Univ. Grenoble Alpes, CEA, LIST, Grenoble, France)
 
 Lucas Klemmer (Johannes Kepler University Linz, Linz, Austria)
 , Daniel Große.
+
+**Summary**
+
+(TBD)
+
+*Bio*
+
+(TBD)
+
+
+### Christos Kotselidis -- Harnessing Hardware Acceleration with RISC-V and the EU Processor
+
+Christos Kotselidis (The University Of Manchester, Manchester, United Kingdom)
+, Juan Fumero, Athanasios Stratikopoulos, Mehdi Goli, Ruyman Reyes, Konstantinos Nikas, Dionisios Pnevmatikatos, Nectarios Koziris.
 
 **Summary**
 
@@ -1227,7 +1228,7 @@ Jerome Fereyre (Cea, Grenoble, France)
 ### Jaume Gauchola -- Hypervision Extension for a RISC-V Processor
 
 Jaume Gauchola
-, Juanjo Costa, Jaume Gauchola, Ramon Canal, Xavier Carril, Max Doblas, Beatriz Otero, Manuel Alejandro Pajuelo, Eva Rodríguez, Javier Salamero, Javier Verdú.
+, Juanjo Costa, Enric Morancho, Ramon Canal, Xavier Carril, Max Doblas, Beatriz Otero, Manuel Alejandro Pajuelo, Eva Rodríguez, Javier Salamero, Javier Verdú.
 
 **Summary**
 
@@ -1339,20 +1340,6 @@ Philipp van Kempen (Technical University of Munich, Munich, Germany)
 
 Maha Kooli (Cea Grenoble, Grenoble, France)
 , Henri-pierre Charles, Jean Philippe Noël, Bastien Giraud, Thaddée Bricout, Maria Ramirez Corrales.
-
-**Summary**
-
-(TBD)
-
-*Bio*
-
-(TBD)
-
-
-### Christos Kotselidis -- Harnessing Hardware Acceleration with RISC-V and the EU Processor
-
-Christos Kotselidis (The University Of Manchester, Manchester, United Kingdom)
-, Juan Fumero, Athanasios Stratikopoulos, Mehdi Goli, Ruyman Reyes, Konstantinos Nikas, Dionisios Pnevmatikatos, Nectarios Koziris.
 
 **Summary**
 
@@ -1503,7 +1490,7 @@ Paul Scheffler (ETH Zurich, Zürich, Switzerland)
 ### Frank Schirrmeister -- Accelerating RISC V Developments Through Network-on-Chip (NoC) Automation
 
 Frank Schirrmeister (Arteris, Campbell, United States)
-, Michael Frank.
+, Frank Schirrmesiter, Michael Frank.
 
 **Summary**
 
