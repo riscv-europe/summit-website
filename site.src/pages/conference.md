@@ -186,9 +186,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre, 10:40: tbd
-  <br/><span class="schedule-time">14.15</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>
-  <br/>Demo Theatre, 11:10: tbd
+  Demo Theatre, 10:40: tbd <br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd
   </div>
   </div>
 
