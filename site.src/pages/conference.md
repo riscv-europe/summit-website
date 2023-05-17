@@ -588,7 +588,7 @@ microelectronics.*
 
 #### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
 
-Michael Gielda -- Co-Founder and VP Business Development, Antmicro.
+[Michael Gielda](https://www.linkedin.com/in/mgielda/) -- Co-Founder and VP Business Development, [Antmicro](https://antmicro.com/).
 
 **Abstract**
 
