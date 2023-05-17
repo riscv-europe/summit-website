@@ -88,7 +88,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">14.00</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">14.15</span> - <span class="schedule-author">Michael Gielda, Antmicro</span> - <span class="schedule-title">RISC-V and Antmicro’s visual system designer: Everything everywhere all at once</span>
+  <span class="schedule-time">14.15</span> - <span class="schedule-author">Michael Gielda, Antmicro</span> - <span class="schedule-title">RISC-V and Antmicro’s visual system designer: Everything everywhere all at once</span> - <a href="michael-gielda-risc-v-and-antmicros-visual-system-designer-everything-everywhere-all-at-once">Details</a>
   </div>
   </div>
 
