@@ -187,7 +187,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <div class="schedule-block">
   <div class="schedule-entry">
   Demo Theatre, 10:40: tbd <br/>
-  <span class="schedule-time">10.55</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>
+  <span class="schedule-time">10.55</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>  - <a href="#karol-gugala-bare-metal-ai-runtime-deployment-and-analysis-for-a-risc-v-accelerator-with-kenning-renode-and-iree">Details</a>
    <br/>Demo Theatre, 11:10: tbd
   </div>
   </div>
@@ -224,7 +224,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN: Together for RISC-V Technology and Applications</span> - <a href="#patrick-pype-tristan-together-for-risc-v-technology-and-applications">Details</a>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">14:30</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools</span>
+  <span class="schedule-time">14:30</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools</span> - <a href="#karol-gugala-enabling-collaborative-chip-design-in-the-risc-v-veer-core-and-caliptra-rot-project-with-chips-alliance-tools">Details</a>
   </div><div class="schedule-entry">
   <span class="schedule-time">14:45</span> - <span class="schedule-author">Joaquim Maria Castella Triginer, Virtual Vehicle Research GmbH</span> - <span class="schedule-title">Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project</span>
   </div>
