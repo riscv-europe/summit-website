@@ -186,7 +186,9 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre, 10:40: tbd <br/>Demo Theatre, 10:55: tbd<br/>Demo Theatre, 11:10: tbd
+  Demo Theatre, 10:40: tbd <br/>
+  <span class="schedule-time">10.55</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>
+   <br/>Demo Theatre, 11:10: tbd
   </div>
   </div>
 
@@ -635,9 +637,22 @@ Building a modern, complex, RISC-V based digital design like the Caliptra Root o
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
 
+#### Karol Gugala -- Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE
 
+[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/).
+
+**Abstract**
+
+Thanks to their increasing computational capabilities and the open ISA’ s ability to tailor silicon to specific use cases, RISC-V based microcontroller devices are an interesting target for Machine Learning workflows in low-power applications. To make the best of the constrained resources of MCUs, Antmicro’s Kenning open source AI/ML framework was extended with a bare-metal runtime backend, enabling use with RISC-V based devices that cannot - or don’t need to - run Linux. Kenning enables you to seamlessly develop, train, optimize and deploy ML models on various embedded targets and can automatically convert the model format between the most popular AI frameworks and optimize models for their target runtime. The metrics from the deployed models can be utilized to monitor various aspects of processing, from machine resource usage to result quality.
+
+To further improve the developer experience, Kenning has been integrated with Renode, Antmicro’s open source, deterministic simulation framework. The integration of Kenning and Renode enables a hardware-less development flow and allows for complete insight into model execution and AI accelerator utilization. Renode provides a fully automated, reproducible execution environment, allowing a CI-based development of embedded models, optimization libraries, and AI accelerators. The demo will present a complete ML model deployment flow based on Kenning, targeting Google's Springbok RISC-V AI accelerator and leveraging the RISC-V Vector Extension, fully simulated in Renode. 
+
+*Bio*
+
+*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
   
-#### Patrick Pype -- TRISTAN: Together for RISc-v Technology and ApplicatioNs
+  
+#### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
 Strategic Partnerships, NXP Semiconductors.
