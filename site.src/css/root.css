@@ -116,6 +116,10 @@ html footer hr {
     background-color: var(--riscv-lv);
 }
 
+.schedule-block-title.social {
+    background-color: var(--riscv-lp);
+}
+
 .schedule-block {
   display: flex;
   flex-flow: column wrap;

@@ -255,6 +255,15 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
+  <div class="schedule-block-title social">
+  <span class="schedule-block-time">20:00-23:00</span><br/><span class="schedule-block-name">Off-Site Social Event</span>
+  </div>
+  <div class="schedule-block">
+  <div class="schedule-entry">
+  <span class="schedule-time">20:00</span> - Off-Site Social Event
+  </div>
+  </div>
+
   <div class="schedule-day">Thursday, June 8th</div>
 
   <div class="schedule-block-title keynote">
