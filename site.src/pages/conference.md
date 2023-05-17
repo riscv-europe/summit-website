@@ -146,6 +146,15 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">18:30-20:30</span><br/><span class="schedule-block-name">On-Site Cocktail, Booth, Posters & Demos</span>
+  </div>
+  <div class="schedule-block">
+  <div class="schedule-entry">
+  On-site welcome cocktail
+  </div>
+  </div>
+
   <div class="schedule-day">Wednesday, June 7th</div>
 
   <div class="schedule-block-title keynote">
