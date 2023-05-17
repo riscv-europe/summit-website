@@ -1,6 +1,14 @@
 This page lists posters accepted for publication.
 
-First of all, a few remarks for the poster presenters:
+Quick link to reach posters presented each day:
+
+ - [Tuesday 6th](#posters-on-display-tuesday-june-6th).
+ - [Wednesday 7th](#posters-on-display-wednesday-june-7th)
+ - [Thursday 8th](#posters-on-display-thursday-june-8th).
+
+Posters are sorted by alphabetical order of presenter's last name.
+
+But first of all, a few remarks for the poster presenters:
 
  - Preparation before the conference:
    - Posters shall be printed in A0 format, in portrait mode.
@@ -15,8 +23,8 @@ First of all, a few remarks for the poster presenters:
      day.
    - Each poster will be displayed for a full day.
    - Presenters are expected to stand next to their posters during
-     breaks, lunches and during the on-site cocktail in late afternoon
-     on Tuesday 6th.
+     breaks, lunches, and during the early evening cocktail on Tuesday
+     6th.
    - In order to allow authors to attend the conference pleanry track,
      the exhibition and poster area will be open only during breaks
      and lunches, plus on Tuesday 6th, during the on-site cocktail in
@@ -30,17 +38,9 @@ First of all, a few remarks for the poster presenters:
      PDF before the conference for publication on the web site.
    - A < 150 words summary, a < 150 words bio of the presenter,
      together with his affiliation and URLs shall be provided by mail
-     to be used in the porgram on the conference web site.
+     to be used in the program on the conference web site.
    - The final version of the posters *may* also be provided for
      publication. This is not mandatory but highly recommended.
    - The final PDF version of the abstract, the 150 words bio and
      summary, and the poster PDF, if applicable, shall be sent to
      <europe-slides-posters-final@riscv.org>.
-
-Quick link to reach posters presented each day:
-
- - [Tuesday 6th](#posters-on-display-tuesday-june-6th).
- - [Wednesday 7th](#posters-on-display-wednesday-june-7th)
- - [Thursday 8th](#posters-on-display-thursday-june-8th).
-
-Posters are sorted by alphabetical order of presenter's last name.
