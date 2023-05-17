@@ -517,7 +517,7 @@ collaborating with a growing set of contributors. Alex is also well
 known within the LLVM community for the LLVM Weekly newsletter.*
 
 
-#### PhD Thierry Collette -- 4 years of Open Source RISC-V at Thales
+#### Thierry Collette -- 4 years of Open Source RISC-V at Thales
 
 PhD Thierry Collette -- Director, Information Sciences and Techniques
 Research Group, [Thales Research & Technology
