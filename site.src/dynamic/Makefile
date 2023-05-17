@@ -12,4 +12,4 @@ $(POSTERS_MD): $(POSTERS_PY) $(POSTERS_PROLOG) $(POSTERS_CSV)
 
 .PHONY: posters.md-commit
 posters.md-commit: posters.md-make
-	( git commit -m "Fix: auto update of the poster.md page." $(POSTERS_MD) )
+	( git commit -m "Fix: auto update of the poster.md page." $(POSTERS_MD) $(POSTERS_PROLOG) $(POSTERS_CSV) )
