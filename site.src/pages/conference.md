@@ -157,12 +157,21 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
 
   <div class="schedule-day">Wednesday, June 7th</div>
 
+  <div class="schedule-block-title break">
+  <span class="schedule-block-time">8:00-8:45</span><br/><span class="schedule-block-name">Breakfast Panel</span>
+  </div>
+  <div class="schedule-block">
+  <div class="schedule-entry">
+  <span class="schedule-time">8:00</span> - <span class="schedule-author">Panel</span> - <span class="schedule-title">Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community</span> - <a href="#panel-collaboration-and-culture-leveraging-diverse-strengths-to-cultivate-a-stronger-community">Details</a>
+  </div>
+  </div>
+
   <div class="schedule-block-title keynote">
   <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-name">Keynotes</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">9:00</span> - <span class="schedule-author">Luca Benini, ETH Zürich, Università di Bologna</span> - <span class="schedule-title">Open RISC-V Platforms for Energy-Efficient, Scalable Computing</span> - <a href="luca-benini-open-risc-v-platforms-for-energy-efficient-scalable-computing">Details</a>
+  <span class="schedule-time">9:00</span> - <span class="schedule-author">Luca Benini, ETH Zürich, Università di Bologna</span> - <span class="schedule-title">Open RISC-V Platforms for Energy-Efficient, Scalable Computing</span> - <a href="#luca-benini-open-risc-v-platforms-for-energy-efficient-scalable-computing">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Dr Yungang Bao, China RISC-V Alliance (CRVA), Beijing Institute of Open-Source Chip (BOSC)</span> - <span class="schedule-title">RISC-V in China: Embracing the Era of Open-Source Chip</span> - <a href="#dr-yungang-bao-risc-v-in-china-embracing-the-era-of-open-source-chip">Details</a>
