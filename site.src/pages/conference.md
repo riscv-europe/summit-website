@@ -623,6 +623,20 @@ software data for efficient co-design
 *Michael Gielda is Co-Founder and VP Business Development at Antmicro, Marketing Committee Chair of the Zephyr Project, Chair of Outreach for CHIPS Alliance and a member of the Marketing Committee in RISC-V International. A Computer Science graduate, he worked as a researcher in the fields of IoT and embedded systems before going on to found Antmicro. Michael is involved in many open source software and hardware projects related to software-driven tools and methodologies, AI, FPGA, ASIC development (among other things). He is working to build collaborations between projects with common goals, and expanding the lessons learned from the success of open source software into other fields.*
 
 
+#### Karol Gugala -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
+
+[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/).
+
+**Abstract**
+
+Building a modern, complex, RISC-V based digital design like the Caliptra Root of Trust requires collaborative effort between multiple development teams of various backgrounds, especially in standards-based multi-organization environments like CHIPS Alliance. While in software development massive, standards-driven collaboration is a reality through open source infrastructure and tools, the digital design space often lacks the open source tooling needed to easily share and automate workflows, scale continuous integration and enable security through transparency of the development process. In this paper, we will describe how digital design tools and workflows developed by CHIPS Alliance are being used in practice in a collaborative environment as a potential template for other work in this space.
+
+*Bio*
+
+*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
+
+
+  
 #### Patrick Pype -- TRISTAN: Together for RISc-v Technology and ApplicatioNs
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
