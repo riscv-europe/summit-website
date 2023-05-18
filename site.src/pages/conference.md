@@ -639,9 +639,9 @@ software data for efficient co-design
 *Michael Gielda is Co-Founder and VP Business Development at Antmicro, Marketing Committee Chair of the Zephyr Project, Chair of Outreach for CHIPS Alliance and a member of the Marketing Committee in RISC-V International. A Computer Science graduate, he worked as a researcher in the fields of IoT and embedded systems before going on to found Antmicro. Michael is involved in many open source software and hardware projects related to software-driven tools and methodologies, AI, FPGA, ASIC development (among other things). He is working to build collaborations between projects with common goals, and expanding the lessons learned from the success of open source software into other fields.*
 
 
-#### Karol Gugala -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
+#### Karol Gugala & Matt Cockrell -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
 
-[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/).
+[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/) and Matt Cockrell -- Hardware Engineer, Google
 
 **Abstract**
 
