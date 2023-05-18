@@ -46,7 +46,8 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics</span>
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>  - <a href="#karol-gugala-bare-metal-ai-runtime-deployment-and-analysis-for-a-risc-v-accelerator-with-kenning-renode-and-iree">Details</a>
- <br/>Demo Theatre, 11:10: tbd
+ <br/>
+  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author"> Chris Morrison, Agile Analog</span> - <span class="schedule-title">An innovative digitally wrapped analog IP subsystem for RISC-V applications</span>
   </div>
   </div>
 
@@ -79,7 +80,11 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre, 13:00: tbd<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd
+  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">OpenHW Group</span> 
+  <br>
+  Demo Theatre, 13.15 tbd
+  <br>
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Simon Davidmann - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span>  
   </div>
   </div>
 
