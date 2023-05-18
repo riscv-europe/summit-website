@@ -159,7 +159,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  On-site welcome cocktail
+  Join us for an Cocktail Reception in the Exhibition area, sponsored by MIPS, where you can connect with visitors, speakers, and our sponsors at their stands.
   </div>
   </div>
 
@@ -285,7 +285,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">20:00</span> - Off-Site Social Event
+  <span class="schedule-time">20:00</span> - Connect with your fellow Summit attendees for an evening of food and drinks at the beautiful <a href="http://restauranteestaciondefrancia.com/">Estació de França.</a>
   </div>
   </div>
 
