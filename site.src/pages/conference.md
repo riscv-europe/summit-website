@@ -238,7 +238,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN: Together for RISC-V Technology and Applications</span> - <a href="#patrick-pype-tristan-together-for-risc-v-technology-and-applications">Details</a>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">14:30</span> - <span class="schedule-author">Karol Gugala, Antmicro & Matt Cockrell, Google</span> - <span class="schedule-title">Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools</span> - <a href="#karol-gugala-enabling-collaborative-chip-design-in-the-risc-v-veer-core-and-caliptra-rot-project-with-chips-alliance-tools">Details</a>
+  <span class="schedule-time">14:30</span> - <span class="schedule-author">Karol Gugala, Antmicro & Matt Cockrell, Google</span> - <span class="schedule-title">Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools</span> - <a href="#karol-gugala-matt-cockrell-enabling-collaborative-chip-design-in-the-risc-v-veer-core-and-caliptra-rot-project-with-chips-alliance-tools">Details</a>
   </div><div class="schedule-entry">
   <span class="schedule-time">14:45</span> - <span class="schedule-author">Joaquim Maria Castella Triginer, Virtual Vehicle Research GmbH</span> - <span class="schedule-title">Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project</span>
   </div>
