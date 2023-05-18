@@ -22,7 +22,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder, Technical University Munich</span> - <span class="schedule-title">Program Overview</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:45</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">9:45</span> <span class="schedule-author"></span> - <span class="schedule-title">Ventana Micro Systems</span>
   </div>
   </div>
 
@@ -85,7 +85,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
    <div class="schedule-entry">
-  <span class="schedule-time">14.00</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">14.00</span> <span class="schedule-author"></span> - <span class="schedule-title">Semidynamics</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">14.15</span> - <span class="schedule-author">Michael Gielda, Antmicro</span> - <span class="schedule-title">RISC-V and Antmicro’s visual system designer: Everything everywhere all at once</span> - <a href="#michael-gielda-risc-v-and-antmicros-visual-system-designer-everything-everywhere-all-at-once">Details</a>
