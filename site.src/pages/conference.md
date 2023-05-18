@@ -193,8 +193,11 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre, 10:40: tbd <br/> Demo Theatre, 10:55: tbd 
-   <br/>Demo Theatre, 11:10: tbd
+  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Ventana Micro Systems</span>
+  <br>
+  Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Codasip</span>
+ <br/>
+  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Andes Technology</span>
   </div>
   </div>
 
@@ -218,7 +221,11 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre, 13:00: tbd<br/>Demo Theatre, 13:15: tbd<br/>Demo Theatre, 13:30: tbd
+  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">Microchip</span>
+  <br>
+  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">TBD</span>
+ <br/>
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author">TBD</span>
   </div>
   </div>
 
