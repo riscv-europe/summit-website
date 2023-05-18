@@ -123,7 +123,8 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  </div>
+  Exhibition / Poster Sessions
+  </div>    
   </div>
 
   <div class="schedule-block-title technical">
