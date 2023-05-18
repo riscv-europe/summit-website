@@ -123,7 +123,6 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre, 15:40: tbd<br/>Demo Theatre, 15:55: tbd<br/>Demo Theatre, 16:10: tbd
   </div>
   </div>
 
