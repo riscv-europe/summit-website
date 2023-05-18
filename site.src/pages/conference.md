@@ -22,7 +22,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder, Technical University Munich</span> - <span class="schedule-title">Program Overview</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:45</span> <span class="schedule-author"></span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">9:45</span> <span class="schedule-author">Mark Himelstein, RISC-V International</span> - <span class="schedule-title">RISC-V: The Road Ahead and Technical Update</span>
   </div>
   </div>
 
