@@ -159,7 +159,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Join us for an Cocktail Reception in the Exhibition area, sponsored by MIPS, where you can connect with visitors, speakers, and our sponsors at their stands.
+  Join us for an Cocktail Reception in the Exhibition area, where you can connect with visitors, speakers, and our sponsors at their stands.
   </div>
   </div>
 
