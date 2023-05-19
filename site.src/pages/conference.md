@@ -305,7 +305,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette, Thales R&T</span> - <span class="schedule-title">4 years of Open Source RISC-V at Thales</span> - <a href="#phd-thierry-collette-4-years-of-open-source-risc-v-at-thales">Details</a>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">10:15</span> - <span class="schedule-author">Mark Himelstein</span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">10:15</span> - <span class="schedule-author">tbd</span> - <span class="schedule-title">tbd</span>
   </div>
   </div>
 
