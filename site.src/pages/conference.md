@@ -34,7 +34,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">10.00</span> - <span class="schedule-author">Rick O’Connor, OpenHW Group</span> - <span class="schedule-title">Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">10.15</span> <span class="schedule-author"></span> - <span class="schedule-title">Ventana Micro Systems</span>
+  <span class="schedule-time">10.15</span> - <span class="schedule-author">Balaji Baktha, Ventana Micro Systems</span> - <span class="schedule-title">Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures</span>
   </div>
   </div>
 
@@ -43,7 +43,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">tbd</span>
+  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Ventana Micro Systems</span>
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>  - <a href="#karol-gugala-bare-metal-ai-runtime-deployment-and-analysis-for-a-risc-v-accelerator-with-kenning-renode-and-iree">Details</a>
  <br/>
