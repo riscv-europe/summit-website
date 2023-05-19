@@ -194,7 +194,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Ventana Micro Systems</span>
+  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics</span>
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Codasip</span>
  <br/>
