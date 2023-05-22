@@ -127,32 +127,44 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>    
   </div>
 
-  <div class="schedule-block-title technical">
-  <span class="schedule-block-time">16:30-18:15</span><br/><span class="schedule-block-name">Technical Presentations</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">16:30-17:00</span><br/><span class="schedule-block-name">Keynote</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">tbd</span>
   </div>
+  </div>
+
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">17:00-17:30</span><br/><span class="schedule-block-name">Technical Talks</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">17:00</span> - <span class="schedule-author">Peter Lewin, Imagination</span> - <span class="schedule-title">Developing a RISC-V Automotive Safety Island</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">17:15</span> - <span class="schedule-author">Abdoulaye Berthe, Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span>
   </div>
+  </div>
+
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">17:30-18:30</span><br/><span class="schedule-block-name">Panel</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">17:30</span> - <span class="schedule-title">Automotive/Embedded Panel</span>
   </div>
   </div>
 
-  <div class="schedule-block-title org">
-  <span class="schedule-block-time">18:15-18:30</span><br/><span class="schedule-block-name">Closing</span>
-  </div>
-  <div class="schedule-block">
-  <div class="schedule-entry">
-  Closing remarks
-  </div>
-  </div>
+  <!-- <div class="schedule-block-title org"> -->
+  <!-- <span class="schedule-block-time">18:15-18:30</span><br/><span class="schedule-block-name">Closing</span> -->
+  <!-- </div> -->
+  <!-- <div class="schedule-block"> -->
+  <!-- <div class="schedule-entry"> -->
+  <!-- Closing remarks -->
+  <!-- </div> -->
+  <!-- </div> -->
 
   <div class="schedule-block-title break">
   <span class="schedule-block-time">18:30-20:30</span><br/><span class="schedule-block-name">On-Site Cocktail, Booth, Posters & Demos</span>
