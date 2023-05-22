@@ -114,10 +114,19 @@ and lunch.
 
 Private meeting: **EU Pilot Consortium Meeting**.
 
+This is a private meeting restricted to [EUPILOT](https://eupilot.eu)
+consortium members.
+
 
 ### EU Pilot WS
 
-Open workshop: **EU Pilot Public Workshop**.
+Open workshop: **EU Pilot: Towards European hardware & software for
+HPC**.
+
+The purpose of this workshop is to give a platform for
+[EUPILOT](https://eupilot.eu) members to share and disseminate
+technical developments on the project's hardware, software and
+systems.
 
 
 ### Orshin
