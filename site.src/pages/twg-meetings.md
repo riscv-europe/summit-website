@@ -34,7 +34,7 @@ required**.
 <tr>
 <td>14:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Security HC](#security-hc)</td>
-<td rowspan="4" style="background:var(--riscv-ly);">[RISC-V<br>Ambassadors](#risc-v-ambassadors)</td>
+<td rowspan="4" style="background:var(--riscv-ly);">[RISC-V Academic & Training<br>Special Interest Group](#risc-v-academic-and-training-special-interest-group)</td>
 <td rowspan="2" style="background:var(--riscv-lg);">[TWG Introduction](#twg-introduction)</td>
 </tr>
 <tr>
@@ -225,11 +225,20 @@ More info at <https://lists.riscv.org/g/sig-fp>.
 (TBD).
 
 
-### RISC-V Ambassadors
+### RISC-V Academic and Training Special Interest Group
 
-Run by Ms Megan Lehn (RISC-V International).
+Join academics and industry to connect on how to better support
+professors and students in teaching and learning RISC-V.
 
-(TBD).
+The mission of the *Academic and Training Special Interest Group* is
+to promote RISC-V as a common platform based on an open ISA. The group
+supports educators and students with resources to further their
+education on all levels of the hardware and software stack, using the
+RISC-V ecosystem of solutions. The group's aim is to increase adoption
+of RISC-V to prepare computer and electronic engineers for the
+challenges and opportunities of the future.
+
+More info at <https://lists.riscv.org/g/sig-academia-training>.
 
 
 ### Data Center SIG
