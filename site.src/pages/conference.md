@@ -198,7 +198,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Zdenek Prikryl, Codasip</span> </span> - <span class="schedule-title">RISC-V as an enabler of heterogeneous compute</span>
  <br/>
-  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Andes Technology</span>
+  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Charlie Su, Andes Technology</span> - <span class="schedule-title">Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity</span>
   </div>
   </div>
 
