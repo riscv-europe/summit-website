@@ -67,7 +67,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title technical">
-  <span class="schedule-block-time">12:15-12:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
+  <span class="schedule-block-time">12:15-12:30</span><br/><span class="schedule-block-name">Technical Talk</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -101,7 +101,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title technical">
-  <span class="schedule-block-time">14:30-15:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
+  <span class="schedule-block-time">14:30-15:30</span><br/><span class="schedule-block-name">Technical Talks</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
