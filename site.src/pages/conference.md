@@ -215,12 +215,18 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title keynote">
-  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-name">Keynotes</span>
+  <span class="schedule-block-time">11:30-12:00</span><br/><span class="schedule-block-name">Keynote</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">11:30</span> - <span class="schedule-author">Lars Bergstrom, Google</span> - <span class="schedule-title">Android on RISC-V: Progress and Updates</span> - <a href="#lars-bergstrom-android-on-risc-v-progress-and-updates">Details</a>
   </div>
+  </div>
+
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">12:00-12:30</span><br/><span class="schedule-block-name">Technical Talks</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author">Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span>
   </div>
@@ -242,13 +248,19 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
-  <div class="schedule-block-title technical">
-  <span class="schedule-block-time">14:00-15:30</span><br/><span class="schedule-block-name">Industry Talks</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">11:30-12:00</span><br/><span class="schedule-block-name">Keynote</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">14:00</span> - <span class="schedule-author">Patrick Pype, NXP</span> - <span class="schedule-title">TRISTAN: Together for RISC-V Technology and Applications</span> - <a href="#patrick-pype-tristan-together-for-risc-v-technology-and-applications">Details</a>
   </div>
+  </div>
+
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">14:00-15:30</span><br/><span class="schedule-block-name">Industry Talks</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">14:30</span> - <span class="schedule-author">Karol Gugala, Antmicro & Matt Cockrell, Google</span> - <span class="schedule-title">Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools</span> - <a href="#karol-gugala-matt-cockrell-enabling-collaborative-chip-design-in-the-risc-v-veer-core-and-caliptra-rot-project-with-chips-alliance-tools">Details</a>
   </div><div class="schedule-entry">
@@ -272,12 +284,18 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title technical">
-  <span class="schedule-block-time">16:30-18:30</span><br/><span class="schedule-block-name">Industry Talks</span>
+  <span class="schedule-block-time">16:30-16:45</span><br/><span class="schedule-block-name">Industry Talk</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
   tbd
   </div>
+  </div>
+
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">16:45-17:15</span><br/><span class="schedule-block-name">Keynote</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">16:45</span> - <span class="schedule-author">Matthew Xuereb, European Commission</span> - <span class="schedule-title">Chips Act & RISC-V</span>
   </div>
@@ -330,13 +348,19 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
-  <div class="schedule-block-title technical">
-  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-name">Technical Presentations</span>
+  <div class="schedule-block-title keynote">
+  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-name">Keynote</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">11:30</span> - <span class="schedule-author">Alex Bradbury, Igalia </span> - <span class="schedule-title">Developments in LLVM-based toolchains and tooling for RISC-V</span> - <a href="#alex-bradbudy-developments-in-llvm-based-toolchains-and-tooling-for-risc-v">Details</a>
   </div>
+  </div>
+
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">11:30-12:30</span><br/><span class="schedule-block-name">Technical Talks</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author">Jeremy Bennett, Embecosm</span> - <span class="schedule-title">The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains</span>
   </div>
@@ -676,8 +700,8 @@ To further improve the developer experience, Kenning has been integrated with Re
 *Bio*
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
-  
-  
+
+
 #### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
