@@ -288,3 +288,47 @@ More info at <https://lists.riscv.org/g/tech-ss-lp-cfi>.
 Special intersest group on soft CPU.
 
 More info at <https://lists.riscv.org/g/sig-soft-cpu>.
+
+
+## OpenHW Group WG Meetings
+
+[OpenHW Group](https://www.openhwgroup.org) WG meetings are public.
+
+
+### TWG Introduction
+
+Agenda review, Project release checklists.
+
+More info at <https://github.com/openhwgroup>.
+
+### CVA6 Status
+
+Hypervisor, HP Data Cache, CV-VEC, Verification Strategy.
+
+More info at <https://github.com/openhwgroup/cva6>.
+
+
+### CV-X-IF Status
+
+Publication status and next steps.
+
+
+### Software TG
+
+Projects overviews.
+
+More info at <https://github.com/openhwgroup/core-v-sw>.
+
+
+### Verification TG
+
+Project Overviews, Spike as a reference model in core-v-verif.
+
+More info at <https://github.com/openhwgroup/programs/tree/master/TGs/verification-task-group>.
+
+
+### CV32E40Pv2 Status
+
+E40Pv2 RTL freeze checklist, formal verification.
+
+More info at <https://github.com/openhwgroup/cv32e40p>.
