@@ -36,15 +36,15 @@ required**.
 <td>14:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Security HC](#security-hc)</td>
 <td rowspan="4" style="background:var(--riscv-ly);">[RISC-V<br>Ambassadors](#risc-v-ambassadors)</td>
-<td style="background:var(--riscv-lg);">Welcome -- Agenda Review</td>
+<td rowspan="2" style="background:var(--riscv-lg);">[TWG Introduction](#twg-introduction)</td>
 </tr>
 <tr>
 <td>14:15</td>
-<td rowspan="4" style="background:var(--riscv-lg);">Project Release Process<br>RTL Freeze Checklist</td>
 </tr>
 <tr>
 <td>14:30</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[RVM-CSI](#rvm-csi)</td>
+<td rowspan="3" style="background:var(--riscv-lg);">[CVA6 Status](#cva6-status)</td>
 <tr>
 <td>14:45</td>
 </tr>
@@ -55,7 +55,7 @@ required**.
 </tr>
 <tr>
 <td>15:15</td>
-<td rowspan="3" style="background:var(--riscv-lg);">CVA6</td>
+<td rowspan="3" style="background:var(--riscv-lg);">[CV-X-IF Status](#cv-x-if-status)</td>
 <tr>
 <td>15:30</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Cryptographic Extensions TG](#cryptographic-extensions-tg)<br>[Post-Quantum Cryptography](#post-quantum-cryptography)</td>
@@ -69,7 +69,7 @@ required**.
 <td>16:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Architectural Compatibility<br>Test SIG](#architectural-compatibility-test-sig)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">[SoC HC](#soc-hc)</td>
-<td rowspan="2" style="background:var(--riscv-lg);">Verification Task Group</td>
+<td rowspan="2" style="background:var(--riscv-lg);">[Software TG](#software-tg)</td>
 </tr>
 <tr>
 <td>16:30</td>
@@ -77,7 +77,7 @@ required**.
 <td>16:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Automotive SIG](#automotive-sig)</td>
 <td rowspan="2" style="background:var(--riscv-ly);">[Shadow Stack & Landing Pads<br>Task Group (SSLP-TG)](#shadow-stack-and-landing-pads-task-group)</td>
-<td rowspan="4" style="background:var(--riscv-lg);">CV32E40Pv2</td>
+<td rowspan="3" style="background:var(--riscv-lg);">[Verification TG](#verification-tg)</td>
 </tr>
 <tr>
 <td>17:00</td>
@@ -89,12 +89,12 @@ required**.
 </tr>
 <tr>
 <td>17:30</td>
+<td rowspan="3" style="background:var(--riscv-lg);">[CV32E40Pv2 Status](#cv32e40pv2-status)</td>
 </tr>
 <tr>
 <td>17:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[ACT Plans and Challenges](#act-plans-and-challenges)</td>
 <td>Closing</td>
-<td rowspan="2" style="background:var(--riscv-lg);">CV-X-IF Project</td>
 </tr>
 <tr>
 <td>18:00</td>
