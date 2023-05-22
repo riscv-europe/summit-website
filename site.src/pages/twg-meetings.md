@@ -8,9 +8,8 @@ Monday June 5th afternoon will be dedicated to Technical Working Group
  - [RISC-V International](https://riscv.org).
  - [OpenHW Group](https://www.openhwgroup.org).
 
-The **preliminary schedule** of the meetings that will meet on Monday
-5th is provided below. The **final schedule**, and room numbers
-will be published in a few weeks.
+The room numbers for Monday 5th meetings will be published in a few
+days.
 
 Please note that **to attend RISC-V International TWG meetings, a
 [personal or corporate membership](https://riscv.org/membership) is
