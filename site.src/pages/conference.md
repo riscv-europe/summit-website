@@ -329,7 +329,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">9:00</span> - <span class="schedule-title">Introduction</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:15</span> - <span class="schedule-author">Philipp Tomsich</span> - <span class="schedule-title">Software Keynote</span>
+  <span class="schedule-time">9:15</span> - <span class="schedule-author">Philipp Tomsich</span> - <span class="schedule-title">SW-driven evolution of a uniquely modular and extensible ISA</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette, Thales R&T</span> - <span class="schedule-title">4 years of Open Source RISC-V at Thales</span> - <a href="#phd-thierry-collette-4-years-of-open-source-risc-v-at-thales">Details</a>
