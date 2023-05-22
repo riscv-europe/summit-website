@@ -383,7 +383,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">14:00</span> - <span class="schedule-author">Roland Weigand, European Space Agency (ESA)</span> - <span class="schedule-title">RISC-V: a Shooting Star in Space</span> - <a href="#roland-weigand-risc-v-a-shooting-star-in-space">Details</a>
+  <span class="schedule-time">14:00</span> - <span class="schedule-author">Roland Weigand, European Space Agency (ESA)</span> - <span class="schedule-title">RISC-V: a Rising Star in Space</span> - <a href="#roland-weigand-risc-v-a-rising-star-in-space">Details</a>
   </div>
   </div>
 
@@ -837,7 +837,7 @@ RISC-V Community Contributor Award and the 2021 RISC-V Board of
 Directors Technical Leadership Award.*
 
 
-#### Roland Weigand -- RISC-V: a Shooting Star in Space
+#### Roland Weigand -- RISC-V: a Rising Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
 
