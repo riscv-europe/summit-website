@@ -240,6 +240,7 @@ Also, please register your attendance here, so that we can share more details
 about the workshop with you: [Sign-Up for event
 updates](https://forms.gle/xBggWVoPmXT3iZzQ8).
 
+
 ### OpenHW Group WS
 
 Open workshop: **Open-Source Hardware Basic Training.**
@@ -254,9 +255,16 @@ The following topics will be covered during the course:
  - How to develop new test programs to run on existing OpenHW CORE-V cores using core-v-verif.
  - Case Study of a new High Performance L1 Data-Cache IP block.
 
-Participation in the WS itself is free of charge, but
-[registration](registration.html) for the *Friday 9 Side Events* is
-required to cover the costs of breaks and lunch.
+Participation in the WS itself is free of charge, but:
+
+ 1. It is required to [register for the *Friday 9 Side
+    Events*](registration.html) to cover the costs of breaks and
+    lunch.
+
+ 2. In order to assess the size of the audience, please also indicate
+    your intention to participate by [filling in this
+    form](https://ti.to/tristan_kdt/open-source-hardware-basic-training-risc-v-summit).
+
 
 ### OpenHW TWG TG
 
