@@ -206,7 +206,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics</span>
+  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics Team</span> - <span class="schedule-title">Semidynamics Vector Unit Performance Demonstration</span>
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Zdenek Prikryl, Codasip</span> </span> - <span class="schedule-title">RISC-V as an enabler of heterogeneous compute</span>
  <br/>
@@ -240,11 +240,11 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">Microchip</span>
+  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">Brian Colgan, Microchip</span> - <span class="schedule-title">Introducing the PolarFire® SoC Smart Embedded Vision Kit</span>
   <br>
-  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">TBD</span>
+  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Jan Andersson, Frontgrade Gaisler</span> - <span class="schedule-title">Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library</span>
  <br/>
-  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author">TBD</span>
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author">Dr. Ari Kulmala, TII</span> - <span class="schedule-title">Secure RISC-V for Flight controller and Mission Computer</span>
   </div>
   </div>
 
