@@ -637,6 +637,22 @@ startups, including Kalray and SiPearl. He holds an engineering degree
 in computer science and electrical engineering and a PhD in
 microelectronics.*
 
+#### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
+
+[Roger Espasa] -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
+
+**Abstract**
+
+In this talk we will disclose Semidynamics Out-of-order RISC-V Vector unit, which is fully compliant with the RVV1.0 specification. We will disclose all the configuration options available for customers and discuss some performance data for an 8-lane configuration
+
+*Bio*
+
+*Roger Espasa is the founder and CEO of Semidynamics, an IP supplier of two RISC-V cores, Avispado (in-order) and Atrevido (out-of-order) supporting the RISC-V vector extension and Gazzillion TM misses, both targeted at HPC and Machine Learning.
+In addition, Semidynamics architected and designed the Esperanto Technologies&#39; 1024+ core machine-learning 7nm SoC.
+Prior to Semidynamics, Roger was at Broadcom working on an ARMV8 wide out-of-order core.  (2014-2016).
+Previously, Roger worked at Intel (2002-2014) developing a vector extension for the x86 ISA, initially deployed in XeonPhi (Larrabee) which then became AVX-512.
+Roger also led the texture sampling unit for Larrabee. Roger then worked on Knight&#39;s Landing (14nm) and led the core for Knights Hill (10nm). Between 1999 and 2001 Roger worked for the Alpha Microprocessor Group on a vector extension to the Alpha architecture known as Tarantula.
+Roger got his PhD from UPC in 1997, has published over 40 peer-reviewed papers on Vector Architectures, Graphics/3D Architecture, Binary translation and optimization, Branch Prediction, and Media ISA Extensions and holds 9 patents with 41 international filings.*
 
 #### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
 
