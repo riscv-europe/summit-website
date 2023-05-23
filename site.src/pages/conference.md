@@ -884,6 +884,42 @@ projects, a predominant topic are standard microprocessors and SoC’s
 built around microprocessor cores, as well as radiation-hard design
 methodology.*
 
+#### Matthew Xuereb -- The European Chips Act: Enabling chip design in Europe
+
+[Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172)
+-- Policy Officer, European Commission.
+
+**Abstract**
+
+Following the political agreement on the European Chips Act, the
+crucial implementation period has now started. For the aims of the
+Chips Act to be realised, Europe’s market share in fab-less design
+must grow. The keynote will focus on the Chips for Europe Initiative,
+where a virtual design platform is foreseen that will enable users,
+particularly start-ups and SMEs to have access to EDA tools and the
+computing resources necessary to scale-up beyond the critical “valley
+of death”. It is also foreseen that the platform will include an open
+repository that will enable access to European open-source IP.
+
+The keynote will also go through progress since the publication of the
+“Recommendations and roadmap for European sovereignty on open-source
+hardware, software and RISC-V Technologies” report and present some of
+the foreseen upcoming actions in this regard.
+
+*Bio*
+
+*Matthew is a Policy Officer within the [Microelectronics and
+Photonics Industry
+Unit](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_241435)
+of the European Commission’s [DG Communications Networks, Content and
+Technology](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/communications-networks-content-and-technology_en).
+where his work focuses on the implementation of Pillar 1 of the Chips
+Act. He joined the Commission in 2021, starting with an experience
+within DG BUDG, in the directorate responsible for the negotiations of
+the European annual budget. He is a graduate in Electrical and
+Electronic Engineering and European Politics, Economics and Law.*
+
+
 #### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
 Abstract: It takes a global community to bring out the best of an open standard.
@@ -894,14 +930,3 @@ hear from members of the global community on how they address culture. create hi
 
 Moderator: Calista Redmond, CEO, RISC-V International
 
-#### Matthew Xuereb -- (TBA).
-
-[Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172) -- Policy Officer, European Commission / [DG Communications Networks, Content and Technology](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/communications-networks-content-and-technology_en) / [Unit A3 Microelectronics and Photonics Industry](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_241435)
-
-**Abstract**
-
-TBD.
-
-*Bio*
-
-TBD.
