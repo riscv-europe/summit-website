@@ -82,7 +82,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <div class="schedule-entry">
   Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">OpenHW Group</span> 
   <br>
-  Demo Theatre, 13.15 tbd
+  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Mikael Carmona, CEA</span> - <span class="schedule-title">VASCO 2, an ASIC to highlight the latest innovations in security of component</span>
   <br>
   Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Simon Davidmann - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span>  
   </div>
