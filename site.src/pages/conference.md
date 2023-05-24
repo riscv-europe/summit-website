@@ -836,7 +836,6 @@ Leadership”, which was published in October 2018.  The book offers
 inspiring insights from the world of opera for leaders in business &
 politics, coaches, teachers and students.*
 
-
 #### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
 
 Dominic Rizzo -- CEO zeroRISC
@@ -876,6 +875,14 @@ methods for proof of implementation correctness. He received his BS in
 Aerospace Engineering from the Massachusetts Institute of Technology
 and his MS in Computer Science from the California Institute of
 Technology.*
+
+#### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
+
+[Dr. Charlie Su]([https://www.linkedin.com/in/patrickpype/](https://www.linkedin.com/in/charlie-hong-men-su-%E8%98%87%E6%B3%93%E8%90%8C-5bb64016/)) -- President and CTO, [Andes Technology]([https://www.opentitan.org](https://www.andestech.com/en/homepage/))
+
+**Abstract**
+RISC-V has been adopted with a record-breaking speed in pretty much all applications from general-purpose tiny MCUs to datacenter AI/ML accelerator SoCs. In this keynote, we will give examples of RISC-V applications and solutions to support them; in particular, we will also analyze various approaches for matrix multiplication extension to embrace AI/ML acceleration directly in RISC-V architecture. In addition, ISO 26262 certified automotive electronics solutions have been highly sought after in recent years due to multiple catalysts. In the second part of the keynote, we will talk about how RISC-V solutions address such market, some successful examples, and new technical challenges we should look into.
+
 
 
 #### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
