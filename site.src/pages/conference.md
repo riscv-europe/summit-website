@@ -459,6 +459,15 @@ during these three days.
 
 ### Keynotes Speakers
 
+#### Jan Andersson -- Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library
+
+[Jan Andersson](https://www.linkedin.com/in/jan-andersson-86b8251/) -- Director, Engineering,
+[Frontgrade Gaisler](https://www.gaisler.com/)
+
+**Abstract**
+
+The talk will provide an overview of creating a SoC design using the NOEL-V processor and GRLIB IP library. The NOEL-V processor model is a RISC-V implementation that is configurable at implementation time in a range of different configurations, ranging from RV32IM to RV64GCBH. The GRLIB IP library is a library of IP cores, that also provides technology maps to FPGA and ASIC technologies, script generation support for most popular EDA tools, and template designs. The library is available under a dual licensing, allowing both free open-source implementations and designs that require traditional commercial licensing.
+
 #### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
@@ -467,7 +476,6 @@ during these three days.
 **Abstract**
 
 This presentation will explore the frontier where cutting-edge computing intersects with the rapidly evolving automotive industry.  As cars become increasingly reliant on advanced technologies for safety, efficiency, and performance, new design paradigms are required.  Balaji will provide an exploration of how Ventana is leveraging the power of RISC-V and chiplet technologies to revolutionize how automotive manufacturers take control of their technology supply chain and enable differentiated platforms.  The session will provide insights into not only the technology itself but also into the broader implications for the automotive industry and manufacturers.
-
 
 *Bio*
 
