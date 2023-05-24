@@ -155,7 +155,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title keynote">
-  <span class="schedule-block-time">17:30-18:30</span><br/><span class="schedule-block-name">Panel</span>
+  <span class="schedule-block-time">17:30-18:15</span><br/><span class="schedule-block-name">Panel</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -164,7 +164,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">18:30-20:30</span><br/><span class="schedule-block-name">On-Site Cocktail, Booth, Posters & Demos</span>
+  <span class="schedule-block-time">18:15-20:15</span><br/><span class="schedule-block-name">On-Site Cocktail, Booth, Posters & Demos</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
