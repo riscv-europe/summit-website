@@ -294,7 +294,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">16:45</span> - <span class="schedule-author">Matthew Xuereb, European Commission</span> - <span class="schedule-title">Chips Act & RISC-V</span>
+  <span class="schedule-time">16:45</span> - <span class="schedule-author">Matthew Xuereb, European Commission</span> - <span class="schedule-title">The European Chips Act: Enabling chip design in Europe</span>
   </div>
   </div>
 
