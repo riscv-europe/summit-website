@@ -459,15 +459,6 @@ during these three days.
 
 ### Keynotes Speakers
 
-#### Jan Andersson -- Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library
-
-[Jan Andersson](https://www.linkedin.com/in/jan-andersson-86b8251/) -- Director, Engineering,
-[Frontgrade Gaisler](https://www.gaisler.com/)
-
-**Abstract**
-
-The talk will provide an overview of creating a SoC design using the NOEL-V processor and GRLIB IP library. The NOEL-V processor model is a RISC-V implementation that is configurable at implementation time in a range of different configurations, ranging from RV32IM to RV64GCBH. The GRLIB IP library is a library of IP cores, that also provides technology maps to FPGA and ASIC technologies, script generation support for most popular EDA tools, and template designs. The library is available under a dual licensing, allowing both free open-source implementations and designs that require traditional commercial licensing.
-
 #### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
@@ -618,34 +609,6 @@ authoring the initial patchset, acting as upstream code owner, and
 collaborating with a growing set of contributors. Alex is also well
 known within the LLVM community for the LLVM Weekly newsletter.*
 
-#### Mikael Carmona --  VASCO 2, an ASIC to highlight the latest innovations in security of component
-
-[Mikael Carmona](https://www.linkedin.com/in/mikael-carmona-cyber/) -- Head of Laboratory for Security of hardware Components, [CEA-Leti](https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx)
-
-**Abstract**
-
-VASCO 2 (ASIC Vehicle for Component Security) integrates innovative, patented hardware security building blocks on 22 nm FD-SOI silicon. It enables all types of standard or customized tests to validate these technologies in operational conditions in order to characterize innovative security blocks and to prepare a transfer to industry.
-VASCO 2 highlights the relevance and characteristics of these hardware IPs for industry by matching current challenges in hardware security: securing processors, securing and accelerating pre- and post-quantum cryptography, modelization and characterization of True Random Number Generators (TRNG), securing memories, etc. With VASCO 2, manufacturers have access to comprehensive data on hardware security IP: security level, power consumption, silicon surface area, and impact on cycle time.
-
-#### Warren Chen -- Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity
-
-[Warren Chen](https://www.linkedin.com/in/warren-chen-42491267/) -- Senior Technical Manager, [Andes Technology](https://www.andestech.com/en/homepage/)
-
-**Abstract**
-
-AI applications require efficient and powerful flexible computing capabilities of the Processor. AndesCore™ DSP/SIMD Extension (RVP) and Vector Extensions (RVV) could efficiently boost the performance with respective intrinsic functions, and highly optimized DSP, Vector, and NN libraries. In this talk, we will explore the AndesCore™ AX45MPV Vector Processor and AI software stack and solutions. With the help of the AndesClarity™ pipeline visualizer and analyzer, developers could identify stall bubbles and data and resource dependencies associated with instructions and source code for further optimizations.
-
-*Bio*
-
-*Warren Chen is a Senior Technical Manager at Andes Technology, where he works in the Technical Marketing Division. Warren has over 20 years of work experience ranging from embedded operating system porting, device driver, middleware, software architecture, project management, and marketing. He is excited to be part of the dynamic and growing RISC-V community.*
-
-#### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit
-
-[Brian Colgan](https://www.linkedin.com/in/briancolgan/) -- FPGA Business Development Manager, [Microchip](https://www.microchip.com/)
-
-**Abstract**
-
-The PolarFire SoC Smart Embedded Vision kit is the latest installment in the PolarFire SoC hardware family. Microchip will exhibit the kit with a video processing demo while showcasing fabric-processor design partition in the PolarFire SoC. While all processing can be done in the Microchip RISC-V (Mi-V) Microprocessor Subsystem (MSS) of PolarFire SoC, we can show the increase in performance when some processing is off-loaded to the FPGA fabric. Come see how Microchip’s newest FPGA kit is delivering RISC-V to the masses.
 
 #### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
 
@@ -706,18 +669,6 @@ Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.
 **Abstract**
 
 The freedom of RISC-V represents both new innovations in design and also the migration of verification responsibility. This keynote highlights the challenges facing SoC teams as they adopt RISC-V and provides a perspective on how the use of new verification standards and methodologies drives down cost, quality risk, and development time.
-
-*Bio*
-
-*Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
-
-#### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration 
-
-Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.com/).
-
-**Abstract**
-
-The design freedoms of RISC-V offer systems and SoC developers new flexibility to optimize a processor for the requirements of the target application. Now Architectural Exploration is not just about the configuration of multi-core designs, but the analysis of the application and potential advantages of custom instructions. Custom extension can boost the performance for a target class of operations, or support new multi-core communication methods. Software development with virtual prototypes is well established, but new to RISC-V is the advantage of these platforms offer to end users migrating legacy applications to the new RISC-V based device, well before silicon is available. For SoC teams optimizing a RISC-V processor they also need to address the additional challenge of RISC-V verification, open standards such as The RISC-V Verification Interface (RVVI) are helping the ecosystem support for standards-based test benches and Verification IP. This talk highlights the RISC-V models that are unifying the hardware, software, and verification teams across all phases of RISC-V projects with dependable quality and efficiency.
 
 *Bio*
 
@@ -790,43 +741,6 @@ Building a modern, complex, RISC-V based digital design like the Caliptra Root o
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
 
-#### Karol Gugala -- Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE
-
-[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/).
-
-**Abstract**
-
-Thanks to their increasing computational capabilities and the open ISA’ s ability to tailor silicon to specific use cases, RISC-V based microcontroller devices are an interesting target for Machine Learning workflows in low-power applications. To make the best of the constrained resources of MCUs, Antmicro’s Kenning open source AI/ML framework was extended with a bare-metal runtime backend, enabling use with RISC-V based devices that cannot - or don’t need to - run Linux. Kenning enables you to seamlessly develop, train, optimize and deploy ML models on various embedded targets and can automatically convert the model format between the most popular AI frameworks and optimize models for their target runtime. The metrics from the deployed models can be utilized to monitor various aspects of processing, from machine resource usage to result quality.
-
-To further improve the developer experience, Kenning has been integrated with Renode, Antmicro’s open source, deterministic simulation framework. The integration of Kenning and Renode enables a hardware-less development flow and allows for complete insight into model execution and AI accelerator utilization. Renode provides a fully automated, reproducible execution environment, allowing a CI-based development of embedded models, optimization libraries, and AI accelerators. The demo will present a complete ML model deployment flow based on Kenning, targeting Google's Springbok RISC-V AI accelerator and leveraging the RISC-V Vector Extension, fully simulated in Renode. 
-
-*Bio*
-
-*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
-
-
-#### Dr. Ari Kulmala -- Secure RISC-V for Flight controller and Mission Computer
-
-Dr. Ari Kulmala -- [Technology Innovation Institute](https://www.tii.ae/).
-
-**Abstract**
-
-We have implemented security-first approach to design autonomous drones including both flight controller and mission computer functions. We will share our experiences on building these devices of high complexity. We need to tackle both real time and high-performance, virtualized workloads in the same processor cluster in practice using Asynchronous MultiProcessing (AMP) mode. On top of typical Root-of-Trust based security, we have also initiated broad research in the area of Zero Trust and ways to protect the chip throughout its full lifetime, from supply chain security to tamper-protected applications.
-
-*Bio*
-
-*Dr. Ari Kulmala received his Ph.D. degree in 2009 from the Tampere University of Technology (TUT).Currently he is working with System on Chip architectures &amp; commercialization for Technology Innovation Institute (TII) of Abu Dhabi and also holds the position of Professor of Practice at Tampere University of Technology. His experience on System-on-Chip design ranges from small power mobile devices to large scale processing infrastructure devices and datacenter applications. After working 2003-2008 in Tampere University of Technology, in 2009, he joined Wireless Modem unit of Devices R&amp;D in Nokia as technical digital ASIC project manager. After Renesas Electronics acquired the unit he worked in Renesas Mobile from 2010-2013. In 2013 he joined Nokia Networks and headed several organizations, joined in 2020 Tampere University, and in 2021 Nordic Semiconductor for heading a Digital IC site establishment.*
-
-
-#### Chris Morrison -- An innovative digitally wrapped analog IP subsystem for RISC-V applications
-
-[Chris Morrison](https://www.linkedin.com/in/morrison1984/) -- Director of Product Marketing, [Agile Analog](https://www.agileanalog.com/).
-
-**Abstract**
-
-Digital chip designers face a significant challenge when it comes to integrating the necessary analog circuitry to support their SoC designs. They can experience difficulties in obtaining appropriate analog IP for specific processes and foundries, and struggle with the integration of multiple analog IP blocks from different vendors into their systems. The integration of analog and digital at the mixed-signal boundary poses a particularly daunting and resource-intensive task, requiring specialized knowledge and tools.
-To address these challenges, Agile Analog present an innovative analog IP subsystem for RISC-V applications. This subsystem is designed to be customizable, and digitally wrapped, offering a novel solution that tackles many of the issues encountered by SoC designers with existing solutions. Specifically, Agile Analog's subsystem includes a comprehensive set of analog IP components essential for a typical battery-powered IoT system, including a power management unit (PMU), a sleep management unit (SMU), and data converters. These IP components undergo thorough verification in both analog and digital environments, ensuring their reliability and performance, plus seamlessly connect to the MCU's peripheral bus and are supplied with a SystemVerilog model, facilitating their integration into an existing SoC's verification environment. 
-
 
 #### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
 
@@ -840,13 +754,6 @@ This talk will provide a brief overview of Open-Source HW activity across the in
 
 *Rick O'Connor is Founder and serves as President & CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects. Previously Rick was Executive Director of the RISC-V Foundation. Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 400 members building an open, collaborative community of software and hardware innovators powering processor innovation. With many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over $750 million in revenue. Rick holds an Executive MBA degree from the University of Ottawa, Canada and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College, Canada.*
 
-#### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
-
-[Zdenek Prikryl](https://www.linkedin.com/in/zdenek-prikryl/) -- CTO, [Codasip](https://codasip.com/).
-
-**Abstract**
-
-The semiconductor industry has benefited from shrinking process nodes to improve performance while reducing cost and power for many years. But this no longer holds. We can’t rely on smaller silicon geometries to achieve computational improvements. Instead, we are in a world where performance, power, and cost benefits must come from the architecture and from custom compute. With many possible specialized processor architectures, processor design automation is essential to ensure that design cycles are short and cost effective. In this demo, we will go through some examples that show how RISC-V designs are customized for computational workloads in different domains using a single, unified toolchain for processor design automation.
 
 #### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
@@ -1073,6 +980,7 @@ within DG BUDG, in the directorate responsible for the negotiations of
 the European annual budget. He is a graduate in Electrical and
 Electronic Engineering and European Politics, Economics and Law.*
 
+### Panels
 
 #### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
@@ -1083,4 +991,100 @@ industries, or across different regions, and channeling their strengths to make 
 hear from members of the global community on how they address culture. create high-performing groups and collaborate to get the most out of their teams.
 
 Moderator: Calista Redmond, CEO, RISC-V International
+
+### Demo Theatre Speakers
+
+#### Karol Gugala -- Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE
+
+[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/).
+
+**Abstract**
+
+Thanks to their increasing computational capabilities and the open ISA’ s ability to tailor silicon to specific use cases, RISC-V based microcontroller devices are an interesting target for Machine Learning workflows in low-power applications. To make the best of the constrained resources of MCUs, Antmicro’s Kenning open source AI/ML framework was extended with a bare-metal runtime backend, enabling use with RISC-V based devices that cannot - or don’t need to - run Linux. Kenning enables you to seamlessly develop, train, optimize and deploy ML models on various embedded targets and can automatically convert the model format between the most popular AI frameworks and optimize models for their target runtime. The metrics from the deployed models can be utilized to monitor various aspects of processing, from machine resource usage to result quality.
+
+To further improve the developer experience, Kenning has been integrated with Renode, Antmicro’s open source, deterministic simulation framework. The integration of Kenning and Renode enables a hardware-less development flow and allows for complete insight into model execution and AI accelerator utilization. Renode provides a fully automated, reproducible execution environment, allowing a CI-based development of embedded models, optimization libraries, and AI accelerators. The demo will present a complete ML model deployment flow based on Kenning, targeting Google's Springbok RISC-V AI accelerator and leveraging the RISC-V Vector Extension, fully simulated in Renode. 
+
+*Bio*
+
+*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
+
+
+#### Chris Morrison -- An innovative digitally wrapped analog IP subsystem for RISC-V applications
+
+[Chris Morrison](https://www.linkedin.com/in/morrison1984/) -- Director of Product Marketing, [Agile Analog](https://www.agileanalog.com/).
+
+**Abstract**
+
+Digital chip designers face a significant challenge when it comes to integrating the necessary analog circuitry to support their SoC designs. They can experience difficulties in obtaining appropriate analog IP for specific processes and foundries, and struggle with the integration of multiple analog IP blocks from different vendors into their systems. The integration of analog and digital at the mixed-signal boundary poses a particularly daunting and resource-intensive task, requiring specialized knowledge and tools.
+To address these challenges, Agile Analog present an innovative analog IP subsystem for RISC-V applications. This subsystem is designed to be customizable, and digitally wrapped, offering a novel solution that tackles many of the issues encountered by SoC designers with existing solutions. Specifically, Agile Analog's subsystem includes a comprehensive set of analog IP components essential for a typical battery-powered IoT system, including a power management unit (PMU), a sleep management unit (SMU), and data converters. These IP components undergo thorough verification in both analog and digital environments, ensuring their reliability and performance, plus seamlessly connect to the MCU's peripheral bus and are supplied with a SystemVerilog model, facilitating their integration into an existing SoC's verification environment. 
+
+#### Mikael Carmona --  VASCO 2, an ASIC to highlight the latest innovations in security of component
+
+[Mikael Carmona](https://www.linkedin.com/in/mikael-carmona-cyber/) -- Head of Laboratory for Security of hardware Components, [CEA-Leti](https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx)
+
+**Abstract**
+
+VASCO 2 (ASIC Vehicle for Component Security) integrates innovative, patented hardware security building blocks on 22 nm FD-SOI silicon. It enables all types of standard or customized tests to validate these technologies in operational conditions in order to characterize innovative security blocks and to prepare a transfer to industry.
+VASCO 2 highlights the relevance and characteristics of these hardware IPs for industry by matching current challenges in hardware security: securing processors, securing and accelerating pre- and post-quantum cryptography, modelization and characterization of True Random Number Generators (TRNG), securing memories, etc. With VASCO 2, manufacturers have access to comprehensive data on hardware security IP: security level, power consumption, silicon surface area, and impact on cycle time.
+
+#### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration 
+
+Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.com/).
+
+**Abstract**
+
+The design freedoms of RISC-V offer systems and SoC developers new flexibility to optimize a processor for the requirements of the target application. Now Architectural Exploration is not just about the configuration of multi-core designs, but the analysis of the application and potential advantages of custom instructions. Custom extension can boost the performance for a target class of operations, or support new multi-core communication methods. Software development with virtual prototypes is well established, but new to RISC-V is the advantage of these platforms offer to end users migrating legacy applications to the new RISC-V based device, well before silicon is available. For SoC teams optimizing a RISC-V processor they also need to address the additional challenge of RISC-V verification, open standards such as The RISC-V Verification Interface (RVVI) are helping the ecosystem support for standards-based test benches and Verification IP. This talk highlights the RISC-V models that are unifying the hardware, software, and verification teams across all phases of RISC-V projects with dependable quality and efficiency.
+
+*Bio*
+
+*Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
+
+#### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
+
+[Zdenek Prikryl](https://www.linkedin.com/in/zdenek-prikryl/) -- CTO, [Codasip](https://codasip.com/).
+
+**Abstract**
+
+The semiconductor industry has benefited from shrinking process nodes to improve performance while reducing cost and power for many years. But this no longer holds. We can’t rely on smaller silicon geometries to achieve computational improvements. Instead, we are in a world where performance, power, and cost benefits must come from the architecture and from custom compute. With many possible specialized processor architectures, processor design automation is essential to ensure that design cycles are short and cost effective. In this demo, we will go through some examples that show how RISC-V designs are customized for computational workloads in different domains using a single, unified toolchain for processor design automation.
+
+#### Warren Chen -- Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity
+
+[Warren Chen](https://www.linkedin.com/in/warren-chen-42491267/) -- Senior Technical Manager, [Andes Technology](https://www.andestech.com/en/homepage/)
+
+**Abstract**
+
+AI applications require efficient and powerful flexible computing capabilities of the Processor. AndesCore™ DSP/SIMD Extension (RVP) and Vector Extensions (RVV) could efficiently boost the performance with respective intrinsic functions, and highly optimized DSP, Vector, and NN libraries. In this talk, we will explore the AndesCore™ AX45MPV Vector Processor and AI software stack and solutions. With the help of the AndesClarity™ pipeline visualizer and analyzer, developers could identify stall bubbles and data and resource dependencies associated with instructions and source code for further optimizations.
+
+*Bio*
+
+*Warren Chen is a Senior Technical Manager at Andes Technology, where he works in the Technical Marketing Division. Warren has over 20 years of work experience ranging from embedded operating system porting, device driver, middleware, software architecture, project management, and marketing. He is excited to be part of the dynamic and growing RISC-V community.*
+
+#### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit
+
+[Brian Colgan](https://www.linkedin.com/in/briancolgan/) -- FPGA Business Development Manager, [Microchip](https://www.microchip.com/)
+
+**Abstract**
+
+The PolarFire SoC Smart Embedded Vision kit is the latest installment in the PolarFire SoC hardware family. Microchip will exhibit the kit with a video processing demo while showcasing fabric-processor design partition in the PolarFire SoC. While all processing can be done in the Microchip RISC-V (Mi-V) Microprocessor Subsystem (MSS) of PolarFire SoC, we can show the increase in performance when some processing is off-loaded to the FPGA fabric. Come see how Microchip’s newest FPGA kit is delivering RISC-V to the masses.
+
+#### Jan Andersson -- Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library
+
+[Jan Andersson](https://www.linkedin.com/in/jan-andersson-86b8251/) -- Director, Engineering,
+[Frontgrade Gaisler](https://www.gaisler.com/)
+
+**Abstract**
+
+The talk will provide an overview of creating a SoC design using the NOEL-V processor and GRLIB IP library. The NOEL-V processor model is a RISC-V implementation that is configurable at implementation time in a range of different configurations, ranging from RV32IM to RV64GCBH. The GRLIB IP library is a library of IP cores, that also provides technology maps to FPGA and ASIC technologies, script generation support for most popular EDA tools, and template designs. The library is available under a dual licensing, allowing both free open-source implementations and designs that require traditional commercial licensing.
+
+#### Dr. Ari Kulmala -- Secure RISC-V for Flight controller and Mission Computer
+
+Dr. Ari Kulmala -- [Technology Innovation Institute](https://www.tii.ae/).
+
+**Abstract**
+
+We have implemented security-first approach to design autonomous drones including both flight controller and mission computer functions. We will share our experiences on building these devices of high complexity. We need to tackle both real time and high-performance, virtualized workloads in the same processor cluster in practice using Asynchronous MultiProcessing (AMP) mode. On top of typical Root-of-Trust based security, we have also initiated broad research in the area of Zero Trust and ways to protect the chip throughout its full lifetime, from supply chain security to tamper-protected applications.
+
+*Bio*
+
+*Dr. Ari Kulmala received his Ph.D. degree in 2009 from the Tampere University of Technology (TUT).Currently he is working with System on Chip architectures &amp; commercialization for Technology Innovation Institute (TII) of Abu Dhabi and also holds the position of Professor of Practice at Tampere University of Technology. His experience on System-on-Chip design ranges from small power mobile devices to large scale processing infrastructure devices and datacenter applications. After working 2003-2008 in Tampere University of Technology, in 2009, he joined Wireless Modem unit of Devices R&amp;D in Nokia as technical digital ASIC project manager. After Renesas Electronics acquired the unit he worked in Renesas Mobile from 2010-2013. In 2013 he joined Nokia Networks and headed several organizations, joined in 2020 Tampere University, and in 2021 Nordic Semiconductor for heading a Digital IC site establishment.*
 
