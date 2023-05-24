@@ -43,7 +43,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Kumar Sankaran, Ventana Micro Systems</span> - <span class="schedule-title">Data Center Workloads on RISC-V</span> 
+  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics Team</span> - <span class="schedule-title">Semidynamics Vector Unit Performance Demonstration</span>
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Karol Gugala, Antmicro</span> - <span class="schedule-title">Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE</span>  - <a href="#karol-gugala-bare-metal-ai-runtime-deployment-and-analysis-for-a-risc-v-accelerator-with-kenning-renode-and-iree">Details</a>
  <br/>
@@ -206,7 +206,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics Team</span> - <span class="schedule-title">Semidynamics Vector Unit Performance Demonstration</span>
+  Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Kumar Sankaran, Ventana Micro Systems</span> - <span class="schedule-title">Data Center Workloads on RISC-V</span> 
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Zdenek Prikryl, Codasip</span> </span> - <span class="schedule-title">RISC-V as an enabler of heterogeneous compute</span> - <a href="#zdenek-prikryl-risc-v-as-an-enabler-of-heterogeneous-compute">Details</a> 
  <br/>
