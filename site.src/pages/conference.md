@@ -1011,16 +1011,19 @@ hear from members of the global community on how they address culture. create hi
 
 #### Panel on EU & RISC-V
 
-Panelists:
+**Topic**
+
+(TBD).
+
+**Panelists**
 
  - Luis-Carlos Busquets-Perez, EU Commission.
  - John D. Davis, BSC.
  - Roger Espasa, Semidynamics.
  - Daniel Opalka, EuroHPC.
  - Patrick Pype, NXP.
+ - Calista Redmond, RISC-V International, **moderator.**
  - Stefan Wallentowitz, Munich University of Applied Sciences.
-
-Moderator: Calista Redmond, CEO, RISC-V International
 
 
 ### Demo Theatre Speakers
