@@ -210,7 +210,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <br>
   Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Zdenek Prikryl, Codasip</span> </span> - <span class="schedule-title">RISC-V as an enabler of heterogeneous compute</span>
  <br/>
-  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Charlie Su, Andes Technology</span> - <span class="schedule-title">Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity</span>
+  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Warren Chen, Andes Technology</span> - <span class="schedule-title">Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity</span>
   </div>
   </div>
 
@@ -610,6 +610,18 @@ authoring the initial patchset, acting as upstream code owner, and
 collaborating with a growing set of contributors. Alex is also well
 known within the LLVM community for the LLVM Weekly newsletter.*
 
+#### Warren Chen -- Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity
+
+[Warren Chen](https://www.linkedin.com/in/warren-chen-42491267/) -- Senior Technical Manager, [Andes Technology](https://www.andestech.com/en/homepage/)
+
+**Abstract**
+
+AI applications require efficient and powerful flexible computing capabilities of the Processor. AndesCore™ DSP/SIMD Extension (RVP) and Vector Extensions (RVV) could efficiently boost the performance with respective intrinsic functions, and highly optimized DSP, Vector, and NN libraries. In this talk, we will explore the AndesCore™ AX45MPV Vector Processor and AI software stack and solutions. With the help of the AndesClarity™ pipeline visualizer and analyzer, developers could identify stall bubbles and data and resource dependencies associated with instructions and source code for further optimizations.
+
+*Bio*
+
+*Warren Chen is a Senior Technical Manager at Andes Technology, where he works in the Technical Marketing Division. Warren has over 20 years of work experience ranging from embedded operating system porting, device driver, middleware, software architecture, project management, and marketing. He is excited to be part of the dynamic and growing RISC-V community.*
+
 #### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
 
 [Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
@@ -767,6 +779,17 @@ To further improve the developer experience, Kenning has been integrated with Re
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
 
+
+#### Chris Morrison -- An innovative digitally wrapped analog IP subsystem for RISC-V applications
+
+[Chris Morrison](https://www.linkedin.com/in/morrison1984/) -- Director of Product Marketing, [Agile Analog](https://www.agileanalog.com/).
+
+**Abstract**
+
+Digital chip designers face a significant challenge when it comes to integrating the necessary analog circuitry to support their SoC designs. They can experience difficulties in obtaining appropriate analog IP for specific processes and foundries, and struggle with the integration of multiple analog IP blocks from different vendors into their systems. The integration of analog and digital at the mixed-signal boundary poses a particularly daunting and resource-intensive task, requiring specialized knowledge and tools.
+To address these challenges, Agile Analog present an innovative analog IP subsystem for RISC-V applications. This subsystem is designed to be customizable, and digitally wrapped, offering a novel solution that tackles many of the issues encountered by SoC designers with existing solutions. Specifically, Agile Analog's subsystem includes a comprehensive set of analog IP components essential for a typical battery-powered IoT system, including a power management unit (PMU), a sleep management unit (SMU), and data converters. These IP components undergo thorough verification in both analog and digital environments, ensuring their reliability and performance, plus seamlessly connect to the MCU's peripheral bus and are supplied with a SystemVerilog model, facilitating their integration into an existing SoC's verification environment. 
+
+
 #### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
 
 [Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
@@ -777,7 +800,7 @@ This talk will provide a brief overview of Open-Source HW activity across the in
 
 *Bio*
 
-*This talk will provide a brief overview of Open-Source HW activity across the industry, barriers to adoption of Open-Source HW and challenges associated with SoC design.  Lessons learned related to the OpenHW Group Governance model and commercial adoption of CORE-V Family of open source RISC-V cores will also be presented. The CORE-V family is an OpenHW Group project to develop, deploy, and execute pre-silicon functional verification and SoC based development kits of the CORE-V family of open-source RISC-V cores. Written in SystemVerilog, CORE-V open-source IP cores match the quality of IP offered by established commercial providers and are verified with state-of-the-art, auditable flows.*
+*Rick O'Connor is Founder and serves as President & CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects. Previously Rick was Executive Director of the RISC-V Foundation. Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 400 members building an open, collaborative community of software and hardware innovators powering processor innovation. With many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over $750 million in revenue. Rick holds an Executive MBA degree from the University of Ottawa, Canada and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College, Canada.*
 
 #### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
 
