@@ -610,6 +610,16 @@ authoring the initial patchset, acting as upstream code owner, and
 collaborating with a growing set of contributors. Alex is also well
 known within the LLVM community for the LLVM Weekly newsletter.*
 
+#### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
+
+[Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
+
+**Abstract**
+
+If you optimize your software for a general-purpose core there is a substantial risk that your algorithms are executed inefficiently and therefore run slowly. You can address this by creating fixed-function circuits designed to perform a specific set of operations. These hardware functions can be extremely fast, but because they are hard coded, it is difficult to modify or update them. So how can you achieve flexibility and performance? By combining both approaches. A key benefit of RISC-V customization is that you can create custom instructions tailored to your specific application needs.
+To pick custom instructions correctly and create efficient implementations, software and hardware teams need to collaborate. By starting work earlier on processor customization, the software team can start developing their critical algorithms and uncover much sooner those potential gains that could not be achieved if the hardware was already frozen.
+ We call this Custom Compute, and its benefits extend beyond performance and energy efficiency. Custom Compute can also enable organizations to improve security by adding security features at the heart of the processor. A closer collaboration between hardware and software teams, supported by a strong methodology and by efficient tools, is the future standard of system design.
+
 
 #### Thierry Collette -- 4 years of Open Source RISC-V at Thales
 
@@ -769,7 +779,13 @@ This talk will provide a brief overview of Open-Source HW activity across the in
 
 *This talk will provide a brief overview of Open-Source HW activity across the industry, barriers to adoption of Open-Source HW and challenges associated with SoC design.  Lessons learned related to the OpenHW Group Governance model and commercial adoption of CORE-V Family of open source RISC-V cores will also be presented. The CORE-V family is an OpenHW Group project to develop, deploy, and execute pre-silicon functional verification and SoC based development kits of the CORE-V family of open-source RISC-V cores. Written in SystemVerilog, CORE-V open-source IP cores match the quality of IP offered by established commercial providers and are verified with state-of-the-art, auditable flows.*
 
+#### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
 
+[Zdenek Prikryl](https://www.linkedin.com/in/zdenek-prikryl/) -- CTO, [Codasip](https://codasip.com/).
+
+**Abstract**
+
+The semiconductor industry has benefited from shrinking process nodes to improve performance while reducing cost and power for many years. But this no longer holds. We can’t rely on smaller silicon geometries to achieve computational improvements. Instead, we are in a world where performance, power, and cost benefits must come from the architecture and from custom compute. With many possible specialized processor architectures, processor design automation is essential to ensure that design cycles are short and cost effective. In this demo, we will go through some examples that show how RISC-V designs are customized for computational workloads in different domains using a single, unified toolchain for processor design automation.
 
 #### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
