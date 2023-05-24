@@ -303,7 +303,16 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">17:15</span> - Panel on EU & RISC-V
+  <span class="schedule-time">17:15</span> - <span class="schedule-title">Panel on EU & RISC-V</span> -
+  <span class="schedule-author">
+  Calista Redmond, RISC-V (moderator).
+  Luis-Carlos Busquets-Perez, EU Commission.
+  John D. Davis, BSC.
+  Roger Espasa, Semidynamics.
+  Daniel Opalka, EuroHPC.
+  Patrick Pype, NXP.
+  Stefan Wallentowitz, Munich University of Applied Sciences.
+  </span>
   </div>
   </div>
 
