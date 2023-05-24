@@ -1000,8 +1000,14 @@ So how do we tap into and embrace the diversity of the ecosystem to strengthen s
 industries, or across different regions, and channeling their strengths to make RISC-V the standard for open computing. From projects in Europe that pull together members across industry, academia and research, to individuals that need to rally resources across a nation or a university, here's a chance to
 hear from members of the global community on how they address culture. create high-performing groups and collaborate to get the most out of their teams.
 
-Moderator: Calista Redmond, CEO, RISC-V International
+**Panelists**
 
+ - [Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/), [China RISC-V
+   Alliance (CRVA)](http://crva.ict.ac.cn), [Beijing Institute of
+   Open-Source Chip (BOSC)](https://www.bosc.ac.cn).
+ - John D. Davis, BSC.
+ - Gianna Paulin, Integrated Systems Laboratory (IIS) / ETH Zurich.
+ - Calista Redmond, RISC-V International, **moderator.**
 
 #### Panel on EU & RISC-V
 
