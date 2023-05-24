@@ -986,7 +986,9 @@ within DG BUDG, in the directorate responsible for the negotiations of
 the European annual budget. He is a graduate in Electrical and
 Electronic Engineering and European Politics, Economics and Law.*
 
+
 ### Panels
+
 
 #### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
