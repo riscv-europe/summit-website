@@ -618,6 +618,15 @@ authoring the initial patchset, acting as upstream code owner, and
 collaborating with a growing set of contributors. Alex is also well
 known within the LLVM community for the LLVM Weekly newsletter.*
 
+#### Mikael Carmona --  VASCO 2, an ASIC to highlight the latest innovations in security of component
+
+[Mikael Carmona](https://www.linkedin.com/in/mikael-carmona-cyber/) -- Head of Laboratory for Security of hardware Components, [CEA-Leti](https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx)
+
+**Abstract**
+
+VASCO 2 (ASIC Vehicle for Component Security) integrates innovative, patented hardware security building blocks on 22 nm FD-SOI silicon. It enables all types of standard or customized tests to validate these technologies in operational conditions in order to characterize innovative security blocks and to prepare a transfer to industry.
+VASCO 2 highlights the relevance and characteristics of these hardware IPs for industry by matching current challenges in hardware security: securing processors, securing and accelerating pre- and post-quantum cryptography, modelization and characterization of True Random Number Generators (TRNG), securing memories, etc. With VASCO 2, manufacturers have access to comprehensive data on hardware security IP: security level, power consumption, silicon surface area, and impact on cycle time.
+
 #### Warren Chen -- Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity
 
 [Warren Chen](https://www.linkedin.com/in/warren-chen-42491267/) -- Senior Technical Manager, [Andes Technology](https://www.andestech.com/en/homepage/)
@@ -629,6 +638,14 @@ AI applications require efficient and powerful flexible computing capabilities o
 *Bio*
 
 *Warren Chen is a Senior Technical Manager at Andes Technology, where he works in the Technical Marketing Division. Warren has over 20 years of work experience ranging from embedded operating system porting, device driver, middleware, software architecture, project management, and marketing. He is excited to be part of the dynamic and growing RISC-V community.*
+
+#### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit
+
+[Brian Colgan](https://www.linkedin.com/in/briancolgan/) -- FPGA Business Development Manager, [Microchip](https://www.microchip.com/)
+
+**Abstract**
+
+The PolarFire SoC Smart Embedded Vision kit is the latest installment in the PolarFire SoC hardware family. Microchip will exhibit the kit with a video processing demo while showcasing fabric-processor design partition in the PolarFire SoC. While all processing can be done in the Microchip RISC-V (Mi-V) Microprocessor Subsystem (MSS) of PolarFire SoC, we can show the increase in performance when some processing is off-loaded to the FPGA fabric. Come see how Microchip’s newest FPGA kit is delivering RISC-V to the masses.
 
 #### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
 
@@ -786,6 +803,19 @@ To further improve the developer experience, Kenning has been integrated with Re
 *Bio*
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
+
+
+#### Dr. Ari Kulmala -- Secure RISC-V for Flight controller and Mission Computer
+
+Dr. Ari Kulmala -- [Technology Innovation Institute](https://www.tii.ae/).
+
+**Abstract**
+
+We have implemented security-first approach to design autonomous drones including both flight controller and mission computer functions. We will share our experiences on building these devices of high complexity. We need to tackle both real time and high-performance, virtualized workloads in the same processor cluster in practice using Asynchronous MultiProcessing (AMP) mode. On top of typical Root-of-Trust based security, we have also initiated broad research in the area of Zero Trust and ways to protect the chip throughout its full lifetime, from supply chain security to tamper-protected applications.
+
+*Bio*
+
+*Dr. Ari Kulmala received his Ph.D. degree in 2009 from the Tampere University of Technology (TUT).Currently he is working with System on Chip architectures &amp; commercialization for Technology Innovation Institute (TII) of Abu Dhabi and also holds the position of Professor of Practice at Tampere University of Technology. His experience on System-on-Chip design ranges from small power mobile devices to large scale processing infrastructure devices and datacenter applications. After working 2003-2008 in Tampere University of Technology, in 2009, he joined Wireless Modem unit of Devices R&amp;D in Nokia as technical digital ASIC project manager. After Renesas Electronics acquired the unit he worked in Renesas Mobile from 2010-2013. In 2013 he joined Nokia Networks and headed several organizations, joined in 2020 Tampere University, and in 2021 Nordic Semiconductor for heading a Digital IC site establishment.*
 
 
 #### Chris Morrison -- An innovative digitally wrapped analog IP subsystem for RISC-V applications
