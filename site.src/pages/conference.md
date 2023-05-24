@@ -652,6 +652,31 @@ startups, including Kalray and SiPearl. He holds an engineering degree
 in computer science and electrical engineering and a PhD in
 microelectronics.*
 
+#### Simon Davidmann -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools 
+
+Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.com/).
+
+**Abstract**
+
+The freedom of RISC-V represents both new innovations in design and also the migration of verification responsibility. This keynote highlights the challenges facing SoC teams as they adopt RISC-V and provides a perspective on how the use of new verification standards and methodologies drives down cost, quality risk, and development time.
+
+*Bio*
+
+*Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
+
+#### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration 
+
+Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.com/).
+
+**Abstract**
+
+The design freedoms of RISC-V offer systems and SoC developers new flexibility to optimize a processor for the requirements of the target application. Now Architectural Exploration is not just about the configuration of multi-core designs, but the analysis of the application and potential advantages of custom instructions. Custom extension can boost the performance for a target class of operations, or support new multi-core communication methods. Software development with virtual prototypes is well established, but new to RISC-V is the advantage of these platforms offer to end users migrating legacy applications to the new RISC-V based device, well before silicon is available. For SoC teams optimizing a RISC-V processor they also need to address the additional challenge of RISC-V verification, open standards such as The RISC-V Verification Interface (RVVI) are helping the ecosystem support for standards-based test benches and Verification IP. This talk highlights the RISC-V models that are unifying the hardware, software, and verification teams across all phases of RISC-V projects with dependable quality and efficiency.
+
+*Bio*
+
+*Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
+
+
 #### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
 
 Roger Espasa -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
