@@ -137,12 +137,18 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
 
   <div class="schedule-block-title technical">
-  <span class="schedule-block-time">17:00-17:30</span><br/><span class="schedule-block-name">Technical Talks</span>
+  <span class="schedule-block-time">17:00-17:15</span><br/><span class="schedule-block-name">Industrial Talk</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">17:00</span> - <span class="schedule-author">Peter Lewin, Imagination</span> - <span class="schedule-title">Developing a RISC-V Automotive Safety Island</span>
   </div>
+  </div>
+
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">17:15-17:30</span><br/><span class="schedule-block-name">Technical Talks</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">17:15</span> - <span class="schedule-author">Abdoulaye Berthe, Low Power Futures</span> - <span class="schedule-title">RISC-V Trusted MCU for Functional Safety Applications</span>
   </div>
