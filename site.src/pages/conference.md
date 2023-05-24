@@ -19,7 +19,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <span class="schedule-time">9:20</span> - <span class="schedule-author">Christian Fabre, CEA</span> - <span class="schedule-title">Welcome from the RISC-V Summit Europe Steering Committee</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder, Technical University Munich</span> - <span class="schedule-title">RISC-V Summit Europe Program Overview</span>
+  <span class="schedule-time">9:30</span> - <span class="schedule-author">Daniel Müller-Gritschneder, Technical University Munich & Teresa Cervero, BSC</span> - <span class="schedule-title">RISC-V Summit Europe Program Overview</span>
   </div>
   </div>
 
