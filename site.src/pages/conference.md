@@ -157,15 +157,6 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   </div>
 
-  <!-- <div class="schedule-block-title org"> -->
-  <!-- <span class="schedule-block-time">18:15-18:30</span><br/><span class="schedule-block-name">Closing</span> -->
-  <!-- </div> -->
-  <!-- <div class="schedule-block"> -->
-  <!-- <div class="schedule-entry"> -->
-  <!-- Closing remarks -->
-  <!-- </div> -->
-  <!-- </div> -->
-
   <div class="schedule-block-title break">
   <span class="schedule-block-time">18:30-20:30</span><br/><span class="schedule-block-name">On-Site Cocktail, Booth, Posters & Demos</span>
   </div>
