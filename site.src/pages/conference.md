@@ -717,6 +717,19 @@ To further improve the developer experience, Kenning has been integrated with Re
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
 
+#### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
+
+[Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
+
+**Abstract**
+
+This talk will provide a brief overview of Open-Source HW activity across the industry, barriers to adoption of Open-Source HW and challenges associated with SoC design.  Lessons learned related to the OpenHW Group Governance model and commercial adoption of CORE-V Family of open source RISC-V cores will also be presented. The CORE-V family is an OpenHW Group project to develop, deploy, and execute pre-silicon functional verification and SoC based development kits of the CORE-V family of open-source RISC-V cores. Written in SystemVerilog, CORE-V open-source IP cores match the quality of IP offered by established commercial providers and are verified with state-of-the-art, auditable flows.
+
+*Bio*
+
+*This talk will provide a brief overview of Open-Source HW activity across the industry, barriers to adoption of Open-Source HW and challenges associated with SoC design.  Lessons learned related to the OpenHW Group Governance model and commercial adoption of CORE-V Family of open source RISC-V cores will also be presented. The CORE-V family is an OpenHW Group project to develop, deploy, and execute pre-silicon functional verification and SoC based development kits of the CORE-V family of open-source RISC-V cores. Written in SystemVerilog, CORE-V open-source IP cores match the quality of IP offered by established commercial providers and are verified with state-of-the-art, auditable flows.*
+
+
 
 #### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
