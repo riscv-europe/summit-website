@@ -1039,6 +1039,14 @@ The design freedoms of RISC-V offer systems and SoC developers new flexibility t
 
 *Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
 
+#### Semidynamics Team -- Semidynamics Vector Unit Performance Demonstration
+
+[Semidynamics](https://semidynamics.com/).
+
+**Abstract**
+
+In this demo session we will show the Semidynamics vector unit running several visual benchmarks and compare their performance against a core without vector unit. 
+
 #### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
 
 [Zdenek Prikryl](https://www.linkedin.com/in/zdenek-prikryl/) -- CTO, [Codasip](https://codasip.com/).
