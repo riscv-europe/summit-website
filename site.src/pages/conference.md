@@ -82,9 +82,9 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <div class="schedule-entry">
   Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">OpenHW Group</span> 
   <br>
-  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Mikael Carmona, CEA</span> - <span class="schedule-title">VASCO 2, an ASIC to highlight the latest innovations in security of component</span>
+  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Mikael Carmona, CEA</span> - <span class="schedule-title">VASCO 2, an ASIC to highlight the latest innovations in security of component</span> - <a href="#mikael-carmona-vasco-2-an-asic-to-highlight-the-latest-innovations-insecurity-ofcomponent">Details</a>
   <br>
-  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Simon Davidmann - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span>  
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Simon Davidmann - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span> - <a href="#simon-davidmann-risc-v-models-for-verification-software-development-and-architectural-exploration">Details</a>  
   </div>
   </div>
 
@@ -208,9 +208,9 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <div class="schedule-entry">
   Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-author">Semidynamics Team</span> - <span class="schedule-title">Semidynamics Vector Unit Performance Demonstration</span>
   <br>
-  Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Zdenek Prikryl, Codasip</span> </span> - <span class="schedule-title">RISC-V as an enabler of heterogeneous compute</span>
+  Demo Theatre,<span class="schedule-time">10.55</span> - <span class="schedule-author">Zdenek Prikryl, Codasip</span> </span> - <span class="schedule-title">RISC-V as an enabler of heterogeneous compute</span> - <a href="#zdenek-prikryl-risc-v-as-an-enabler-of-heterogeneous-compute">Details</a> 
  <br/>
-  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Warren Chen, Andes Technology</span> - <span class="schedule-title">Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity</span>
+  Demo Theatre,<span class="schedule-time">11.10</span> - <span class="schedule-author">Warren Chen, Andes Technology</span> - <span class="schedule-title">Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity</span> - <a href="#warren-chen-andes-ai-runs-everywhere-with-dspvectornn-libraries-and-andesclarity">Details</a>
   </div>
   </div>
 
@@ -240,11 +240,11 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">Brian Colgan, Microchip</span> - <span class="schedule-title">Introducing the PolarFire® SoC Smart Embedded Vision Kit</span>
+  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">Brian Colgan, Microchip</span> - <span class="schedule-title">Introducing the PolarFire® SoC Smart Embedded Vision Kit</span> - <a href="#brian-colgan-introducing-the-polarfire-soc-smart-embedded-vision-kit">Details</a>
   <br>
-  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Jan Andersson, Frontgrade Gaisler</span> - <span class="schedule-title">Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library</span>
+  Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Jan Andersson, Frontgrade Gaisler</span> - <span class="schedule-title">Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library</span> - <a href="#jan-andersson-designing-a-risc-v-soc-with-the-noel-v-processor-and-the-grlib-ip-library">Details</a>
  <br/>
-  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author">Dr. Ari Kulmala, TII</span> - <span class="schedule-title">Secure RISC-V for Flight controller and Mission Computer</span>
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author">Dr. Ari Kulmala, TII</span> - <span class="schedule-title">Secure RISC-V for Flight controller and Mission Computer</span> - <a href="#dr.ari-kulmala-secure-risc-v-for-flight-controller-and-mission-computer">Details</a>
   </div>
   </div>
 
