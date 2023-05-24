@@ -992,7 +992,9 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 #### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
-Abstract: It takes a global community to bring out the best of an open standard.
+**Topic**
+
+It takes a global community to bring out the best of an open standard.
 
 So how do we tap into and embrace the diversity of the ecosystem to strengthen solutions around RISC-V? RISC-V is a global standard, so it requires groups around the world to find ways to bring together individuals with different skillsets and experience, in different stages in their careers, from various
 industries, or across different regions, and channeling their strengths to make RISC-V the standard for open computing. From projects in Europe that pull together members across industry, academia and research, to individuals that need to rally resources across a nation or a university, here's a chance to
