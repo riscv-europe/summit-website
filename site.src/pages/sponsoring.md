@@ -25,7 +25,7 @@ There are three levels of sponsorship package, with benefits that include speaki
 
 <div class="highlight-box">
 <div class="highlight-box-heading gold-box-heading">
-  Gold Sponsorship - 8.5K Euros
+  <s>Gold Sponsorship - 8.5K Euros</s> SOLD OUT
 </div>
 <div class="gold-box">
   <ul>
@@ -42,7 +42,7 @@ There are three levels of sponsorship package, with benefits that include speaki
 
 <div class="highlight-box">
 <div class="highlight-box-heading silver-box-heading">
-  Silver Sponsorship: 2 Options - 2.5K Euros
+  <s>Silver Sponsorship: 2 Options - 2.5K Euros</s> SOLD OUT
 </div>
 <div class="silver-box">
   <ul> 
@@ -65,7 +65,7 @@ There are three levels of sponsorship package, with benefits that include speaki
 
 <div class="highlight-box">
 <div class="highlight-box-heading other-box-heading">
-  Other options
+  <s>Other options</s> SOLD OUT
 </div>
 <div class="other-box">
   <ul>
@@ -86,10 +86,10 @@ There are three levels of sponsorship package, with benefits that include speaki
 Sponsorships will be taken on a first-come, first-served basis. Priority is based on when completed sponsor form is received by Technical Secretariat (BCO).
 
 
-**Sponsorship opportunities are available now!**
+**Sponsorship opportunities are <s>available now</s> SOLD OUT!**
 
 Please contact Andrew Moore (europe-summit-marketing@riscv.org) for questions.
 
 <div style="text-align: center">
-<a href="https://barcelo.eventsair.com/risc-v2023/invoicing-form/Site/Register" class="highlight-button">Secure your sponsorship</a>
+<a href="/sponsoring.html" class="highlight-button"><s>Secure your sponsorship</s></a>
 </div>
