@@ -2,7 +2,9 @@
 
 ## Accommodation at the Barceló Sants
 
-**Quick link**: [accommodation booking for the Summit is now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)!
+<s>Quick link: [accommodation booking for the Summit is now open](https://barcelo.eventsair.com/risc-v2023/accommodation/Site/Register)!</s>
+
+**There are no more rooms** available at the **Barceló Sants******. To find an hotel nearby go to <https://risc-v2023.bcocongresoshotels.com>.
 
 ### Hotel Barceló Sants
 
