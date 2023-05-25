@@ -464,6 +464,7 @@ during these three days.
 
 ### Keynotes Speakers
 
+
 #### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
@@ -477,6 +478,7 @@ This presentation will explore the frontier where cutting-edge computing interse
 
 *Balaji Baktha is the founder and CEO of Ventana Micro Systems, a leader in high-performance RISC-V processors. He is an experienced semiconductor executive and a serial technology entrepreneur and investor with a proven track record in founding and exiting several successful startups over more than 30 years in Silicon Valley. Balaji is a board member of RISC-V International as well as several other startups, and a Limited Partner and Senior Advisor at PE and VC funds.
 Prior to Ventana, Balaji was the founder and CEO of Veloce Technologies, the world’s first 64-bit ARM based high performance processor for cloud-compute (acquired by AppliedMicro). Before Veloce, Balaji was the VP and GM of the Communications Business at Marvell Semiconductor where he managed multiple product groups including compute, wired and wireless networking, and Enterprise Storage SoCs. Before Marvell, Balaji co-founded Platys, a startup that pioneered iSCSI storage networking and was subsequently acquired by Adaptec (now Microsemi). Prior to Platys, Balaji founded Shuttle Technologies (acquired by SCM Micro) to build the first digital media & storage I/O SoCs for Apple, Sony, and HP.*
+
 
 #### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
 
