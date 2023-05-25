@@ -131,7 +131,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">The RISC-V opportunity in Automotive Electronics</span>
   </div>
   </div>
 
@@ -551,6 +551,34 @@ partner ecosystem. Later, he led Mozilla’s AR and VR work, shipping
 software and building OEM relationships on many different devices. He
 received his Ph.D. in Computer Science from the University of Chicago
 in 2013.*
+
+
+#### Franck Bernard -- The RISC-V opportunity in Automotive Electronics
+
+Franck Bernard, Bosch.
+
+**Abstract**
+
+A digital transformation of the car is currently taking place, driven
+by powertrain electrification, increased levels of autonomy, new
+in-car experiences and the trend towards the Software-defined
+vehicle. The automotive supply chain is looking for the computing
+architectures that can deliver this future.
+
+In this talk, we will examine the opportunity that Bosch sees in the
+RISC-V ISA and how it can be applied to future automotive
+challenges. We will detail architectural trends and the move from
+distributed to domain-centralized and then vehicle-centralized
+compute. The processing needs of the different in-car processing
+modules will be discussed, including performance requirements and the
+range of cores that will be required.
+
+We will discuss the benefits that the RISC-V architecture can bring to
+Bosch as an automotive supplier and how Bosch is engaging with the
+RISC-V ecosystem to address its computing needs across both hardware
+and software, as well as key considerations such as Functional Safety
+and Security, in both the short and long term.
+
 
 #### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
