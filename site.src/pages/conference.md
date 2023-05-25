@@ -79,7 +79,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">OpenHW Group</span> 
+  Demo Theatre,<span class="schedule-time">13.00</span> - <span class="schedule-author">Massimiliano (Max) Giacometti, OpenHW Group</span> - <span class="schedule-title">OpenHW CVA6 Linux-capable, dual-core processor on Genesys2</span>
   <br>
   Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Mikael Carmona, CEA</span> - <span class="schedule-title">VASCO 2, an ASIC to highlight the latest innovations in security of component</span> - <a href="#mikael-carmona-vasco-2-an-asic-to-highlight-the-latest-innovations-insecurity-ofcomponent">Details</a>
   <br>
