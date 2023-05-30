@@ -331,16 +331,26 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">9:00</span> - <span class="schedule-title">Introduction</span>
+  <span class="schedule-time">9:00</span> - <span class="schedule-author">Philipp Tomsich</span> - <span class="schedule-title">SW-driven evolution of a uniquely modular and extensible ISA</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">9:15</span> - <span class="schedule-author">Philipp Tomsich</span> - <span class="schedule-title">SW-driven evolution of a uniquely modular and extensible ISA</span>
+  <span class="schedule-time">9:30</span> - <span class="schedule-author">Thierry Collette, Thales R&T</span> - <span class="schedule-title">4 years of Open Source RISC-V at Thales</span> - <a href="#phd-thierry-collette-4-years-of-open-source-risc-v-at-thales">Details</a>
   </div>
-  <div class="schedule-entry">
-  <span class="schedule-time">9:45</span> - <span class="schedule-author">Thierry Collette, Thales R&T</span> - <span class="schedule-title">4 years of Open Source RISC-V at Thales</span> - <a href="#phd-thierry-collette-4-years-of-open-source-risc-v-at-thales">Details</a>
   </div>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-name">Industrial Talk</span>
+  </div>
+  <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">10:15</span> - <span class="schedule-author">tbd</span> - <span class="schedule-title">tbd</span>
+  <span class="schedule-time">10:00</span> - <span class="schedule-author">(Tenstorrent)</span> - <span class="schedule-title">TBD</span>
+  </div>
+  </div>
+  <div class="schedule-block-title technical">
+  <span class="schedule-block-time">9:00-10:30</span><br/><span class="schedule-block-name">Technical Talk</span>
+  </div>
+  <div class="schedule-block">
+  <div class="schedule-entry">
+  <span class="schedule-time">10:15</span> - <span class="schedule-author">David Mallasén Quintana (Universidad Complutense De Madrid)</span> - <span class="schedule-title">PERCIVAL: Integrating Posit and Quire Arithmetic into the RISC-V Ecosystem</span>
   </div>
   </div>
 
