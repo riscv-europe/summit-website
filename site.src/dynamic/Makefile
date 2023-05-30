@@ -2,7 +2,9 @@ POSTERS_PY:=$(shell pwd)/src/posters.py
 POSTERS_MD:=$(shell pwd)/../pages/posters.md
 POSTERS_PROLOG:=$(shell pwd)/md.prolog/posters.md
 
-#The repo-local database file of contributions.
+# The CSV database of contributions.
+
+## The repo-local version.
 POSTERS_LOC_CSV:=$(shell pwd)/gdocs/authors-info.csv
 
 .PHONY: posters.md-make
