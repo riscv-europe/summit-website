@@ -377,7 +377,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">12:00</span> - <span class="schedule-author">Jeremy Bennett, Embecosm</span> - <span class="schedule-title">The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains</span>
+  <span class="schedule-time">12:00</span> - <span class="schedule-author">(MINRES)</span> - <span class="schedule-title">TBD</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author">Andrei Warkentin, Intel</span> - <span class="schedule-title">Multi-ISA Firmware Compatibility - Bringing RISC-V and IHV Ecosystems Together</span>
