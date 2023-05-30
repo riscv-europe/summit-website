@@ -27,6 +27,7 @@ def posters_of_day(day):
             else:
                 location = city+", "+country
 
+            # Format affiliation, city, etc.
             if row["Organization"] == "" and location == "":
                 orgaloc = ""
             elif row["Organization"] == "":
@@ -36,6 +37,7 @@ def posters_of_day(day):
             else:
                 orgaloc = " ("+row["Organization"]+", "+location+")"
 
+            # Format the full list of authors.
             print(f'{row["First Name"]} {row["Last Name"].strip()}{orgaloc}')
             if row['Rest of the authors'] != "":
                 print(f', {row["Rest of the authors"]}.')
@@ -43,6 +45,7 @@ def posters_of_day(day):
             # Format the poster location on the conf. floor.
             print(f'\n*Location: {row["MR"]} #{row["Poster board"].strip()}*')
 
+            # Format abstract and bio.
             if row['Final abstract'] != "":
                 print(f'\n**Summary**\n\n{row["Final abstract"]}')
             if row['Bio'] != "":
