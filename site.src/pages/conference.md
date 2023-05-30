@@ -455,7 +455,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  Closing & Announcements
+ <span class="schedule-author">Calista Redmond, RISC-V International & Christian Fabre, CEA & more... </span> - <span class="schedule-title">  Closing & Announcements</span>
   </div>
   </div>
 
