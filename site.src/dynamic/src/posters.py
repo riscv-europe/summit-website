@@ -36,22 +36,15 @@ def posters_of_day(day):
             else:
                 orgaloc = " ("+row["Organization"]+", "+location+")"
 
-            print(f'{row["First Name"]} {row["Last Name"]}{orgaloc}')
+            print(f'{row["First Name"]} {row["Last Name"].strip()}{orgaloc}')
             if row['Rest of the authors'] != "":
                 print(f', {row["Rest of the authors"]}.')
 
-            print(f'\n**Summary**\n')
             if row['Final abstract'] != "":
-                print(f'{row["Final abstract"]}')
-            else:
-                print(f'(TBD)')
-            print(f'\n*Bio*\n')
+                print(f'\n**Summary**\n\n{row["Final abstract"]}')
             if row['Bio'] != "":
-                print(f'{row["Bio"]}')
-            else:
-                print(f'(TBD)')
-            print(f'')
-            print(f'')
+                print(f'\n*Bio*\n\n*{row["Bio"]}*')
+            print(f'\n')
 
 
 with open('gdocs/authors-info.csv') as csv_file:
