@@ -283,8 +283,8 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <span class="schedule-block-time">16:30-16:45</span><br/><span class="schedule-block-name">Industry Talk</span>
   </div>
   <div class="schedule-block">
-  <div class="schedule-entry">
-  tbd
+  <div class="schedule-entry"> 16:30 -
+  <span class="schedule-author">Jeremy Bennett, Embecosm</span> - <span class="schedule-title">The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains</span>
   </div>
   </div>
 
