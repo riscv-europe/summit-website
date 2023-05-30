@@ -54,6 +54,8 @@ Presenters are expected to be with their poster during the morning break, lunch 
 Karim Ait Lahssaine (Cea, Grenoble, France)
 , Olivier Savry.
 
+*Location: MR05-06 #18*
+
 **Summary**
 
 In this paper, we present the Memory Authenticated Encryption Engine (MAEE) hardware countermeasure to ensure the confidentiality and authenticity of data in RAM and the associated interconnect bus. Using the Subterranean 2.0 authenticated encryption algorithm, data used by a processor is secured at the output of cache memory, and stored in memory as chunks, containing encrypted data and metadata for authenticity verification. The MAEE provides protection against attacks targeting the memory and its bus, such as Rowhammer, fault injections or side-channel attacks. We are also evaluating the performance of this countermeasure, by associating it with the RISC-V CVA6 application core.
@@ -63,6 +65,8 @@ In this paper, we present the Memory Authenticated Encryption Engine (MAEE) hard
 
 Mehdi Akeddar
 , Thomas Rieder, Guillaume Chacun, Bruno Da Rocha Carvalho, Marina Zapater.
+
+*Location: MR07-08 #2*
 
 **Summary**
 
@@ -78,6 +82,8 @@ In recent years we are witnessing an increasing adoption of RISC-V based systems
 Caaliph Andriamisaina (Cea, List, Palaiseau, France)
 , Farhat Thabet, Jean-Roch Coulon, Guillaume Chauvon, Alejandro Cabrera Aldaya, Nicola Tuveri, Macarena C. Martinez-Rodriguez, Piedad Brox.
 
+*Location: MR12-13-14 #24*
+
 **Summary**
 
 The digital transformation is accelerating and requires the design of secure and privacy-enhancing technologies to guarantee trust on electronic devices that support it. In this context, it is designed a platform that integrates a hardware dedicated Root-of-Trust and a RISC-V processor core with the capability of offering a full suite of security services. The platform will be able to leverage this capability to support cryptographic protocols, privacy respectful attestation mechanisms, and enable trusted communication channels across 5G network infrastructures.
@@ -88,6 +94,8 @@ The digital transformation is accelerating and requires the design of secure and
 Marcello Barbirotta (Sapienza University Of Rome, Roma, Italia)
 , Abdallah Cheikh, Antonio Mastrandrea, Francesco Menichelli, Mauro Olivieri.
 
+*Location: MR07-08 #10*
+
 **Summary**
 
 Fault Tolerance represents an important area for digital applications, so it has received recent acceleration in its development and evolution. Being able to understand how to protect electronic circuits, and in particular microprocessors, from the different types of SEE (Single Event Error) faults, frequent and internally divisible into other categories, is a very complex process [1], which sees the study and consequent implementation of these techniques for the hardware/software protection of the architectures under examination, making them more expensive and less performing than the respective non-redundant architectures. Safety and Reliability are, therefore, two key concepts in the technological world, and RISC-V plays an interesting role in this context for its inherent extendability and the availability of open-source microarchitecture designs.
@@ -97,6 +105,8 @@ Fault Tolerance represents an important area for digital applications, so it has
 
 Joaquim Maria Castella Triginer (Virual Vehicle Research Gmbh, Graz, Austria)
 , Joaquim Maria Castella Triginer, Helio Fernandez, FENG CHANG, Sergi Alcaide, Ramon Canal, Jaume Abella.
+
+*Location: MR12-13-14 #33*
 
 **Summary**
 
@@ -112,6 +122,8 @@ The SPIDER use case of the ECSEL FRACTAL project demonstrates the safety capabil
 Balaji Chegu (Microchip, Bangalore, India)
 , Prakash Reddy Battu, Yogesh Agrawal, Arun Naik.
 
+*Location: MR07-08 #7*
+
 **Summary**
 
 The complexity of computation logic in embedded vision applications is on the rise due to increase in video resolutions and image quality requirements. There are many frameworks that support acceleration of embedded vision applications, such as OpenVXTM [1]. It is a royalty-free cross platform framework using connected graph representation of operations In OpenVXTM, image operations are expressed as graph of nodes, where nodes can be run on hardware or software. Typically, the run functions of the computationally complex nodes can be optimized in specialized hardware logic like FPGA to achieve acceleration and thus better FPS (frame per second). The graph is represented in C/C++ and is hosted on OS like Linux. This paper explains the acceleration of 2D convolution as OpenVXTM run functions using a Generic Matrix Multiplier (GMM) implemented in FPGA logic and summarizes the benefits of the proposed architecture by comparing the execution times and frame rates with and without FPGA acceleration.
@@ -125,6 +137,8 @@ The complexity of computation logic in embedded vision applications is on the ri
 
 Junchao Chen (IHP - Leibniz Institute For High Performance Microelectronics, Frankfurt (Oder), Germany)
 , Li Lu, Markus Ulbricht, Milos Krstic.
+
+*Location: MR12-13-14 #29*
 
 **Summary**
 
@@ -140,6 +154,8 @@ Fault-tolerant systems are typically designed for worst-case scenarios and offer
 Junchao Chen (IHP-Innovations for High Performance Microelectronics, Frankfurt Oder, Germany)
 , Li Lu, Markus Ulbricht, Milos Krstic.
 
+*Location: MR12-13-14 #31*
+
 **Summary**
 
 As transistor scaling continues to reach the deep nanometer range, modern systems face increasing challenges in ensuring reliability, particularly in safety- and mission-critical applications. Concurrently, the agile hardware development methods are gaining traction over the conventional waterfall approach in reducing hardware development costs. Therefore, investigating the intersection of highly reliable system design and agile hardware development processes is crucial. In this paper, we propose an iterative agile hardening strategy that integrates fault injection, reliability analysis, and hardening method selection. The proposed approach enables quick deployment of appropriate hardening methods and avoids over- or under-protection of the target system. Our goal is to achieve fine-grained high-reliability hardware development at a high abstraction level while balancing the trade-off between reliability, time-to-market, performance, and other important factors.
@@ -154,6 +170,8 @@ As transistor scaling continues to reach the deep nanometer range, modern system
 Warren Chen (Andes Technology, Hsinchu, Taiwan)
 , Paul Shan-Chyun Ku.
 
+*Location: MR05-06 #17*
+
 **Summary**
 
 When people talk about platform security, memory isolation is considered a key fundamental. In a RISC-V-based platform, there are a couple of mechanisms inside a hart to perform physical memory isolation, such as PMP, ePMP, sPMP, etc. They are used to control the access from the CPU itself. Other than CPU, I/O agents’ accesses are controlled by IOPMP. IOPMP is a checker with a set of ordered rules. Checking an access can be time-consuming because the check may not finish in one cycle, and sometimes more than one access is needed for one check. This creates a problem for latency-sensitive systems. This document will introduce two features to mitigate this problem, which were discussed in the RISC-V IOPMP Task Group. We will first introduce the latency reduction in respect of the downstream devices of an IOPMP, and then we will discuss the cooperation between IOPMP and its upstream prefetcher.
@@ -163,6 +181,8 @@ When people talk about platform security, memory isolation is considered a key f
 
 Raúl de la Cruz (Collins Aerospace, Cork, Ireland)
 , Gonzalo Salinas, Alejandro Garcia.
+
+*Location: MR05-06 #12*
 
 **Summary**
 
@@ -178,6 +198,8 @@ More integrated systems come at the price of harder predictability and determini
 Wolfgang Ecker (Infineon Technologies)
 , Milos Krstic, Markus Ulbricht, Andreas Mauderer, Eyck Jentzsch, Andreas Koch, Bastian Koppelmann, Wolfgang Mueller, Babak Sadiye, Niklas Bruns, Rolf Drechsler, Daniel Mueller-gritschneder, Jan Schlamelcher, Kim Grüttner, Jörg Bormann, Wolfgang Kunz, Reinhold Heckmann, Gerhard Angst, Ralf Wimmer, Bernd Becker, Tobias Faller, Paul Palomero Bernardo, Oliver Bringmann, Johannes Partzsch, Christian Mayr.
 
+*Location: MR12-13-14 #35*
+
 **Summary**
 
 The Scale4Edge project is focused on enabling an effective RISC-V ecosystem for optimization of edge applications. The main objective of the project is the development of an ecosystem, based on a platform concept, to supply efficient and cost-effective application-specific edge devices and value-added services addressing different market segments. This is achieved through the automatic and very fine-grained adaptation of highly generic components to the application. The Scale4Edge ecosystem covers highly scalable components and tools and extends them for application-specific edge components at three levels: (1) CPU instruction level defined by the RISC-V Instruction Set Architecture (ISA), (2) software level defined by the C programming language standard C11 with compilers and libraries open to complementary standards like MISRA-C, and (3) operating system and firmware level through system services, configuration interfaces, and drivers.
@@ -187,10 +209,14 @@ The Scale4Edge project is focused on enabling an effective RISC-V ecosystem for 
 
 Zaruba Florian (Axelera AI / OpenHW Group, Zürich, Switzerland)
 
+*Location: MR12-13-14 #32*
+
 
 ### Bob Frankel -- Introducing Em – Taking RISC-V Software Over The Edge
 
 Bob Frankel (Bespoke IoT, Santa Barbara, United States)
+
+*Location: MR07-08 #5*
 
 **Summary**
 
@@ -206,6 +232,8 @@ The Em programming language elevates embedded firmware development to a higher-l
 Francisco Javier Fuentes (Barcelona Supercomputing Center, La Garriga, Spain)
 , Raimon Casanova, Sergi Alcaide, Jaume Abella.
 
+*Location: MR12-13-14 #23*
+
 **Summary**
 
 Safety-critical domains, such as automotive, space, and robotics, are adopting increasingly powerful multicores with abundant hardware shared resources for higher performance and efficiency. However, mutual interference due to parallel operation within the SoC must be properly validated. Recently, the SafeTI traffic injector has been released and integrated in a homogeneous RISC-V multicore for testing, otherwise untestable casuistic for software-only solutions. This paper introduces some enhancements performed on the SafeTI, which include internal pipelining for higher-rate traffic injection, and its tailoring to multiple interfaces, as well as its integration in a more powerful heterogeneous RISC-V multicore based on Gaisler’s technology for the space domain.
@@ -219,6 +247,8 @@ Safety-critical domains, such as automotive, space, and robotics, are adopting i
 
 Tobias Jauch (RPTU Kaiserslautern-Landau, Kaiserslautern, Germany)
 , Alex Wezel, Mohammad Fadiheh, Dominik Stoffel, Wolfgang Kunz.
+
+*Location: MR05-06 #11*
 
 **Summary**
 
@@ -234,6 +264,8 @@ Transient Execution Side Channels in modern hardware systems are particularly ha
 Leonidas Kosmidis (Barcelona Supercomputing Center (BSC), Barcelona, Spain)
 , Marc Solé I Bonet, Jannis Wolf, Ivan Rodriguez Ferrández, Matina Maria Trompouki.
 
+*Location: MR12-13-14 #37*
+
 **Summary**
 
 The METASAT Horizon Europe project which is funded by the European Commission and started in January 2023, will enable model-based design methodologies in order to manage the complexity of upcoming hardware and software for space on-board processing. As a representative high performance platform for on-board processing, METASAT will design a multicore platform featuring accelerators prototyped on an FPGA. This includes both an AI SIMD accelerator tightly integrated with the CPU, as well as a GPU. All hardware components of the METASAT platform will be open source and based on the RISC-V open ISA. In this abstract, we provide an overview of the platform architecture as well as preliminary implementation decisions and the current development status.
@@ -248,11 +280,15 @@ The METASAT Horizon Europe project which is funded by the European Commission an
 Helmut Kurth (atsec GmbH)
 , Rasma Araby, Cheng Jiang.
 
+*Location: MR12-13-14 #25*
+
 
 ### Jingzhou Li -- Falcon: A Dual-Core Lockstep Microprocessor Based on RISC-V ISA
 
 Jingzhou Li (Tsinghua University, Beijing, China)
 , Huaiyu Chen, Wenbin Zhang, Hu He.
+
+*Location: MR07-08 #1*
 
 **Summary**
 
@@ -268,6 +304,8 @@ Functional safety is a crucial consideration in the development of road vehicles
 Li Lu (IHP-Leibniz-Institut für innovative Mikroelektronik, Frankfurt Oder, Germany)
 , Junchao Chen, Markus Ulbricht, Milos Krstic.
 
+*Location: MR12-13-14 #28*
+
 **Summary**
 
 This paper presents a procedure for implementing simulation-based fault injection on the Ibex core with its UVM testbench. The simulation aims to identify the critical flip-flops where faults could lead to erroneous system operation. We first select testcases for the simulation, based on their contributions to functional coverages. Then the simulation is conducted at the RTL. For each testcase, we remove the identified critical flip-flops from its fault list to reduce the number of faults we need to inject. The identified critical flip-flops are mapped from RTL to the gate level eventually. The procedure could reduce the time required by fault injection to some extent.
@@ -282,11 +320,15 @@ This paper presents a procedure for implementing simulation-based fault injectio
 Kevin McDermott (Imperas Software, Thame, United Kingdom)
 , Lee Moore, Larry Lapides.
 
+*Location: MR12-13-14 #41*
+
 
 ### Javier Mora -- A three perspective analysis of RISC-V design tools for safety and security architectures
 
 Javier Mora (Collins Aerospace, Cork, Ireland)
 , Alejandro García-Gener, Gonzalo Salinas Hernando.
+
+*Location: MR07-08 #9*
 
 **Summary**
 
@@ -302,6 +344,8 @@ Aerospace industry requirements for SoC design demand high reliability and fault
 Shahzaib Muhammad Kashif (Usman Institute Of Technology (uit), Karachi, Pakistan)
 , Talha Ahmed, Farhan Ahmed Karim, Mahnoor Ismail.
 
+*Location: MR07-08 #3*
+
 **Summary**
 
 ChipShop is a cloud-based graphical user interface (GUI) that democratizes system-on-chip (SoC) design by simplifying the configuration and acceleration process on the open-source Chipyard platform. This user-friendly platform enables users to easily configure core types, caches, memory controllers, and other SoC features while supporting FPGA emulation, mapping, and the addition of new intellectual properties (IPs). ChipShop of ers automatic blackbox generation and integration for user-provided RTLs, streamlining the design process and reducing errors. The platform also includes real-time collaboration and version control features, making it ideal for large teams working on complex designs. Future plans for ChipShop involve expanding its functionality to support FireSim and Bitstream Generation through free and open-source tools like F4PGA.
@@ -315,6 +359,8 @@ ChipShop is a cloud-based graphical user interface (GUI) that democratizes syste
 
 Jaime Palacios (Universidad de Cantabria, Cantabria, Spain)
 , Vladimir Mateev, Borja Pérez, Cristóbal Camarero, Pablo Fuentes, Carmen Martínez.
+
+*Location: MR07-08 #8*
 
 **Summary**
 
@@ -330,6 +376,8 @@ Hardware-centric courses at Computer Science and Engineering degrees benet from 
 Darek Palubiak (Cadence Design Systems, Cork, Ireland)
 , Vitali Karasenko, Connie O'Shea.
 
+*Location: MR05-06 #15*
+
 **Summary**
 
 In this paper, we present the application of fault injection simulations to identify and selectively harden the most ciritical flip-flops of RISC-V microprocessors. The critical flip-flops are obtained by calculating the Architectural Vulnerability Factor (AVF) using several different processor workloads upon injection of Single-Event-Upset (SEU) faults. The impact of selective hardening on the RISC-V cores is assessed by comparing power, performance and area (PPA) metrics.
@@ -344,6 +392,8 @@ In this paper, we present the application of fault injection simulations to iden
 Sandro Pinto (Universidade do Minho, Guimaraes, Portugal)
 , Matjaz Breskvar, Tiago Gomes, Hristo Koshutanski, Aljosa Pasic, Piotr Krol, Emna Amri, David Puron, Zoltan Hornak, Marco Rovieri, Alexandra Dmitrienko, Ahmad-Reza Sadeghi, Bruno Crispo.
 
+*Location: MR12-13-14 #34*
+
 **Summary**
 
 CROSSCON is a 3-year, multi-million euro, Research and Innovation Action funded under Horizon Europe. The project aims to design a new open, modular, highly portable, and vendor-independent IoT security stack that can run on various devices using heterogeneous hardware architectures, including RISC-V. The Consortium sees in RISC-V a two-fold opportunity. Firstly, by aiming to develop an interoperable reference security stack, we believe we can contribute to the expected specifications of ongoing initiatives for Trusted Execution and Confidential Computing on Application processors (i.e., CoVE) and microcontrollers. Secondly, RISC-V offers a unique opportunity to develop novel security hardware extensions for software services, either by creating extensions directly to the ISA or developing non-ISA hardware mechanisms that support the efficient implementation of security guarantees at the application level.
@@ -353,6 +403,8 @@ CROSSCON is a 3-year, multi-million euro, Research and Innovation Action funded 
 
 Cristian Ramírez Quintana-ortí (Universitat Politècnica de València, Valencia, España)
 , Cristian Ramirez, Adrián Castelló.
+
+*Location: MR07-08 #6*
 
 **Summary**
 
@@ -368,6 +420,8 @@ We present our BLIS-like general matrix multiplication ( gemm) for the multicore
 Gerard Rauwerda (Technolution B.V., Gouda, Netherlands)
 , Camiel Vletter, Dave Marples, Marco Ottavi, Bruno Forlin, Sybren de Jong, Hans Dekker.
 
+*Location: MR12-13-14 #36*
+
 **Summary**
 
 This work presents a Control & Data Processing Unit targeted at SmallSats which sits between a platform and its instruments. It includes a (possibly radiation-hardened) FPGA with a RISC-V softcore and optional accelerators, allowing for edge processing. This opens the door for payload control, encryption and data processing in space. The CDPU also reduces time-to-orbit by removing the need to design an instrument for a specific platform.
@@ -381,6 +435,8 @@ This work presents a Control & Data Processing Unit targeted at SmallSats which 
 
 Pierre Ravenel (Kalray, Grenoble, France)
 
+*Location: MR12-13-14 #40*
+
 **Summary**
 
 Succesfully designing a well-balanced general purpose processor targeting an ASIC implementation is an arduous task. As a result, software timing models are generally developped to enable fast design space exploration in the pathfinding phase. Those models are later tightly correlated to RTL as it becomes available, but can still provide valuable insight late in the design phase as they can simulate large workloads and provide non-intrusive access to internal information. In this paper, we leverage the gem5 timing simulator infrastructure to provide a fast timing simulation environment to drive microarchitectural improvements for the risc-v CVA6 processor. We also depict a correlation flow to ensure that the timing performance model keeps projecting meaningful performance numbers.
@@ -390,6 +446,8 @@ Succesfully designing a well-balanced general purpose processor targeting an ASI
 
 Luis Felipe Rojas Muñoz (Imse-cnm (CSIC/Universidad de Sevilla), Sevilla, Spain)
 , Macarena Cristina Martínez Rodríguez, Santiago Sánchez Solano, Piedad Brox Jiménez.
+
+*Location: MR12-13-14 #21*
 
 **Summary**
 
@@ -405,6 +463,8 @@ This work presents the design and validation of a compact and efficient RO-PUF/T
 Marcel Sarraseca (Barcelona Supercomputing Center, Terrassa, Spain)
 , Sergi Alcaide, Francisco Javier Fuentes, Juan Carlos Rodríguez, FENG CHANG, Ilham Lasfar, Ramon Canal, Francisco J Cazorla, Jaume Abella.
 
+*Location: MR12-13-14 #22*
+
 **Summary**
 
 Safety-critical systems such as those in automotive, avionics and space, require appropriate safety measures to avoid silent data corruption upon random hardware errors such as those caused by radiation and other types of electromagnetic interference. Those safety measures must be able to prevent faults from causing the so-called common cause failures (CCFs), which occur when a fault produces identical errors in redundant elements so that comparison fails to detect the errors and a failure arises. The usual solution to avoid CCFs in CPU cores is using lockstep cores, so that two cores execute the same flow of instructions, but with some time staggering so that their state is never identical and faults can only lead to different errors, which are then detectable by means of comparison. This paper extends Gaisler’s RISC-V NOEL-V core with lockstep; and presents future prospects for its use and distribution.
@@ -418,6 +478,8 @@ Safety-critical systems such as those in automotive, avionics and space, require
 
 Jonas Schupp (Technical University Of Munich, Munich, Germany)
 , Patrick Karl, Georg Sigl.
+
+*Location: MR12-13-14 #27*
 
 **Summary**
 
@@ -433,6 +495,8 @@ Hardware/Software co-designs offer a promising way to support different Post-qua
 Matteo Sonza Reorda (Politecnico di Torino)
 , Riccardo Cantoro, Josie Esteban Rodriguez Condia, Annachiara Ruospo, Ernesto Sanchez.
 
+*Location: MR12-13-14 #26*
+
 **Summary**
 
 RISC-V adoption is rapidly expanding even to safety-critical application areas, such as automotive, space, robotics, and health-care. In these areas, it is crucial to guarantee that the probability of a critical failure stemming from a permanent hardware fault falls below a given threshold, often following the guidelines and rules of standards and regulations. In this scenario, possible solutions must combine functional safety goals with constraints related for example to the hardware and performance overhead, the flexibility, the ease of adoption. In the last decade, Self-Test Libraries (STLs) became a commonly adopted solution widely supported by semiconductor, IP and EDA companies, allowing system companies to deploy effective in-field test mechanisms able to detect a high percentage of permanent hardware faults arising during the operational phase (e.g., due to aging). This paper summarizes the latest advancements in the area of STLs for RISC-V architectures, emphasizing the advantages stemming under this perspective from the open instruction set architecture.
@@ -445,6 +509,8 @@ RISC-V adoption is rapidly expanding even to safety-critical application areas, 
 ### Siqi Zhao -- Hardware-Assisted Virtual IOMMU with Nested Translation
 
 Siqi Zhao (T-head Semiconductor, Hangzhou, China)
+
+*Location: MR07-08 #4*
 
 **Summary**
 
@@ -465,6 +531,8 @@ Presenters are expected to be with their poster during the morning break, lunch 
 Xabier Abancens Calvo (Barcelona Supercomputing Center (BSC), Barcelona, España)
 , Mohsin Shahbaz, Teresa Cervero Garcia.
 
+*Location: MR07-08 #7*
+
 **Summary**
 
 HPC applications are demanding more specialized accelerators to tackle with their increasing complexity, and requirements. This context, together with the fact that Europe is promoting the use of the open source RISC-V ISA, brings the opportunity of exploring the design space for specific working scenarios. For research and exploration purposes, OpenPiton could be a well-suited framework for future manycore accelerators designs, although there are several areas that should be improved to achieve HPC performance. This paper presents an extension of the OpenPiton framework towards the HPC domain, starting from modifying the computational elements, the Tiles. In addition, this paper extends the SystemVerilog verification environment, but also the FPGA implementation.
@@ -478,6 +546,8 @@ HPC applications are demanding more specialized accelerators to tackle with thei
 
 Côme Allart (Thales DIS, Meyreuil France - Mines Saint-Etienne, CEA, Leti, Centre CMP, F - 13541 Gardanne France, Aix-en-Provence, France)
 , Jean-Roch Coulon, André Sintzoff, Olivier Potin, Jean-Baptiste Rigaud.
+
+*Location: MR07-08 #10*
 
 **Summary**
 
@@ -493,6 +563,8 @@ This paper is about CVA6 performance. We introduce a cycle-based model of CVA6 c
 Marco Bertuletti (ETH Zurich, Zurich, Switzerland)
 , Tim Fischer, Yichao Zhang, Luca Benini.
 
+*Location: MR07-08 #9*
+
 **Summary**
 
 Sparsification targets both the reduction of the memory footprint and the acceleration of deep neural networks. This paper proposes a parallel implementation for key sparse Deep Learning (DL) kernels to achieve optimal performance on the Snitch Cluster, a multi-core architecture based on lightweight RISC-V processors. Our best parallel implementations achieve speed-up in a 1.1 × −7× range and a reduction in memory footprint, with respect to their dense counterpart.
@@ -506,6 +578,8 @@ Sparsification targets both the reduction of the memory footprint and the accele
 
 Nick Brown (Epcc At The University Of Edinburgh, Edinburgh, United Kingdom)
 , Maurice Jamieson, Joseph Lee.
+
+*Location: MR07-08 #5*
 
 **Summary**
 
@@ -521,6 +595,8 @@ Funded by the UK ExCALIBUR H&ES exascale programme, in early 2022 a RISC-V testb
 Gregory Chadwick (Lowrisc Cic, Bristol, United Kingdom)
 , Andreas Kurth, Marno van der Maas.
 
+*Location: MR05-06 #17*
+
 **Summary**
 
 Open-source silicon has the potential to reduce the blind-trust risk in integrated circuits (ICs) and enable reuse and collaboration on high-quality, thoroughly verified, interoperable IC blocks. RISC-V as an open standard instruction set architecture (ISA) is a key enabler for open-source silicon. The RISC-V ISA and an open-source RISC-V core alone are not sufficient to form an open-source silicon ecosystem, however: other IC blocks, such as on-chip interconnects and off-chip interfaces adhering to industry standards, are also required. While there is open-source design code for some of these blocks, practically none of them come with verification code, which is crucial for commercial silicon. The Silicon Commons is an open-source silicon ecosystem that contains design and verification code of IC blocks that form a full chip framework. The Silicon Commons also standardizes technical and organizational processes that enable multiple organizations to collaboratively engineer silicon and software that serves their mutual interests. The Silicon Commons is actively applied in the OpenTitan project.
@@ -535,11 +611,15 @@ Open-source silicon has the potential to reduce the blind-trust risk in integrat
 Jin Chufeng (Tsinghua University, Beijing, China)
 , Kexiang Yang, Jingzhou Li, He Hu.
 
+*Location: MR05-06 #16*
+
 
 ### Karsten Emrich -- Extended Abstract: A Flexible Simulation Environment for RISC-V
 
 Karsten Emrich (Technical University Munich, Munich, Germany)
 , Conrad Foik, Daniel Mueller-gritschneder, Ulf Schlichtmann, Johannes Kappes, Sebastian Prebeck, Wolfgang Ecker.
+
+*Location: MR05-06 #15*
 
 **Summary**
 
@@ -555,6 +635,8 @@ In this paper, we present a flexible simulation environment, well-suited for rap
 Felix Garcia-Carballeira (Universidad Carlos III De Madrid, Leganes, Spain)
 , Alejandro Calderon, Diego Camarmas-Alonso, Elias del Pozo-Puñal.
 
+*Location: MR12-13-14 #27*
+
 **Summary**
 
 This paper introduces CREATOR, a simulator specially designed for teaching assembly programming. CREATOR allows to define different instruction sets and to edit, and execute assembly programs. This simulator includes more than 100 instructions of the RV32IMFD specification. CREATOR runs directly in web browsers without needing a server and is adapted to run on different devices (desktops, tablets, and smartphones). Unlike other simulators, it includes error detection in the parameter passing convention with alerts if the convention is violated, it helps the creation of teaching materials with the possibility of obtaining a URL that allows the execution of the simulator with a given program, and it offers capabilities to extend the instruction set with new instructions and pseudo-instructions that allows the student to experiment with further instructions.
@@ -569,17 +651,23 @@ This paper introduces CREATOR, a simulator specially designed for teaching assem
 Gert Goossens (Synopsys, Leuven, Belgium)
 , Patrick Verbist, Dominik Auras.
 
+*Location: MR12-13-14 #42*
+
 
 ### Muhammad Hassan -- Expanding RISC-V Horizons: Streamlining Heterogeneous Systems Evaluation with Open Source RISC-V AMS VP Framework
 
 Muhammad Hassan (DFKI GmbH And University Of Bremen, Bremen, Germany)
 , Muhammad Hassan, Rolf Drechsler.
 
+*Location: MR12-13-14 #31*
+
 
 ### Salaheddin Hetalani -- Wedging with formal verification to strengthen the quality of custom RISC-V SoC
 
 Salaheddin Hetalani (Siemens EDA)
 , Nicolae Tusinschi, Salaheddin Hetalani, Pascal Gouedo.
+
+*Location: MR12-13-14 #38*
 
 **Summary**
 
@@ -594,6 +682,8 @@ On the path of creating high-quality processor IP a major challenge is the need 
 
 Lavanya Jagadeeswaran (Vyoma Systems Private Limited, Chennai, India)
 
+*Location: MR12-13-14 #30*
+
 **Summary**
 
 Design Verification has traditionally been a closed development, high-cost resource (in terms of time, manpower) usage endeavor. In order to keep up with the growing trend of the increasing complexity of designs and its open standard methodologies, Vyoma’s Verification-as-a-Service technology targets improved verification productivity leveraging state-of-the-art verification frameworks (Python-based) and compute infrastructure (Cloud-based). This provides a practical shift-left methodology for next-generation verification needs without compromising on the design verification quality.
@@ -603,11 +693,15 @@ Design Verification has traditionally been a closed development, high-cost resou
 
 Karol Gugala Karol Gugala (Sweden)
 
+*Location: MR05-06 #18*
+
 
 ### Stanislaw Kaushanski -- Automated Cross-level Verification Flow of a Highly Configurable RISC-V Core Family with Custom Instructions
 
 Stanislaw Kaushanski (MINRES Technologies GmbH, Munich, Germany)
 , Eyck Jentzsch.
+
+*Location: MR12-13-14 #29*
 
 **Summary**
 
@@ -619,6 +713,8 @@ As the RISC-V ISA continues to gain popularity and adoption, there is a growing 
 Tanuj Khandelwal (Univ. Grenoble Alpes, CEA, LIST, Grenoble, France)
 , Ludovic Pion, César Fuguet Tortolero, Adrian Evans.
 
+*Location: MR12-13-14 #32*
+
 **Summary**
 
 The verification of caches is particularly challenging, as it is necessary to ensure that the memory consistency is ensured in all conditions and modern caches contain many complex features (out of order execution, write buffer, multiple request ports) and a complex micro-architecture in order to ensure high-performance. The recently released, Open-Source High Performance L1 Data Cache (HPDCache) for the RISC-V is delivered as a highly configurable RTL model, compounding the verification challenge as correct behaviour must be ensured for all combinations of the parameters. An approach combining pseudo random constraint and directed random test within the framework of Universal Verification Methodology (UVM) is used to be able to verify HPDcache.
@@ -628,6 +724,8 @@ The verification of caches is particularly challenging, as it is necessary to en
 
 Lucas Klemmer (Johannes Kepler University Linz, Linz, Austria)
 , Daniel Große.
+
+*Location: MR05-06 #14*
 
 **Summary**
 
@@ -643,10 +741,14 @@ The number of available RISC-V cores is growing rapidly and the openness of RISC
 Larry Lapides (Imperas Software)
 , Kevin McDermott, Simon Davidmann.
 
+*Location: MR12-13-14 #41*
+
 
 ### Sylvain Lefebvre -- Iron: Selectively turn RISC-V binaries into hardware co-processors.
 
 Sylvain Lefebvre (Inria, Villers-les-nancy, France)
+
+*Location: MR07-08 #2*
 
 **Summary**
 
@@ -662,6 +764,8 @@ We explore whether already compiled RISC-V binaries can be selectively turned in
 Marno van der Maas (lowRISC CIC, Cambridge, United Kingdom)
 , Andreas Kurth, Harry Callahan, Gregory Chadwick.
 
+*Location: MR12-13-14 #37*
+
 **Summary**
 
 To uphold the principle of least privilege, RISC-V can further limit M mode’s access to memory through PMP enhancements in the Smepmp extension. Ibex is an open-source processor, and it uses these enchancements to be a compelling choice for security-critical applications. Because Ibex is thoroughly verified and production quality, the verification requirements are high for adding this extension. In this proposal, we design a coverage plan for Smepmp, generate sensible constrained-random Smepmp configurations and add directed tests to maximize coverage of corner cases. Smepmp poses a particular challenge because many transitions and configurations lead to immediate faults, such as when MML is enabled and the PC is not in an executable region. Through this work, we improve the overall PMP coverage with Smepmp from 63 % to 98 %.
@@ -675,6 +779,8 @@ To uphold the principle of least privilege, RISC-V can further limit M mode’s 
 
 Alberto Moreno (Semidynamics, Barcelona, España)
 , Jordi Cortina, Alex Torregrosa, Roger Espasa.
+
+*Location: MR12-13-14 #33*
 
 **Summary**
 
@@ -690,6 +796,8 @@ This paper introduces an FPGA verification, debug and performance platform for R
 Stepan Nassyr (Forschungszentrum Juelich Gmbh, Aachen, Germany)
 , Kaveh Haghighi Mood, Andreas Herten.
 
+*Location: MR05-06 #11*
+
 **Summary**
 
 A novel generator is used to generate highly optimized, architecture-specific microkernels for the BLIS library. The performance of potential GEMM microkernels is evaluated on Allwinner D1, EUPILOT VEC accelerator FPGA SDV and Fujitsu A64FX.
@@ -703,6 +811,8 @@ A novel generator is used to generate highly optimized, architecture-specific mi
 
 William PENSEC (University Southern Brittany, Lorient, France)
 , Vianney Lapôtre, Guy GOGNIAT.
+
+*Location: MR07-08 #1*
 
 **Summary**
 
@@ -718,6 +828,8 @@ Both software and physical attacks are serious threats for Internet of Things (I
 Karan Pathak (Tu Delft/EPFL, Lausanne, Switzerland)
 , Joshua Klein, Giovanni Ansaloni, Marina Zapater, David Atienza.
 
+*Location: MR07-08 #4*
+
 **Summary**
 
 RISC-V-based Systems-on-Chip (SoCs) are witnessing a steady rise in adoption in both industry and academia. However, the limited support for Linux-capable Full System-level simulators hampers development of the RISC-V ecosystem. We address this by validating a full system-level simulator, gXR5 (gem5-eXtensions for RISC-V), against the SiFive HiFive Unleashed SoC, to ensure performance statistics are representative of actual hardware. This work also enriches existing methodologies to validate the gXR5 simulator against hardware by proposing a systematic component-level calibration approach. The simulator error for selected SPEC CPU2017 applications reduces from 44% to 24%, just by calibrating the CPU. We show that this systematic component-level calibration approach is accurate, fast (in terms of simulation time), and generic enough to drive future validation efforts.
@@ -731,6 +843,8 @@ RISC-V-based Systems-on-Chip (SoCs) are witnessing a steady rise in adoption in 
 
 Jérôme Quévremont (Thales Research & Technology, Palaiseau, France)
 , Sébastien Jacq, Jean-Roch Coulon, Kevin Eyssartier.
+
+*Location: MR12-13-14 #23*
 
 **Summary**
 
@@ -746,6 +860,8 @@ In this extended abstract, recent contributions to the CORE-V CVA6 open-source R
 Alvise Rigo (Virtual Open Systems, Grenoble, France)
 , Daniel Raho, Samuele Paone, Timos Ampelikiotis.
 
+*Location: MR12-13-14 #28*
+
 **Summary**
 
 VOSySzator [1] is a flexible embedded system virtualizer based on rust-vmm building blocks which was originally conceived by Virtual Open Systems to target embbedded virtualization use cases. It was specifically designed to overcome challenges that embedded system integrators are asked to address when implementing fast and low-overhead virtualization solution. However, as part of the Vitamin-V 2023-2025 Horizon Europe project’s action, it will be extended to support cloud use cases as well, specifically for the RISC-V architecture. The features set of VOSySzator as virtualization solution for embedded systems is of interest for the RISC-V architecture which has many similarities to existing embedded architectures like ARMv8.
@@ -759,6 +875,8 @@ VOSySzator [1] is a flexible embedded system virtualizer based on rust-vmm build
 
 Manuel Rodríguez (Centro ALGORITMI/LASI, Universidade Do Minho, Guimarães, Portugal)
 , Francisco Marqués Da Costa, Bruno Sá, Sandro Pinto.
+
+*Location: MR05-06 #20*
 
 **Summary**
 
@@ -774,6 +892,8 @@ This work describes the design and implementation of an open-source IOMMU IP com
 Peter Rugg (University Of Cambridge, Cambridge, United Kingdom)
 , Alexandre Joannou, Jonathan Woodruff, Franz Fuchs, Marno van der Maas, Matthew Naylor, Michael Roe, Robert N. M. Watson, Peter Neumann, Simon W. Moore.
 
+*Location: MR12-13-14 #35*
+
 **Summary**
 
 We present TestRIG, a test framework for RISC-V implementations. To use TestRIG, a Direct Instruction Injection interface is added to the implementation under test. Direct Instruction Injection allows the test framework to inject instructions directly into the processor's pipeline (instead of instructions being fetched from program memory). The Direct Instruction Injection approach simplifies randomized testing, particularly when the test programs contain branch instructions. We describe some of the main challenges in randomized testing of CPUs, and explain how TestRIG overcomes them. Finally, we give examples of some hardware bugs that were found using TestRIG, including bugs in the floating point library supplied with the BlueSpec compiler and bugs that were detected during development of the CHERI security extension.
@@ -787,6 +907,8 @@ We present TestRIG, a test framework for RISC-V implementations. To use TestRIG,
 
 Fatima Saleem (10xengineers, Lahore, Pakistan)
 , UMER IMRAN, Quswar Abid, Kamran Malik.
+
+*Location: MR12-13-14 #34*
 
 **Summary**
 
@@ -802,6 +924,8 @@ Architecture-level verification of RISC-V Vector (RVV) cores presents a complex 
 Josep Sans I Prats (Semidynamics, Barcelona, España)
 , Alberto Moreno, Alex Torregrosa, Roger Espasa.
 
+*Location: MR12-13-14 #36*
+
 **Summary**
 
 Open source verification environment for RISC-V
@@ -816,6 +940,8 @@ Open source verification environment for RISC-V
 Davide Schiavone (Openhw Group, Geneva, Switzerland)
 , Davide Schiavone, Simone Machetti, Miguel Peón-Quirós, Benoît Denkinger, Thomas Christoph Mueller, Rubén Rodríguez, David Atienza.
 
+*Location: MR12-13-14 #25*
+
 **Summary**
 
 This abstract presents X-HEEP, an open-source, configurable, and extensible single-core RISC-V microcontroller targetting edge-computing, embedded-class applications.
@@ -824,6 +950,8 @@ This abstract presents X-HEEP, an open-source, configurable, and extensible sing
 ### Quentin Schibler -- You only use 10% of your FPGA
 
 Quentin Schibler (École Normale Supérieure Paris-Saclay, Cambridge, United Kingdom)
+
+*Location: MR12-13-14 #26*
 
 **Summary**
 
@@ -835,11 +963,15 @@ A RISC-V processor design is usually expected to be clocked at most at 300MHz on
 Aimee Sutton (Imperas Software)
 , Lee Moore, Simon Davidmann.
 
+*Location: MR12-13-14 #39*
+
 
 ### Eduardo Tomasi Ribeiro -- Towards Simulation of an Unified Address Space for 128-bit Massively Parallel Computers
 
 Eduardo Tomasi Ribeiro (CEA List, Grenoble, France)
 , César Fuguet Tortolero, Christian FABRE, Frédéric Pétrot.
+
+*Location: MR05-06 #13*
 
 **Summary**
 
@@ -850,6 +982,8 @@ High Performance Computing (HPC) supercomputers are composed of up to ten thousa
 
 Roddy Urquhart (Codasip)
 
+*Location: MR07-08 #3*
+
 **Summary**
 
 The RISC-V architecture was created to cover a wide range of applications. With a good base integer set, optional standard extensions and a defined approach to custom instructions the RISC-V ISA is well equipped to handle an enormous variety of computational tasks. To date, the majority of the R & D effort into RISC-V cores has been focused on essentially replacing well known cores from legacy proprietary architectures. With semiconductor scaling slowing if not failing, the main way to achieve improved performance efficiently is with architectural innovation. A wide range of specialized applications is well-suited to the RISC-V ISA but require specialized processor cores. To meet ongoing demands a larger number of custom processor cores are needed but there are a limited number of processor design engineers. This demand can be met by both reducing the design cycle through processor design automation technology and by using existing RISC-V processor cores as a starting point for customization.
@@ -859,6 +993,8 @@ The RISC-V architecture was created to cover a wide range of applications. With 
 
 Kexiang Yang (Tsinghua University, Beijing, China)
 , Hualin Wu, Jingzhou Li, Jin Chufeng, Yujie Shi, Xudong Liu, Zexia Yang, Fangfei Yu, Mingyuan Ma, Sipeng Hu, Tianwei Gong, Hu He.
+
+*Location: MR12-13-14 #24*
 
 **Summary**
 
@@ -873,6 +1009,8 @@ Graphics Processing Units (GPUs) have become the most popular platform for accel
 
 Lilia Zaourar (CEA LIST LECA, Paris, France)
 , Mohamed Benazouz, Lilia Zaourar.
+
+*Location: MR07-08 #6*
 
 **Summary**
 
@@ -893,6 +1031,8 @@ Presenters are expected to be with their poster during the morning break, lunch 
 David Aguiló (Barcelona Supercomputing Center)
 , David Aguiló Domínguez, Oscar Alonso, Max Doblas, César Hernández, Vatistas Kostalampros, Santiago Marco-Sola, Abbas Haghi, Jordi Fornt, Juan Miguel De Haro, Carlos Rojas, Enrico Reggiani, Roger Figueras, Pau Fontova, Xavier Carrril, Hugo Safadi, Diego Mateo, Xavier Aragonés, Jordi Sacristán, Carmen Martínez, Ángel Diéguez, Sergio Moreno, Manuel Lopez, Fernando Arreza, Lluís Terés, Miquel Moretó, Adrián Cristal, Osman Unsal, Mateo Valero.
 
+*Location: MR12-13-14 #35*
+
 **Summary**
 
 Kameleon is an SoC based on the RISC-V ISA. It integrates two cores, one of them with an out of order backend; and four accelerators: SAURIA, an accelerator for Deep Neural Networks; PQC, an encryption accelerator for secure communication; Picos, a hardware accelerated task scheduler and WFA, a genomics analysis accelerator.
@@ -907,6 +1047,8 @@ Kameleon is an SoC based on the RISC-V ISA. It integrates two cores, one of them
 Riccardo Alidori (CEA-List, Grenoble, France)
 , Andrea Bocco.
 
+*Location: MR12-13-14 #33*
+
 **Summary**
 
 Variable Precision (VP) Floating Point (FP) is a solution to compensate accumulation and rounding errors during computing. Hardware approaches to VP FP are often preferred, since software solutions result in algorithmic performance degradation and computational instability. We propose three new VP formats and evaluate them using a RISC-V platform running on a FPGA. Preliminary results show that our VP formats are beneficial for certain applications with low-precision requirements.
@@ -915,6 +1057,8 @@ Variable Precision (VP) Floating Point (FP) is a solution to compensate accumula
 ### Jack Andrew -- Virtual machines on RISC-V
 
 Jack Andrew (Imagination Technologies, Cambridge, United Kingdom)
+
+*Location: MR07-08 #8*
 
 **Summary**
 
@@ -930,6 +1074,8 @@ This extended abstract is submitted as a poster submission for the RISC-V Summit
 Gerardo Bandera Burgueño (University of Malaga)
 , Javier Salamero, Miquel Moretó, Julio Villalba-moreno.
 
+*Location: MR12-13-14 #32*
+
 **Summary**
 
 HUB format is an emerging technique to improve the hardware and time requirement when round to nearest is needed. On the other hand, RISC-V is a open source ISA that an important number of companies are using in their designs currently. In this paper we present a tailored floating point HUB adder that has been implemented in the Sargantana RISC-V processor.
@@ -939,6 +1085,8 @@ HUB format is an emerging technique to improve the hardware and time requirement
 
 Ramon Canal (Universitat Politècnica De Catalunya, Barcelona, Spain)
 , Angelos Arelakis, Alberto Moreno, Josep Lluís Berral, Aaron Call, Stefano Di Carlo, Juanjo Costa, Dimitris Gizopoulos, Vasileios Karakostas, Francesco Lubrano, Konstantinos Nikas, Yiannis Nikolakopoulos, Beatriz Otero, George Papadimitriou, Yannis Papaefstathiou, Dionisios Pnevmatikatos, Daniel Raho, Alvise Rigo, Eva Rodríguez, Alessandro Savino, Alberto Scionti, Nikos Tampouratzis, Alex Torregrosa.
+
+*Location: MR12-13-14 #42*
 
 **Summary**
 
@@ -954,6 +1102,8 @@ Vitamin-V is a 2023-2025 Horizon Europe project that aims to develop a complete 
 Henri-pierre Charles (Cea Grenoble, Grenoble, France)
 , Jean Philippe Noël, Bastien Giraud, Thaddée Bricout, Maria Ramirez Corrales.
 
+*Location: MR07-08 #7*
+
 **Summary**
 
 Computational SRAM (C-SRAM) is a new computing solution for Near-Memory Computing. It allows to perform operations inside or next to the memory without transferring data over the system bus, leading to significantly reducing energy consuption. Operations are realized on large vectors of data occupying the entire physical row of C-SRAM array, leading to high performance gains. This paper presents the C-SRAM solution as an integrated vector-processing unit to be used by a RISC-V processor as an energy-efficient and high performing co-processor. The proposed programming model of the C-SRAM is based on the system bus of a RISC-V processor.
@@ -967,6 +1117,8 @@ Computational SRAM (C-SRAM) is a new computing solution for Near-Memory Computin
 
 Henri-pierre Charles (CEA, Grenoble, France)
 , Maha Kooli, Thaddée Bricout, Benjamin Lacour.
+
+*Location: MR07-08 #5*
 
 **Summary**
 
@@ -982,6 +1134,8 @@ Modern applications are dynamic. There are many dynamicity aspects : dynamic all
 Odysseas Chatzopoulos (University Of Athens, Athens, Greece)
 , George Papadimitriou, Vasileios Karakostas, Dimitris Gizopoulos.
 
+*Location: MR12-13-14 #31*
+
 **Summary**
 
 The slowdown of CMOS scaling has led to the widespread use of heterogeneous SoCs that combine general-purpose processor cores with customized accelerators. The immense growth of the RISC-V community means that more and more people are interested in using RISC-V cores in their SoCs. It is thus imperative to obtain tools that allow for fast design space exploration and modeling of these designs. In this paper we describe our effort to port gem5-SALAM, a cutting-edge pre-RTL heterogeneous SoC simulator, to incorporate general-purpose RISC-V cores. In such a way, we provide to the RISC-V community a powerful tool to design, evaluate and optimize such systems.
@@ -995,6 +1149,8 @@ The slowdown of CMOS scaling has led to the widespread use of heterogeneous SoCs
 
 Iacopo Colonnelli (University Of Torino, Torino, Italy)
 , Robert Birke, Marco Aldinucci.
+
+*Location: MR07-08 #10*
 
 **Summary**
 
@@ -1010,6 +1166,8 @@ RISC-V is an emerging instruction set architecture. Its modular and extensible o
 Tamer Eren (TÜBİTAK / BİLGEM, İstanbul, Turkey)
 , Mehmet Eyyüp Ergin, Ömer Güzel, Hasan Erdem Yantır.
 
+*Location: MR12-13-14 #29*
+
 **Summary**
 
 Graphics processing units (GPUs) are specialized processors commonly used in computing devices for high quality visual displays and parallel computations. GPUs offer several advantages over CPUs, including the ability to handle multiple tasks simultaneously and efficiently process complex data. The demand for GPUs has grown in recent years due to advancements in areas such as artificial intelligence, crypto mining and gaming. Addressing the sufficient GPU problem in market, more flexible and cost-effective solutions designed with open-source methods may provide an alternative in both academic and industrial applications. In Tübitak BİLGEM a multi-core multi-thread GPU architecture is being designed with IMF extensions of RISC-V. First prototype was constructed with a single core (RISC-V IMF) and 5 threads which can be adjusted parametrically by the user. The initial design was synthesized with TSMC 28nm technology at 2GHz with Synopsys Design Compiler. Finally, functionality demonstration was performed with Digilent Nexys A7 FPGA at 100 MHz to create the Tübitak Bilgem logo by calculating triangle points and resterazing with specific colors.
@@ -1024,6 +1182,8 @@ Graphics processing units (GPUs) are specialized processors commonly used in com
 Jerome Fereyre (Cea, Grenoble, France)
 , Alexandre Hoffmann.
 
+*Location: MR05-06 #13*
+
 **Summary**
 
 We develop a RISC-V based accelerator called VXP (Variable eXtended Precision). It provides an efficient way to handle extended precision arithmetic operations. This helps to address convergence issues encountered using linear algebras solvers for scientific applications. In the current work we introduce a library called VPSDK. VPSDK is a general framework to develop application on this accelerated environment as well as in general purpose architectures.
@@ -1033,6 +1193,8 @@ We develop a RISC-V based accelerator called VXP (Variable eXtended Precision). 
 
 Juan Fumero (The University Of Manchester, Manchester, United Kingdom)
 , Athanasios Stratikopoulos, Mehdi Goli, Ruyman Reyes, Konstantinos Nikas, Dionisios Pnevmatikatos, Nectarios Koziris, Christos Kotselidis.
+
+*Location: MR12-13-14 #41*
 
 **Summary**
 
@@ -1048,6 +1210,8 @@ In this talk, we will present the newly EU-funded project AERO (Accelerated EU C
 Jaume Gauchola
 , Jaume Gauchola, Juanjo Costa, Ramon Canal, Xavier Carril, Max Doblas, Beatriz Otero, Manuel Alejandro Pajuelo, Eva Rodríguez, Javier Salamero, Javier Verdú.
 
+*Location: MR12-13-14 #22*
+
 **Summary**
 
 This paper describes our experience implementing a Hypervisor extension for a 64-bit RISC-V processor. We describe the design process and the main required parts with a brief explanation of each one.
@@ -1061,6 +1225,8 @@ This paper describes our experience implementing a Hypervisor extension for a 64
 
 Pascal Gouedo (Dolphin Design, Grenoble, France)
 , Yoann PRUVOST, Xavier AUBERT, Olivier MONTFORT, Mike Thompson, Davide Schiavone.
+
+*Location: MR05-06 #19*
 
 **Summary**
 
@@ -1076,6 +1242,8 @@ This paper will focus on the design and verification strategy of an open-source 
 Léo Gourdin (UGA, Grenoble, France)
 , Léo Gourdin, Sylvain Boulmé.
 
+*Location: MR07-08 #4*
+
 **Summary**
 
 We implemented and formally proved code hoisting, loop-invariant code motion (LICM) and strength reduction for RISC-V by translation validation. This approach consists in splitting the pass into an unproved transformation—called an “oracle”—and a formally proved defensive verifier. More specifically, our verifier is based on symbolic execution; a well-known general purpose validation technique that simulates the possible execution paths of the code using a symbolic representation of registers and memory. Our transformations improve on those proposed by Knoop et al. The oracle is co-designed with the verifier and logs information, such as invariants, that help the verifier check equivalence; whereas other attempts at translation validation had to reconstruct these invariants heuristically.
@@ -1090,10 +1258,14 @@ We implemented and formally proved code hoisting, loop-invariant code motion (LI
 Frank Gurkaynak (Switzerland)
 , Luca Benini.
 
+*Location: MR12-13-14 #40*
+
 
 ### Jonas Hahnfeld -- Porting ROOT and Cling to RISC-V
 
 Jonas Hahnfeld (CERN, Geneva, Switzerland)
+
+*Location: MR05-06 #11*
 
 **Summary**
 
@@ -1109,11 +1281,15 @@ The ROOT data analysis framework is used to analyze exabytes of data in the doma
 Lawrence Hunter (Codethink, Manchester, United Kingdom)
 , Nazar Kazakov, Kiran Ostrolenk.
 
+*Location: MR12-13-14 #23*
+
 
 ### Alexandre Joannou -- CHERI-RISCV Extension Progress
 
 Alexandre Joannou (University of Cambridge, Cambridge, United Kingdom)
 , Robert N. M. Watson, Alex Ridchardson, Jessica Clarke, John Davis, Lawrence Esswood, Ben Laurie, Simon W. Moore, Peter Rugg, Peter Sewell.
+
+*Location: MR05-06 #17*
 
 **Summary**
 
@@ -1129,6 +1305,8 @@ The CHERI ISA extensions for security have been under development for the last 1
 Philipp van Kempen (Technical University of Munich, Munich, Germany)
 , Karsten Emrich, Daniel Mueller-gritschneder, Ulf Schlichtmann.
 
+*Location: MR07-08 #3*
+
 **Summary**
 
 RISC-V is an instruction set architecture (ISA) that, as a core feature, can be extended with special instructions to customize embedded processors to special applications such as from the control and machine learning domain. There exist several instruction set simulators (ISS), that can quickly evaluate the benefit of special instructions for a given application. Next to the core, also the compiler and assembler support for creating a binary from embedded C code is required by designers to exploit performance benefits of special instructions such as Multiply and Accumulate (MAC) operations. We introduce a code generation tool for extending existing LLVM implementations with support for custom RISC-V instructions described in the CoreDSL format.
@@ -1142,11 +1320,15 @@ RISC-V is an instruction set architecture (ISA) that, as a core feature, can be 
 
 Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 
+*Location: MR12-13-14 #25*
+
 
 ### Charisios Loukas -- Low-latency user-level communication for RISC-V clusters
 
 Charisios Loukas (FORTH, Herakleion, Greece)
 , Pantelis Xirouchakis, Michalis Gianioudis, Aggelos Ioannou, Manolis Katevenis, Nikos Chrysos.
+
+*Location: MR12-13-14 #36*
 
 **Summary**
 
@@ -1162,6 +1344,8 @@ Within the context of the RED-SEA project, we integrate novel low-cost interconn
 David Mallasén Quintana (Universidad Complutense De Madrid, Madrid, España)
 , Raul Murillo, Alberto A. Del Barrio, Guillermo Botella, Luis Piñuel, Manuel Prieto-Matias.
 
+*Location: MR12-13-14 #38*
+
 **Summary**
 
 Posit arithmetic is an alternative to IEEE 754 standard floating-point that presents promising properties in areas such as high-performance computing or artificial intelligence. The open-source PERCIVAL posit RISC-V core integrates posit arithmetic and quire capabilities into hardware. In addition, Xposit, a RISC-V custom extension for posit operations allows for the compilation of C programs with inline assembly posit and quire instructions. PERCIVAL is based on the application-level CVA6 core developed by the PULP Platform and maintained by the OpenHW Group. As a study platform, it has support for both posit and IEEE 754 formats, further permitting the comparison of these arithmetic representations.
@@ -1175,6 +1359,8 @@ Posit arithmetic is an alternative to IEEE 754 standard floating-point that pres
 
 Francisco Marqués da Costa (University of Minho, Guimaraes, Portugal)
 , Manuel Rodríguez, Bruno Sá, Sandro Pinto.
+
+*Location: MR12-13-14 #37*
 
 **Summary**
 
@@ -1190,6 +1376,8 @@ This work describes the design and implementation of an open-source Advanced Int
 Hugo McNally (Lowrisc Cic, Cambridge, United Kingdom)
 , Luís Marques, Jorge Prendes.
 
+*Location: MR05-06 #12*
+
 **Summary**
 
 The embedded position independent code (ePIC) ABI proposal offers a solution to the challenge of generating relocatable applications for RISC-V embedded systems without an MMU. Having such an ABI is important for enabling the dynamic loading of relocatable applications in the embedded RISC-V ecosystem. This unlocks the full potential of secure platforms such as Tock, an operating system that builds on the Rust compiler guarantees to help minimize the security vulnerabilities in embedded systems. This extended abstract outlines the unique features of ePIC, particularly in comparison to the approaches used in non-embedded devices, and highlights its significance for a secure Rust platform in embedded systems.
@@ -1204,6 +1392,8 @@ The embedded position independent code (ePIC) ABI proposal offers a solution to 
 Stephan Nolting (Fraunhofer IMS, Duisburg, Germany)
 , Alexander Utz.
 
+*Location: MR05-06 #20*
+
 **Summary**
 
 Processing data-intense tasks right inside an image sensor system allows to offload real-time constraints from centralized data processing nodes and also to reduce transmission bandwidth requirements. High-performant application-tailored processors emblematize one feasible concept to cope with these demands while still providing flexibility for future revisions of the actual algorithms. This work presents an area-optimized customized RISC-V processing system designed as application-specific instruction set processor (ASIP), which is optimized to accelerate exemplary image processing operations. The proposed ISA extensions exploit single-instruction multiple-data (SIMD) concepts on pixel level, resulting in a speedup of 13 (compared to a software-only approach) while increasing the prototype’s FPGA hardware utilization by just 15%.
@@ -1213,6 +1403,8 @@ Processing data-intense tasks right inside an image sensor system allows to offl
 
 Arthur Perais (CNRS, Grenoble, France)
 , Mathieu Bacou, Adam Chader, Chandana Deshpande, Christian Fabre, César Fuguet Tortolero, Pierre Michaud, Frédéric Pétrot, Gaël Thomas, Eduardo Tomasi Ribeiro.
+
+*Location: MR05-06 #14*
 
 **Summary**
 
@@ -1227,6 +1419,8 @@ High-performance architectures are increasingly heterogeneous and incorporate of
 
 Zdenek Prikryl (Codasip)
 
+*Location: MR07-08 #6*
+
 **Summary**
 
 With the end of the well-established scaling, and laws, such as Dennard scaling, Amdahl’s law, or even Moore’s law, thw wider industry has started looking at possible solutions. One of the solutions that has emerged is heterogeneous compute. In its essence it solves the problem by having individual computational blocks, i.e., processors, that are specialized/customized for a certain job or workloads. Although this idea is not new and we can see an evidence of it in the past, the design of such processors has been challenging and requires not only deep technology knowledge, but also a significant amount of resources and time. In this paper, we present a novel approach to heterogeneous compute that is based on pre-verified processors that designers can further innovate using supplied EDA tools. The pre-verified processors and their control and data paths are prepared for the heterogeneous compute and therefore the knowledge and resource requirements are reduced to a minimum. The designers focus on what really matters to them instead of reinventing the wheel for the baseline of the processor or its instruction set.
@@ -1236,6 +1430,8 @@ With the end of the well-established scaling, and laws, such as Dennard scaling,
 
 Maria Ramirez Corrales (CEA, Grenoble, France)
 , Emanuele Valea, Jean Philippe Noël.
+
+*Location: MR12-13-14 #34*
 
 **Summary**
 
@@ -1250,6 +1446,8 @@ Near-Memory Computing (NMC) is a promising architectural approach to accelerate 
 
 Kenneth Rovers (Imagination Technologies, Sint-Michielsgestel, Netherlands)
 
+*Location: MR12-13-14 #24*
+
 **Summary**
 
 There is a bewildering amount of number formats, particularly floating point ones. Each ISA will need to consider which to support. For RISC-V, we argue we need to consider supporting all, but ratify only a few; the ones that have become mainstream. Current ratified extensions of the RISC-V ISA suffices, with the exception of BF16 (Brain floating point format) support (and perhaps rising star FP8). Supporting BF16, however, is also not straightforward. We will identify several use cases; as a storage format, for efficient computations, and as an arithmetic format, and expose BF16 is not a standard, highlighting differences in implementations. For RISC-V support we need to balance flexibility with (hardware) efficiency and will recommend complementary extensions with the base supporting flushing subnormal numbers and round-to-zero.
@@ -1259,6 +1457,8 @@ There is a bewildering amount of number formats, particularly floating point one
 
 Paul Scheffler (ETH Zurich, Zürich, Switzerland)
 , Luca Benini.
+
+*Location: MR05-06 #16*
 
 **Summary**
 
@@ -1274,6 +1474,8 @@ Sparse and irregular workloads are crucial to various data-driven applications i
 Frank Schirrmeister (Arteris, Campbell, United States)
 , Frank Schirrmesiter, Michael Frank.
 
+*Location: MR12-13-14 #28*
+
 **Summary**
 
 The open-source RISC-V ISA has gained popularity due to its customizability and versatility. Its adoption presents challenges in Networks-on-Chips (NoCs) implementation, which impact performance, power consumption, and cost. This paper discusses different protocol options for RISC-V-based SoCs in the context of their unique advantages in terms of flexibility, performance, and coherency. We introduce a physically aware NoC development framework for non-cache-coherent applications. This framework enables better management of physical constraints, reducing interconnect area and power consumption. It addresses the impact of floor planning and layouts on NoC topology development and achieves up to 5X shorter turn-around time than manual iterations. Additionally, the paper introduces an IP development framework for multiprotocol AMBA CHI and ACE cache coherent interconnect.
@@ -1284,6 +1486,8 @@ The open-source RISC-V ISA has gained popularity due to its customizability and 
 Alexey Shchekin (Codasip)
 , Ettore Antonino Giliberti.
 
+*Location: MR05-06 #18*
+
 **Summary**
 
 Trigonometric functions are used in many embedded systems applications, such as signal and image processing, control theory, communication systems and robotics. Taking the advantage of RISC-V ISA flexibility and Codasip processor design technologies, we propose a fast and ef icient implementation of the CORDIC algorithm implemented as custom instruction in an embedded RV32IMCB core in order to smoothly compute trigonometric functions. This customization improves the performance reducing the processing time by 24x, energy consumption by 13.5x at the cost of an additional 4% of silicon area. The CORDIC accelerator was implemented with 210 lines of CodAL code. Such a compact implementation alongside an automatically generated toolchain significantly shortening the time to ASIP market facilitating IP core customizations.
@@ -1292,6 +1496,8 @@ Trigonometric functions are used in many embedded systems applications, such as 
 ### Martin Troiber -- A Vulkan Graphics Driver for RISC-V CPUs
 
 Martin Troiber (Technical University Of Munich, Munich, Germany)
+
+*Location: MR07-08 #9*
 
 **Summary**
 
@@ -1307,6 +1513,8 @@ This report presents the first open-source Vulkan graphics driver for RISC-V. We
 Daniel Vázquez (Universidad Politécnica De Madrid, Madrid, Spain)
 , Andrés Otero, Alfonso Rodríguez, Eduardo de la Torre.
 
+*Location: MR12-13-14 #21*
+
 **Summary**
 
 This work proposes extending the datapath of a RISC-V processor with a CGRA, a reconfigurable general-purpose accelerator for computing a wide range of applications with higher energy efficiency and lower execution times, through custom ISA extensions. This accelerator supports the execution of computing-intensive code sections, providing the RISC-V processor with spatially-distributed computing capabilities. The proposed system has been implemented and evaluated on an FPGA device, where experimental results show up to a 13× increase in execution performance for a synthetic benchmark.
@@ -1321,6 +1529,8 @@ This work proposes extending the datapath of a RISC-V processor with a CGRA, a r
 Nils Wistoff (ETH Zürich, Zürich, Switzerland)
 , Gernot Heiser, Luca Benini.
 
+*Location: MR12-13-14 #39*
+
 **Summary**
 
 Microarchitectural timing channels enable information transfer between security domains that are supposed to be isolated, bypassing the operating system’s security boundaries. They result from shared microarchitectural state that depends on execution in one security domain and impacts timing in another. Since modern ISAs do not specify timing behaviour, they are insufficient to address these channels. The temporal fence instruction was recently proposed as a RISC-V extension that clears the processor’s microarchitectural state and thus removes any timing dependence on execution history. It has been demonstrated to be extremely effective at low hardware overhead for in-order RV processors, such as CVA6 [1]. In this work-in-progress, we provide initial insight into the effectiveness and cost of the temporal fence on the open-source, 12-stage, out-of-order RV64GC core OpenC910. We highlight challenges that arise from the out-of-order microarchitecture of OpenC910 and propose an approach that leverages the custom Xthead extension of OpenC910 and minimises the required hardware modifications to enable time protection.
@@ -1334,11 +1544,15 @@ Microarchitectural timing channels enable information transfer between security 
 
 Michael Wong (Codeplay, Toronto, Canada)
 
+*Location: MR07-08 #1*
+
 
 ### Jonathan Woodruff -- CHERIoT: Rethinking Security for Low-Cost Embedded Systems
 
 Jonathan Woodruff (University of Cambridge, Cambridge, United Kingdom)
 , Saar Amar, Tony Chen, David Chisnall, Felix Domke, Nathaniel Filardo, Kunyan Liu, Robert Norton-Wright, Yucong Tao, Robert N. M. Watson, Hongyan Xia.
+
+*Location: MR12-13-14 #30*
 
 **Summary**
 
@@ -1353,6 +1567,8 @@ Small embedded cores have little area, power, or performance budget to spare for
 
 Hualin Wu (Terapines Ltd, Wuhan, China)
 , Ming Yan.
+
+*Location: MR07-08 #2*
 
 **Summary**
 
