@@ -40,6 +40,9 @@ def posters_of_day(day):
             if row['Rest of the authors'] != "":
                 print(f', {row["Rest of the authors"]}.')
 
+            # Format the poster location on the conf. floor.
+            print(f'\n*Location: {row["MR"]} #{row["Poster board"].strip()}*')
+
             if row['Final abstract'] != "":
                 print(f'\n**Summary**\n\n{row["Final abstract"]}')
             if row['Bio'] != "":
