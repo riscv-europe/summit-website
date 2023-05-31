@@ -55,7 +55,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">11.30</span> - <span class="schedule-author">Simon Davidmann - Imperas Software Ltd</span> - <span class="schedule-title">The RISC-V Verification Ecosystem with Open Standards and Commercial Tools</span> - <a href="#simon-davidmann-the-risc-v-verification-ecosystem-with-open-standards-and-commercial-tools">Details</a>
+  <span class="schedule-time">11.30</span> - <span class="schedule-author">Jon Taylor - Imperas Software Ltd</span> - <span class="schedule-title">The RISC-V Verification Ecosystem with Open Standards and Commercial Tools</span> - <a href="#simon-davidmann-the-risc-v-verification-ecosystem-with-open-standards-and-commercial-tools">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">11.45</span> - <span class="schedule-author">Brett Cline, Codasip</span> - <span class="schedule-title">RISC-V customization, HW/SW co-optimization, and custom compute</span> - <a href="#brett-cline-risc-v-customization-hwsw-co-optimization-and-custom-compute">Details</a>
@@ -83,7 +83,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <br>
   Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Mikael Carmona, CEA</span> - <span class="schedule-title">VASCO 2, an ASIC to highlight the latest innovations in security of component</span> - <a href="#mikael-carmona-vasco-2-an-asic-to-highlight-the-latest-innovations-insecurity-ofcomponent">Details</a>
   <br>
-  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Simon Davidmann - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span> - <a href="#simon-davidmann-risc-v-models-for-verification-software-development-and-architectural-exploration">Details</a>  
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Jon Taylor - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span> - <a href="#simon-davidmann-risc-v-models-for-verification-software-development-and-architectural-exploration">Details</a>  
   </div>
   </div>
 
@@ -263,7 +263,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <span class="schedule-time">14:45</span> - <span class="schedule-author">Joaquim Maria Castella Triginer, Virtual Vehicle Research GmbH</span> - <span class="schedule-title">Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">15:00</span> - <span class="schedule-author">Larry Lapides, Imperas Software</span> - <span class="schedule-title">Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification</span>
+  <span class="schedule-time">15:00</span> - <span class="schedule-author">Duncan Graham, Imperas Software</span> - <span class="schedule-title">Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">15:15</span> - <span class="schedule-author">Hualin Wu, Terapines Ltd</span> - <span class="schedule-title">Accelerate HPC and AI applications with RVV auto vectorization</span>
@@ -709,7 +709,7 @@ microelectronics.*
 
 #### Simon Davidmann -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools 
 
-Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.com/).
+Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
 **Abstract**
 
@@ -717,7 +717,7 @@ The freedom of RISC-V represents both new innovations in design and also the mig
 
 *Bio*
 
-*Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
+*Jon Taylor has over 20 years of experience in the semiconductor industry, working in technical areas from CPU verification to embedded software, and commercial areas including field applications and technology strategy. He has worked on multiple architectures including Arm, RISC-V and proprietary CPUs. He holds a degree from Southampton University in Electronic Engineering and is currently Director of Product Technology for Imperas working on technology to help enable the RISC-V revolution.*
 
 
 #### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
@@ -1113,7 +1113,7 @@ VASCO 2 highlights the relevance and characteristics of these hardware IPs for i
 
 #### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration 
 
-Simon Davidmann -- President & CEO, [Imperas Software Ltd.](https://www.imperas.com/).
+Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
 **Abstract**
 
@@ -1121,7 +1121,7 @@ The design freedoms of RISC-V offer systems and SoC developers new flexibility t
 
 *Bio*
 
-*Simon Davidmann has been working on simulators and EDA products since 1978. He is founder and CEO of Imperas and initiator of Open Virtual Platforms (www.OVPworld.org) - the place for Fast Processor Models. Prior to founding Imperas, Simon was a VP in Synopsys following its successful acquisition of Co-Design Automation, the developer of SystemVerilog. Prior to founding Co-Design Automation, Simon was an executive or European GM with 5 US-based EDA startups including Chronologic Simulation, which pioneered the compiled code simulator VCS, and Ambit, which was acquired by Cadence for $280M. Simon was one of the original developers of the HILO logic simulation system, and co-authored the definitive book on SystemVerilog.*
+*Jon Taylor has over 20 years of experience in the semiconductor industry, working in technical areas from CPU verification to embedded software, and commercial areas including field applications and technology strategy. He has worked on multiple architectures including Arm, RISC-V and proprietary CPUs. He holds a degree from Southampton University in Electronic Engineering and is currently Director of Product Technology for Imperas working on technology to help enable the RISC-V revolution.*
 
 #### Semidynamics Team -- Semidynamics Vector Unit Performance Demonstration
 
