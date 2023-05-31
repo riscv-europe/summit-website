@@ -331,7 +331,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">9:00</span> - <span class="schedule-author">Philipp Tomsich</span> - <span class="schedule-title">SW-driven evolution of a uniquely modular and extensible ISA</span>
+  <span class="schedule-time">9:00</span> - <span class="schedule-author">Philipp Tomsich, VRULL GmbH</span> - <span class="schedule-title">SW-driven evolution of a uniquely modular and extensible ISA</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">9:30</span> - <span class="schedule-author">Thierry Collette, Thales R&T</span> - <span class="schedule-title">4 years of Open Source RISC-V at Thales</span> - <a href="#phd-thierry-collette-4-years-of-open-source-risc-v-at-thales">Details</a>
@@ -902,7 +902,7 @@ RISC-V has been adopted with a record-breaking speed in pretty much all applicat
 
 #### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
-Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)).
+Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Application and Tools Horizontal Committee.
 
 **Abstract**
 
