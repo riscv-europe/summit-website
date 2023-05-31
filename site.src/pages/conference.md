@@ -224,7 +224,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">12:00</span> - <span class="schedule-author">Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span>
+  <span class="schedule-time">12:00</span> - <span class="schedule-author"> Dave Ditzel, founder and CTO of Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author">Barcelona Supercomputing</span> - <span class="schedule-title">MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator</span>
