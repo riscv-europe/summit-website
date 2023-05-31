@@ -1,3 +1,4 @@
+COPYPDF_PY:=$(shell pwd)/src/import.py
 POSTERS_PY:=$(shell pwd)/src/posters.py
 POSTERS_MD:=$(shell pwd)/../pages/posters.md
 POSTERS_PROLOG:=$(shell pwd)/md.prolog/posters.md
@@ -29,3 +30,8 @@ posters.md-commit: posters.md-make
 import-list:
 	cp $(POSTERS_EXT_CSV) $(POSTERS_LOC_CSV)
 	dos2unix $(POSTERS_LOC_CSV)
+
+# Copy over the PDFs into the repo.
+.PHONY: import-pdfs
+import-pdfs:
+	$(COPYPDF_PY)
