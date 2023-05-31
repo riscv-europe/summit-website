@@ -29,7 +29,7 @@ main = do
             .||. "fonts/*"
             .||. "js/*"
             .||. "media/banners/*"
-            .||. "media/slides/*"
+            .||. "media/proceedings/*"
             .||. "media/template/*"
             .||. "media/lic-mlic/*"
             .||. "media/img/*"
