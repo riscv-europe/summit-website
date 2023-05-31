@@ -1034,7 +1034,7 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 Bruno Sá -- University Of Minho
 
-*Links: [extended abstract](media/proceedings/2023-06-08-17h15-Bruno-SÁ.pdf).*
+*Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ.pdf).*
 
 
 ### Panels
