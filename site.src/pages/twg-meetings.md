@@ -50,7 +50,7 @@ required**.
 <tr>
 <td>15:00</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Code Size](#code-size)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">[Data Centrer SIG](#data-center-sig)</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[Data Centre SIG](#data-center-sig)</td>
 </tr>
 <tr>
 <td>15:15</td>
@@ -75,7 +75,7 @@ required**.
 <tr>
 <td>16:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Automotive SIG](#automotive-sig)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">[Shadow Stack & Landing Pads<br>Task Group (SSLP-TG)](#shadow-stack-and-landing-pads-task-group)</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[SIG SOFT-CPU](#sig-soft-cpu)</td>
 <td rowspan="3" style="background:var(--riscv-lg);">[Verification TG](#verification-tg)</td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ required**.
 <tr>
 <td>17:15</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[Floating-Point SIG](#floating-point-sig)</td>
-<td rowspan="2" style="background:var(--riscv-ly);">[SIG SOFT-CPU](#sig-soft-cpu)</td>
+<td rowspan="2" style="background:var(--riscv-ly);">[Shadow Stack & Landing Pads<br>Task Group (SSLP-TG)](#shadow-stack-and-landing-pads-task-group)</td>
 </tr>
 <tr>
 <td>17:30</td>
