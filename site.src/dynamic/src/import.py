@@ -5,7 +5,7 @@ import shutil
 import csv
 
 import_dir = '/media/sf_FromToLinux/RISC-V-Summit-2023/Slides-Posters/abstracts'
-reposi_dir = '../media/proceedings'
+reposi_dir = '../media/proceedings/posters'
 
 def import_file(import_pdf,reposi_pdf):
     import_path = import_dir+"/"+import_pdf
