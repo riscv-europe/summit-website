@@ -443,7 +443,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <span class="schedule-time">17:00</span> - <span class="schedule-author">Thomas Benz, ETH Zürich</span> - <span class="schedule-title">Puma: An End-to-End Open-Source Linux-capable RISC-V SoC in 130nm CMOS</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">17:15</span> - <span class="schedule-author">Bruno Sa, University Of Minho</span> - <span class="schedule-title">RISC-V Virtualization: A Case Study on the CVA6</span>
+  <span class="schedule-time">17:15</span> - <span class="schedule-author">Bruno Sá, University Of Minho</span> - <span class="schedule-title">RISC-V Virtualization: A Case Study on the CVA6</span> - <a href="#bruno-sá---risc-v-virtualization-a-case-study-on-the-cva6">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">17:30</span> - <span class="schedule-author">Yifei Zhu, Rios Lab, Tsinghua-berkeley Shenzhen Institute, Tsinghua University</span> - <span class="schedule-title">GreenRio: A Linux-Compatible RISC-V Processor Designed for Open-Source EDA Implementations</span>
@@ -895,6 +895,7 @@ Technology.*
 
 
 **Abstract**
+
 RISC-V has been adopted with a record-breaking speed in pretty much all applications from general-purpose tiny MCUs to datacenter AI/ML accelerator SoCs. In this keynote, we will give examples of RISC-V applications and solutions to support them; in particular, we will also analyze various approaches for matrix multiplication extension to embrace AI/ML acceleration directly in RISC-V architecture. In addition, ISO 26262 certified automotive electronics solutions have been highly sought after in recent years due to multiple catalysts. In the second part of the keynote, we will talk about how RISC-V solutions address such market, some successful examples, and new technical challenges we should look into.
 
 
@@ -1024,6 +1025,16 @@ Act. He joined the Commission in 2021, starting with an experience
 within DG BUDG, in the directorate responsible for the negotiations of
 the European annual budget. He is a graduate in Electrical and
 Electronic Engineering and European Politics, Economics and Law.*
+
+
+### Technical Talks
+
+
+#### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
+
+Bruno Sá -- University Of Minho
+
+*Links: [extended abstract](media/proceedings/2023-06-08-17h15-Bruno-SÁ.pdf).*
 
 
 ### Panels
