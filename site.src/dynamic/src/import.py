@@ -10,8 +10,8 @@ reposi_dir = '../media/proceedings/posters'
 def import_file(import_pdf,reposi_pdf):
     import_path = import_dir+"/"+import_pdf
     reposi_path = reposi_dir+"/"+reposi_pdf
-    print(f'Moving file from "{import_path}" to "{reposi_path}"')
-    # shutil.move(import_path,reposi_path)
+    # print(f'Moving file from "{import_path}" to "{reposi_path}"')
+    shutil.move(import_path,reposi_path)
 
 # We loop over all the PDF files of the abstracts.
 for import_pdf in os.listdir(import_dir):
