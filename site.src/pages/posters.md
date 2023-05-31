@@ -54,7 +54,9 @@ Presenters are expected to be with their poster during the morning break, lunch 
 Karim Ait Lahssaine (Cea, Grenoble, France)
 , Olivier Savry.
 
-*Location: MR05-06 #18*
+*Location: MR05-06 #18.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Karim-AIT-LAHSSAINE-abstract.pdf).*
+
 
 **Summary**
 
@@ -66,7 +68,9 @@ In this paper, we present the Memory Authenticated Encryption Engine (MAEE) hard
 Mehdi Akeddar
 , Thomas Rieder, Guillaume Chacun, Bruno Da Rocha Carvalho, Marina Zapater.
 
-*Location: MR07-08 #2*
+*Location: MR07-08 #2.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Mehdi-AKEDDAR-abstract.pdf).*
+
 
 **Summary**
 
@@ -82,7 +86,9 @@ In recent years we are witnessing an increasing adoption of RISC-V based systems
 Caaliph Andriamisaina (Cea, List, Palaiseau, France)
 , Farhat Thabet, Jean-Roch Coulon, Guillaume Chauvon, Alejandro Cabrera Aldaya, Nicola Tuveri, Macarena C. Martinez-Rodriguez, Piedad Brox.
 
-*Location: MR12-13-14 #24*
+*Location: MR12-13-14 #24.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Caaliph-ANDRIAMISAINA-abstract.pdf).*
+
 
 **Summary**
 
@@ -94,7 +100,9 @@ The digital transformation is accelerating and requires the design of secure and
 Marcello Barbirotta (Sapienza University Of Rome, Roma, Italia)
 , Abdallah Cheikh, Antonio Mastrandrea, Francesco Menichelli, Mauro Olivieri.
 
-*Location: MR07-08 #10*
+*Location: MR07-08 #10.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Marcello-BARBIROTTA-abstract.pdf).*
+
 
 **Summary**
 
@@ -106,7 +114,9 @@ Fault Tolerance represents an important area for digital applications, so it has
 Joaquim Maria Castella Triginer (Virual Vehicle Research Gmbh, Graz, Austria)
 , Joaquim Maria Castella Triginer, Helio Fernandez, FENG CHANG, Sergi Alcaide, Ramon Canal, Jaume Abella.
 
-*Location: MR12-13-14 #33*
+*Location: MR12-13-14 #33.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Joaquim-Maria-CASTELLA-TRIGINER-abstract.pdf).*
+
 
 **Summary**
 
@@ -122,7 +132,7 @@ The SPIDER use case of the ECSEL FRACTAL project demonstrates the safety capabil
 Balaji Chegu (Microchip, Bangalore, India)
 , Prakash Reddy Battu, Yogesh Agrawal, Arun Naik.
 
-*Location: MR07-08 #7*
+*Location: MR07-08 #7.*
 
 **Summary**
 
@@ -138,7 +148,9 @@ The complexity of computation logic in embedded vision applications is on the ri
 Junchao Chen (IHP - Leibniz Institute For High Performance Microelectronics, Frankfurt (Oder), Germany)
 , Li Lu, Markus Ulbricht, Milos Krstic.
 
-*Location: MR12-13-14 #29*
+*Location: MR12-13-14 #29.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Junchao-CHEN-1-abstract.pdf).*
+
 
 **Summary**
 
@@ -154,7 +166,9 @@ Fault-tolerant systems are typically designed for worst-case scenarios and offer
 Junchao Chen (IHP-Innovations for High Performance Microelectronics, Frankfurt Oder, Germany)
 , Li Lu, Markus Ulbricht, Milos Krstic.
 
-*Location: MR12-13-14 #31*
+*Location: MR12-13-14 #31.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Junchao-CHEN-2-abstract.pdf).*
+
 
 **Summary**
 
@@ -170,7 +184,9 @@ As transistor scaling continues to reach the deep nanometer range, modern system
 Warren Chen (Andes Technology, Hsinchu, Taiwan)
 , Paul Shan-Chyun Ku.
 
-*Location: MR05-06 #17*
+*Location: MR05-06 #17.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Warren-CHEN-abstract.pdf).*
+
 
 **Summary**
 
@@ -182,7 +198,9 @@ When people talk about platform security, memory isolation is considered a key f
 Raúl de la Cruz (Collins Aerospace, Cork, Ireland)
 , Gonzalo Salinas, Alejandro Garcia.
 
-*Location: MR05-06 #12*
+*Location: MR05-06 #12.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Raúl-DE-LA-CRUZ-abstract.pdf).*
+
 
 **Summary**
 
@@ -198,7 +216,9 @@ More integrated systems come at the price of harder predictability and determini
 Wolfgang Ecker (Infineon Technologies)
 , Milos Krstic, Markus Ulbricht, Andreas Mauderer, Eyck Jentzsch, Andreas Koch, Bastian Koppelmann, Wolfgang Mueller, Babak Sadiye, Niklas Bruns, Rolf Drechsler, Daniel Mueller-gritschneder, Jan Schlamelcher, Kim Grüttner, Jörg Bormann, Wolfgang Kunz, Reinhold Heckmann, Gerhard Angst, Ralf Wimmer, Bernd Becker, Tobias Faller, Paul Palomero Bernardo, Oliver Bringmann, Johannes Partzsch, Christian Mayr.
 
-*Location: MR12-13-14 #35*
+*Location: MR12-13-14 #35.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Wolfgang-ECKER-abstract.pdf).*
+
 
 **Summary**
 
@@ -209,14 +229,16 @@ The Scale4Edge project is focused on enabling an effective RISC-V ecosystem for 
 
 Zaruba Florian (Axelera AI / OpenHW Group, Zürich, Switzerland)
 
-*Location: MR12-13-14 #32*
+*Location: MR12-13-14 #32.*
 
 
 ### Bob Frankel -- Introducing Em – Taking RISC-V Software Over The Edge
 
 Bob Frankel (Bespoke IoT, Santa Barbara, United States)
 
-*Location: MR07-08 #5*
+*Location: MR07-08 #5.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Bob-FRANKEL-abstract.pdf).*
+
 
 **Summary**
 
@@ -232,7 +254,9 @@ The Em programming language elevates embedded firmware development to a higher-l
 Francisco Javier Fuentes (Barcelona Supercomputing Center, La Garriga, Spain)
 , Raimon Casanova, Sergi Alcaide, Jaume Abella.
 
-*Location: MR12-13-14 #23*
+*Location: MR12-13-14 #23.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Francisco-Javier-FUENTES-abstract.pdf).*
+
 
 **Summary**
 
@@ -248,7 +272,9 @@ Safety-critical domains, such as automotive, space, and robotics, are adopting i
 Tobias Jauch (RPTU Kaiserslautern-Landau, Kaiserslautern, Germany)
 , Alex Wezel, Mohammad Fadiheh, Dominik Stoffel, Wolfgang Kunz.
 
-*Location: MR05-06 #11*
+*Location: MR05-06 #11.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Tobias-JAUCH-abstract.pdf).*
+
 
 **Summary**
 
@@ -264,7 +290,9 @@ Transient Execution Side Channels in modern hardware systems are particularly ha
 Leonidas Kosmidis (Barcelona Supercomputing Center (BSC), Barcelona, Spain)
 , Marc Solé I Bonet, Jannis Wolf, Ivan Rodriguez Ferrández, Matina Maria Trompouki.
 
-*Location: MR12-13-14 #37*
+*Location: MR12-13-14 #37.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Leonidas-KOSMIDIS-abstract.pdf).*
+
 
 **Summary**
 
@@ -280,7 +308,7 @@ The METASAT Horizon Europe project which is funded by the European Commission an
 Helmut Kurth (atsec GmbH)
 , Rasma Araby, Cheng Jiang.
 
-*Location: MR12-13-14 #25*
+*Location: MR12-13-14 #25.*
 
 
 ### Jingzhou Li -- Falcon: A Dual-Core Lockstep Microprocessor Based on RISC-V ISA
@@ -288,7 +316,9 @@ Helmut Kurth (atsec GmbH)
 Jingzhou Li (Tsinghua University, Beijing, China)
 , Huaiyu Chen, Wenbin Zhang, Hu He.
 
-*Location: MR07-08 #1*
+*Location: MR07-08 #1.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Jingzhou-LI-abstract.pdf).*
+
 
 **Summary**
 
@@ -304,7 +334,9 @@ Functional safety is a crucial consideration in the development of road vehicles
 Li Lu (IHP-Leibniz-Institut für innovative Mikroelektronik, Frankfurt Oder, Germany)
 , Junchao Chen, Markus Ulbricht, Milos Krstic.
 
-*Location: MR12-13-14 #28*
+*Location: MR12-13-14 #28.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Li-LU-abstract.pdf).*
+
 
 **Summary**
 
@@ -320,7 +352,7 @@ This paper presents a procedure for implementing simulation-based fault injectio
 Kevin McDermott (Imperas Software, Thame, United Kingdom)
 , Lee Moore, Larry Lapides.
 
-*Location: MR12-13-14 #41*
+*Location: MR12-13-14 #41.*
 
 
 ### Javier Mora -- A three perspective analysis of RISC-V design tools for safety and security architectures
@@ -328,7 +360,9 @@ Kevin McDermott (Imperas Software, Thame, United Kingdom)
 Javier Mora (Collins Aerospace, Cork, Ireland)
 , Alejandro García-Gener, Gonzalo Salinas Hernando.
 
-*Location: MR07-08 #9*
+*Location: MR07-08 #9.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Javier-MORA-DE-SAMBRICIO-abstract.pdf).*
+
 
 **Summary**
 
@@ -344,7 +378,9 @@ Aerospace industry requirements for SoC design demand high reliability and fault
 Shahzaib Muhammad Kashif (Usman Institute Of Technology (uit), Karachi, Pakistan)
 , Talha Ahmed, Farhan Ahmed Karim, Mahnoor Ismail.
 
-*Location: MR07-08 #3*
+*Location: MR07-08 #3.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Shahzaib-MUHAMMAD-KASHIF-abstract.pdf).*
+
 
 **Summary**
 
@@ -360,7 +396,9 @@ ChipShop is a cloud-based graphical user interface (GUI) that democratizes syste
 Jaime Palacios (Universidad de Cantabria, Cantabria, Spain)
 , Vladimir Mateev, Borja Pérez, Cristóbal Camarero, Pablo Fuentes, Carmen Martínez.
 
-*Location: MR07-08 #8*
+*Location: MR07-08 #8.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Jaime-PALACIOS-abstract.pdf).*
+
 
 **Summary**
 
@@ -376,7 +414,9 @@ Hardware-centric courses at Computer Science and Engineering degrees benet from 
 Darek Palubiak (Cadence Design Systems, Cork, Ireland)
 , Vitali Karasenko, Connie O'Shea.
 
-*Location: MR05-06 #15*
+*Location: MR05-06 #15.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Darek-PALUBIAK-abstract.pdf).*
+
 
 **Summary**
 
@@ -392,7 +432,9 @@ In this paper, we present the application of fault injection simulations to iden
 Sandro Pinto (Universidade do Minho, Guimaraes, Portugal)
 , Matjaz Breskvar, Tiago Gomes, Hristo Koshutanski, Aljosa Pasic, Piotr Krol, Emna Amri, David Puron, Zoltan Hornak, Marco Rovieri, Alexandra Dmitrienko, Ahmad-Reza Sadeghi, Bruno Crispo.
 
-*Location: MR12-13-14 #34*
+*Location: MR12-13-14 #34.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Sandro-PINTO-abstract.pdf).*
+
 
 **Summary**
 
@@ -404,7 +446,9 @@ CROSSCON is a 3-year, multi-million euro, Research and Innovation Action funded 
 Cristian Ramírez Quintana-ortí (Universitat Politècnica de València, Valencia, España)
 , Cristian Ramirez, Adrián Castelló.
 
-*Location: MR07-08 #6*
+*Location: MR07-08 #6.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Cristian-Ramírez-QUINTANA-ORTÍ-abstract.pdf).*
+
 
 **Summary**
 
@@ -420,7 +464,7 @@ We present our BLIS-like general matrix multiplication ( gemm) for the multicore
 Gerard Rauwerda (Technolution B.V., Gouda, Netherlands)
 , Camiel Vletter, Dave Marples, Marco Ottavi, Bruno Forlin, Sybren de Jong, Hans Dekker.
 
-*Location: MR12-13-14 #36*
+*Location: MR12-13-14 #36.*
 
 **Summary**
 
@@ -435,7 +479,9 @@ This work presents a Control & Data Processing Unit targeted at SmallSats which 
 
 Pierre Ravenel (Kalray, Grenoble, France)
 
-*Location: MR12-13-14 #40*
+*Location: MR12-13-14 #40.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Pierre-RAVENEL-abstract.pdf).*
+
 
 **Summary**
 
@@ -447,7 +493,9 @@ Succesfully designing a well-balanced general purpose processor targeting an ASI
 Luis Felipe Rojas Muñoz (Imse-cnm (CSIC/Universidad de Sevilla), Sevilla, Spain)
 , Macarena Cristina Martínez Rodríguez, Santiago Sánchez Solano, Piedad Brox Jiménez.
 
-*Location: MR12-13-14 #21*
+*Location: MR12-13-14 #21.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Luis-Felipe-ROJAS-MUÑOZ-abstract.pdf).*
+
 
 **Summary**
 
@@ -463,7 +511,9 @@ This work presents the design and validation of a compact and efficient RO-PUF/T
 Marcel Sarraseca (Barcelona Supercomputing Center, Terrassa, Spain)
 , Sergi Alcaide, Francisco Javier Fuentes, Juan Carlos Rodríguez, FENG CHANG, Ilham Lasfar, Ramon Canal, Francisco J Cazorla, Jaume Abella.
 
-*Location: MR12-13-14 #22*
+*Location: MR12-13-14 #22.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Marcel-SARRASECA-abstract.pdf).*
+
 
 **Summary**
 
@@ -479,7 +529,9 @@ Safety-critical systems such as those in automotive, avionics and space, require
 Jonas Schupp (Technical University Of Munich, Munich, Germany)
 , Patrick Karl, Georg Sigl.
 
-*Location: MR12-13-14 #27*
+*Location: MR12-13-14 #27.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Jonas-SCHUPP-abstract.pdf).*
+
 
 **Summary**
 
@@ -495,7 +547,9 @@ Hardware/Software co-designs offer a promising way to support different Post-qua
 Matteo Sonza Reorda (Politecnico di Torino)
 , Riccardo Cantoro, Josie Esteban Rodriguez Condia, Annachiara Ruospo, Ernesto Sanchez.
 
-*Location: MR12-13-14 #26*
+*Location: MR12-13-14 #26.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Matteo-SONZA-REORDA-abstract.pdf).*
+
 
 **Summary**
 
@@ -510,7 +564,9 @@ RISC-V adoption is rapidly expanding even to safety-critical application areas, 
 
 Siqi Zhao (T-head Semiconductor, Hangzhou, China)
 
-*Location: MR07-08 #4*
+*Location: MR07-08 #4.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Siqi-ZHAO-abstract.pdf).*
+
 
 **Summary**
 
@@ -531,7 +587,9 @@ Presenters are expected to be with their poster during the morning break, lunch 
 Xabier Abancens Calvo (Barcelona Supercomputing Center (BSC), Barcelona, España)
 , Mohsin Shahbaz, Teresa Cervero Garcia.
 
-*Location: MR07-08 #7*
+*Location: MR07-08 #7.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Xabier-ABANCENS-CALVO-abstract.pdf).*
+
 
 **Summary**
 
@@ -547,7 +605,9 @@ HPC applications are demanding more specialized accelerators to tackle with thei
 Côme Allart (Thales DIS, Meyreuil France - Mines Saint-Etienne, CEA, Leti, Centre CMP, F - 13541 Gardanne France, Aix-en-Provence, France)
 , Jean-Roch Coulon, André Sintzoff, Olivier Potin, Jean-Baptiste Rigaud.
 
-*Location: MR07-08 #10*
+*Location: MR07-08 #10.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Côme-ALLART-abstract.pdf).*
+
 
 **Summary**
 
@@ -563,7 +623,7 @@ This paper is about CVA6 performance. We introduce a cycle-based model of CVA6 c
 Marco Bertuletti (ETH Zurich, Zurich, Switzerland)
 , Tim Fischer, Yichao Zhang, Luca Benini.
 
-*Location: MR07-08 #9*
+*Location: MR07-08 #9.*
 
 **Summary**
 
@@ -579,7 +639,9 @@ Sparsification targets both the reduction of the memory footprint and the accele
 Nick Brown (Epcc At The University Of Edinburgh, Edinburgh, United Kingdom)
 , Maurice Jamieson, Joseph Lee.
 
-*Location: MR07-08 #5*
+*Location: MR07-08 #5.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Nick-BROWN-abstract.pdf).*
+
 
 **Summary**
 
@@ -595,7 +657,9 @@ Funded by the UK ExCALIBUR H&ES exascale programme, in early 2022 a RISC-V testb
 Gregory Chadwick (Lowrisc Cic, Bristol, United Kingdom)
 , Andreas Kurth, Marno van der Maas.
 
-*Location: MR05-06 #17*
+*Location: MR05-06 #17.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Gregory-CHADWICK-2-abstract.pdf).*
+
 
 **Summary**
 
@@ -611,7 +675,15 @@ Open-source silicon has the potential to reduce the blind-trust risk in integrat
 Jin Chufeng (Tsinghua University, Beijing, China)
 , Kexiang Yang, Jingzhou Li, He Hu.
 
-*Location: MR05-06 #16*
+*Location: MR05-06 #16.*
+
+**Summary**
+
+Coherence and consistency are critical factors in multi-core processors and parallel programming models. In this paper, we present an RTL implementation of an L1 vector cache that supports Release Consistency-directed Coherence (RCC) based on RVWMO for open-source GPGPU, the RISC-V ISA provided consistency model. We propose a methodology for transforming axiomatic rules into hardware design guidance. Our design aims to achieve a good performance-cost trade-off for GPGPU cache design. We are currently conducting litmus tests and performance evaluations to further validate our proposed design.
+
+*Bio*
+
+*Jin Chufeng is a grad student of DSPLAB from the School of Integrated Circuits, Tsinghua University. He received his Bachelor of Engineering degree from the Exemplary School of Microelectronics, University of Electronic Science and Technology of China in 2020. Jin Chufeng’s research interests include the on-chip memory systems for high performance computing, especially their microarchitecture design.*
 
 
 ### Karsten Emrich -- Extended Abstract: A Flexible Simulation Environment for RISC-V
@@ -619,7 +691,9 @@ Jin Chufeng (Tsinghua University, Beijing, China)
 Karsten Emrich (Technical University Munich, Munich, Germany)
 , Conrad Foik, Daniel Mueller-gritschneder, Ulf Schlichtmann, Johannes Kappes, Sebastian Prebeck, Wolfgang Ecker.
 
-*Location: MR05-06 #15*
+*Location: MR05-06 #15.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Karsten-EMRICH-abstract.pdf).*
+
 
 **Summary**
 
@@ -635,7 +709,9 @@ In this paper, we present a flexible simulation environment, well-suited for rap
 Felix Garcia-Carballeira (Universidad Carlos III De Madrid, Leganes, Spain)
 , Alejandro Calderon, Diego Camarmas-Alonso, Elias del Pozo-Puñal.
 
-*Location: MR12-13-14 #27*
+*Location: MR12-13-14 #27.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Felix-GARCIA-CARBALLEIRA-abstract.pdf).*
+
 
 **Summary**
 
@@ -651,7 +727,7 @@ This paper introduces CREATOR, a simulator specially designed for teaching assem
 Gert Goossens (Synopsys, Leuven, Belgium)
 , Patrick Verbist, Dominik Auras.
 
-*Location: MR12-13-14 #42*
+*Location: MR12-13-14 #42.*
 
 
 ### Muhammad Hassan -- Expanding RISC-V Horizons: Streamlining Heterogeneous Systems Evaluation with Open Source RISC-V AMS VP Framework
@@ -659,7 +735,15 @@ Gert Goossens (Synopsys, Leuven, Belgium)
 Muhammad Hassan (DFKI GmbH And University Of Bremen, Bremen, Germany)
 , Muhammad Hassan, Rolf Drechsler.
 
-*Location: MR12-13-14 #31*
+*Location: MR12-13-14 #31.*
+
+**Summary**
+
+In this extended abstract, we present the RISC-V AMS VP framework, an evaluation platform that combines the open source RISC-V Virtual Prototype (VP) with SystemC AMS (Analog/Mixed Signal) for accurate environment modeling of heterogeneous systems. The RISC-V Instruction Set Architecture (ISA), with its modular and extensible design, has garnered significant popularity in academia and industry. The growing RISC-V ecosystem includes various tools, simulators, and processor implementations for supporting the development flow. However, the integration of SystemC AMS with RISC-V VPs has not been explored thus far. The proposed RISC-V AMS VP framework provides a unified view of software, hardware, and AMS environment models, enabling design and verification engineers to accurately interact with the system at different levels and perform powerful analyses. As a case study, we created a temperature control system that integrates a sensor, heater component, and control software running on a RISC-V platform. We also briefly discuss a fault- injection evaluation, considering different modeling layers. We provide the RISC-V AMS VP framework and the temperature control system case study as open source resources, laying the foundation for further research and education in this field.
+
+*Bio*
+
+*Mr. Hassan did his PhD in computer science from University of Bremen under the supervision of Prof. Rolf Drechsler. He did his MSc From RWTH Aachen in communication engineering. He is currently a senior researcher at DFKI and a Post-doc at University of Bremen. His research interests include RISC-V design and verification, mixed-signal verification at system level, compiler construction, and blockchain.*
 
 
 ### Salaheddin Hetalani -- Wedging with formal verification to strengthen the quality of custom RISC-V SoC
@@ -667,7 +751,9 @@ Muhammad Hassan (DFKI GmbH And University Of Bremen, Bremen, Germany)
 Salaheddin Hetalani (Siemens EDA)
 , Nicolae Tusinschi, Salaheddin Hetalani, Pascal Gouedo.
 
-*Location: MR12-13-14 #38*
+*Location: MR12-13-14 #38.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Salaheddin-HETALANI-abstract.pdf).*
+
 
 **Summary**
 
@@ -682,7 +768,9 @@ On the path of creating high-quality processor IP a major challenge is the need 
 
 Lavanya Jagadeeswaran (Vyoma Systems Private Limited, Chennai, India)
 
-*Location: MR12-13-14 #30*
+*Location: MR12-13-14 #30.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Lavanya-JAGADEESWARAN-abstract.pdf).*
+
 
 **Summary**
 
@@ -693,7 +781,7 @@ Design Verification has traditionally been a closed development, high-cost resou
 
 Karol Gugala Karol Gugala (Sweden)
 
-*Location: MR05-06 #18*
+*Location: MR05-06 #18.*
 
 
 ### Stanislaw Kaushanski -- Automated Cross-level Verification Flow of a Highly Configurable RISC-V Core Family with Custom Instructions
@@ -701,7 +789,9 @@ Karol Gugala Karol Gugala (Sweden)
 Stanislaw Kaushanski (MINRES Technologies GmbH, Munich, Germany)
 , Eyck Jentzsch.
 
-*Location: MR12-13-14 #29*
+*Location: MR12-13-14 #29.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Stanislaw-KAUSHANSKI-abstract.pdf).*
+
 
 **Summary**
 
@@ -713,7 +803,9 @@ As the RISC-V ISA continues to gain popularity and adoption, there is a growing 
 Tanuj Khandelwal (Univ. Grenoble Alpes, CEA, LIST, Grenoble, France)
 , Ludovic Pion, César Fuguet Tortolero, Adrian Evans.
 
-*Location: MR12-13-14 #32*
+*Location: MR12-13-14 #32.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Tanuj-KHANDELWAL-abstract.pdf).*
+
 
 **Summary**
 
@@ -725,7 +817,9 @@ The verification of caches is particularly challenging, as it is necessary to en
 Lucas Klemmer (Johannes Kepler University Linz, Linz, Austria)
 , Daniel Große.
 
-*Location: MR05-06 #14*
+*Location: MR05-06 #14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Lucas-KLEMMER-abstract.pdf).*
+
 
 **Summary**
 
@@ -739,16 +833,18 @@ The number of available RISC-V cores is growing rapidly and the openness of RISC
 ### Larry Lapides -- Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification
 
 Larry Lapides (Imperas Software)
-, Kevin McDermott, Simon Davidmann.
+, Larry Lapides, Kevin McDermott, Simon Davidmann.
 
-*Location: MR12-13-14 #41*
+*Location: MR12-13-14 #41.*
 
 
 ### Sylvain Lefebvre -- Iron: Selectively turn RISC-V binaries into hardware co-processors.
 
 Sylvain Lefebvre (Inria, Villers-les-nancy, France)
 
-*Location: MR07-08 #2*
+*Location: MR07-08 #2.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Sylvain-LEFEBVRE-abstract.pdf).*
+
 
 **Summary**
 
@@ -764,7 +860,7 @@ We explore whether already compiled RISC-V binaries can be selectively turned in
 Marno van der Maas (lowRISC CIC, Cambridge, United Kingdom)
 , Andreas Kurth, Harry Callahan, Gregory Chadwick.
 
-*Location: MR12-13-14 #37*
+*Location: MR12-13-14 #37.*
 
 **Summary**
 
@@ -780,7 +876,9 @@ To uphold the principle of least privilege, RISC-V can further limit M mode’s 
 Alberto Moreno (Semidynamics, Barcelona, España)
 , Jordi Cortina, Alex Torregrosa, Roger Espasa.
 
-*Location: MR12-13-14 #33*
+*Location: MR12-13-14 #33.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Alberto-MORENO-abstract.pdf).*
+
 
 **Summary**
 
@@ -796,7 +894,9 @@ This paper introduces an FPGA verification, debug and performance platform for R
 Stepan Nassyr (Forschungszentrum Juelich Gmbh, Aachen, Germany)
 , Kaveh Haghighi Mood, Andreas Herten.
 
-*Location: MR05-06 #11*
+*Location: MR05-06 #11.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Stepan-NASSYR-abstract.pdf).*
+
 
 **Summary**
 
@@ -812,7 +912,9 @@ A novel generator is used to generate highly optimized, architecture-specific mi
 William PENSEC (University Southern Brittany, Lorient, France)
 , Vianney Lapôtre, Guy GOGNIAT.
 
-*Location: MR07-08 #1*
+*Location: MR07-08 #1.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-William-PENSEC-abstract.pdf).*
+
 
 **Summary**
 
@@ -828,7 +930,9 @@ Both software and physical attacks are serious threats for Internet of Things (I
 Karan Pathak (Tu Delft/EPFL, Lausanne, Switzerland)
 , Joshua Klein, Giovanni Ansaloni, Marina Zapater, David Atienza.
 
-*Location: MR07-08 #4*
+*Location: MR07-08 #4.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Karan-PATHAK-abstract.pdf).*
+
 
 **Summary**
 
@@ -844,7 +948,9 @@ RISC-V-based Systems-on-Chip (SoCs) are witnessing a steady rise in adoption in 
 Jérôme Quévremont (Thales Research & Technology, Palaiseau, France)
 , Sébastien Jacq, Jean-Roch Coulon, Kevin Eyssartier.
 
-*Location: MR12-13-14 #23*
+*Location: MR12-13-14 #23.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Jérôme-QUÉVREMONT-abstract.pdf).*
+
 
 **Summary**
 
@@ -860,7 +966,9 @@ In this extended abstract, recent contributions to the CORE-V CVA6 open-source R
 Alvise Rigo (Virtual Open Systems, Grenoble, France)
 , Daniel Raho, Samuele Paone, Timos Ampelikiotis.
 
-*Location: MR12-13-14 #28*
+*Location: MR12-13-14 #28.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Alvise-RIGO-abstract.pdf).*
+
 
 **Summary**
 
@@ -876,7 +984,9 @@ VOSySzator [1] is a flexible embedded system virtualizer based on rust-vmm build
 Manuel Rodríguez (Centro ALGORITMI/LASI, Universidade Do Minho, Guimarães, Portugal)
 , Francisco Marqués Da Costa, Bruno Sá, Sandro Pinto.
 
-*Location: MR05-06 #20*
+*Location: MR05-06 #20.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Manuel-RODRÍGUEZ-abstract.pdf).*
+
 
 **Summary**
 
@@ -892,7 +1002,9 @@ This work describes the design and implementation of an open-source IOMMU IP com
 Peter Rugg (University Of Cambridge, Cambridge, United Kingdom)
 , Alexandre Joannou, Jonathan Woodruff, Franz Fuchs, Marno van der Maas, Matthew Naylor, Michael Roe, Robert N. M. Watson, Peter Neumann, Simon W. Moore.
 
-*Location: MR12-13-14 #35*
+*Location: MR12-13-14 #35.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Peter-RUGG-abstract.pdf).*
+
 
 **Summary**
 
@@ -908,7 +1020,9 @@ We present TestRIG, a test framework for RISC-V implementations. To use TestRIG,
 Fatima Saleem (10xengineers, Lahore, Pakistan)
 , UMER IMRAN, Quswar Abid, Kamran Malik.
 
-*Location: MR12-13-14 #34*
+*Location: MR12-13-14 #34.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Fatima-SALEEM-abstract.pdf).*
+
 
 **Summary**
 
@@ -924,7 +1038,9 @@ Architecture-level verification of RISC-V Vector (RVV) cores presents a complex 
 Josep Sans I Prats (Semidynamics, Barcelona, España)
 , Alberto Moreno, Alex Torregrosa, Roger Espasa.
 
-*Location: MR12-13-14 #36*
+*Location: MR12-13-14 #36.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Josep-SANS-I-PRATS-abstract.pdf).*
+
 
 **Summary**
 
@@ -940,18 +1056,26 @@ Open source verification environment for RISC-V
 Davide Schiavone (Openhw Group, Geneva, Switzerland)
 , Davide Schiavone, Simone Machetti, Miguel Peón-Quirós, Benoît Denkinger, Thomas Christoph Mueller, Rubén Rodríguez, David Atienza.
 
-*Location: MR12-13-14 #25*
+*Location: MR12-13-14 #25.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Davide-SCHIAVONE-abstract.pdf).*
+
 
 **Summary**
 
 This abstract presents X-HEEP, an open-source, configurable, and extensible single-core RISC-V microcontroller targetting edge-computing, embedded-class applications.
+
+*Bio*
+
+*Jose A. Miranda Calero, member IEEE, received his PhD in 2022 at the Microelectronic Design and Applications (DMA) research group, which belongs to Universidad Carlos III de Madrid. He is currently a Post-Doc Research Scientist at the Embedded System Laboratory in EPFL, Switzerland. His research field comprises wireless sensor networks, wearable design, development and integration for safety and real-time critical applications, affective computing implementation into edge computing devices, hardware acceleration, and . Regarding the development of wearable technology for safety applications, his main contribution relates to the design of BINDI, which is a new autonomous, smart, inconspicuous, connected, edge-computing-based, and wearable solution able to detect and alert when a user is under a gender violence situation employing emotion recognition using the physiological and physical signals of the user.*
 
 
 ### Quentin Schibler -- You only use 10% of your FPGA
 
 Quentin Schibler (École Normale Supérieure Paris-Saclay, Cambridge, United Kingdom)
 
-*Location: MR12-13-14 #26*
+*Location: MR12-13-14 #26.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Quentin-SCHIBLER-abstract.pdf).*
+
 
 **Summary**
 
@@ -963,7 +1087,7 @@ A RISC-V processor design is usually expected to be clocked at most at 300MHz on
 Aimee Sutton (Imperas Software)
 , Lee Moore, Simon Davidmann.
 
-*Location: MR12-13-14 #39*
+*Location: MR12-13-14 #39.*
 
 
 ### Eduardo Tomasi Ribeiro -- Towards Simulation of an Unified Address Space for 128-bit Massively Parallel Computers
@@ -971,7 +1095,9 @@ Aimee Sutton (Imperas Software)
 Eduardo Tomasi Ribeiro (CEA List, Grenoble, France)
 , César Fuguet Tortolero, Christian FABRE, Frédéric Pétrot.
 
-*Location: MR05-06 #13*
+*Location: MR05-06 #13.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Eduardo-TOMASI-RIBEIRO-abstract.pdf).*
+
 
 **Summary**
 
@@ -982,7 +1108,9 @@ High Performance Computing (HPC) supercomputers are composed of up to ten thousa
 
 Roddy Urquhart (Codasip)
 
-*Location: MR07-08 #3*
+*Location: MR07-08 #3.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Roddy-URQUHART-abstract.pdf).*
+
 
 **Summary**
 
@@ -994,7 +1122,9 @@ The RISC-V architecture was created to cover a wide range of applications. With 
 Kexiang Yang (Tsinghua University, Beijing, China)
 , Hualin Wu, Jingzhou Li, Jin Chufeng, Yujie Shi, Xudong Liu, Zexia Yang, Fangfei Yu, Mingyuan Ma, Sipeng Hu, Tianwei Gong, Hu He.
 
-*Location: MR12-13-14 #24*
+*Location: MR12-13-14 #24.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Kexiang-YANG-abstract.pdf).*
+
 
 **Summary**
 
@@ -1010,7 +1140,9 @@ Graphics Processing Units (GPUs) have become the most popular platform for accel
 Lilia Zaourar (CEA LIST LECA, Paris, France)
 , Mohamed Benazouz, Lilia Zaourar.
 
-*Location: MR07-08 #6*
+*Location: MR07-08 #6.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Lilia-ZAOURAR-abstract.pdf).*
+
 
 **Summary**
 
@@ -1031,7 +1163,7 @@ Presenters are expected to be with their poster during the morning break, lunch 
 David Aguiló (Barcelona Supercomputing Center)
 , David Aguiló Domínguez, Oscar Alonso, Max Doblas, César Hernández, Vatistas Kostalampros, Santiago Marco-Sola, Abbas Haghi, Jordi Fornt, Juan Miguel De Haro, Carlos Rojas, Enrico Reggiani, Roger Figueras, Pau Fontova, Xavier Carrril, Hugo Safadi, Diego Mateo, Xavier Aragonés, Jordi Sacristán, Carmen Martínez, Ángel Diéguez, Sergio Moreno, Manuel Lopez, Fernando Arreza, Lluís Terés, Miquel Moretó, Adrián Cristal, Osman Unsal, Mateo Valero.
 
-*Location: MR12-13-14 #35*
+*Location: MR12-13-14 #35.*
 
 **Summary**
 
@@ -1047,7 +1179,9 @@ Kameleon is an SoC based on the RISC-V ISA. It integrates two cores, one of them
 Riccardo Alidori (CEA-List, Grenoble, France)
 , Andrea Bocco.
 
-*Location: MR12-13-14 #33*
+*Location: MR12-13-14 #33.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Riccardo-ALIDORI-abstract.pdf).*
+
 
 **Summary**
 
@@ -1058,7 +1192,9 @@ Variable Precision (VP) Floating Point (FP) is a solution to compensate accumula
 
 Jack Andrew (Imagination Technologies, Cambridge, United Kingdom)
 
-*Location: MR07-08 #8*
+*Location: MR07-08 #8.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Jack-ANDREW-abstract.pdf).*
+
 
 **Summary**
 
@@ -1074,7 +1210,9 @@ This extended abstract is submitted as a poster submission for the RISC-V Summit
 Gerardo Bandera Burgueño (University of Malaga)
 , Javier Salamero, Miquel Moretó, Julio Villalba-moreno.
 
-*Location: MR12-13-14 #32*
+*Location: MR12-13-14 #32.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Gerardo-BANDERA-BURGUEÑO-abstract.pdf).*
+
 
 **Summary**
 
@@ -1086,7 +1224,7 @@ HUB format is an emerging technique to improve the hardware and time requirement
 Ramon Canal (Universitat Politècnica De Catalunya, Barcelona, Spain)
 , Angelos Arelakis, Alberto Moreno, Josep Lluís Berral, Aaron Call, Stefano Di Carlo, Juanjo Costa, Dimitris Gizopoulos, Vasileios Karakostas, Francesco Lubrano, Konstantinos Nikas, Yiannis Nikolakopoulos, Beatriz Otero, George Papadimitriou, Yannis Papaefstathiou, Dionisios Pnevmatikatos, Daniel Raho, Alvise Rigo, Eva Rodríguez, Alessandro Savino, Alberto Scionti, Nikos Tampouratzis, Alex Torregrosa.
 
-*Location: MR12-13-14 #42*
+*Location: MR12-13-14 #42.*
 
 **Summary**
 
@@ -1102,7 +1240,9 @@ Vitamin-V is a 2023-2025 Horizon Europe project that aims to develop a complete 
 Henri-pierre Charles (Cea Grenoble, Grenoble, France)
 , Jean Philippe Noël, Bastien Giraud, Thaddée Bricout, Maria Ramirez Corrales.
 
-*Location: MR07-08 #7*
+*Location: MR07-08 #7.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-abstract.pdf).*
+
 
 **Summary**
 
@@ -1118,7 +1258,9 @@ Computational SRAM (C-SRAM) is a new computing solution for Near-Memory Computin
 Henri-pierre Charles (CEA, Grenoble, France)
 , Maha Kooli, Thaddée Bricout, Benjamin Lacour.
 
-*Location: MR07-08 #5*
+*Location: MR07-08 #5.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-abstract.pdf).*
+
 
 **Summary**
 
@@ -1134,7 +1276,9 @@ Modern applications are dynamic. There are many dynamicity aspects : dynamic all
 Odysseas Chatzopoulos (University Of Athens, Athens, Greece)
 , George Papadimitriou, Vasileios Karakostas, Dimitris Gizopoulos.
 
-*Location: MR12-13-14 #31*
+*Location: MR12-13-14 #31.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Odysseas-CHATZOPOULOS-abstract.pdf).*
+
 
 **Summary**
 
@@ -1150,7 +1294,9 @@ The slowdown of CMOS scaling has led to the widespread use of heterogeneous SoCs
 Iacopo Colonnelli (University Of Torino, Torino, Italy)
 , Robert Birke, Marco Aldinucci.
 
-*Location: MR07-08 #10*
+*Location: MR07-08 #10.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Iacopo-COLONNELLI-abstract.pdf).*
+
 
 **Summary**
 
@@ -1166,23 +1312,25 @@ RISC-V is an emerging instruction set architecture. Its modular and extensible o
 Tamer Eren (TÜBİTAK / BİLGEM, İstanbul, Turkey)
 , Mehmet Eyyüp Ergin, Ömer Güzel, Hasan Erdem Yantır.
 
-*Location: MR12-13-14 #29*
+*Location: MR12-13-14 #29.*
 
 **Summary**
 
-Graphics processing units (GPUs) are specialized processors commonly used in computing devices for high quality visual displays and parallel computations. GPUs offer several advantages over CPUs, including the ability to handle multiple tasks simultaneously and efficiently process complex data. The demand for GPUs has grown in recent years due to advancements in areas such as artificial intelligence, crypto mining and gaming. Addressing the sufficient GPU problem in market, more flexible and cost-effective solutions designed with open-source methods may provide an alternative in both academic and industrial applications. In Tübitak BİLGEM a multi-core multi-thread GPU architecture is being designed with IMF extensions of RISC-V. First prototype was constructed with a single core (RISC-V IMF) and 5 threads which can be adjusted parametrically by the user. The initial design was synthesized with TSMC 28nm technology at 2GHz with Synopsys Design Compiler. Finally, functionality demonstration was performed with Digilent Nexys A7 FPGA at 100 MHz to create the Tübitak Bilgem logo by calculating triangle points and resterazing with specific colors.
+The demand for Graphics processing units (GPUs) has experienced significant growth in recent years, primarily driven by advancements in artificial intelligence, cryptocurrency mining, and gaming. In order to solve the prevailing challenge of GPU availability in the market, the development of more flexible and cost-effective solutions utilizing open-source methodologies may present a viable alternative for both academic and industrial applications. Within the context of Tübitak BİLGEM, an ongoing project aims to design a multi-core, multithread GPU architecture utilizing IMF extensions of RISC-V. The initial prototype of this architecture was constructed with a single core (RISC-V IMF) and five threads, offering parametric adjustability for the end user. Functionality demonstration was performed using a Digilent Nexys A7 FPGA at a clock frequency of 100 MHz, showcasing the capabilities of the architecture by calculating triangle points and applying rasterization techniques to generate the Tübitak Bilgem logo, utilizing specific colors.
 
 *Bio*
 
 *Tamer Eren received his B.E. degree in biomedical engineering from İstanbul Medipol University in İstanbul, Turkey in 2019. Additionally, he obtained a double major (B.E.) degree in electrical and electronics engineering from the same university in 2020. After completing his undergraduate studies, he pursued a Master of Science degree in electrical-electronics engineering and cyber systems, which he completed at İstanbul Medipol University in 2021. During his master's degree, he conducted research on time-to-digital conversions for all-digital phase-locked loop systems. Tamer Eren currently works as a digital design engineer at the Integrated Circuits Design and Training Laboratory (Tütel) of The Scientific and Technological Research Council Of Türkiye (Tübitak). His research interests include designing open-source CPU and GPU architectures, accelerators, and heterogeneous systems. *
 
 
-### Jerome Fereyre -- VPSDK : a portability library for extended arithmetic operations targetting a RISC-V Variable eXended   Precision accelerator.
+### Jérôme Fereyre -- VPSDK : a portability library for extended arithmetic operations targetting a RISC-V Variable eXended   Precision accelerator.
 
-Jerome Fereyre (Cea, Grenoble, France)
+Jérôme Fereyre (Cea, Grenoble, France)
 , Alexandre Hoffmann.
 
-*Location: MR05-06 #13*
+*Location: MR05-06 #13.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Jérôme-FEREYRE-abstract.pdf).*
+
 
 **Summary**
 
@@ -1194,7 +1342,9 @@ We develop a RISC-V based accelerator called VXP (Variable eXtended Precision). 
 Juan Fumero (The University Of Manchester, Manchester, United Kingdom)
 , Athanasios Stratikopoulos, Mehdi Goli, Ruyman Reyes, Konstantinos Nikas, Dionisios Pnevmatikatos, Nectarios Koziris, Christos Kotselidis.
 
-*Location: MR12-13-14 #41*
+*Location: MR12-13-14 #41.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Juan-FUMERO-abstract.pdf).*
+
 
 **Summary**
 
@@ -1210,7 +1360,9 @@ In this talk, we will present the newly EU-funded project AERO (Accelerated EU C
 Jaume Gauchola
 , Jaume Gauchola, Juanjo Costa, Ramon Canal, Xavier Carril, Max Doblas, Beatriz Otero, Manuel Alejandro Pajuelo, Eva Rodríguez, Javier Salamero, Javier Verdú.
 
-*Location: MR12-13-14 #22*
+*Location: MR12-13-14 #22.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Jaume-GAUCHOLA-abstract.pdf).*
+
 
 **Summary**
 
@@ -1221,28 +1373,12 @@ This paper describes our experience implementing a Hypervisor extension for a 64
 *I have a bachelor's degree in Computer Engineering from the Universitat de Girona (UdG) and I am currently finishing my master's degree in Innovation and Research in Informatics in High Performance Computing from the Universitat Politècnica de Catalunya, Facultat d'informàtica de Barcelona (UPC-FIB). About three years of experience in AI applied in healthcare, working in the eXiT research group of the UdG. I have done my Master's thesis at UPC-FIB on the first implementation of the hypervisor extension in a RISC-V processor. Currently I am working at Semidynamics and actively participating in the European Vitamin-V project.*
 
 
-### Pascal Gouedo -- CV32E40P updates: customizing an open-source RISC-V core at industrial-grade; experiences and challenges
-
-Pascal Gouedo (Dolphin Design, Grenoble, France)
-, Yoann PRUVOST, Xavier AUBERT, Olivier MONTFORT, Mike Thompson, Davide Schiavone.
-
-*Location: MR05-06 #19*
-
-**Summary**
-
-This paper will focus on the design and verification strategy of an open-source RISC-V CPU for edge-computing platforms at industrial-grade.
-
-*Bio*
-
-*Pascal Gouedo is the Panther multicore platform architect in Dolphin Design Processing team. He has been key in the decision of choosing CV32E40P for multicore platform core as well as using Formal Verification for RISC-V standard and custom extensions. He joined Dolphin Design in 2020 and worked before in a leading edge company where he designed general purpose and customized Cores together with their full sub-system and actively participated to Verification strategy of all those soft IPs. He started to have interest in RISC-V back in 2018, implemented and verified one small RV32IMC RISC-V core and is now leading CV32E40Pv2 CORE-V project inside OpenHW group.*
-
-
 ### Léo Gourdin -- Formally verified advanced optimizations for RISC-V
 
 Léo Gourdin (UGA, Grenoble, France)
 , Léo Gourdin, Sylvain Boulmé.
 
-*Location: MR07-08 #4*
+*Location: MR07-08 #4.*
 
 **Summary**
 
@@ -1253,19 +1389,39 @@ We implemented and formally proved code hoisting, loop-invariant code motion (LI
 *I am a third year PhD student in Grenoble, France. My main research interests are: formal proof, compilation, processors architecture / instruction sets, optimization, and code safety & security. During the last three years, I worked on the formal verification of optimizations, and in particular for the CompCert certified compiler on the RISC-V backend. My thesis focus on formal verification of translation validators: I study how symbolic execution can help in validating the results of optimizations algorithms. In the future, I may study how this approach can be reused to also ensure semantics preservation while securing the code with counter-measures. In other words, how a unique formally verified validation technique can help for both safety and security concerns. Before starting this PhD, I did an engineering school and worked in a company conceiving embedded RFID chips (ASYGN).*
 
 
+### Pascal Gouédo -- CV32E40P updates: customizing an open-source RISC-V core at industrial-grade; experiences and challenges
+
+Pascal Gouédo (Dolphin Design, Grenoble, France)
+, Yoann PRUVOST, Xavier AUBERT, Olivier MONTFORT, Mike Thompson, Davide Schiavone.
+
+*Location: MR05-06 #19.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Pascal-GOUÉDO-abstract.pdf).*
+
+
+**Summary**
+
+This paper will focus on the design and verification strategy of an open-source RISC-V CPU for edge-computing platforms at industrial-grade.
+
+*Bio*
+
+*Pascal Gouedo is the Panther multicore platform architect in Dolphin Design Processing team. He has been key in the decision of choosing CV32E40P for multicore platform core as well as using Formal Verification for RISC-V standard and custom extensions. He joined Dolphin Design in 2020 and worked before in a leading edge company where he designed general purpose and customized Cores together with their full sub-system and actively participated to Verification strategy of all those soft IPs. He started to have interest in RISC-V back in 2018, implemented and verified one small RV32IMC RISC-V core and is now leading CV32E40Pv2 CORE-V project inside OpenHW group.*
+
+
 ### Frank Gurkaynak -- 10 years of making PULP based chips
 
 Frank Gurkaynak (Switzerland)
 , Luca Benini.
 
-*Location: MR12-13-14 #40*
+*Location: MR12-13-14 #40.*
 
 
 ### Jonas Hahnfeld -- Porting ROOT and Cling to RISC-V
 
 Jonas Hahnfeld (CERN, Geneva, Switzerland)
 
-*Location: MR05-06 #11*
+*Location: MR05-06 #11.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Jonas-HAHNFELD-abstract.pdf).*
+
 
 **Summary**
 
@@ -1281,7 +1437,7 @@ The ROOT data analysis framework is used to analyze exabytes of data in the doma
 Lawrence Hunter (Codethink, Manchester, United Kingdom)
 , Nazar Kazakov, Kiran Ostrolenk.
 
-*Location: MR12-13-14 #23*
+*Location: MR12-13-14 #23.*
 
 
 ### Alexandre Joannou -- CHERI-RISCV Extension Progress
@@ -1289,7 +1445,9 @@ Lawrence Hunter (Codethink, Manchester, United Kingdom)
 Alexandre Joannou (University of Cambridge, Cambridge, United Kingdom)
 , Robert N. M. Watson, Alex Ridchardson, Jessica Clarke, John Davis, Lawrence Esswood, Ben Laurie, Simon W. Moore, Peter Rugg, Peter Sewell.
 
-*Location: MR05-06 #17*
+*Location: MR05-06 #17.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Alexandre-JOANNOU-abstract.pdf).*
+
 
 **Summary**
 
@@ -1305,7 +1463,9 @@ The CHERI ISA extensions for security have been under development for the last 1
 Philipp van Kempen (Technical University of Munich, Munich, Germany)
 , Karsten Emrich, Daniel Mueller-gritschneder, Ulf Schlichtmann.
 
-*Location: MR07-08 #3*
+*Location: MR07-08 #3.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Philipp-VAN-KEMPEN-abstract.pdf).*
+
 
 **Summary**
 
@@ -1320,7 +1480,7 @@ RISC-V is an instruction set architecture (ISA) that, as a core feature, can be 
 
 Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 
-*Location: MR12-13-14 #25*
+*Location: MR12-13-14 #25.*
 
 
 ### Charisios Loukas -- Low-latency user-level communication for RISC-V clusters
@@ -1328,7 +1488,9 @@ Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 Charisios Loukas (FORTH, Herakleion, Greece)
 , Pantelis Xirouchakis, Michalis Gianioudis, Aggelos Ioannou, Manolis Katevenis, Nikos Chrysos.
 
-*Location: MR12-13-14 #36*
+*Location: MR12-13-14 #36.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Charisios-LOUKAS-abstract.pdf).*
+
 
 **Summary**
 
@@ -1344,7 +1506,9 @@ Within the context of the RED-SEA project, we integrate novel low-cost interconn
 David Mallasén Quintana (Universidad Complutense De Madrid, Madrid, España)
 , Raul Murillo, Alberto A. Del Barrio, Guillermo Botella, Luis Piñuel, Manuel Prieto-Matias.
 
-*Location: MR12-13-14 #38*
+*Location: MR12-13-14 #38.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-David-MALLASÉN-QUINTANA-abstract.pdf).*
+
 
 **Summary**
 
@@ -1360,7 +1524,9 @@ Posit arithmetic is an alternative to IEEE 754 standard floating-point that pres
 Francisco Marqués da Costa (University of Minho, Guimaraes, Portugal)
 , Manuel Rodríguez, Bruno Sá, Sandro Pinto.
 
-*Location: MR12-13-14 #37*
+*Location: MR12-13-14 #37.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Francisco-MARQUÉS-DA-COSTA-abstract.pdf).*
+
 
 **Summary**
 
@@ -1376,7 +1542,9 @@ This work describes the design and implementation of an open-source Advanced Int
 Hugo McNally (Lowrisc Cic, Cambridge, United Kingdom)
 , Luís Marques, Jorge Prendes.
 
-*Location: MR05-06 #12*
+*Location: MR05-06 #12.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Hugo-MCNALLY-abstract.pdf).*
+
 
 **Summary**
 
@@ -1392,7 +1560,9 @@ The embedded position independent code (ePIC) ABI proposal offers a solution to 
 Stephan Nolting (Fraunhofer IMS, Duisburg, Germany)
 , Alexander Utz.
 
-*Location: MR05-06 #20*
+*Location: MR05-06 #20.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Stephan-NOLTING-abstract.pdf).*
+
 
 **Summary**
 
@@ -1404,7 +1574,9 @@ Processing data-intense tasks right inside an image sensor system allows to offl
 Arthur Perais (CNRS, Grenoble, France)
 , Mathieu Bacou, Adam Chader, Chandana Deshpande, Christian Fabre, César Fuguet Tortolero, Pierre Michaud, Frédéric Pétrot, Gaël Thomas, Eduardo Tomasi Ribeiro.
 
-*Location: MR05-06 #14*
+*Location: MR05-06 #14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Arthur-PERAIS-abstract.pdf).*
+
 
 **Summary**
 
@@ -1419,7 +1591,7 @@ High-performance architectures are increasingly heterogeneous and incorporate of
 
 Zdenek Prikryl (Codasip)
 
-*Location: MR07-08 #6*
+*Location: MR07-08 #6.*
 
 **Summary**
 
@@ -1431,7 +1603,9 @@ With the end of the well-established scaling, and laws, such as Dennard scaling,
 Maria Ramirez Corrales (CEA, Grenoble, France)
 , Emanuele Valea, Jean Philippe Noël.
 
-*Location: MR12-13-14 #34*
+*Location: MR12-13-14 #34.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Maria-RAMIREZ-CORRALES-abstract.pdf).*
+
 
 **Summary**
 
@@ -1446,7 +1620,9 @@ Near-Memory Computing (NMC) is a promising architectural approach to accelerate 
 
 Kenneth Rovers (Imagination Technologies, Sint-Michielsgestel, Netherlands)
 
-*Location: MR12-13-14 #24*
+*Location: MR12-13-14 #24.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Kenneth-ROVERS-abstract.pdf).*
+
 
 **Summary**
 
@@ -1458,7 +1634,9 @@ There is a bewildering amount of number formats, particularly floating point one
 Paul Scheffler (ETH Zurich, Zürich, Switzerland)
 , Luca Benini.
 
-*Location: MR05-06 #16*
+*Location: MR05-06 #16.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Paul-SCHEFFLER-abstract.pdf).*
+
 
 **Summary**
 
@@ -1474,7 +1652,9 @@ Sparse and irregular workloads are crucial to various data-driven applications i
 Frank Schirrmeister (Arteris, Campbell, United States)
 , Frank Schirrmesiter, Michael Frank.
 
-*Location: MR12-13-14 #28*
+*Location: MR12-13-14 #28.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Frank-SCHIRRMEISTER-abstract.pdf).*
+
 
 **Summary**
 
@@ -1486,7 +1666,9 @@ The open-source RISC-V ISA has gained popularity due to its customizability and 
 Alexey Shchekin (Codasip)
 , Ettore Antonino Giliberti.
 
-*Location: MR05-06 #18*
+*Location: MR05-06 #18.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Alexey-SHCHEKIN-abstract.pdf).*
+
 
 **Summary**
 
@@ -1497,7 +1679,9 @@ Trigonometric functions are used in many embedded systems applications, such as 
 
 Martin Troiber (Technical University Of Munich, Munich, Germany)
 
-*Location: MR07-08 #9*
+*Location: MR07-08 #9.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Martin-TROIBER-abstract.pdf).*
+
 
 **Summary**
 
@@ -1513,7 +1697,9 @@ This report presents the first open-source Vulkan graphics driver for RISC-V. We
 Daniel Vázquez (Universidad Politécnica De Madrid, Madrid, Spain)
 , Andrés Otero, Alfonso Rodríguez, Eduardo de la Torre.
 
-*Location: MR12-13-14 #21*
+*Location: MR12-13-14 #21.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Daniel-VÁZQUEZ-abstract.pdf).*
+
 
 **Summary**
 
@@ -1529,7 +1715,9 @@ This work proposes extending the datapath of a RISC-V processor with a CGRA, a r
 Nils Wistoff (ETH Zürich, Zürich, Switzerland)
 , Gernot Heiser, Luca Benini.
 
-*Location: MR12-13-14 #39*
+*Location: MR12-13-14 #39.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Nils-WISTOFF-abstract.pdf).*
+
 
 **Summary**
 
@@ -1544,7 +1732,7 @@ Microarchitectural timing channels enable information transfer between security 
 
 Michael Wong (Codeplay, Toronto, Canada)
 
-*Location: MR07-08 #1*
+*Location: MR07-08 #1.*
 
 
 ### Jonathan Woodruff -- CHERIoT: Rethinking Security for Low-Cost Embedded Systems
@@ -1552,7 +1740,9 @@ Michael Wong (Codeplay, Toronto, Canada)
 Jonathan Woodruff (University of Cambridge, Cambridge, United Kingdom)
 , Saar Amar, Tony Chen, David Chisnall, Felix Domke, Nathaniel Filardo, Kunyan Liu, Robert Norton-Wright, Yucong Tao, Robert N. M. Watson, Hongyan Xia.
 
-*Location: MR12-13-14 #30*
+*Location: MR12-13-14 #30.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Jonathan-WOODRUFF-abstract.pdf).*
+
 
 **Summary**
 
@@ -1568,7 +1758,9 @@ Small embedded cores have little area, power, or performance budget to spare for
 Hualin Wu (Terapines Ltd, Wuhan, China)
 , Ming Yan.
 
-*Location: MR07-08 #2*
+*Location: MR07-08 #2.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Hualin-WU-abstract.pdf).*
+
 
 **Summary**
 
