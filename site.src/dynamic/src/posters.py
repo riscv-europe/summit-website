@@ -43,7 +43,11 @@ def posters_of_day(day):
                 print(f', {row["Rest of the authors"]}.')
 
             # Format the poster location on the conf. floor.
-            print(f'\n*Location: {row["MR"]} #{row["Poster board"].strip()}*')
+            print(f'\n*Location: {row["MR"]} #{row["Poster board"].strip()}.*')
+
+            # Format the links to abstracts and posters."
+            if row['HasAbstract'] == 'Y':
+                print(f'*Links: [extended abstract](media/proceedings/posters/{row["BaseFileName"]}-abstract.pdf).*\n')
 
             # Format abstract and bio.
             if row['Final abstract'] != "":
