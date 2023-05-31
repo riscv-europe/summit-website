@@ -19,7 +19,7 @@ for import_pdf in os.listdir(import_dir):
         database_reader = csv.DictReader(database_file, delimiter=',')
         for contrib in database_reader:
             if import_pdf.replace('.pdf','') == contrib['BaseName']:
-                import_file(import_pdf,contrib['BaseFileName'])
+                import_file(import_pdf,contrib['BaseFileName']+"-abstract.pdf")
                 found = True
                 continue
         if not found:
