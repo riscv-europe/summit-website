@@ -902,7 +902,7 @@ RISC-V has been adopted with a record-breaking speed in pretty much all applicat
 
 #### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
-Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Application and Tools Horizontal Committee.
+Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Applications and Tools Horizontal Committee.
 
 **Abstract**
 
