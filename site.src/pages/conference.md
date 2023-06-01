@@ -113,7 +113,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <span class="schedule-time">15:00</span> - <span class="schedule-author">Franz Fuchs, University of Cambridge</span> - <span class="schedule-title">Mitigating Transient-Execution Attacks with CHERI Compartments</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">15:15</span> - <span class="schedule-author">Jimmy Le Rhun, Frontgrade Gaisler</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span>
+  <span class="schedule-time">15:15</span> - <span class="schedule-author">Jimmy Le Rhun, Frontgrade Gaisler</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span> - [Details](#jimmy-le-rhun-safe-secure-and-reliable-computing-with-the-noel-v-processor-from-the-de-risc-h2020)
   </div>
   </div>
 
@@ -1029,6 +1029,12 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 ### Technical Talks
 
+
+#### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
+
+Jimmy Le Rhun, Frontgrade Gaisler.
+
+*Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf).*
 
 #### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
