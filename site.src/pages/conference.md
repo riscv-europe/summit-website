@@ -131,7 +131,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">The RISC-V opportunity in Automotive Electronics</span> - [Details](#franck-bernard-the-risc-v-opportunity-in-automotive-electronics)
+  <span class="schedule-time">16:30</span> - <span class="schedule-author">Franck Bernard, Bosch</span> - <span class="schedule-title">The RISC-V opportunity in Automotive Electronics</span> - <a href="#franck-bernard-the-risc-v-opportunity-in-automotive-electronics">Details</a>
   </div>
   </div>
 
