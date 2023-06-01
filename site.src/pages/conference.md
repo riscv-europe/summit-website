@@ -342,7 +342,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">10:00</span> - <span class="schedule-author">(Tenstorrent)</span> - <span class="schedule-title">TBD</span>
+  <span class="schedule-time">10:00</span> - <span class="schedule-author">Wei-han Lien, Tenstorrent</span> - <span class="schedule-title">A high-fidelity flow for high-performance RISC-V CPU design from scratch</span>
   </div>
   </div>
   <div class="schedule-block-title technical">
@@ -377,7 +377,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">12:00</span> - <span class="schedule-author">(MINRES)</span> - <span class="schedule-title">TBD</span>
+  <span class="schedule-time">12:00</span> - <span class="schedule-author">Stanislaw Kaushanski, MINRES GmbH</span> - <span class="schedule-title">Automated Cross-level Verification Flow of a Highly Configurable RISC-V Core Family with Custom Instructions</span>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author">Andrei Warkentin, Intel</span> - <span class="schedule-title">Multi-ISA Firmware Compatibility - Bringing RISC-V and IHV Ecosystems Together</span>
