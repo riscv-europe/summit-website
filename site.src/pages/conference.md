@@ -407,7 +407,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">14:30</span> - <span class="schedule-author">Luca Lingardo, NXP</span> - <span class="schedule-title">Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication</span>
+  <span class="schedule-time">14:30</span> - <span class="schedule-author">Luca Lingardo, NXP</span> - <span class="schedule-title">Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication</span> - [Details](#luca-lingardo-nxp---implementation-of-an-edge-computing-architecture-based-on-a-risc-v-core-for-rfid-communication)
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">14:45</span> - <span class="schedule-author">Guy Lemieux, University Of British Columbia</span> - <span class="schedule-title"> From CCX to CIX: A Modest Proposal for (Custom) Composable Instruction eXtensions</span>
@@ -1030,11 +1030,19 @@ Electronic Engineering and European Politics, Economics and Law.*
 ### Technical Talks
 
 
+#### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
+
+Luca Lingardo, NXP.
+
+*Links: [extended abstract](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-abstract.pdf).*
+
+
 #### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
 
 Jimmy Le Rhun, Frontgrade Gaisler.
 
 *Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf).*
+
 
 #### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
