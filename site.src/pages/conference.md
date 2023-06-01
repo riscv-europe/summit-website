@@ -898,7 +898,9 @@ Technology.*
 
 RISC-V has been adopted with a record-breaking speed in pretty much all applications from general-purpose tiny MCUs to datacenter AI/ML accelerator SoCs. In this keynote, we will give examples of RISC-V applications and solutions to support them; in particular, we will also analyze various approaches for matrix multiplication extension to embrace AI/ML acceleration directly in RISC-V architecture. In addition, ISO 26262 certified automotive electronics solutions have been highly sought after in recent years due to multiple catalysts. In the second part of the keynote, we will talk about how RISC-V solutions address such market, some successful examples, and new technical challenges we should look into.
 
+*Bio*
 
+*Dr. Charlie Su is a Cofounder, President and CTO of Andes, a 18-year pure-play CPU IP vendor. Charlie’s main focus is on product definition, development and promotion. He spent over 12 years in the Silicon Valley with various technical and management positions at Sun Microsystems, Afara Websystems, C-Cube Microsystems, SGI/MIPS, and Intergraph. He made key contributions to several successful processors such as the Sun multi-core multi-threading Ultrasparc T1 and T2 processors, the C-Cube high-performance E-series MPEG media processors, the MIPS out-of-order R10K processor, and the Intergraph Clipper VLIW processor. Prior to starting Andes, he led the CPU and DSP development in Faraday Technology as Chief Architect. Charlie obtained his Ph.D. in CS from the University of Illinois at Urbana-Champaign, M.S. in CS from National Tsing-Hua University, and B.S. in EE from National Taiwan University.*
 
 #### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
