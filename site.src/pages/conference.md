@@ -1032,7 +1032,7 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 #### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
-Bruno Sá -- University Of Minho
+Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 *Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ.pdf).*
 
