@@ -573,7 +573,7 @@ in 2013.*
 
 #### Franck Bernard -- The RISC-V opportunity in Automotive Electronics
 
-Franck Bernard, Bosch.
+Franck Bernard, System and Innovation - ADAS & Driving Assistance - IC Design and SW development, Bosch.
 
 **Abstract**
 
