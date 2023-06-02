@@ -597,6 +597,15 @@ RISC-V ecosystem to address its computing needs across both hardware
 and software, as well as key considerations such as Functional Safety
 and Security, in both the short and long term.
 
+*Bio*
+
+*Franck Bernard holds an Engineer degree in control processing from Grenoble INP and a Master of Sciences in image processing from Paris Telecom Engineering school (ENST).
+He started his career as researcher at Philips Electronic Lab in 1990 working in medical imaging before moving as system architect mgr for 3G Chips still with Philips.
+He moved to semiconductor business in 2002 as Program Manager for the 3G modem with Philips Semiconductor,
+and was appointed as director of IC development for 4G modem with NXP and then with ST-Ericsson.
+Joining STMicroelectronics in 2012, he was managing the development of Smart Rear Camera IC, and spent 2 years as technical marketing manager in the STMicroelectronics ASIC business before joining Bosch Automotive Electronics in 2015.
+Since then he is deputy manager of the EIY group in charge of developing Digital IPs and System on Chips for the automotive business.*
+
 
 #### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
