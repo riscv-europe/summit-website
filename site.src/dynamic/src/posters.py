@@ -45,9 +45,22 @@ def posters_of_day(day):
             # Format the poster location on the conf. floor.
             print(f'\n*Location: {row["MR"]} #{row["Poster board"].strip()}.*')
 
+            media = []
+
             # Format the links to abstracts and posters."
             if row['HasAbstract'] == 'Y':
-                print(f'*Links: [extended abstract](media/proceedings/posters/{row["BaseFileName"]}-abstract.pdf).*\n')
+                media.append(f'[extended abstract](media/proceedings/posters/{row["BaseFileName"]}-abstract.pdf)')
+
+            if row['HasPoster'] == 'Y':
+                media.append(f'[poster](media/proceedings/posters/{row["BaseFileName"]}-poster.pdf)')
+
+            if not media == []:
+                if len(media) == 1:
+                    print(f'*Link: {", ".join(media)}.*')
+                elif len(media) == 2:
+                    print(f'*Links: {", ".join(media)}.*')
+
+            print(f'')
 
             # Format abstract and bio.
             if row['Final abstract'] != "":
