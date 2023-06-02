@@ -1079,7 +1079,11 @@ hear from members of the global community on how they address culture. create hi
 
 **Topic**
 
-(TBD).
+In recent years, the importance of semiconductor chip design and production in Europe has grown. Amidst the global chip shortage and geopolitical tensions, Europe has realized its significant dependency on technologies, which serve as the backbone for myriad industries ranging from automotive to industrial electronics, healthcare, and more.
+
+European actors from industry and academia have been very active and involved in R&D around RISC-V from its early days, and the importance of RISC-V has led to various research projects over the last years. RISC-V has been identified as an important piece in the puzzle of the future of chips in Europe.
+
+In this panel, panelists from the European Commission and leading research institutions along with both established semiconductor companies and RISC-V focused startups will discuss the state of RISC-V in Europe and future directions.
 
 **Panelists**
 
