@@ -158,7 +158,15 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">17:30</span> - <span class="schedule-title">Automotive/Embedded Panel</span>
+  <span class="schedule-time">17:30</span> - <span class="schedule-title">What’s the reality of RISC-V in automotive?</span> -
+  <span class="schedule-author">
+  Nitin Dahad, embedded.com (moderator).
+  Andrew Frame, SiFive.
+  Travis Lanier, Ventana.
+  Peter Lewin, Imagination. 
+  Charlie Su, Andes.
+  Itai Yarom, MIPS
+  </span>
   </div>
   </div>
 
