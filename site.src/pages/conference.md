@@ -113,7 +113,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <span class="schedule-time">15:00</span> - <span class="schedule-author">Franz Fuchs, University of Cambridge</span> - <span class="schedule-title">Mitigating Transient-Execution Attacks with CHERI Compartments</span>
   </div>
   <div class="schedule-entry">
-  <span class="schedule-time">15:15</span> - <span class="schedule-author">Jimmy Le Rhun, Thales Research and Technology</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span> - [Details](#jimmy-le-rhun-safe-secure-and-reliable-computing-with-the-noel-v-processor-from-the-de-risc-h2020)
+  <span class="schedule-time">15:15</span> - <span class="schedule-author">Jimmy Le Rhun, Thales Research and Technology</span> - <span class="schedule-title">Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and onward</span> - <a href="#jimmy-le-rhun-safe-secure-and-reliable-computing-with-the-noel-v-processor-from-the-de-risc-h2020">Details</a>
   </div>
   </div>
 
@@ -1041,7 +1041,7 @@ Luca Lingardo, NXP.
 
 #### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
 
-Jimmy Le Rhun, Frontgrade Gaisler.
+Jimmy Le Rhun, Thales Research and Technology.
 
 *Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf).*
 
