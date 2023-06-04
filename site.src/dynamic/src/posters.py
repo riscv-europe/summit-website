@@ -43,7 +43,7 @@ def posters_of_day(day):
                 print(f', {row["Rest of the authors"]}.')
 
             # Format the poster location on the conf. floor.
-            print(f'\n*Location: {row["MR"]} #{row["Poster board"].strip()}.*')
+            print(f'\n*Location: #{row["Poster board"].strip()} {row["MR"]}.*')
 
             media = []
 
@@ -72,7 +72,7 @@ def posters_of_day(day):
 
 with open('gdocs/authors-info.csv') as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=',')
-    csv_sorted = sorted(csv_reader, key=lambda row: row['Last Name'].lstrip(" abcdefghijklmnopqrstuvwxyz"))
+    csv_sorted = sorted(csv_reader, key=lambda row: int(row['Poster board']) )
     line_count = 0
     print(f'')
     print(f'## Posters on Display Tuesday June 6th')
