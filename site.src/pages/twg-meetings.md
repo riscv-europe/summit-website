@@ -24,9 +24,9 @@ required**.
 </tr>
 <tr>
 <th>Room</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
+<th>MR01</th>
+<th>MR02</th>
+<th>MR03</th>
 </tr>
 </thead>
 <tbody>
