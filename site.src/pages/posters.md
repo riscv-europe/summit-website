@@ -161,6 +161,7 @@ Balaji Chegu (Microchip, Bangalore, India)
 , Prakash Reddy Battu, Yogesh Agrawal, Arun Naik.
 
 *Location: #7 MR07-08.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Balaji-CHEGU-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Balaji-CHEGU-poster.pdf).*
 
 
 **Summary**
@@ -405,7 +406,7 @@ Jonas Schupp (Technical University Of Munich, Munich, Germany)
 , Patrick Karl, Georg Sigl.
 
 *Location: #27 MR12-13-14.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-06-Jonas-SCHUPP-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Jonas-SCHUPP-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Jonas-SCHUPP-poster.pdf).*
 
 
 **Summary**
@@ -584,7 +585,7 @@ In this talk, we will present the newly EU-funded project AERO (Accelerated EU C
 Pierre Ravenel (Kalray, Grenoble, France)
 
 *Location: #40 MR12-13-14.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-06-Pierre-RAVENEL-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Pierre-RAVENEL-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Pierre-RAVENEL-poster.pdf).*
 
 
 **Summary**
@@ -620,7 +621,7 @@ Both software and physical attacks are serious threats for Internet of Things (I
 Sylvain Lefebvre (Inria, Villers-les-nancy, France)
 
 *Location: #2 MR07-08.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Sylvain-LEFEBVRE-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Sylvain-LEFEBVRE-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Sylvain-LEFEBVRE-poster.pdf).*
 
 
 **Summary**
@@ -759,7 +760,7 @@ Stepan Nassyr (Forschungszentrum Juelich Gmbh, Aachen, Germany)
 , Kaveh Haghighi Mood, Andreas Herten.
 
 *Location: #11 MR05-06.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Stepan-NASSYR-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Stepan-NASSYR-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Stepan-NASSYR-poster.pdf).*
 
 
 **Summary**
@@ -1069,7 +1070,7 @@ Fatima Saleem (10xengineers, Lahore, Pakistan)
 , UMER IMRAN, Quswar Abid, Kamran Malik.
 
 *Location: #34 MR12-13-14.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Fatima-SALEEM-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Fatima-SALEEM-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Fatima-SALEEM-poster.pdf).*
 
 
 **Summary**
@@ -1394,7 +1395,7 @@ Arthur Perais (CNRS, Grenoble, France)
 , Mathieu Bacou, Adam Chader, Chandana Deshpande, Christian Fabre, César Fuguet Tortolero, Pierre Michaud, Frédéric Pétrot, Gaël Thomas, Eduardo Tomasi Ribeiro.
 
 *Location: #14 MR05-06.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Arthur-PERAIS-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Arthur-PERAIS-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Arthur-PERAIS-poster.pdf).*
 
 
 **Summary**
@@ -1641,6 +1642,10 @@ Gerardo Bandera Burgueño (University of Malaga)
 
 HUB format is an emerging technique to improve the hardware and time requirement when round to nearest is needed. On the other hand, RISC-V is a open source ISA that an important number of companies are using in their designs currently. In this paper we present a tailored floating point HUB adder that has been implemented in the Sargantana RISC-V processor.
 
+*Bio*
+
+*Gerardo Bandera-Burgueño received the M.Sc. degree in Computer Engineering and the Ph.D. degree in Computer Science from the University of Málaga, Spain, in 1994 and 1999, respectively. In 1994 he was Assistant Professor of the Department of Computer Architecture at the University of Málaga. Since 2001 he is Associate Professor. In addition to regular courses, he has taught several international summer courses and some CISCO and NVIDIA seminars, where he is a certified lecturer. His research interests include heterogeneous and high-performance computing, computer arithmetic, and architectures for vector processing. He has more than 30 contributions to international journals, conferences, and book chapters, and has participated in more than 20 national and international research projects. He has led more than 10 R&D projects with international companies.*
+
 
 ### Riccardo Alidori -- Hardware Support for Variable Precision Floating Point Formats Exploration
 
@@ -1752,7 +1757,7 @@ Nils Wistoff (ETH Zürich, Zürich, Switzerland)
 , Gernot Heiser, Luca Benini.
 
 *Location: #39 MR12-13-14.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Nils-WISTOFF-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Nils-WISTOFF-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Nils-WISTOFF-poster.pdf).*
 
 
 **Summary**
