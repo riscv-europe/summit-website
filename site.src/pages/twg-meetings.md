@@ -93,7 +93,7 @@ required**.
 <tr>
 <td>17:45</td>
 <td rowspan="2" style="background:var(--riscv-lp);">[ACT Plans and Challenges](#act-plans-and-challenges)</td>
-<td>Close</td>
+<td rowspan="2" style="background:var(--riscv-ly);">Graphics SIG</td>
 </tr>
 <tr>
 <td>18:00</td>
