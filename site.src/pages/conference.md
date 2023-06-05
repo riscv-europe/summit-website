@@ -233,6 +233,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">12:00</span> - <span class="schedule-author"> Dave Ditzel, founder and CTO of Esperanto Technologies</span> - <span class="schedule-title">RISC-V's revolutionary role for simultaneously supporting machine learning and HPC</span>
+  - <a href="#Dave-DITZEL">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">12:15</span> - <span class="schedule-author"> Umair Riaz, BSC</span> - <span class="schedule-title">MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator</span>
@@ -1089,6 +1090,37 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 ### Technical Talks
 
+
+<a id="Dave-DITZEL"/>
+
+#### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
+
+Dave Ditzel, Esperanto Technologies.
+
+**Abstract**
+
+High-end computing is undergoing revolutionary change. After many
+years of most high-end computers being used to serve web pages, the
+last decade saw a remarkable growth in the use of machine
+learning. Separately, HPC computers continued to grow peak flop rates,
+but system design was largely constrained to x86 server CPUs coupled
+with GPU accelerators. The thesis of this presentation is that the
+rise of generative-AI system is the final tipping point that will push
+for merged ML/HPC system design, and that RISC-V is well positioned to
+be able to take a leading role in this revolution.
+
+*Bio*
+
+*A well-known entrepreneur and visionary in the computer and
+semiconductor industry, Dave was founder and CEO of Transmeta, maker
+of low power x86 microprocessors, raising over $600M from startup to a
+$6B IPO. Dave co-authored “The Case for RISC,” along with professor
+David Patterson. Previously, Dave was a vice president at Intel
+Corporation, leading advanced processor projects, and CTO at Sun
+Microsystems for the SPARC Technology Business. After earning a degree
+in Electrical Engineering and a separate degree in Computer Science,
+Dave did his graduate work at U.C. Berkeley under professor David
+Patterson.*
 
 #### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
 
