@@ -1119,6 +1119,18 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 ### Panels
 
+#### Pannel -- What’s the reality of RISC-V in automotive?
+
+**Pannelists**
+
+ - Nitin Dahad, embedded.com (moderator).
+ - Andrew Frame, SiFive.
+ - Travis Lanier, Ventana.
+ - Peter Lewin, Imagination.
+ - Charlie Su, Andes.
+ - Itai Yarom, MIPS
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 #### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
