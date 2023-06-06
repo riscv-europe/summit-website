@@ -10,7 +10,7 @@ import csv
 
 def posters_of_day(day):
     for row in csv_sorted:
-        if row['Presentation Type'] == 'Poster' and row['Day (Poster)'] == day:
+        if (row['Presentation Type'] == 'Poster' or row['Presentation Type'] == 'Oral') and row['Day (Poster)'] == day:
             PaperTitle = row["Paper Title"].replace("\n","")
             print(f'### {row["First Name"]} {row["Last Name"]} -- {PaperTitle}')
             print(f'')
