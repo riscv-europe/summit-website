@@ -259,6 +259,42 @@ More integrated systems come at the price of harder predictability and determini
 *Raúl de la Cruz is a Sr. Principal Research Engineer in the Connected & Real-Time Systems (CRS) group at Collins ART-Ireland with strong interests on high performance computing, performance analysis and computer architecture topics. He was a permanent PostDoc researcher in the CASE department at the Barcelona Supercomputing Center (BSC), the national supercomputing center in Spain, before joining Collins Aerospace in 2020. He has collaborated in different European H2020 funded projects such as MASTECS, LEGaTO, GrowSmarter and PRACE; and has also participated in joint collaboration projects with private companies such as Mitiga Solutions, IBM and Repsol. Currently, he is actively working on projects that will ease the adoption of MPSoCs and heterogeneous computing platforms in the aerospace domain providing safety measures for mixed-critical applications. He holds a BSc in Computer Science and a PhD on Computer Architecture from Polytechnic University of Catalonia, Spain.*
 
 
+### Stefano Mercogliano -- Enabling Virtualization on RISC-V Microcontrollers
+
+Stefano Mercogliano (Unina, Napoli, Italy)
+, Daniele Ottaviano, Alessandro Cilardo.
+
+*Location: #13 MR05-06.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Stefano-MERCOGLIANO-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Stefano-MERCOGLIANO-poster.pdf).*
+
+
+**Summary**
+
+This paper briefly provides the main motivations and goals to enable isolation and virtualization on MMU-less devices, introducing a high-level description of an extension meant to support virtualization on RISC-V microcontrollers through a set of new hardware mechanisms, concluding with an outline of our future directions.
+
+*Bio*
+
+*I am a PhD student from the Department of Electrical Engineering and Information Technologies, University of Naples Federico II with a strong passion in computer architectures, low level programming, trekking and boardgames. My research interests revolve around microcontrollers security & safety along with bioinformatics genome-based workloads in the HPC domain. Since the beginning of my PhD I joined the world of open-source architectures with the RISC-V initiative to add my contribution to the low-level devices of the future.*
+
+
+### Anthony Zgheib -- Enhancing the RISC-V Trace Encoder to verify the control-flow and code execution integrity
+
+Anthony Zgheib (CEA Leti, Aix-en-provence, France)
+, Pierre-alain Moellic, Olivier Potin, Jean-Baptiste Rigaud, Jean-Max DUTERTRE.
+
+*Location: #14 MR05-06.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Anthony-ZGHEIB-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Anthony-ZGHEIB-poster.pdf).*
+
+
+**Summary**
+
+This paper presents control-flow and code execution integrity solutions for programs running on RISC-V cores. Our solutions are based on the RISC-V Trace Encoder (TE) that provides information about the execution path of the user’s program. A first approach is compliant with the RISC-V TE standard. It detects instruction skip attacks on function calls and their returns and, attacks on branch instructions. A second approach implies an evolution of the TE specifications that permits to detect more complex fault models as the corruption of any discontinuity instruction. It covers more security properties as the program execution integrity. Our TE-based solutions were implemented on an IBEX RISC-V core and have efficiently detected simulated and experimental Fault Injection Attacks (FIA). Our verification systems do not modify the RISC-V Instruction Set Architecture (ISA), the compilation process or the user code.
+
+*Bio*
+
+*I received an engineering master degree in microelectronics and computer science from Mines Saint-Etienne (EMSE) school, France, in 2019. I am a Ph. D. candidate at EMSE in the Secured Architectures and Systems (SAS) research department, which is part of a joint R&D team with the CEA Leti. My research interests are in the areas of control-flow and programs execution verification, fault injection attacks and RISC-V cores*
+
+
 ### Darek Palubiak -- Evaluation of critical flip-flops in RISC-V cores using fault injection for improved single-event-upset resilience
 
 Darek Palubiak (Cadence Design Systems, Cork, Ireland)
@@ -277,13 +313,27 @@ In this paper, we present the application of fault injection simulations to iden
 *Darek Palubiak received the PhD degree in 2016 from McMaster University, Hamilton, Ontario, Canada for his work on CMOS single photon sensors. From 2015-2017 Darek worked at Envirosen, a startup company in Toronto Canada designing CMOS image sensor chips. In 2017 he joined SensL in Cork, Ireland to lead their development of CMOS LIDAR sensors. Following acquisition by Onsemi in 2018, his role expanded to include management of Functional Safety activities. In July 2021 Darek joined Cadence Design Systems in Cork where he is currently developing verification methodologies for security and safety applications.*
 
 
+### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
+
+Daniele Rossi (University of Pisa, Pisa, Italy)
+, Nicasio Canino, Stefano Di Matteo, Sergio Saponara.
+
+*Location: #16 MR05-06.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Daniele-ROSSI-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Daniele-ROSSI-poster.pdf).*
+
+
+**Summary**
+
+System Reliability, Availability and Serviceability (RAS) are major properties in any High Performance Computing systems. An essential feature to improve RAS is represented by facilities to log hardware errors information and report it to system software. We present here the main characteristics of a HW-SW interface that we have developed to improve RAS of RISC-V architectures. We describe the main building blocks of the proposed peripheral that can be adopted in both 32- and 64-bit RISC-V architectures, their main characteristics, and the set of registers that are used to log and report main error information. Finally, an FPGA-based test platform developed to validate the proposed RAS peripheral is briefly discussed.
+
+
 ### Warren Chen -- Latency Reduction in a System with IOPMP
 
 Warren Chen (Andes Technology, Hsinchu, Taiwan)
 , Paul Shan-Chyun Ku.
 
 *Location: #17 MR05-06.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-06-Warren-CHEN-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Warren-CHEN-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Warren-CHEN-poster.pdf).*
 
 
 **Summary**
@@ -303,6 +353,41 @@ Karim Ait Lahssaine (Cea, Grenoble, France)
 **Summary**
 
 In this paper, we present the Memory Authenticated Encryption Engine (MAEE) hardware countermeasure to ensure the confidentiality and authenticity of data in RAM and the associated interconnect bus. Using the Subterranean 2.0 authenticated encryption algorithm, data used by a processor is secured at the output of cache memory, and stored in memory as chunks, containing encrypted data and metadata for authenticity verification. The MAEE provides protection against attacks targeting the memory and its bus, such as Rowhammer, fault injections or side-channel attacks. We are also evaluating the performance of this countermeasure, by associating it with the RISC-V CVA6 application core.
+
+
+### Franz Fuchs -- Mitigating Transient-Execution Attacks with CHERI Compartments
+
+Franz Fuchs (University Of Cambridge, Cambridge, United Kingdom)
+, Jonathan Woodruff, Peter Rugg, Simon W. Moore.
+
+*Location: #19 MR05-06.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-06-Franz-FUCHS-abstract.pdf).*
+
+
+**Summary**
+
+We propose to use and extend CHERI compartments in order to mitigate transient-execution attacks. These attacks have presented a major threat in recent years, driving deployment of software mitigations and research into hardware solutions. We envision that the additional state provided by CHERI capabilities and compartments presents a viable way to solve transient-execution attacks on an architectural level. In this poster, we want to show how we can extend and use the CHERI protection model for that.
+
+*Bio*
+
+*Franz Fuchs is a second-year PhD student at the University of Cambridge Department of Computer Science and Technology supervised by Prof. Simon Moore. He has a broad interest in security with his research focus on transient-execution attacks. Franz has engaged in research to conduct attacks on a superscalar, out-of-order CHERI processor and concentrates currently on defence mechanisms for capability machines. He is leading the efforts for enforcing compartmentalisation in microarchitectures within the CHERI-RISC-V project. Franz received the MSc degree in Computer Science from KTH Royal Institute of Technology and the BSc degree in Informatics from Technical University of Munich.*
+
+
+### Abdoulaye Berthe -- RISC-V Trusted MCU for Functional Safety Applications
+
+Abdoulaye Berthe (Low Power Futures, Toronto, Canada)
+
+*Location: #20 MR05-06.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-06-Abdoulaye-BERTHE-abstract.pdf).*
+
+
+**Summary**
+
+This paper presents a RISC-V Trusted microcontroller unit (MCU) architecture for functional safety applications. The proposed architecture targets both ASIC and FPGA implementations. The architecture is based on asymmetrical dual core configuration to enable efficient power saving and hardware isolation mechanisms to support Trusted Execution Environment (TEE) and integrated Secure Element (SE). The application core in the architecture implements various reliability and redundancy features including, protocol hardening, fault detection and alerts. Bus protocol hardening, fault detection and parity check on memories have been extended to the entire architecture to ensure reliable operations across the MCU. The architecture also includes a security engine with advanced cryptographic services and secure key management using a Physical Unclonable Function.
+
+*Bio*
+
+*Dr. Berthe has a Ph. D. in Wireless Communication with more than 10 years of industry experience. Since 2020 he has been working with Low Power Futures to design and implement low power wireless baseband processors and efficient hardware acceleration engines for resource-constrained RISC-V IoT endpoints.*
 
 
 ### Luis Felipe Rojas Muñoz -- Root of Trust Components to Increase Security  of RISC-V Based Systems on Chips
@@ -454,6 +539,24 @@ Fault-tolerant systems are typically designed for worst-case scenarios and offer
 *Junchao Chen received the Dr.-Ing degree from the University of Potsdam, Germany, in 2023, on the topic of "A Self-adaptive Resilient Method for Implementing and Managing High-reliability Processing Systems." Since 2018, he has been a member of Prof. Milos Krstic's "Fault-tolerance Computing" research group at IHP Microelectronics in Frankfurt (Oder), Germany. His research interests include self-adaptive fault-tolerance mechanisms, radiation-induced effects, high-reliability system design, and agile hardware development. Throughout his academic career, he has participated in several international and national research projects. He has published over 20 journal and conference papers and has been granted one patent.*
 
 
+### Angeliki Kritikakou -- Time-Bounded Error Mitigation through Dual-Core Lockstep RISC-V using HLS
+
+Angeliki Kritikakou (University of Rennes, Irisa, INRIA)
+, Pegdwende Romaric Nikiema, Marcello Traiola, Olivier Sentieys.
+
+*Location: #30 MR 12+13+14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Angeliki-KRITIKAKOU-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Angeliki-KRITIKAKOU-poster.pdf).*
+
+
+**Summary**
+
+Real-time safety-critical embedded system must guarantee both reliable and in-time execution. The increasing complexity of embedded systems, alongside with the technology size reduction, makes modern processors more vulnerable to faults. Faults can impact not only the functional correctness of the application, but also the timing correctness, which is of paramount importance for safety-critical systems. To expose the fault impact, we enhance vulnerability analysis to include not only functional, but also timing correctness, and show that faults impact Worst-Case Execution Time (WCET) estimations. Common techniques to deal with faults, such as watchdog timers and re-execution, have large timing overhead for error detection and correction. As a remedy, we design reliable RISC-V cores using High Level Synthesis (HLS) with two mechanisms that perform lock-step execution with bounded WCET overhead.
+
+*Bio*
+
+*Angeliki Kritikakou is an Associate Professor at University of Rennes, France, and IRISA - Inria centre at Rennes University since 2014. She obtained the HDR from University of Rennes, France, in 2022. She received the Ph.D. degree from the Dep. Electrical and Computer Engineering, Univ. Patras, Greece, in collaboration with IMEC Research Center, Belgium, in 2013, and her M.Sc degree from Dep. Electrical and Computer Engineering, Univ. Patras, Greece, in 2009. She is the scientific responsible of ANR JCJC FASY research project. Her research interests include embedded system design, reliability, real-time systems, design space exploration methodologies and run-time management techniques.*
+
+
 ### Junchao Chen -- Towards High-Reliability Systems Design using Agile Hardware Development Flow
 
 Junchao Chen (IHP-Innovations for High Performance Microelectronics, Frankfurt Oder, Germany)
@@ -578,6 +681,23 @@ In this talk, we will present the newly EU-funded project AERO (Accelerated EU C
 *Bio*
 
 *Juan Fumero is a Research Fellow working as part of the Advanced Processor Technologies (APT) Research Group at The University of Manchester on Heterogeneous Virtual Machines and language runtime systems for the acceleration of applications using Graphics Processing Units (GPUs) and Field Programmable Gate Arrays (FPGAs). He is also the software architect of the TornadoVM project. Currently, he collaborates with Intel to bring oneAPI into the TornadoVM framework to perform optimisations for Intel compute architectures (xPUs). He is also an Intel Innovator, and he participates in the Level Zero Technical Advisory Board for helping to shape the next versions of the Level Zero APIs for managed runtime programming languages.*
+
+
+### Jeremy Bennett -- The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chains
+
+Jeremy Bennett (Embecosm, Southampton, United Kingdom)
+
+*Location: #39 MR12-13-14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Jeremy-BENNETT-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Jeremy-BENNETT-poster.pdf).*
+
+
+**Summary**
+
+CORE-V is a family of RISC-V processor cores available as free silicon IP from the Open Hardware Group (abbreviated here as OpenHW Group). The OpenHW Group is a consortium of 102 industrial, academic and other organizations creating free and open source RISC-V IP that is verified and commercially robust. The CORE-V family makes heavy use of both non-standard and standard ISA extensions. In this talk we look at the challenges is creating the software tool chains to go alongside this silicon IP and present a series of lessons learned. This talk is illustrated by reference to both GCC and Clang/LLVM tool chains for CORE-V, particularly the 32-bit CV32E40Pv2 processor.
+
+*Bio*
+
+*Jeremy Bennett is Chief Executive of Embecosm, a consultancy specializing in complex open source software, best known for its work on compilers, processor modeling and AI/ML. He is also Chair of the Software Task Group of the Open Hardware Group. Dr Bennett is author of the standard textbook "Introduction to Compiling Techniques" (McGraw-Hill 1990, 1995, 2003).  He holds an MA and PhD from the University of Cambridge.*
 
 
 ### Pierre Ravenel -- A gem5-based CVA6 Framework for Microarchitectural Pathfinding
@@ -718,6 +838,24 @@ HPC applications are demanding more specialized accelerators to tackle with thei
 *Xabier Abancens got his Master in Telecommunication Engineering in 2013 by the University of Navarra. After that he worked as hardware engineer in different institutions, such as the Franunhofer ISS, and Alor Tech. In 2022 he joined Barcelona Supercomputing Center, and since that he has been working in the MEEP project as RTL team leader.*
 
 
+### Umair Riaz -- MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator
+
+Umair Riaz (Barcelona Supercomputing Center, Barcelona, Spain)
+, Luis A. Plana, Peter Wilson, John Davis.
+
+*Location: #8 MR07-08.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Umair-RIAZ-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Umair-RIAZ-poster.pdf).*
+
+
+**Summary**
+
+The performance of Machine learning and graph-based applications is hampered by the inefficient use of memory bandwidth caused by their sparse access patterns. In order to improve bandwidth utilization in a RISC-V based vector accelerator, the Memory Engine for Decoupled Execute/Access (MEDEA) combines a hardware engine that handles vector loads and stores efficiently with a dedicated core that supports memory-intensive operations such as spinlocks and memcpy. Although work on MEDEA is still in progress, simulations show that it can have a large impact on the performance of sparse-memory applications such as SpMV.
+
+*Bio*
+
+*Umair Riaz is an RTL Design Engineer at Barcelona Supercomputing Center, working within European Exascale Accelerator (EEA) group mainly focused on using RISC-V ISA. He has been working across RISC-V hardware design for a couple of years. He holds a bachelor’s degree in Electronic Engineering from the University of Engineering and Technology (UET), Taxila, Pakistan, in 2018. Since then, he has joined the hardware design industry, working around digital systems targeting FPGA and ASIC. Most of his work has been around developing the RTL of digital designs, including RISC-V-based processors.*
+
+
 ### Marco Bertuletti -- Parallel Sparse Deep Learning Operators on Lightweight RISC-V Processors
 
 Marco Bertuletti (ETH Zurich, Zurich, Switzerland)
@@ -770,6 +908,19 @@ A novel generator is used to generate highly optimized, architecture-specific mi
 *Bio*
 
 *After studying physics at the Bergische Universität Wuppertal, Stepan Nassyr joined the Juelich Supercomputing Centre in July 2017 to work on his PhD dealing with future supercomputer architectures with a focus on ARM. As part of the application oriented technology group at the Juelich Supercomputing Centre he has worked extensively with the ARM ecosystem and the ARM SVE extension, focusing mostly on hand-written assembly kernels and the requirements to the microarchitecture and memory architecture to effectively exploit the available compute capabilities in the context of HPC applications. Recently he joined the EUPILOT project to work on RISC-V RVV implementations of numerical libraries*
+
+
+### David Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
+
+David Ditzel (Esperanto Technologies Europe, S.L.U., Madrid, Spain)
+
+*Location: #12 MR05-06.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-07-David-DITZEL-abstract.pdf).*
+
+
+**Summary**
+
+High-end computing is undergoing revolutionary change. After many years of most high-end computers being used to serve web pages, the last decade saw a remarkable growth in the use of machine learning. Separately, HPC computers continued to grow peak flop rates, but system design was largely constrained to x86 server CPUs coupled with GPU accelerators. The thesis of this presentation is that the rise of generative-AI system is the final tipping point that will push for merged ML/HPC system design, and that RISC-V is well positioned to be able to take a leading role in this revolution.
 
 
 ### Eduardo Tomasi Ribeiro -- Towards Simulation of an Unified Address Space for 128-bit Massively Parallel Computers
@@ -866,6 +1017,20 @@ Karol Gugala (Sweden)
 
 
 
+### Yifei Zhu -- GreenRio: A Linux-Compatible RISC-V Processor Designed for Open-Source EDA Implementations
+
+Yifei Zhu (RIOS Lab, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, Shenzhen, China)
+, Xinze Wang, Guohua Yin, Zhangxi Tan.
+
+*Location: #19 MR05-06.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Yifei-ZHU-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Yifei-ZHU-poster.pdf).*
+
+
+*Bio*
+
+*a bachelor-straight-to-doctorate student of the RISC-V International Open Source Laboratory (RIOS Lab), Tsinghua University and advised by Dr. Zhangxi Tan. Yifei Zhu received her bachlor degree in Communication Engineering, from UESTC in China. Her research interests include Computer Architecture Design, Machine Learning application in EDA*
+
+
 ### Manuel Rodríguez -- Open-source RISC-V Input/Output Memory Management Unit (IOMMU) IP
 
 Manuel Rodríguez (Centro ALGORITMI/LASI, Universidade Do Minho, Guimarães, Portugal)
@@ -882,6 +1047,38 @@ This work describes the design and implementation of an open-source IOMMU IP com
 *Bio*
 
 *Manuel Rodríguez received a Bachelor's degree in Electronic and Computer Engineering in 2021. He is currently pursuing an M.Sc. degree working in the Embedded Systems Research Group, at the University of Minho, Portugal, specializing in the Embedded Systems and Micro/Nanotechnologies fields. His areas of interest include computer architecture, hardware design, embedded virtualization, operating systems and automotive." Contact him at pg47436@alunos.uminho.pt.*
+
+
+### Marton Bognar -- Proteus: An Extensible RISC-V Core for Hardware Extensions
+
+Marton Bognar (imec-DistriNet, KU Leuven, Leuven, Belgium)
+, Job Noorman, Frank Piessens.
+
+*Location: #21 MR12-13-14.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-07-Marton-BOGNAR-abstract.pdf).*
+
+
+**Summary**
+
+We present Proteus, an open-source RISC-V processor designed to allow rapid prototyping and evaluation of hardware extensions. This goal of making it easy to extend the processor’s functionality and change its microarchitecture is enabled by making Proteus configurable in many parameters and using a plugin system for its functionality. Building on these plugins, Proteus features textbook implementations of an in-order and an out-of-order pipeline. We implement Proteus in SpinalHDL, which generates Verilog code that can run in a simulator or be synthesized to an FPGA, enabling rapid development and testing. This paper briefly introduces the processor’s design and showcases hardware security extensions implemented on Proteus.
+
+*Bio*
+
+*Marton is a Ph.D. candidate at the DistriNet research group of KU Leuven under the supervision of Frank Piessens. His interest lies in the intersection of hardware design, side-channel attacks, and formal verification. He is active in offensive and defensive research, contributing to projects on side-channel attacks on commercial processors and web browsers; and building hardware extensions to protect software from speculative attacks and more.*
+
+
+### Thomas Benz -- Puma: An End-to-End Open-Source Linux-capable RISC-V SoC in 130nm CMOS
+
+Thomas Benz (ETH Zurich, Zurich, Switzerland)
+, Paul Scheffler, Jannis Schönleber, Luca Benini.
+
+*Location: #22 MR12-13-14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Thomas-BENZ-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Thomas-BENZ-poster.pdf).*
+
+
+**Summary**
+
+Open-source architecture design and register-transfer level (RTL) descriptions, particularly around RISC-V, have made huge strides in the past decade. While open-source physical design and implementation are still lagging behind by comparison, they have recently been catching up: open EDA tools are nearing feature completeness, and some proprietary PDKs are being opened. We present Iguana, the first end-to-end open-source Linux-capable, 64-bit RV64GC, RISC-V System-on-Chip (SoC). Scheduled to tape out in IHP’s 130nm technology, which is currently being open-sourced, Iguana sets important milestones for both open-source silicon and European silicon sovereignty. It implements our Cheshire architecture, which uses IP-based high-level synthesis (iHLS) to generate SoCs from carefully designed, silicon-proven open-source IPs. It includes a variety of standard peripherals, a DRAM controller, VGA display output, and a parallel die-to-die link. Cheshire, all its IPs and physical layers (PHYs) are released under a liberal Apache-based license. We implement Iguana with a fully open RTL-to-GDS toolchain, using established tools where possible and filling gaps with our open tools. Iguana is not a one-shot, but the first in a series of SoCs we will progressively extend and improve on. Furthermore, we have pre-validated our architecture through an FPGA mapping and a tested silicon prototype in TSMC’s proprietary 65nm node.
 
 
 ### Jérôme Quévremont -- Recent Achievements of the Open-Source CVA6 Core: FPGA Optimizations, Coprocessor Acceleration, Yocto Linux Support
@@ -943,7 +1140,7 @@ This abstract presents X-HEEP, an open-source, configurable, and extensible sing
 Quentin Schibler (École Normale Supérieure Paris-Saclay, Cambridge, United Kingdom)
 
 *Location: #26 MR12-13-14.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Quentin-SCHIBLER-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Quentin-SCHIBLER-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Quentin-SCHIBLER-poster.pdf).*
 
 
 **Summary**
@@ -1163,13 +1360,40 @@ Jon Taylor (Imperas Software)
 
 
 
+### Gregory Chadwick -- Building commercially relevant open source silicon: The many aspects of Ibex
+
+Gregory Chadwick (Lowrisc Cic, Bristol, United Kingdom)
+, Andreas Kurth, Marno van der Maas, Harry Callahan.
+
+*Location: #40 MR12-13-14.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-07-Gregory-CHADWICK-1-abstract.pdf).*
+
+
+**Summary**
+
+Ibex [1] is an open source RV32IMCB CPU with a 2 or 3 stage pipeline (configurable at synthesis) targeting embedded and security applications. It started life as zero-riscy [2] from ETH Zürich who contributed it to lowRISC [3], and its development is now part of the OpenTitan [4] project. lowRISC’s aim with Ibex (as with all of the IP it maintains) is not only to make high quality RTL freely available under a permissive licence, but to ensure it meets the needs of commercial users with the goal of enabling wide-scale adoption of open source silicon designs. To achieve this, it is not enough to simply make the RTL available. The code needs to meet high quality standards, be in a form that is usable and familiar for industry, and to be credible. A core part of credibility is achieving full verification up to the standard required for commercial tape outs. Crucially the verification framework itself as well as test and coverage plans are fully open source so they can be properly scrutinised. Regular regression results are published to demonstrate IP maturity and underscore our long-term commitment to it. In this proposal we present the collaborative engineering lowRISC and the community have done on Ibex. There is an overview of the design and configuration options; details of the full UVM based testbench, test suite and coverage plan; and a discussion on lowRISC’s quality standards.
+
+*Bio*
+
+*Greg is the digital design lead at lowRISC, where he develops Ibex and works on the OpenTitan Project (an open silicon root of trust). His work at lowRISC includes SoC architecture, CPU design, security hardening and verification. He has close to 10 years experience in the silicon industry, having worked on the design of memory systems for A class CPUs at Arm and GPU design at Broadcom. He completed his Ph.D at the Cambridge Computer Laboratory (UK) in 2011 with the thesis ‘Communication centric, multi-core, fine-grained processor architecture’*
+
+
 ### Gert Goossens -- Taking the Risk out of Optimizing Your Own RISC-V Architecture Design
 
 Gert Goossens (Synopsys, Leuven, Belgium)
 , Patrick Verbist, Dominik Auras.
 
 *Location: #42 MR12-13-14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Gert-GOOSSENS-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Gert-GOOSSENS-poster.pdf).*
 
+
+**Summary**
+
+An important driver behind the growth of RISC-V is the ability to customize or create ISA and microarchitectural extensions to differentiate designs across application areas. This results in application-specific processors (ASIPs) composed of a RISC-V baseline architecture, extended with specialized datapaths and storage structures. Designing such extended processors can be challenging. First, deciding which extensions are best for the target application domain is not obvious. Second, software developers expect to get access to a high-quality software development kit (SDK) for the application-specific processor. Third, a reliable and efficient register-transfer level (RTL) implementation of the processor must become available for silicon implementation. This presentation will show how electronic design automation (EDA) tools can solve these challenges. ASIP Designer is Synopsys’ leading tool for the design of custom processors. It has been applied successfully by customers worldwide to design extended RISC-V processors for a multitude of application domains.
+
+*Bio*
+
+*Gert Goossens is a Senior Director of Engineering at Synopsys, where he is currently leading the company’s tool development group for Application-Specific Instruction-set Processors (ASIPs). Previously, he was a co-founder and the CEO of Target Compiler Technologies, the company that pioneered the concept of ASIP tools. Gert Goossens holds MS and Ph.D. degrees from KU Leuven, Belgium.*
 
 
 
@@ -1407,6 +1631,23 @@ High-performance architectures are increasingly heterogeneous and incorporate of
 *Arthur Perais is a full-time researcher at TIMA (Grenoble, France), focusing on general purpose high performance processor microarchitecture. He obtained his Ph.D. in 2015 from Inria at University of Rennes, and was previously a hardware engineer with Qualcomm and Microsoft until 2020.*
 
 
+### Andrei Warkentin -- Multi-ISA Firmware Compatibility – Bringing RISC-V and IHV Ecosystems Together
+
+Andrei Warkentin (Intel Corporation, South Elgin, United States)
+
+*Location: #15 MR05-06.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-08-Andrei-WARKENTIN-abstract.pdf).*
+
+
+**Summary**
+
+There are a number of challenges to a successful standards-based RISC-V ecosystem that enables PC and server-like designs. One important challenge is interoperability with the existing IHV device ecosystem. How can we bring familiar off-the-shelf PCIe devices, such as graphics, network, and storage adapters, to UEFI RISC-V systems with the same pre-boot experience seen on Intel 64 and SystemReady AArch64 platforms? This paper covers an emulation-based approach and presents MultiArchUefiPkg – an open-source solution.
+
+*Bio*
+
+*I am a Senior Principal Engineer at Intel Corporation, where I focus on RISC-V platform standards and systems software enablement. I have 17 years of industry experience as an OS generalist, primarily focused on operating system kernels, virtualization, porting/platform bring-up and firmware. I have spent 10 years in the 64-bit Arm ecosystem wearing the proprietary OS vendor hat as an architect for Arm SmartNIC-based Project Monterey and as the Arm Enablement Architect for the VMware ESXi hypervisor, contributing to the Arm standards-first interoperable ecosystem. I was one of the primary instigators for SystemReady ES (ACPI beyond servers) specifications and the subsequent reformatting of the Arm ServerReady specification brand into Arm SystemReady. The last few years I have in various capacities worked on RISC-V, again mostly with a focus on standards, interoperability, systems-level engineering/porting and firmware.*
+
+
 ### Paul Scheffler -- Accelerating Irregular Workloads with Cooperating Indexed Stream Registers
 
 Paul Scheffler (ETH Zurich, Zürich, Switzerland)
@@ -1561,13 +1802,49 @@ Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 *Guy Lemieux is a Professor in Computer Engineering at the University of British Columbia in Vancouver, Canada. Before that, he completed his PhD, MASc and BASc degrees at the University of Toronto. His PhD work established new methods for designing FPGA interconnect that are now routinely used at FPGA companies. In 2011, he co-founded VectorBlox Computing Inc., which was bought by Microchip in 2019. VectorBlox developed an FPGA-optimized accelerator that achieved speedups up to 10,000x by adding custom tensor instructions to RISC-V, ARM, MicroBlaze, and NIOS processors. He is a member of the IEEE P3109 committee on floating-point design for machine learning. In the RISC-V community, Guy has participated in the Vector and Cache Management Operation technical groups, and is co-chair of the SIG for Soft Processors.*
 
 
+### Guy Lemieux -- From CCX to CIX: A Modest Proposal for (Custom) Composable Instruction eXtensions
+
+Guy Lemieux (University Of British Columbia, Vancouver, Canada)
+, Jan Gray.
+
+*Location: #26 MR12-13-14.*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Guy-LEMIEUX-2-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Guy-LEMIEUX-2-poster.pdf).*
+
+
+**Summary**
+
+The RISC-V custom instruction encoding space is an unmanaged free-for-all, leading to conflicts and inconsistencies in opcodes, naming, discovery, error handling, context management, and other incompatibilities, that impair reuse of separately authored custom (instruction) extensions and their software libraries in one system. This fragments the RISC-V ecosystem into non-interoperable solution silos. To remedy this, the proposed RISC-V Composable Custom eXtensions (CCX) Specification defines a way to allow an unbounded number of composable custom extensions to coexist and mix-and-match in new systems. As RISC-V runs out of 32b encoding space, we forsee a similar concept applied to standard extensions, CIX.
+
+*Bio*
+
+*Guy Lemieux is a Professor in Computer Engineering at the University of British Columbia in Vancouver, Canada. Before that, he completed his PhD, MASc and BASc degrees at the University of Toronto. His PhD work established new methods for designing FPGA interconnect that are now routinely used at FPGA companies. In 2011, he co-founded VectorBlox Computing Inc., which was bought by Microchip in 2019. VectorBlox developed an FPGA-optimized accelerator that achieved speedups up to 10,000x by adding custom tensor instructions to RISC-V, ARM, MicroBlaze, and NIOS processors. He is a member of the IEEE P3109 committee on floating-point design for machine learning. In the RISC-V community, Guy has participated in the Vector and Cache Management Operation technical groups, and is co-chair of the SIG for Soft Processors.*
+
+
+### Andrei Ivanov -- RIVETS: An Efficient Training and Inference Library for RISC-V with Snitch Extensions
+
+Andrei Ivanov (ETH Zurich, Zurich, Switzerland)
+, Timo Schneider, Luca Benini, Torsten Hoefler.
+
+*Location: #27 MR12-13-14.*
+*Link: [extended abstract](media/proceedings/posters/2023-06-08-Andrei-IVANOV-abstract.pdf).*
+
+
+**Summary**
+
+The openness and customizability of RISC-V makes it a compelling platform for executing deep learning applications. We present a library of efficient deep learning kernels for RISC-V hardware, addressing the challenge of achieving optimal performance in both training and inference. The library adopts the Snitch extensions to RISC-V, adheres to the OneDNN interface, and offers portable baseline implementations as well as platform-specific optimizations. Our optimizations that leverage Snitch extensions allow us to achieve up to 0.87 flops per clock cycle. RIVETS is a valuable tool for deep learning practitioners and researchers using RISC-V, providing portability, compatibility with other frameworks, and a baseline for performance comparison.
+
+*Bio*
+
+*Andrei obtained his Bachelor's degree in Computer Science in 2017 and his Master's degree in Applied Mathematics and Physics in 2019 from the Moscow Institute of Physics and Technology in Russia. While pursuing his degrees, he worked in the laboratory of Applied Computational Geophysics, where he was involved in implementing high-performance numerical solvers for geological simulations. Later, he joined ETH Zurich's Scalable Parallel Computing Lab as a Ph.D. student, where he focused on accelerating deep learning applications on diverse hardware. Andrei's research interests include compiler optimizations, high-performance computing, programming models for parallel computations, and algorithms.*
+
+
 ### Gabriel Busnot -- Accelerating RISC V Developments Through Network-on-Chip (NoC) Automation
 
 Gabriel Busnot (Arteris, Montigny, France)
 , Frank Schirrmesiter, Michael Frank.
 
 *Location: #28 MR12-13-14.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Gabriel-BUSNOT-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Gabriel-BUSNOT-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Gabriel-BUSNOT-poster.pdf).*
 
 
 **Summary**
