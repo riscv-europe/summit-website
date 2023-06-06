@@ -43,7 +43,15 @@ def posters_of_day(day):
                 print(f', {row["Rest of the authors"]}.')
 
             # Format the poster location on the conf. floor.
-            print(f'\n*Location: #{row["Poster board"].strip()} {row["MR"]}.*')
+            print(f'\n*Poster #{row["Poster board"].strip()} in {row["MR"]} on')
+
+            day = row['Day (Poster)']
+            if day == "Tue":
+                print(f'Tue 6th.*')
+            elif day == "Wed":
+                print(f'Wed 7th.*')
+            elif day == "Thu":
+                print(f'Thu 8th.*')
 
             media = []
 
