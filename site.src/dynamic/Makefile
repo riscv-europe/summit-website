@@ -8,6 +8,9 @@ POSTERS_PROLOG:=$(shell pwd)/md.prolog/posters.md
 ## The repo-local version.
 POSTERS_LOC_CSV:=$(shell pwd)/gdocs/authors-info.csv
 
+## The Root of proceedings
+PROCEEDINGS_PDF:=$(shell pwd)/../media/proceedings
+
 ## Location external to the repository of the CSV download of the
 ## original Google spreadsheet. The variable defaults to location on
 ## Christian's Ubuntu VM. Set it as an external shell variable if you
@@ -35,3 +38,4 @@ import-list:
 .PHONY: import-pdfs
 import-pdfs:
 	$(COPYPDF_PY)
+	find $(PROCEEDINGS_PDF) -name '*.pdf' | xargs chmod 664
