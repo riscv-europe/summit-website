@@ -174,6 +174,21 @@ Participation in the WS itself is free of charge, but
 [registration](registration.html) for the *Friday 9 Side Events* is
 required to cover the costs of breaks and lunch.
 
+- 13:20-13:30 **Welcome & Agenda**, Manolis Marazakis (FORTH)
+- 13:30-14:20 **Invited talks #1, #2 (25’ each, incl. Q&A)**
+  - **RISC-V status & outlook**, Mark Himelstein (RISC-V International)
+  - **Perspective on open source for cloud-based services**, Luis Busquets (DG CNECT)
+- 14:20-15:00 **Overviews of recently started EU-funded projects (10’ each, incl. Q&A)**
+  - **AERO: Accelerated European Cloud**, Dionysios Pnevmatikatos (NTUA), Juan Fumero (U. Manchester)
+  - **OpenCUBE: Open-Source Cloud-Based Services on EPI Systems**, Ivy Bo Ivy Peng (KTH)
+  - **RISER: RISC-V for Cloud Services**, Manolis Marazakis (FORTH)
+  - **Vitamin-V: Virtual Environment and Tool-Boxing for Trustworthy Development of RISC-V Based Cloud Services**, Ramon Canal (UPC)
+- 15:00-15:30 Break (30’) – same timeslot as all workshops
+- 15:30-15:55 **Invited talk #3 (25’, incl. Q&A)**
+  - **Perspective on Cloud for Space and Related Developments in the METASAT Project**, Leonidas Kosmidis (BSC)
+- 15:55-16:55 **Panel**
+  - Enhancements of RISC-V technology in support of Cloud services (viewpoints by speakers & audience)
+- 16:55-17:00 **Recap - End of workshop session**
 
 ### Red RISC-V
 
