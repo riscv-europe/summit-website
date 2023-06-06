@@ -206,7 +206,7 @@ Javier Mora (Collins Aerospace, Cork, Ireland)
 
 *Poster #9 in MR07-08 on
 Tue 6th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-06-Javier-MORA-DE-SAMBRICIO-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Javier-MORA-DE-SAMBRICIO-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Javier-MORA-DE-SAMBRICIO-poster.pdf).*
 
 
 **Summary**
@@ -259,7 +259,7 @@ Raúl de la Cruz (Collins Aerospace, Cork, Ireland)
 
 *Poster #12 in MR05-06 on
 Tue 6th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-06-Raúl-DE-LA-CRUZ-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Raúl-DE-LA-CRUZ-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Raúl-DE-LA-CRUZ-poster.pdf).*
 
 
 **Summary**
@@ -417,7 +417,7 @@ Luis Felipe Rojas Muñoz (Imse-cnm (CSIC/Universidad de Sevilla), Sevilla, Spain
 
 *Poster #21 in MR12-13-14 on
 Tue 6th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-06-Luis-Felipe-ROJAS-MUÑOZ-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-06-Luis-Felipe-ROJAS-MUÑOZ-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Luis-Felipe-ROJAS-MUÑOZ-poster.pdf).*
 
 
 **Summary**
@@ -575,7 +575,6 @@ Angeliki Kritikakou (University of Rennes, Irisa, INRIA)
 
 *Poster #30 in MR 12+13+14 on
 Tue 6th.*
-*Links: [extended abstract](media/proceedings/posters/2023-06-06-Angeliki-KRITIKAKOU-abstract.pdf), [poster](media/proceedings/posters/2023-06-06-Angeliki-KRITIKAKOU-poster.pdf).*
 
 
 **Summary**
@@ -847,14 +846,13 @@ Funded by the UK ExCALIBUR H&ES exascale programme, in early 2022 a RISC-V testb
 *Dr Nick Brown is a Research Fellow at EPCC the University of Edinburgh with interests in HPC application development, novel heterogeneous architectures, data science, programming language design, and compilers. He has worked on several large-scale parallel codes and is interested in the role of novel architectures, such as RISC-V and FPGAs, for accelerating HPC codes in a power efficient manner as well as how we can encode algorithmic patterns into the compiler to hide much of the required complexity porting between technologies. He leads EPCC's RISC-V testbed which aims to provide access to this technology for scientific software developers and is the knowledge exchange coordinator on the xDSL project which leverages MLIR/LLVM for a common Domain Specific Language ecosystem. Nick is a course organizer on EPCC's MSc in HPC and data science courses, as well as supervising MSc and PhD students.*
 
 
-### Ayoub  Mouhagir -- Exploring RISC-V based platforms within VPSim simulation tool for High Performance Computing
+### Ayoub Mouhagir -- Exploring RISC-V based platforms within VPSim simulation tool for High Performance Computing
 
-Ayoub  Mouhagir (Paris-Saclay University, CEA, List, Paris, France)
+Ayoub Mouhagir (Paris-Saclay University, CEA, List, Paris, France)
 , Mohamed Benazouz, Lilia Zaourar.
 
 *Poster #6 in MR07-08 on
 Wed 7th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Ayoub--MOUHAGIR-abstract.pdf).*
 
 
 **Summary**
@@ -1315,7 +1313,7 @@ Wed 7th.*
 The verification of caches is particularly challenging, as it is necessary to ensure that the memory consistency is ensured in all conditions and modern caches contain many complex features (out of order execution, write buffer, multiple request ports) and a complex micro-architecture in order to ensure high-performance. The recently released, Open-Source High Performance L1 Data Cache (HPDCache) for the RISC-V is delivered as a highly configurable RTL model, compounding the verification challenge as correct behaviour must be ensured for all combinations of the parameters. An approach combining pseudo random constraint and directed random test within the framework of Universal Verification Methodology (UVM) is used to be able to verify HPDcache.
 
 
-### Alberto Moreno -- Open source verification environment for RISC-V
+### Alberto Moreno -- RISC-V Core FPGA tracing for verification
 
 Alberto Moreno (Semidynamics, Barcelona, España)
 , Jordi Cortina, Alex Torregrosa, Roger Espasa.
@@ -1372,7 +1370,7 @@ We present TestRIG, a test framework for RISC-V implementations. To use TestRIG,
 *Peter Rugg is a PhD student at the University of Cambridge Department of Computer Science and Technology in England specialising in efficient capabili*
 
 
-### Josep Sans I Prats -- RISC-V Core FPGA tracing for verification
+### Josep Sans I Prats -- Open source verification environment for RISC-V
 
 Josep Sans I Prats (Semidynamics, Barcelona, España)
 , Alberto Moreno, Alex Torregrosa, Roger Espasa.
@@ -1410,14 +1408,13 @@ To uphold the principle of least privilege, RISC-V can further limit M mode’s 
 *Dr Marno van der Maas completed a PhD at the University of Cambridge in 2022 on protecting trusted execution environments from side-channel attacks. During this time, Dr Van der Maas also worked on implementing and testing processors that enforce bounds and permissions on memory pointers using a technology named Capability Enhanced RISC Instructions (CHERI). At lowRISC CIC, Dr Van der Maas works on open silicon, primarily on the OpenTitan and Ibex projects. His previous experience on verification and security enables him to contribute to the vision of making open silicon a reality.*
 
 
-### Yassine  Eben Aimine -- Wedging with formal verification to strengthen the quality of custom RISC-V SoC
+### Yassine Eben Aimine -- Wedging with formal verification to strengthen the quality of custom RISC-V SoC
 
-Yassine  Eben Aimine (Siemens EDA)
+Yassine Eben Aimine (Siemens EDA)
 , Nicolae Tusinschi, Salaheddin Hetalani, Pascal Gouedo.
 
 *Poster #38 in MR12-13-14 on
 Wed 7th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Yassine--EBEN-AIMINE-abstract.pdf).*
 
 
 **Summary**
@@ -1548,14 +1545,14 @@ We implemented and formally proved code hoisting, loop-invariant code motion (LI
 *I am a third year PhD student in Grenoble, France. My main research interests are: formal proof, compilation, processors architecture / instruction sets, optimization, and code safety & security. During the last three years, I worked on the formal verification of optimizations, and in particular for the CompCert certified compiler on the RISC-V backend. My thesis focus on formal verification of translation validators: I study how symbolic execution can help in validating the results of optimizations algorithms. In the future, I may study how this approach can be reused to also ensure semantics preservation while securing the code with counter-measures. In other words, how a unique formally verified validation technique can help for both safety and security concerns. Before starting this PhD, I did an engineering school and worked in a company conceiving embedded RFID chips (ASYGN).*
 
 
-### Henri-pierre Charles -- How to generate data dependent applications and handle  platform heterogeneity ?
+### Henri-Pierre Charles -- How to generate data dependent applications and handle  platform heterogeneity ?
 
-Henri-pierre Charles (CEA, Grenoble, France)
+Henri-Pierre Charles (CEA, Grenoble, France)
 , Maha Kooli, Thaddée Bricout, Benjamin Lacour.
 
 *Poster #5 in MR07-08 on
 Thu 8th.*
-*Links: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-2-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-2-poster.pdf).*
+*Link: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-2-abstract.pdf).*
 
 
 **Summary**
@@ -1564,7 +1561,7 @@ Modern applications are dynamic. There are many dynamicity aspects : dynamic all
 
 *Bio*
 
-* Dr Henri-Pierre Charles is research director in CEA-LIST since September 2010. His educationnal background is a master degree in computer science in 1987 and a PhD in 1993 from INPG, Grenoble, France. He was university lecturer in Versailles University during 17 years since 1993. Since his CEA arrival he has participated in many collaboratie projects, mainly in the HPC domain. He has supervised many PHD thesis on code optimizations and High performance computing. His research interests are in dynamic compilation, Low level code optimization and new methods for code generation for high performances and multimedia applications. He has developed the concept of « compilettes » that can be defined as tiny compilers embedded into applications, able to generate optimal code depending on the data characteristics. The “compilettes” was generated by the former deGoal compiler and, since 2022, with the open source compiler HybroGen*
+*Dr Henri-Pierre Charles is research director in CEA-LIST since September 2010. His educationnal background is a master degree in computer science in 1987 and a PhD in 1993 from INPG, Grenoble, France. He was university lecturer in Versailles University during 17 years since 1993. Since his CEA arrival he has participated in many collaboratie projects, mainly in the HPC domain. He has supervised many PHD thesis on code optimizations and High performance computing. His research interests are in dynamic compilation, Low level code optimization and new methods for code generation for high performances and multimedia applications. He has developed the concept of « compilettes » that can be defined as tiny compilers embedded into applications, able to generate optimal code depending on the data characteristics. The “compilettes” was generated by the former deGoal compiler and, since 2022, with the open source compiler HybroGen.*
 
 
 ### Zdenek Prikryl -- RISC-V as an Enabler of Heterogeneous Compute
@@ -1581,9 +1578,9 @@ Thu 8th.*
 With the end of the well-established scaling, and laws, such as Dennard scaling, Amdahl’s law, or even Moore’s law, thw wider industry has started looking at possible solutions. One of the solutions that has emerged is heterogeneous compute. In its essence it solves the problem by having individual computational blocks, i.e., processors, that are specialized/customized for a certain job or workloads. Although this idea is not new and we can see an evidence of it in the past, the design of such processors has been challenging and requires not only deep technology knowledge, but also a significant amount of resources and time. In this paper, we present a novel approach to heterogeneous compute that is based on pre-verified processors that designers can further innovate using supplied EDA tools. The pre-verified processors and their control and data paths are prepared for the heterogeneous compute and therefore the knowledge and resource requirements are reduced to a minimum. The designers focus on what really matters to them instead of reinventing the wheel for the baseline of the processor or its instruction set.
 
 
-### Henri-pierre Charles -- RISC-V based Programming Model of a Computational SRAM Vector Processing Unit
+### Henri-Pierre Charles -- RISC-V based Programming Model of a Computational SRAM Vector Processing Unit
 
-Henri-pierre Charles (Cea Grenoble, Grenoble, France)
+Henri-Pierre Charles (Cea Grenoble, Grenoble, France)
 , Jean Philippe Noël, Bastien Giraud, Thaddée Bricout, Maria Ramirez Corrales.
 
 *Poster #7 in MR07-08 on
@@ -1597,7 +1594,7 @@ Computational SRAM (C-SRAM) is a new computing solution for Near-Memory Computin
 
 *Bio*
 
-* Dr Henri-Pierre Charles is research director in CEA-LIST since September 2010. His educationnal background is a master degree in computer science in 1987 and a PhD in 1993 from INPG, Grenoble, France. He was university lecturer in Versailles University during 17 years since 1993. Since his CEA arrival he has participated in many collaboratie projects, mainly in the HPC domain. He has supervised many PHD thesis on code optimizations and High performance computing. His research interests are in dynamic compilation, Low level code optimization and new methods for code generation for high performances and multimedia applications. He has developed the concept of « compilettes » that can be defined as tiny compilers embedded into applications, able to generate optimal code depending on the data characteristics. The “compilettes” was generated by the former deGoal compiler and, since 2022, with the open source compiler HybroGen*
+*Dr Henri-Pierre Charles is research director in CEA-LIST since September 2010. His educationnal background is a master degree in computer science in 1987 and a PhD in 1993 from INPG, Grenoble, France. He was university lecturer in Versailles University during 17 years since 1993. Since his CEA arrival he has participated in many collaboratie projects, mainly in the HPC domain. He has supervised many PHD thesis on code optimizations and High performance computing. His research interests are in dynamic compilation, Low level code optimization and new methods for code generation for high performances and multimedia applications. He has developed the concept of « compilettes » that can be defined as tiny compilers embedded into applications, able to generate optimal code depending on the data characteristics. The “compilettes” was generated by the former deGoal compiler and, since 2022, with the open source compiler HybroGen.*
 
 
 ### Jack Andrew -- Virtual machines on RISC-V
@@ -1893,6 +1890,10 @@ Thu 8th.*
 
 There is a bewildering amount of number formats, particularly floating point ones. Each ISA will need to consider which to support. For RISC-V, we argue we need to consider supporting all, but ratify only a few; the ones that have become mainstream. Current ratified extensions of the RISC-V ISA suffices, with the exception of BF16 (Brain floating point format) support (and perhaps rising star FP8). Supporting BF16, however, is also not straightforward. We will identify several use cases; as a storage format, for efficient computations, and as an arithmetic format, and expose BF16 is not a standard, highlighting differences in implementations. For RISC-V support we need to balance flexibility with (hardware) efficiency and will recommend complementary extensions with the base supporting flushing subnormal numbers and round-to-zero.
 
+*Bio*
+
+*Kenneth Rovers is CPU architect at Imagination Technologies committed to achieving the best possible RISC-V CPUs and defining its future, with a focus on compute. Previously leading the datapath team, he is an expert on processing architectures and datapath, including floating point arithmetic, vector processing, GPU shader ALUs, texture processing, and AI convolution engines. Kenneth received his PhD on computer architecture for embedded systems in 2011 from the University of Twente, the Netherlands, covering many-core architectures, dataflow processing, and model-based design using executable mathematics. He also holds a MSc in computer science and a MSc in electrical engineering from the same university*
+
 
 ### Guy Lemieux -- RVV-lite v0.5: A Modest Proposal for Reducing the RISC-V Vector Extension
 
@@ -1900,7 +1901,7 @@ Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 
 *Poster #25 in MR12-13-14 on
 Thu 8th.*
-*Link: [poster](media/proceedings/posters/2023-06-08-Guy-LEMIEUX-1-poster.pdf).*
+*Link: [extended abstract](media/proceedings/posters/2023-06-08-Guy-LEMIEUX-1-abstract.pdf).*
 
 
 *Bio*
@@ -1915,7 +1916,6 @@ Guy Lemieux (University Of British Columbia, Vancouver, Canada)
 
 *Poster #26 in MR12-13-14 on
 Thu 8th.*
-*Links: [extended abstract](media/proceedings/posters/2023-06-08-Guy-LEMIEUX-2-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Guy-LEMIEUX-2-poster.pdf).*
 
 
 **Summary**
@@ -2116,7 +2116,7 @@ Francisco Marqués da Costa (University of Minho, Guimaraes, Portugal)
 
 *Poster #37 in MR12-13-14 on
 Thu 8th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Francisco-MARQUÉS-DA-COSTA-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Francisco-MARQUÉS-DA-COSTA-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Francisco-MARQUÉS-DA-COSTA-poster.pdf).*
 
 
 **Summary**
