@@ -13,100 +13,102 @@ and lunch.
 
 ### Side events schedule and location
 
-<table class="riscv-sb" style="width:95%;">
-<thead>
-<tr>
-<th>Room</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
-<th>(TBA)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>09:00</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Open Source Chips](#fossi-foundation-tiny-tapeout)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td>
-</tr>
-<tr>
-<td>09:30</td>
-</tr>
-<tr>
-<td>10:00</td>
-</tr>
-<tr>
-<td>10:30</td>
-<td colspan="6">Break</td>
-</tr>
-<tr>
-<td>11:00</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[Open Source Chips](#fossi-foundation-tiny-tapeout)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td>
-</tr>
-<tr>
-<td>11:30</td>
-</tr>
-<tr>
-<td>12:00</td>
-</tr>
-<tr>
-<td>12:30</td>
-<td rowspan="2" colspan="6">Lunch</td>
-</tr>
-<tr>
-<td>13:00</tr>
-</tr>
-</tr>
-<tr>
-<td>13:30</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
-<td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:white;"           rowspan="3">&nbsp;</td>
-</tr>
-<tr>
-<td>14:00</td>
-</tr>
-<tr>
-<td>14:30</td>
-</tr>
-<tr>
-<td>15:00</td>
-<td colspan="6">Break</td>
-</tr>
-<tr>
-<td>15:30</td>
-<td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td>
-<td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td>
-<td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td>
-<td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td>
-<td style="background:white;"           rowspan="3">&nbsp;</td>
-</tr>
-<tr>
-<td>16:00</td>
-</tr>
-<tr>
-<td>16:30</td>
-</tr>
-<tr>
-<tr>
-<td>17:00</td>
-<td colspan="6">Closing</td>
-</tr>
-</tbody>
-</table>
+<img src="media/img/side-events.png" width=100%>
+
+<!-- <table class="riscv-sb" style="width:95%;"> -->
+<!-- <thead> -->
+<!-- <tr> -->
+<!-- <th>Room</th> -->
+<!-- <th>(TBA)</th> -->
+<!-- <th>(TBA)</th> -->
+<!-- <th>(TBA)</th> -->
+<!-- <th>(TBA)</th> -->
+<!-- <th>(TBA)</th> -->
+<!-- <th>(TBA)</th> -->
+<!-- </tr> -->
+<!-- </thead> -->
+<!-- <tbody> -->
+<!-- <tr> -->
+<!-- <td>09:00</td> -->
+<!-- <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td> -->
+<!-- <td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td> -->
+<!-- <td style="background:var(--riscv-ly);" rowspan="3">[Open Source Chips](#fossi-foundation-tiny-tapeout)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td> -->
+<!-- <td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>09:30</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>10:00</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>10:30</td> -->
+<!-- <td colspan="6">Break</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>11:00</td> -->
+<!-- <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot CM](#eu-pilot-cm)</td> -->
+<!-- <td style="background:var(--riscv-lp);" rowspan="3">[Orshin](#orshin)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3">[Red RISC-V](#red-risc-v)</td> -->
+<!-- <td style="background:var(--riscv-ly);" rowspan="3">[Open Source Chips](#fossi-foundation-tiny-tapeout)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td> -->
+<!-- <td style="background:var(--riscv-lp);" rowspan="3">[OpenHW TWG/TG](#openhw-twg-tg)</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>11:30</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>12:00</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>12:30</td> -->
+<!-- <td rowspan="2" colspan="6">Lunch</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>13:00</tr> -->
+<!-- </tr> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>13:30</td> -->
+<!-- <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td> -->
+<!-- <td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td> -->
+<!-- <td style="background:white;"           rowspan="3">&nbsp;</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>14:00</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>14:30</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>15:00</td> -->
+<!-- <td colspan="6">Break</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>15:30</td> -->
+<!-- <td style="background:var(--riscv-ly);" rowspan="3">[EU Pilot WS](#eu-pilot-ws)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3" colspan="2">[RISER WS](#riser-ws)</td> -->
+<!-- <td style="background:var(--riscv-lp);" rowspan="3">[Tristan PMB](#tristan-pmb)</td> -->
+<!-- <td style="background:var(--riscv-lg);" rowspan="3">[OpenHW Group WS](#openhw-group-ws)</td> -->
+<!-- <td style="background:white;"           rowspan="3">&nbsp;</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>16:00</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <td>16:30</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <tr> -->
+<!-- <td>17:00</td> -->
+<!-- <td colspan="6">Closing</td> -->
+<!-- </tr> -->
+<!-- </tbody> -->
+<!-- </table> -->
 
 ## Side Events Details
 
