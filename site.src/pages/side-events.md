@@ -180,7 +180,7 @@ required to cover the costs of breaks and lunch.
   - **Perspective on open source for cloud-based services**, Luis Busquets (DG CNECT)
 - 14:20-15:00 **Overviews of recently started EU-funded projects (10’ each, incl. Q&A)**
   - **AERO: Accelerated European Cloud**, Dionysios Pnevmatikatos (NTUA), Juan Fumero (U. Manchester)
-  - **OpenCUBE: Open-Source Cloud-Based Services on EPI Systems**, Ivy Bo Ivy Peng (KTH)
+  - **OpenCUBE: Open-Source Cloud-Based Services on EPI Systems**, Ivy Bo Peng (KTH)
   - **RISER: RISC-V for Cloud Services**, Manolis Marazakis (FORTH)
   - **Vitamin-V: Virtual Environment and Tool-Boxing for Trustworthy Development of RISC-V Based Cloud Services**, Ramon Canal (UPC)
 - 15:00-15:30 Break (30’) – same timeslot as all workshops
