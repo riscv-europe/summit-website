@@ -853,6 +853,7 @@ Ayoub Mouhagir (Paris-Saclay University, CEA, List, Paris, France)
 
 *Poster #6 in MR07-08 on
 Wed 7th.*
+*Link: [poster](media/proceedings/posters/2023-06-07-Ayoub-MOUHAGIR-poster.pdf).*
 
 
 **Summary**
@@ -980,7 +981,7 @@ Eduardo Tomasi Ribeiro (CEA List, Grenoble, France)
 
 *Poster #13 in MR05-06 on
 Wed 7th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Eduardo-TOMASI-RIBEIRO-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Eduardo-TOMASI-RIBEIRO-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Eduardo-TOMASI-RIBEIRO-poster.pdf).*
 
 
 **Summary**
@@ -1033,7 +1034,7 @@ Jin Chufeng (Tsinghua University, Beijing, China)
 
 *Poster #16 in MR05-06 on
 Wed 7th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-07-Jin-CHUFENG-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-07-Jin-CHUFENG-abstract.pdf), [poster](media/proceedings/posters/2023-06-07-Jin-CHUFENG-poster.pdf).*
 
 
 **Summary**
@@ -1552,7 +1553,7 @@ Henri-Pierre Charles (CEA, Grenoble, France)
 
 *Poster #5 in MR07-08 on
 Thu 8th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-2-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-2-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-2-poster.pdf).*
 
 
 **Summary**
@@ -1585,7 +1586,7 @@ Henri-Pierre Charles (Cea Grenoble, Grenoble, France)
 
 *Poster #7 in MR07-08 on
 Thu 8th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-1-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-1-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Henri-Pierre-CHARLES-1-poster.pdf).*
 
 
 **Summary**
@@ -2006,7 +2007,7 @@ Odysseas Chatzopoulos (University Of Athens, Athens, Greece)
 
 *Poster #31 in MR12-13-14 on
 Thu 8th.*
-*Link: [extended abstract](media/proceedings/posters/2023-06-08-Odysseas-CHATZOPOULOS-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/posters/2023-06-08-Odysseas-CHATZOPOULOS-abstract.pdf), [poster](media/proceedings/posters/2023-06-08-Odysseas-CHATZOPOULOS-poster.pdf).*
 
 
 **Summary**
@@ -2034,7 +2035,7 @@ HUB format is an emerging technique to improve the hardware and time requirement
 
 *Bio*
 
-*Gerardo Bandera-Burgueño received the M.Sc. degree in Computer Engineering and the Ph.D. degree in Computer Science from the University of Málaga, Spain, in 1994 and 1999, respectively. In 1994 he was Assistant Professor of the Department of Computer Architecture at the University of Málaga. Since 2001 he is Associate Professor. In addition to regular courses, he has taught several international summer courses and some CISCO and NVIDIA seminars, where he is a certified lecturer. His research interests include heterogeneous and high-performance computing, computer arithmetic, and architectures for vector processing. He has more than 30 contributions to international journals, conferences, and book chapters, and has participated in more than 20 national and international research projects. He has led more than 10 R&D projects with international companies.*
+*Gerardo Bandera-Burgueño received the M.Sc. degree in Computer Engineering and the Ph.D. degree in Computer Science from the University of Málaga, Spain, in 1994 and 1999, respectively. In 1994 he was Assistant Professor of the Department of Computer Architecture at the University of Málaga. Since 2001 he is Associate Professor. In addition to regular courses, he has taught several international summer courses and some CISCO and NVIDIA seminars, where he is a certified lecturer. His research interests include heterogeneous and high-performance computing, computer arithmetic, and architectures for SIMD and vector processing. He has more than 30 contributions to international journals, conferences, and book chapters, and has participated in more than 20 national and international research projects. He has led more than 10 R&D projects with international companies.*
 
 
 ### Riccardo Alidori -- Hardware Support for Variable Precision Floating Point Formats Exploration
