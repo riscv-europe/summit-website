@@ -28,7 +28,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">9:45</span> - <span class="schedule-author">Mark Himelstein, RISC-V International</span> - <span class="schedule-title">RISC-V: The Road Ahead and Technical Update</span>
+  <span class="schedule-time">9:45</span> - <span class="schedule-author">Mark Himelstein, RISC-V International</span> - <span class="schedule-title">RISC-V: The Road Ahead and Technical Update</span> [Details](#mark-himelstein-the-road-ahead).
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">10.00</span> - <span class="schedule-author">Rick O’Connor, OpenHW Group</span> - <span class="schedule-title">Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned</span>  - <a href="#rick-oconnor-commercial-adoption-of-core-v-open-source-risc-v-cores---lessons-learned">Details</a>
@@ -828,6 +828,28 @@ Building a modern, complex, RISC-V based digital design like the Caliptra Root o
 *Bio*
 
 *Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+#### Mark Himelstein -- The Road Ahead
+
+[Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
+
+*Link: [slides](media/proceedings/plenary/2023-06-06-09h45-Mark-HIMELSTEIN-slides.pdf).*
+
+*Bio*
+
+*Before RISC-V international Mark Himelstein was the President of
+Heavenstone, Inc. which concentrated on Strategic, Management, and
+Technology Consulting providing hardware and software product
+architecture, analysis, mentoring and interim management. Previously,
+Mark started Graphite Systems, Inc (acquired by EMC) where he was the
+VP of Engineering and CTO developing large Analytics Appliances using
+highly integrated FLASH memory. Prior to Graphite, Mark held positions
+as the CTO of Quantum Corp, Vice President of Solaris development
+engineering at Sun Microsystems and other technical management roles
+at Apple, Infoblox, and MIPS.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
