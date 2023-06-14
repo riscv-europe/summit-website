@@ -29,7 +29,7 @@ exhibitions and demo from Tuesday 6th until Thursday 8th.
   <div class="schedule-block">
   <div class="schedule-entry">
   <span class="schedule-time">9:45</span> - <span class="schedule-author">Mark Himelstein, RISC-V International</span> - <span class="schedule-title">RISC-V: The Road Ahead and Technical Update</span>
-  </div>  
+  </div>
   <div class="schedule-entry">
   <span class="schedule-time">10.00</span> - <span class="schedule-author">Rick O’Connor, OpenHW Group</span> - <span class="schedule-title">Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned</span>  - <a href="#rick-oconnor-commercial-adoption-of-core-v-open-source-risc-v-cores---lessons-learned">Details</a>
   </div>
