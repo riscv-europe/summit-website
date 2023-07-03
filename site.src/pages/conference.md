@@ -55,7 +55,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">11.30</span> - <span class="schedule-author">Jon Taylor - Imperas Software Ltd</span> - <span class="schedule-title">The RISC-V Verification Ecosystem with Open Standards and Commercial Tools</span> - <a href="#simon-davidmann-the-risc-v-verification-ecosystem-with-open-standards-and-commercial-tools">Details</a>
+  <span class="schedule-time">11.30</span> - <span class="schedule-author">Jon Taylor - Imperas Software Ltd</span> - <span class="schedule-title">The RISC-V Verification Ecosystem with Open Standards and Commercial Tools</span> - <a href="#jon-taylor-the-risc-v-verification-ecosystem-with-open-standards-and-commercial-tools">Details</a>
   </div>
   <div class="schedule-entry">
   <span class="schedule-time">11.45</span> - <span class="schedule-author">Brett Cline, Codasip</span> - <span class="schedule-title">RISC-V customization, HW/SW co-optimization, and custom compute</span> - <a href="#brett-cline-risc-v-customization-hwsw-co-optimization-and-custom-compute">Details</a>
@@ -760,7 +760,7 @@ microelectronics.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Simon Davidmann -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools 
+#### Jon Taylor -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools
 
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
