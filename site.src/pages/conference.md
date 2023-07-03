@@ -489,6 +489,8 @@ during these three days.
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
 [Ventana Micro Systems](https://www.ventanamicro.com/)
 
+*Plenary on Tue 6th at 10:15. Links: [slides](media/proceedings/plenary/2023-06-06-10h15-Balaji-BAKTHA-slides.pdf)*.
+
 **Abstract**
 
 This presentation will explore the frontier where cutting-edge computing intersects with the rapidly evolving automotive industry.  As cars become increasingly reliant on advanced technologies for safety, efficiency, and performance, new design paradigms are required.  Balaji will provide an exploration of how Ventana is leveraging the power of RISC-V and chiplet technologies to revolutionize how automotive manufacturers take control of their technology supply chain and enable differentiated platforms.  The session will provide insights into not only the technology itself but also into the broader implications for the automotive industry and manufacturers.
