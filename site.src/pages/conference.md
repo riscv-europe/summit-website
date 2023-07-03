@@ -83,7 +83,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <br>
   Demo Theatre,<span class="schedule-time">13.15</span> - <span class="schedule-author">Mikael Carmona, CEA</span> - <span class="schedule-title">VASCO 2, an ASIC to highlight the latest innovations in security of component</span> - <a href="#mikael-carmona-vasco-2-an-asic-to-highlight-the-latest-innovations-insecurity-ofcomponent">Details</a>
   <br>
-  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Jon Taylor - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span> - <a href="#simon-davidmann-risc-v-models-for-verification-software-development-and-architectural-exploration">Details</a>  
+  Demo Theatre,<span class="schedule-time">13.30</span> - <span class="schedule-author"> Jon Taylor - Imperas Software Ltd.</span> - <span class="schedule-title">RISC-V Models for Verification, Software Development and Architectural Exploration</span> - <a href="#simon-davidmann-risc-v-models-for-verification-software-development-and-architectural-exploration">Details</a>
   </div>
   </div>
 
@@ -1299,7 +1299,7 @@ VASCO 2 highlights the relevance and characteristics of these hardware IPs for i
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration 
+#### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration
 
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
