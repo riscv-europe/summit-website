@@ -70,7 +70,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">12:15</span> - <span class="schedule-author">Daniele Rossi, University of Pisa</span> - <span class="schedule-title">HW-SW Interface for RAS in RISC-V Architectures
+  <span class="schedule-time">12:15</span> - <span class="schedule-author">Daniele Rossi, University of Pisa</span> - <span class="schedule-title">HW-SW Interface for RAS in RISC-V Architectures</span> - <a href="">Details</a>
   </div>
   </div>
 
@@ -985,6 +985,10 @@ methods for proof of implementation correctness. He received his BS in
 Aerospace Engineering from the Massachusetts Institute of Technology
 and his MS in Computer Science from the California Institute of
 Technology.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+#### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
