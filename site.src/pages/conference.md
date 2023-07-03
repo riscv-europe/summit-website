@@ -510,6 +510,8 @@ Prior to Ventana, Balaji was the founder and CEO of Veloce Technologies, the wor
 Scientist, [Beijing Institute of Open-Source Chip
 (BOSC)](https://www.bosc.ac.cn).
 
+*Plenary on Wed 7th at 09:30.*
+
 **Abstract**
 
 RISC-V has made a significant impact on the chip industry and academia
@@ -545,6 +547,8 @@ the year for 2019.*
 #### Lars Bergstrom -- Android on RISC-V: Progress and Updates
 
 Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
+
+*Pleanry on Wed 7th at 11:30.*
 
 **Abstract**
 
@@ -583,6 +587,8 @@ in 2013.*
 #### Franck Bernard -- The RISC-V opportunity in Automotive Electronics
 
 Franck Bernard, System and Innovation - ADAS & Driving Assistance - IC Design and SW development, Bosch.
+
+*Plenary on Tue 6th at 16:30.*
 
 **Abstract**
 
@@ -627,6 +633,8 @@ Since then he is deputy manager of the EIY group in charge of developing Digital
 Zürich](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html),
 [Università di Bologna](https://www.unibo.it/sitoweb/luca.benini).
 
+*Plenary on Wed 7th at 09:00.*
+
 **Abstract**
 
 Today's data-parallel workloads in HPC, AI, IoT demand ever-growing
@@ -662,6 +670,8 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 
 [Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
 
+*Plenary on Thu 8th at 11:30.*
+
 **Abstract**
 
 The ongoing development and maturation of RISC-V LLVM support has been
@@ -694,6 +704,8 @@ known within the LLVM community for the LLVM Weekly newsletter.*
 
 [Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
 
+*Plenary on Tue 6th at 11:45.*
+
 **Abstract**
 
 If you optimize your software for a general-purpose core there is a substantial risk that your algorithms are executed inefficiently and therefore run slowly. You can address this by creating fixed-function circuits designed to perform a specific set of operations. These hardware functions can be extremely fast, but because they are hard coded, it is difficult to modify or update them. So how can you achieve flexibility and performance? By combining both approaches. A key benefit of RISC-V customization is that you can create custom instructions tailored to your specific application needs.
@@ -708,6 +720,8 @@ To pick custom instructions correctly and create efficient implementations, soft
 PhD Thierry Collette -- Director, Information Sciences and Techniques
 Research Group, [Thales Research & Technology
 France](https://www.thalesgroup.com).
+
+*Plenary on Thu 8th at 09:30.*
 
 **Abstract**
 
@@ -750,6 +764,8 @@ microelectronics.*
 
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
+*Plenary on Tue 6th at 11:30.*
+
 **Abstract**
 
 The freedom of RISC-V represents both new innovations in design and also the migration of verification responsibility. This keynote highlights the challenges facing SoC teams as they adopt RISC-V and provides a perspective on how the use of new verification standards and methodologies drives down cost, quality risk, and development time.
@@ -764,6 +780,8 @@ The freedom of RISC-V represents both new innovations in design and also the mig
 #### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
 
 Roger Espasa -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
+
+*Plenary on Tue 6th at 14:00.*
 
 **Abstract**
 
@@ -783,6 +801,8 @@ Roger got his PhD from UPC in 1997, has published over 40 peer-reviewed papers o
 #### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
 
 [Michael Gielda](https://www.linkedin.com/in/mgielda/) -- Co-Founder and VP Business Development, [Antmicro](https://antmicro.com/).
+
+*Plenary on Tue 6th at 14:15.*
 
 **Abstract**
 
@@ -823,6 +843,8 @@ software data for efficient co-design
 
 [Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/) and Matt Cockrell -- Hardware Engineer, Google
 
+*Plenary on Wed 7th at 14:30.*
+
 **Abstract**
 
 Building a modern, complex, RISC-V based digital design like the Caliptra Root of Trust requires collaborative effort between multiple development teams of various backgrounds, especially in standards-based multi-organization environments like CHIPS Alliance. While in software development massive, standards-driven collaboration is a reality through open source infrastructure and tools, the digital design space often lacks the open source tooling needed to easily share and automate workflows, scale continuous integration and enable security through transparency of the development process. In this paper, we will describe how digital design tools and workflows developed by CHIPS Alliance are being used in practice in a collaborative environment as a potential template for other work in this space.
@@ -837,6 +859,8 @@ Building a modern, complex, RISC-V based digital design like the Caliptra Root o
 #### Mark Himelstein -- The Road Ahead
 
 [Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
+
+*Plenary on Tue 6th at 09:45.*
 
 *Link: [slides](media/proceedings/plenary/2023-06-06-09h45-Mark-HIMELSTEIN-slides.pdf).*
 
