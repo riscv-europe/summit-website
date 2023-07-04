@@ -589,6 +589,7 @@ in 2013.*
 Franck Bernard, System and Innovation - ADAS & Driving Assistance - IC Design and SW development, Bosch.
 
 *Plenary on Tue 6th at 16:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-16h30-Franck-BERNARD-slides.pdf).*
 
 **Abstract**
 
@@ -671,6 +672,7 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 [Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
 
 *Plenary on Thu 8th at 11:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-08-11h30-Alex-BRADBURY-slides.pdf).*
 
 **Abstract**
 
@@ -705,6 +707,7 @@ known within the LLVM community for the LLVM Weekly newsletter.*
 [Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
 
 *Plenary on Tue 6th at 11:45.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-11h45-Brett-CLINE-slides.pdf).*
 
 **Abstract**
 
@@ -765,6 +768,7 @@ microelectronics.*
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
 *Plenary on Tue 6th at 11:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-11h30-Jon-TAYLOR-slides.pdf).*
 
 **Abstract**
 
@@ -885,6 +889,7 @@ at Apple, Infoblox, and MIPS.*
 [Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
 
 *Plenary on Tue 6th at 10:00.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-10h00-Rick-O'CONNOR-slides.pdf).*
 
 **Abstract**
 
@@ -997,6 +1002,7 @@ Technology.*
 #### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
 
 *Plenary on Tue 6th at 12:15.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-12h15-Daniele-ROSSI-slides.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1192,7 +1198,7 @@ Patterson.*
 Luca Lingardo, NXP.
 
 *Plenary on Thu 8th at 14:30.*
-*Links: [extended abstract](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-abstract.pdf), [slides](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-slides.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1202,7 +1208,7 @@ Luca Lingardo, NXP.
 Jimmy Le Rhun, Thales Research and Technology.
 
 *Plenary on Tue 6th at 15:15.*
-*Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf).*
+*Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf), [slides](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-slides.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1212,7 +1218,7 @@ Jimmy Le Rhun, Thales Research and Technology.
 Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 *Plenary on Thu 8th at 17:15.*
-*Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ.pdf).*
+*Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ-abstract.pdf), [slides](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ-slides.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
