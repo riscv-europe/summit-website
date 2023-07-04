@@ -1020,9 +1020,7 @@ RISC-V has been adopted with a record-breaking speed in pretty much all applicat
 
 Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Applications and Tools Horizontal Committee.
 
-**Abstract**
-
-(TBD)
+*Plenary on Thu 8th at 09:00.*
 
 *Bio*
 
