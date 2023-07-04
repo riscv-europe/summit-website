@@ -884,6 +884,8 @@ at Apple, Infoblox, and MIPS.*
 
 [Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
 
+*Plenary on Tue 6th at 10:00.*
+
 **Abstract**
 
 This talk will provide a brief overview of Open-Source HW activity across the industry, barriers to adoption of Open-Source HW and challenges associated with SoC design.  Lessons learned related to the OpenHW Group Governance model and commercial adoption of CORE-V Family of open source RISC-V cores will also be presented. The CORE-V family is an OpenHW Group project to develop, deploy, and execute pre-silicon functional verification and SoC based development kits of the CORE-V family of open-source RISC-V cores. Written in SystemVerilog, CORE-V open-source IP cores match the quality of IP offered by established commercial providers and are verified with state-of-the-art, auditable flows.
@@ -899,6 +901,8 @@ This talk will provide a brief overview of Open-Source HW activity across the in
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
 Strategic Partnerships, NXP Semiconductors.
+
+*Plenary on Wed 7th at 14:00.*
 
 **Abstract**
 
@@ -951,6 +955,8 @@ politics, coaches, teachers and students.*
 Dominic Rizzo -- CEO zeroRISC
 Inc. [OpenTitan](https://www.opentitan.org) Project Director.
 
+*Plenary on Wed 7th at 10:00.*
+
 **Abstract**
 
 OpenTitan brought a new level of transparency to secure silicon
@@ -990,12 +996,15 @@ Technology.*
 
 #### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
 
+*Plenary on Tue 6th at 12:15.*
+
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 #### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
 
 [Dr. Charlie Su]([https://www.linkedin.com/in/patrickpype/](https://www.linkedin.com/in/charlie-hong-men-su-%E8%98%87%E6%B3%93%E8%90%8C-5bb64016/)) -- President and CTO, [Andes Technology](https://www.andestech.com/en/homepage/)
 
+*Plenary on Tue 6th at 12:00.*
 
 **Abstract**
 
@@ -1057,6 +1066,8 @@ Directors Technical Leadership Award.*
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
 
+*Plenary on Thu 8th at 14:00.*
+
 **Abstract**
 
 The European Space Agency, in a long tradition, is promoting the use
@@ -1107,6 +1118,8 @@ methodology.*
 [Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172)
 -- Policy Officer, European Commission.
 
+*Plenary on Wed 7th at 16:45.*
+
 **Abstract**
 
 Following the political agreement on the European Chips Act, the
@@ -1149,6 +1162,8 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 Dave Ditzel, Esperanto Technologies.
 
+*Plenary on Wed 7th at 12:00.*
+
 **Abstract**
 
 High-end computing is undergoing revolutionary change. After many
@@ -1178,6 +1193,7 @@ Patterson.*
 
 Luca Lingardo, NXP.
 
+*Plenary on Thu 8th at 14:30.*
 *Links: [extended abstract](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-abstract.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
@@ -1187,6 +1203,7 @@ Luca Lingardo, NXP.
 
 Jimmy Le Rhun, Thales Research and Technology.
 
+*Plenary on Tue 6th at 15:15.*
 *Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
@@ -1196,6 +1213,7 @@ Jimmy Le Rhun, Thales Research and Technology.
 
 Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
+*Plenary on Thu 8th at 17:15.*
 *Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
