@@ -483,6 +483,7 @@ showcasing the latest developments across industry and research.
 ### Calista Redmond -- Opening
 
 *Plenary on Tue 6th at 09:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-09h00-Calista-REDMOND-slides.pdf).*
 
 Calista Redmond -- CEO, RISC-V International.
 
@@ -491,6 +492,7 @@ Calista Redmond -- CEO, RISC-V International.
 ### Christian Fabre -- Welcome from the RISC-V Summit Europe Steering Committee
 
 *Plenary on Tue 6th at 09:20.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-09h20-Christian-FABRE-slides.pdf).
 
 Christian Fabre -- CEA.
 
@@ -499,20 +501,20 @@ Christian Fabre -- CEA.
 
 ### Daniel Müller-Gritschneder & Teresa Cervero -- RISC-V Summit Europe Program Overview
 
-Daniel Müller-Gritschneder -- Technical University Munich. Teresa Cervero, BSC.
-
 *Plenary on Tue 6th at 09:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-09h30-Daniel-MÜLLER-GRITSCHNEDER-slides.pdf).*
+
+Daniel Müller-Gritschneder -- Technical University Munich. Teresa Cervero, BSC.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
 ### Mark Himelstein -- The Road Ahead
 
-[Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
-
 *Plenary on Tue 6th at 09:45.*
-
 *Link: [slides](media/proceedings/plenary/2023-06-06-09h45-Mark-HIMELSTEIN-slides.pdf).*
+
+[Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
 
 *Bio*
 
@@ -824,6 +826,7 @@ other fields.*
 ### Anthony Zgheib -- Enhancing the RISC-V Trace Encoder to Verify the Control-Flow and Code Execution Integrity</span
 
 *Plenary on Tue 6th at 14:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-14h30-Anthony-ZGHEIB-slides.pdf).*
 
 Anthony Zgheib -- CEA.
 
@@ -833,6 +836,7 @@ Anthony Zgheib -- CEA.
 ### Stefano Mercogliano -- Enabling Virtualisation on RISC-V Microcontrollers
 
 *Plenary on Tue 6th at 14:45.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-14h45-Stefano-MERCOGLIANO-slides.pdf).*
 
 [Stefano Mercogliano](https://www.linkedin.com/in/stefano-mercogliano-880825229) -- [University of Naples Federico II](http://www.unina.it).
 
@@ -842,6 +846,7 @@ Anthony Zgheib -- CEA.
 ### Franz Fuchs -- Mitigating Transient-Execution Attacks with CHERI Compartments
 
 *Plenary on Tue 6th at 15:00.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-15h00-Franz-FUCHS-slides.pdf).*
 
 [Franz Fuchs](https://www.cst.cam.ac.uk/people/faf28) -- [University of Cambridge](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/).
 
@@ -913,6 +918,7 @@ System on Chips for the automotive business.*
 ### Peter Lewin, Imagination -- Developing a RISC-V Automotive Safety Island
 
 *Plenary on Tue 6th at 17:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-17h00-Peter-LEWIN-slides.pdf).
 
 Peter Lewin -- [Imagination](https://www.imaginationtech.com).
 
@@ -1019,7 +1025,7 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
+### Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
 
 *Plenary on Wed 7th at 09:30.*
 
@@ -1107,9 +1113,9 @@ Technology.*
 
 ### Lars Bergstrom -- Android on RISC-V: Progress and Updates
 
-Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
-
 *Pleanry on Wed 7th at 11:30.*
+
+Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
 
 **Abstract**
 
@@ -1144,13 +1150,14 @@ in 2013.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
+
 <a id="Dave-DITZEL"/>
 
 ### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
 
-Dave Ditzel, Esperanto Technologies.
-
 *Plenary on Wed 7th at 12:00.*
+
+Dave Ditzel, Esperanto Technologies.
 
 **Abstract**
 
@@ -1182,9 +1189,10 @@ Patterson.*
 
 ### Umair Riaz -- MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator
 
-[Umair Riaz](https://www.linkedin.com/in/umair-riaz871) -- BSC.
-
 *Plenary on Wed 7th at 12:15.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-12h15-Umair-RIAZ-slides.pdf).*
+
+[Umair Riaz](https://www.linkedin.com/in/umair-riaz871) -- BSC.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1210,10 +1218,10 @@ Patterson.*
 
 ### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
+*Plenary on Wed 7th at 14:00.*
+
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
 Strategic Partnerships, NXP Semiconductors.
-
-*Plenary on Wed 7th at 14:00.*
 
 **Abstract**
 
@@ -1299,6 +1307,7 @@ VHDL, Linux and Verilog.*
 ### Joaquim Maria Castella Triginer -- Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project
 
 *Plenary on Wed 7th at 14:45.*
+*Links: [slides](media/proceedings/plenary/2023-06-07-14h45-Joaquim-Maria-CASTELLA-TRIGINER-slides.pdf).*
 
 Joaquim Maria Castella Triginer, [Virtual Vehicle Research
 GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
@@ -1309,6 +1318,7 @@ GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
 ### Duncan Graham -- Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification
 
 *Plenary on Wed 7th at 15:00.*
+*Links: [slides](media/proceedings/plenary/2023-06-07-15h00-Duncan-GRAHAM-slides.pdf).*
 
 Duncan Graham --[Imperas Software](https://www.imperas.com).
 
@@ -1318,6 +1328,7 @@ Duncan Graham --[Imperas Software](https://www.imperas.com).
 ### Hualin Wu -- Accelerate HPC and AI applications with RVV auto vectorization
 
 *Plenary on Wed 7th at 15:15.*
+*Links: [slides](media/proceedings/plenary/2023-06-07-15h15-Hualin-WU-slides.pdf).*
 
 Hualin Wu -- [Terapines Ltd](https://www.terapines.com).
 
@@ -1326,9 +1337,10 @@ Hualin Wu -- [Terapines Ltd](https://www.terapines.com).
 
 ### Jeremy Bennett -- The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chain
 
-Jeremy Bennett -- [Embecosm](https://www.embecosm.com).
-
 *Plenary on Wed 7th at 16:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-16h30-Jeremy-BENNETT-slides.pdf).*
+
+Jeremy Bennett -- [Embecosm](https://www.embecosm.com).
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1515,6 +1527,7 @@ Wei-Han Lien -- [Tenstorrent](https://tenstorrent.com).
 ### David Mallasén Quintana -- PERCIVAL: Integrating Posit and Quire Arithmetic into the RISC-V Ecosystem
 
 *Plenary on Thu 8th at 10:15.*
+*Links: [slides](media/proceedings/plenary/2023-06-08-10h15-David-MALLASÉN-QUINTANA-slides.pdf).*
 
 David Mallasén Quintana -- [Universidad Complutense De Madrid](https://www.ucm.es).
 
@@ -1609,20 +1622,20 @@ methodology.*
 
 ### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
 
-Luca Lingardo, NXP.
-
 *Plenary on Thu 8th at 14:30.*
 *Links: [extended abstract](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-abstract.pdf), [slides](media/proceedings/plenary/2023-06-08-14h30-Luca-LINGARDO-slides.pdf).*
+
+Luca Lingardo, NXP.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
 ### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
-Bruno Sá -- [University Of Minho](https://www.uminho.pt).
-
 *Plenary on Thu 8th at 17:15.*
 *Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ-abstract.pdf), [slides](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ-slides.pdf).*
+
+Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
