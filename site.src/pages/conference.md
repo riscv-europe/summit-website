@@ -470,19 +470,15 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
 
 </div>
 
+The core of the conference will be from Tuesday June 6th, 2023 to
+Thursday 8th, with a single track of keynotes, technical and
+industrial talks, alongside an exhibition and [posters](posters.html)
+showcasing the latest developments across industry and research.
 
 ## Speakers
 
-The core of the conference will be from Tuesday 6th to Thursday 8th
-with a single track of keynotes, invited and selected talks, alongside
-an exhibition showcasing the latest developments across industry and
-research.
-
-The following speakers will be delivering keynotes and regular talks
-during these three days.
 
 ### Keynotes Speakers
-
 
 #### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
