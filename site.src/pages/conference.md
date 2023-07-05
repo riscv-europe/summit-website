@@ -321,6 +321,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   Patrick Pype, NXP.
   Stefan Wallentowitz, Munich University of Applied Sciences.
   </span>
+  - [Details](#pannel-on-eu-risc-v)
   </div>
   </div>
 
@@ -478,15 +479,6 @@ showcasing the latest developments across industry and research.
 <hr align="center" noshade="yes" width="100%">
 ## Speakers of Tuesday June 6th
 
-
-<hr align="center" noshade="yes" width="100%">
-## Speakers of Wednesday June 7th
-
-
-<hr align="center" noshade="yes" width="100%">
-## Speakers of Thursday June 8th
-
-
 ### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
@@ -502,87 +494,6 @@ This presentation will explore the frontier where cutting-edge computing interse
 
 *Balaji Baktha is the founder and CEO of Ventana Micro Systems, a leader in high-performance RISC-V processors. He is an experienced semiconductor executive and a serial technology entrepreneur and investor with a proven track record in founding and exiting several successful startups over more than 30 years in Silicon Valley. Balaji is a board member of RISC-V International as well as several other startups, and a Limited Partner and Senior Advisor at PE and VC funds.
 Prior to Ventana, Balaji was the founder and CEO of Veloce Technologies, the world’s first 64-bit ARM based high performance processor for cloud-compute (acquired by AppliedMicro). Before Veloce, Balaji was the VP and GM of the Communications Business at Marvell Semiconductor where he managed multiple product groups including compute, wired and wireless networking, and Enterprise Storage SoCs. Before Marvell, Balaji co-founded Platys, a startup that pioneered iSCSI storage networking and was subsequently acquired by Adaptec (now Microsemi). Prior to Platys, Balaji founded Shuttle Technologies (acquired by SCM Micro) to build the first digital media & storage I/O SoCs for Apple, Sony, and HP.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
-### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
-
-[Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- Secretary-General,
-[China RISC-V Alliance (CRVA)](http://crva.ict.ac.cn), Chief
-Scientist, [Beijing Institute of Open-Source Chip
-(BOSC)](https://www.bosc.ac.cn).
-
-*Plenary on Wed 7th at 09:30.*
-
-**Abstract**
-
-RISC-V has made a significant impact on the chip industry and academia
-all over the world. China’s RISC-V community shares the same goals of
-building a shared global RISC-V ecosystem and has been one of the main
-contributors to the RISC-V ecosystem. In this talk, I will first
-summarize the status of RISC-V in China and then introduce two
-specific projects towards building an open-source chip ecosystem: (1)
-The XiangShan project targets an open-source high-performance RISC-V
-core (https://github.com/OpenXiangShan/XiangShan); (2) The One Student
-One Chip (OSOC) Initiative aims to train undergraduates by building
-real RISC-V chips and has already attracted about 3000 participants
-from 300+ universities.
-
-*Bio*
-
-*Yungang Bao is a professor of Institute of Computing Technology
-(ICT), Chinese Academy of Sciences (CAS) and is the deputy director of
-ICT, CAS. He also serves as Chief Scientist of Beijing Institute of
-Open Source Chip (BOSC) and BoD/TSC member of RISC-V International. He
-founded the China RSIC-V Alliance (CRVA) and serves as the
-secretary-general of CRVA. His prior research works have been adopted
-by Alibaba, Huawei, Intel and Microsoft etc. Over the past years, he
-has been leading the XiangShan project and the One Student One Chip
-(OSOC) Initiative. He was the winner of CCF-Intel Young Faculty Award
-of the year for 2013 and the winner of CCF-IEEE CS Young Computer
-Scientist Award and China’s National Lofty Honor for Youth under 40 of
-the year for 2019.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
-### Lars Bergstrom -- Android on RISC-V: Progress and Updates
-
-Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
-
-*Pleanry on Wed 7th at 11:30.*
-
-**Abstract**
-
-In this talk, we will discuss the progress that has been made in
-supporting RISC-V in Android and the [Android Open Source Platform
-(AOSP)](https://source.android.com).
-
-We will cover the following topics:
-
- - The progress that has been made in supporting RISC-V and
-   recently-ratified extensions and the RVA22 profile in Android and
-   AOSP
- - Updates on language support from C/C++, Rust, Java, and other
-   languages for new RISC-V specifications targeting Android
- - An overview of how we have been investing alongside the broader
-   RISC-V ecosystem to bring production-readiness to some key open
-   source projects
-
-*Bio*
-
-*Lars Bergstrom is a Director of Engineering at Google on the Android
-team, working on their platform programming languages, including Java,
-C/C++, and Rust and the supporting tools and libraries. He also serves
-as Google’s Corporate Director to RISC-V International and Chair of
-the Board of Directors of the Rust Foundation. Before Google, he was
-at Mozilla Research, initially contributing to the Servo browser
-project and directing the integration of Rust into Firefox and the
-partner ecosystem. Later, he led Mozilla’s AR and VR work, shipping
-software and building OEM relationships on many different devices. He
-received his Ph.D. in Computer Science from the University of Chicago
-in 2013.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -631,13 +542,51 @@ Since then he is deputy manager of the EIY group in charge of developing Digital
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
+
+<hr align="center" noshade="yes" width="100%">
+## Speakers of Wednesday June 7th
+
+
+### Pannel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
+
+*Plenary on Wed 7th at 08:00.*
+
+**Topic**
+
+It takes a global community to bring out the best of an open standard.
+
+So how do we tap into and embrace the diversity of the ecosystem to
+strengthen solutions around RISC-V? RISC-V is a global standard, so it
+requires groups around the world to find ways to bring together
+individuals with different skillsets and experience, in different
+stages in their careers, from various industries, or across different
+regions, and channeling their strengths to make RISC-V the standard
+for open computing. From projects in Europe that pull together members
+across industry, academia and research, to individuals that need to
+rally resources across a nation or a university, here's a chance to
+hear from members of the global community on how they address
+culture. create high-performing groups and collaborate to get the most
+out of their teams.
+
+**Pannelists:**
+
+ - [Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/), [China RISC-V
+   Alliance (CRVA)](http://crva.ict.ac.cn), [Beijing Institute of
+   Open-Source Chip (BOSC)](https://www.bosc.ac.cn).
+ - John D. Davis, BSC.
+ - Gianna Paulin, Integrated Systems Laboratory (IIS) / ETH Zurich.
+ - Calista Redmond, RISC-V International, **moderator.**
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
 ### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
+
+*Plenary on Wed 7th at 09:00.*
 
 [Luca Benini](https://pulp-platform.org) -- [ETH
 Zürich](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html),
 [Università di Bologna](https://www.unibo.it/sitoweb/luca.benini).
-
-*Plenary on Wed 7th at 09:00.*
 
 **Abstract**
 
@@ -668,6 +617,370 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 2023 IEEE CS Edward J. McCluskey award.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
+
+*Plenary on Wed 7th at 09:30.*
+
+[Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- Secretary-General,
+[China RISC-V Alliance (CRVA)](http://crva.ict.ac.cn), Chief
+Scientist, [Beijing Institute of Open-Source Chip
+(BOSC)](https://www.bosc.ac.cn).
+
+**Abstract**
+
+RISC-V has made a significant impact on the chip industry and academia
+all over the world. China’s RISC-V community shares the same goals of
+building a shared global RISC-V ecosystem and has been one of the main
+contributors to the RISC-V ecosystem. In this talk, I will first
+summarize the status of RISC-V in China and then introduce two
+specific projects towards building an open-source chip ecosystem: (1)
+The XiangShan project targets an open-source high-performance RISC-V
+core (https://github.com/OpenXiangShan/XiangShan); (2) The One Student
+One Chip (OSOC) Initiative aims to train undergraduates by building
+real RISC-V chips and has already attracted about 3000 participants
+from 300+ universities.
+
+*Bio*
+
+*Yungang Bao is a professor of Institute of Computing Technology
+(ICT), Chinese Academy of Sciences (CAS) and is the deputy director of
+ICT, CAS. He also serves as Chief Scientist of Beijing Institute of
+Open Source Chip (BOSC) and BoD/TSC member of RISC-V International. He
+founded the China RSIC-V Alliance (CRVA) and serves as the
+secretary-general of CRVA. His prior research works have been adopted
+by Alibaba, Huawei, Intel and Microsoft etc. Over the past years, he
+has been leading the XiangShan project and the One Student One Chip
+(OSOC) Initiative. He was the winner of CCF-Intel Young Faculty Award
+of the year for 2013 and the winner of CCF-IEEE CS Young Computer
+Scientist Award and China’s National Lofty Honor for Youth under 40 of
+the year for 2019.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
+
+*Plenary on Wed 7th at 10:00.*
+
+Dominic Rizzo -- CEO [zeroRISC Inc](https://zerorisc.com)
+[OpenTitan](https://www.opentitan.org) Project Director.
+
+**Abstract**
+
+OpenTitan brought a new level of transparency to secure silicon
+development with its first discrete chip design, freely available
+today. However, OpenTitan has always had broader goals than a single
+discrete silicon root of trust.
+
+This talk will discuss the entire OpenTitan family of permissively
+licensed design and verification IP in the broader context of creating
+a high quality open silicon ecosystem. I will review the current state
+of the project, both the upcoming commercial discrete device tapeout
+and forthcoming designs built from the OpenTitan IP ecosystem.
+
+I will explore our unique Silicon Commons approach to development
+across diverse partners and geographies, including how our governance
+model – hosted by the non-profit engineering firm, lowRISC C.I.C. –
+created a stable community development platform. Finally, I will
+present how our commitment to open development led to commercial and
+research innovations today, concretely demonstrating the value of
+implementation and development transparency
+
+*Bio*
+
+*Mr. Dominic Rizzo is CEO and co-founder of zeroRISC Inc., a RISC-V
+start-up working in the open source silicon space. He founded the
+OpenTitan project, the world’s first open source silicon root of trust
+design, and currently serves as its Project Director. He previously
+developed the first FIPS 140-2 certified Enterprise U2F Security Key,
+and has research interests in hardening silicon against physical
+attacks and side channels, trustworthy authenticators, and formal
+methods for proof of implementation correctness. He received his BS in
+Aerospace Engineering from the Massachusetts Institute of Technology
+and his MS in Computer Science from the California Institute of
+Technology.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Lars Bergstrom -- Android on RISC-V: Progress and Updates
+
+Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
+
+*Pleanry on Wed 7th at 11:30.*
+
+**Abstract**
+
+In this talk, we will discuss the progress that has been made in
+supporting RISC-V in Android and the [Android Open Source Platform
+(AOSP)](https://source.android.com).
+
+We will cover the following topics:
+
+ - The progress that has been made in supporting RISC-V and
+   recently-ratified extensions and the RVA22 profile in Android and
+   AOSP
+ - Updates on language support from C/C++, Rust, Java, and other
+   languages for new RISC-V specifications targeting Android
+ - An overview of how we have been investing alongside the broader
+   RISC-V ecosystem to bring production-readiness to some key open
+   source projects
+
+*Bio*
+
+*Lars Bergstrom is a Director of Engineering at Google on the Android
+team, working on their platform programming languages, including Java,
+C/C++, and Rust and the supporting tools and libraries. He also serves
+as Google’s Corporate Director to RISC-V International and Chair of
+the Board of Directors of the Rust Foundation. Before Google, he was
+at Mozilla Research, initially contributing to the Servo browser
+project and directing the integration of Rust into Firefox and the
+partner ecosystem. Later, he led Mozilla’s AR and VR work, shipping
+software and building OEM relationships on many different devices. He
+received his Ph.D. in Computer Science from the University of Chicago
+in 2013.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+<a id="Dave-DITZEL"/>
+
+### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
+
+Dave Ditzel, Esperanto Technologies.
+
+*Plenary on Wed 7th at 12:00.*
+
+**Abstract**
+
+High-end computing is undergoing revolutionary change. After many
+years of most high-end computers being used to serve web pages, the
+last decade saw a remarkable growth in the use of machine
+learning. Separately, HPC computers continued to grow peak flop rates,
+but system design was largely constrained to x86 server CPUs coupled
+with GPU accelerators. The thesis of this presentation is that the
+rise of generative-AI system is the final tipping point that will push
+for merged ML/HPC system design, and that RISC-V is well positioned to
+be able to take a leading role in this revolution.
+
+*Bio*
+
+*A well-known entrepreneur and visionary in the computer and
+semiconductor industry, Dave was founder and CEO of Transmeta, maker
+of low power x86 microprocessors, raising over $600M from startup to a
+$6B IPO. Dave co-authored “The Case for RISC,” along with professor
+David Patterson. Previously, Dave was a vice president at Intel
+Corporation, leading advanced processor projects, and CTO at Sun
+Microsystems for the SPARC Technology Business. After earning a degree
+in Electrical Engineering and a separate degree in Computer Science,
+Dave did his graduate work at U.C. Berkeley under professor David
+Patterson.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Umair Riaz -- MEDEA: Improved Memory-Level Parallelism in a decoupled execute/access vector accelerator
+
+[Umair Riaz](https://www.linkedin.com/in/umair-riaz871) -- BSC.
+
+*Plenary on Wed 7th at 12:15.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+<!-- ### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit -->
+
+<!-- *Plenary on Wed 7th at 13:00.* -->
+
+<!-- [Brian Colgan](https://www.linkedin.com/in/briancolgan/) -- FPGA Business Development Manager, [Microchip](https://www.microchip.com/) -->
+
+<!-- **Abstract** -->
+
+<!-- The PolarFire SoC Smart Embedded Vision kit is the latest installment -->
+<!-- in the PolarFire SoC hardware family. Microchip will exhibit the kit -->
+<!-- with a video processing demo while showcasing fabric-processor design -->
+<!-- partition in the PolarFire SoC. While all processing can be done in -->
+<!-- the Microchip RISC-V (Mi-V) Microprocessor Subsystem (MSS) of -->
+<!-- PolarFire SoC, we can show the increase in performance when some -->
+<!-- processing is off-loaded to the FPGA fabric. Come see how Microchip’s -->
+<!-- newest FPGA kit is delivering RISC-V to the masses. -->
+
+<!-- <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div> -->
+
+### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
+
+[Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
+Strategic Partnerships, NXP Semiconductors.
+
+*Plenary on Wed 7th at 14:00.*
+
+**Abstract**
+
+TRISTAN is a European KDT cooperation project which started in
+December 2022 and runs for 3 years.  The overarching aim is to expand,
+mature and industrialize the European RISC-V ecosystem so that it is
+able to compete with existing commercial alternatives. This will be
+achieved by leveraging the Open-Source community to gain in
+productivity and quality. This goal will be achieved by defining a
+European strategy for RISC-V based designs including the creation of a
+repository of industrial quality building blocks to be used for SoC
+designs in different application domains (e.g. automotive, industrial,
+etc.). The TRISTAN approach is holistic, covering both electronic
+design automation tools (EDA) and the full software stack. The TRISTAN
+consortium is composed of 46 partners from industry (both large
+industries as well as SMEs), research organizations, universities and
+RISC-V related industry associations, originating from Austria,
+Belgium, Finland, France, Germany, Israel, Italy, the Netherlands,
+Poland, Romania, Turkey and Switzerland.  The presentation will focus
+on some of the specific targets and expected results of the project
+and how this fits in the Europen RISC-V Open-Source Roadmap which was
+developed by a European Working Group and is documented in a report:
+[``Recommendations and roadmap for European sovereignty on open source
+hardware, software and RISC-V Technologies | Shaping Europe’s digital
+future''](https://digital-strategy.ec.europa.eu/en/library/recommendations-and-roadmap-european-sovereignty-open-source-hardware-software-and-risc-v))
+
+*Bio*
+
+*Patrick is Director of Strategic Partnerships at NXP Semiconductors,
+and has held this position since 2012. He began his career at IMEC in
+Belgium in 1986. In 1996 he started the start-up company CoWare on
+hardware/software co-design which was later acquired by Synopsys.
+Thereafter he worked at Philips in different positions.  Patrick is
+Chairman of the AENEAS Technical Expert Group since 2018 and he is
+member of the INSIDE Steering Board since 2015.  He was co-chair of
+the overall ECSEL Strategic Research Agenda 2019-2021 and is also
+co-chair of the chapter on “Transport & Mobility”.  Patrick was
+Chairman of the Engineering Alumni Association of the KULeuven from
+2005-2008.  Patrick has contributed several papers in two books
+published by Springer on “Automated Driving’’ and “Internet of
+Vehicles’’.  He is author of the book “Zest for Opera – Unleash your
+Leadership”, which was published in October 2018.  The book offers
+inspiring insights from the world of opera for leaders in business &
+politics, coaches, teachers and students.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Karol Gugala & Matt Cockrell -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
+
+*Plenary on Wed 7th at 14:30.*
+
+[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/) and Matt Cockrell -- Hardware Engineer, Google
+
+**Abstract**
+
+Building a modern, complex, RISC-V based digital design like the Caliptra Root of Trust requires collaborative effort between multiple development teams of various backgrounds, especially in standards-based multi-organization environments like CHIPS Alliance. While in software development massive, standards-driven collaboration is a reality through open source infrastructure and tools, the digital design space often lacks the open source tooling needed to easily share and automate workflows, scale continuous integration and enable security through transparency of the development process. In this paper, we will describe how digital design tools and workflows developed by CHIPS Alliance are being used in practice in a collaborative environment as a potential template for other work in this space.
+
+*Bio*
+
+*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Joaquim Maria Castella Triginer -- Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project
+
+*Plenary on Wed 7th at 14:45.*
+
+Joaquim Maria Castella Triginer, [Virtual Vehicle Research GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Duncan Graham -- Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification
+
+*Plenary on Wed 7th at 15:00.*
+
+Duncan Graham --[Imperas Software](https://www.imperas.com).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Hualin Wu -- Accelerate HPC and AI applications with RVV auto vectorization
+
+*Plenary on Wed 7th at 15:15.*
+
+Hualin Wu -- [Terapines Ltd](https://www.terapines.com).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Jeremy Bennett -- The CORE‑V software ecosystem: Ten lessons learned from developing vendor specific compiler tool chain
+
+Jeremy Bennett -- [Embecosm](https://www.embecosm.com).
+
+*Plenary on Wed 7th at 16:30.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Matthew Xuereb -- The European Chips Act: Enabling chip design in Europe
+
+*Plenary on Wed 7th at 16:45.*
+
+[Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172)
+-- Policy Officer, European Commission.
+
+**Abstract**
+
+Following the political agreement on the European Chips Act, the
+crucial implementation period has now started. For the aims of the
+Chips Act to be realised, Europe’s market share in fab-less design
+must grow. The keynote will focus on the Chips for Europe Initiative,
+where a virtual design platform is foreseen that will enable users,
+particularly start-ups and SMEs to have access to EDA tools and the
+computing resources necessary to scale-up beyond the critical “valley
+of death”. It is also foreseen that the platform will include an open
+repository that will enable access to European open-source IP.
+
+The keynote will also go through progress since the publication of the
+“Recommendations and roadmap for European sovereignty on open-source
+hardware, software and RISC-V Technologies” report and present some of
+the foreseen upcoming actions in this regard.
+
+*Bio*
+
+*Matthew is a Policy Officer within the [Microelectronics and
+Photonics Industry
+Unit](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_241435)
+of the European Commission’s [DG Communications Networks, Content and
+Technology](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/communications-networks-content-and-technology_en).
+where his work focuses on the implementation of Pillar 1 of the Chips
+Act. He joined the Commission in 2021, starting with an experience
+within DG BUDG, in the directorate responsible for the negotiations of
+the European annual budget. He is a graduate in Electrical and
+Electronic Engineering and European Politics, Economics and Law.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+### Pannel on EU & RISC-V
+
+*Plenary on Wed 7th at 17:15.*
+
+**Topic**
+
+In recent years, the importance of semiconductor chip design and production in Europe has grown. Amidst the global chip shortage and geopolitical tensions, Europe has realized its significant dependency on technologies, which serve as the backbone for myriad industries ranging from automotive to industrial electronics, healthcare, and more.
+
+European actors from industry and academia have been very active and involved in R&D around RISC-V from its early days, and the importance of RISC-V has led to various research projects over the last years. RISC-V has been identified as an important piece in the puzzle of the future of chips in Europe.
+
+In this pannel, pannelists from the European Commission and leading research institutions along with both established semiconductor companies and RISC-V focused startups will discuss the state of RISC-V in Europe and future directions.
+
+**Pannelists:**
+
+ - Luis-Carlos Busquets-Perez, EU Commission.
+ - John D. Davis, BSC.
+ - Roger Espasa, Semidynamics.
+ - Daniel Opalka, EuroHPC.
+ - Patrick Pype, NXP.
+ - Calista Redmond, RISC-V International, **moderator.**
+ - Stefan Wallentowitz, Munich University of Applied Sciences.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+<hr align="center" noshade="yes" width="100%">
+## Speakers of Thursday June 8th
 
 
 ### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
@@ -846,23 +1159,6 @@ software data for efficient co-design
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-### Karol Gugala & Matt Cockrell -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
-
-[Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/) and Matt Cockrell -- Hardware Engineer, Google
-
-*Plenary on Wed 7th at 14:30.*
-
-**Abstract**
-
-Building a modern, complex, RISC-V based digital design like the Caliptra Root of Trust requires collaborative effort between multiple development teams of various backgrounds, especially in standards-based multi-organization environments like CHIPS Alliance. While in software development massive, standards-driven collaboration is a reality through open source infrastructure and tools, the digital design space often lacks the open source tooling needed to easily share and automate workflows, scale continuous integration and enable security through transparency of the development process. In this paper, we will describe how digital design tools and workflows developed by CHIPS Alliance are being used in practice in a collaborative environment as a potential template for other work in this space.
-
-*Bio*
-
-*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
 ### Mark Himelstein -- The Road Ahead
 
 [Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
@@ -904,103 +1200,6 @@ This talk will provide a brief overview of Open-Source HW activity across the in
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-
-### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
-
-[Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
-Strategic Partnerships, NXP Semiconductors.
-
-*Plenary on Wed 7th at 14:00.*
-
-**Abstract**
-
-TRISTAN is a European KDT cooperation project which started in
-December 2022 and runs for 3 years.  The overarching aim is to expand,
-mature and industrialize the European RISC-V ecosystem so that it is
-able to compete with existing commercial alternatives. This will be
-achieved by leveraging the Open-Source community to gain in
-productivity and quality. This goal will be achieved by defining a
-European strategy for RISC-V based designs including the creation of a
-repository of industrial quality building blocks to be used for SoC
-designs in different application domains (e.g. automotive, industrial,
-etc.). The TRISTAN approach is holistic, covering both electronic
-design automation tools (EDA) and the full software stack. The TRISTAN
-consortium is composed of 46 partners from industry (both large
-industries as well as SMEs), research organizations, universities and
-RISC-V related industry associations, originating from Austria,
-Belgium, Finland, France, Germany, Israel, Italy, the Netherlands,
-Poland, Romania, Turkey and Switzerland.  The presentation will focus
-on some of the specific targets and expected results of the project
-and how this fits in the Europen RISC-V Open-Source Roadmap which was
-developed by a European Working Group and is documented in a report:
-[``Recommendations and roadmap for European sovereignty on open source
-hardware, software and RISC-V Technologies | Shaping Europe’s digital
-future''](https://digital-strategy.ec.europa.eu/en/library/recommendations-and-roadmap-european-sovereignty-open-source-hardware-software-and-risc-v))
-
-*Bio*
-
-*Patrick is Director of Strategic Partnerships at NXP Semiconductors,
-and has held this position since 2012. He began his career at IMEC in
-Belgium in 1986. In 1996 he started the start-up company CoWare on
-hardware/software co-design which was later acquired by Synopsys.
-Thereafter he worked at Philips in different positions.  Patrick is
-Chairman of the AENEAS Technical Expert Group since 2018 and he is
-member of the INSIDE Steering Board since 2015.  He was co-chair of
-the overall ECSEL Strategic Research Agenda 2019-2021 and is also
-co-chair of the chapter on “Transport & Mobility”.  Patrick was
-Chairman of the Engineering Alumni Association of the KULeuven from
-2005-2008.  Patrick has contributed several papers in two books
-published by Springer on “Automated Driving’’ and “Internet of
-Vehicles’’.  He is author of the book “Zest for Opera – Unleash your
-Leadership”, which was published in October 2018.  The book offers
-inspiring insights from the world of opera for leaders in business &
-politics, coaches, teachers and students.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
-
-Dominic Rizzo -- CEO zeroRISC
-Inc. [OpenTitan](https://www.opentitan.org) Project Director.
-
-*Plenary on Wed 7th at 10:00.*
-
-**Abstract**
-
-OpenTitan brought a new level of transparency to secure silicon
-development with its first discrete chip design, freely available
-today. However, OpenTitan has always had broader goals than a single
-discrete silicon root of trust.
-
-This talk will discuss the entire OpenTitan family of permissively
-licensed design and verification IP in the broader context of creating
-a high quality open silicon ecosystem. I will review the current state
-of the project, both the upcoming commercial discrete device tapeout
-and forthcoming designs built from the OpenTitan IP ecosystem.
-
-I will explore our unique Silicon Commons approach to development
-across diverse partners and geographies, including how our governance
-model – hosted by the non-profit engineering firm, lowRISC C.I.C. –
-created a stable community development platform. Finally, I will
-present how our commitment to open development led to commercial and
-research innovations today, concretely demonstrating the value of
-implementation and development transparency
-
-*Bio*
-
-*Mr. Dominic Rizzo is CEO and co-founder of zeroRISC Inc., a RISC-V
-start-up working in the open source silicon space. He founded the
-OpenTitan project, the world’s first open source silicon root of trust
-design, and currently serves as its Project Director. He previously
-developed the first FIPS 140-2 certified Enterprise U2F Security Key,
-and has research interests in hardening silicon against physical
-attacks and side channels, trustworthy authenticators, and formal
-methods for proof of implementation correctness. He received his BS in
-Aerospace Engineering from the Massachusetts Institute of Technology
-and his MS in Computer Science from the California Institute of
-Technology.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 ### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
 
@@ -1120,78 +1319,6 @@ methodology.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-### Matthew Xuereb -- The European Chips Act: Enabling chip design in Europe
-
-[Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172)
--- Policy Officer, European Commission.
-
-*Plenary on Wed 7th at 16:45.*
-
-**Abstract**
-
-Following the political agreement on the European Chips Act, the
-crucial implementation period has now started. For the aims of the
-Chips Act to be realised, Europe’s market share in fab-less design
-must grow. The keynote will focus on the Chips for Europe Initiative,
-where a virtual design platform is foreseen that will enable users,
-particularly start-ups and SMEs to have access to EDA tools and the
-computing resources necessary to scale-up beyond the critical “valley
-of death”. It is also foreseen that the platform will include an open
-repository that will enable access to European open-source IP.
-
-The keynote will also go through progress since the publication of the
-“Recommendations and roadmap for European sovereignty on open-source
-hardware, software and RISC-V Technologies” report and present some of
-the foreseen upcoming actions in this regard.
-
-*Bio*
-
-*Matthew is a Policy Officer within the [Microelectronics and
-Photonics Industry
-Unit](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_241435)
-of the European Commission’s [DG Communications Networks, Content and
-Technology](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/communications-networks-content-and-technology_en).
-where his work focuses on the implementation of Pillar 1 of the Chips
-Act. He joined the Commission in 2021, starting with an experience
-within DG BUDG, in the directorate responsible for the negotiations of
-the European annual budget. He is a graduate in Electrical and
-Electronic Engineering and European Politics, Economics and Law.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-<a id="Dave-DITZEL"/>
-
-### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
-
-Dave Ditzel, Esperanto Technologies.
-
-*Plenary on Wed 7th at 12:00.*
-
-**Abstract**
-
-High-end computing is undergoing revolutionary change. After many
-years of most high-end computers being used to serve web pages, the
-last decade saw a remarkable growth in the use of machine
-learning. Separately, HPC computers continued to grow peak flop rates,
-but system design was largely constrained to x86 server CPUs coupled
-with GPU accelerators. The thesis of this presentation is that the
-rise of generative-AI system is the final tipping point that will push
-for merged ML/HPC system design, and that RISC-V is well positioned to
-be able to take a leading role in this revolution.
-
-*Bio*
-
-*A well-known entrepreneur and visionary in the computer and
-semiconductor industry, Dave was founder and CEO of Transmeta, maker
-of low power x86 microprocessors, raising over $600M from startup to a
-$6B IPO. Dave co-authored “The Case for RISC,” along with professor
-David Patterson. Previously, Dave was a vice president at Intel
-Corporation, leading advanced processor projects, and CTO at Sun
-Microsystems for the SPARC Technology Business. After earning a degree
-in Electrical Engineering and a separate degree in Computer Science,
-Dave did his graduate work at U.C. Berkeley under professor David
-Patterson.*
-
 ### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
 
 Luca Lingardo, NXP.
@@ -1232,49 +1359,6 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
  - Peter Lewin, Imagination.
  - Charlie Su, Andes.
  - Itai Yarom, MIPS
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
-
-**Topic**
-
-It takes a global community to bring out the best of an open standard.
-
-So how do we tap into and embrace the diversity of the ecosystem to strengthen solutions around RISC-V? RISC-V is a global standard, so it requires groups around the world to find ways to bring together individuals with different skillsets and experience, in different stages in their careers, from various
-industries, or across different regions, and channeling their strengths to make RISC-V the standard for open computing. From projects in Europe that pull together members across industry, academia and research, to individuals that need to rally resources across a nation or a university, here's a chance to
-hear from members of the global community on how they address culture. create high-performing groups and collaborate to get the most out of their teams.
-
-**Panelists**
-
- - [Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/), [China RISC-V
-   Alliance (CRVA)](http://crva.ict.ac.cn), [Beijing Institute of
-   Open-Source Chip (BOSC)](https://www.bosc.ac.cn).
- - John D. Davis, BSC.
- - Gianna Paulin, Integrated Systems Laboratory (IIS) / ETH Zurich.
- - Calista Redmond, RISC-V International, **moderator.**
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Panel on EU & RISC-V
-
-**Topic**
-
-In recent years, the importance of semiconductor chip design and production in Europe has grown. Amidst the global chip shortage and geopolitical tensions, Europe has realized its significant dependency on technologies, which serve as the backbone for myriad industries ranging from automotive to industrial electronics, healthcare, and more.
-
-European actors from industry and academia have been very active and involved in R&D around RISC-V from its early days, and the importance of RISC-V has led to various research projects over the last years. RISC-V has been identified as an important piece in the puzzle of the future of chips in Europe.
-
-In this panel, panelists from the European Commission and leading research institutions along with both established semiconductor companies and RISC-V focused startups will discuss the state of RISC-V in Europe and future directions.
-
-**Panelists**
-
- - Luis-Carlos Busquets-Perez, EU Commission.
- - John D. Davis, BSC.
- - Roger Espasa, Semidynamics.
- - Daniel Opalka, EuroHPC.
- - Patrick Pype, NXP.
- - Calista Redmond, RISC-V International, **moderator.**
- - Stefan Wallentowitz, Munich University of Applied Sciences.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1363,16 +1447,6 @@ AI applications require efficient and powerful flexible computing capabilities o
 *Bio*
 
 *Warren Chen is a Senior Technical Manager at Andes Technology, where he works in the Technical Marketing Division. Warren has over 20 years of work experience ranging from embedded operating system porting, device driver, middleware, software architecture, project management, and marketing. He is excited to be part of the dynamic and growing RISC-V community.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit
-
-[Brian Colgan](https://www.linkedin.com/in/briancolgan/) -- FPGA Business Development Manager, [Microchip](https://www.microchip.com/)
-
-**Abstract**
-
-The PolarFire SoC Smart Embedded Vision kit is the latest installment in the PolarFire SoC hardware family. Microchip will exhibit the kit with a video processing demo while showcasing fabric-processor design partition in the PolarFire SoC. While all processing can be done in the Microchip RISC-V (Mi-V) Microprocessor Subsystem (MSS) of PolarFire SoC, we can show the increase in performance when some processing is off-loaded to the FPGA fabric. Come see how Microchip’s newest FPGA kit is delivering RISC-V to the masses.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
