@@ -154,7 +154,7 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
 
   <div class="schedule-block-title keynote">
-  <span class="schedule-block-time">17:30-18:15</span><br/><span class="schedule-block-name">Panel</span>
+  <span class="schedule-block-time">17:30-18:15</span><br/><span class="schedule-block-name">Pannel</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
@@ -182,11 +182,11 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   <div class="schedule-day" id="top-wed">Wednesday, June 7th</div>
 
   <div class="schedule-block-title break">
-  <span class="schedule-block-time">8:00-8:45</span><br/><span class="schedule-block-name">Breakfast Panel</span>
+  <span class="schedule-block-time">8:00-8:45</span><br/><span class="schedule-block-name">Breakfast Pannel</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">8:00</span> - <span class="schedule-author">Panel</span> - <span class="schedule-title">Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community</span> - <a href="#panel-collaboration-and-culture-leveraging-diverse-strengths-to-cultivate-a-stronger-community">Details</a>
+  <span class="schedule-time">8:00</span> - <span class="schedule-author">Pannel</span> - <span class="schedule-title">Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community</span> - <a href="#pannel-collaboration-and-culture-leveraging-diverse-strengths-to-cultivate-a-stronger-community">Details</a>
   </div>
   </div>
 
@@ -307,11 +307,11 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
 
   <div class="schedule-block-title keynote">
-  <span class="schedule-block-time">17:15-18:00</span><br/><span class="schedule-block-name">Panel</span>
+  <span class="schedule-block-time">17:15-18:00</span><br/><span class="schedule-block-name">Pannel</span>
   </div>
   <div class="schedule-block">
   <div class="schedule-entry">
-  <span class="schedule-time">17:15</span> - <span class="schedule-title">Panel on EU & RISC-V</span> -
+  <span class="schedule-time">17:15</span> - <span class="schedule-title">Pannel on EU & RISC-V</span> -
   <span class="schedule-author">
   Calista Redmond, RISC-V (moderator).
   Luis-Carlos Busquets-Perez, EU Commission.
