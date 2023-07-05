@@ -479,21 +479,381 @@ showcasing the latest developments across industry and research.
 <hr align="center" noshade="yes" width="100%">
 ## Speakers of Tuesday June 6th
 
+
+### Calista Redmond -- Opening
+
+*Plenary on Tue 6th at 09:00.*
+
+Calista Redmond -- CEO, RISC-V International.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+### Christian Fabre -- Welcome from the RISC-V Summit Europe Steering Committee
+
+*Plenary on Tue 6th at 09:20.*
+
+Christian Fabre -- CEA.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Daniel Müller-Gritschneder & Teresa Cervero -- RISC-V Summit Europe Program Overview
+
+Daniel Müller-Gritschneder -- Technical University Munich. Teresa Cervero, BSC.
+
+*Plenary on Tue 6th at 09:30.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Mark Himelstein -- The Road Ahead
+
+[Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
+
+*Plenary on Tue 6th at 09:45.*
+
+*Link: [slides](media/proceedings/plenary/2023-06-06-09h45-Mark-HIMELSTEIN-slides.pdf).*
+
+*Bio*
+
+*Before RISC-V international Mark Himelstein was the President of
+Heavenstone, Inc. which concentrated on Strategic, Management, and
+Technology Consulting providing hardware and software product
+architecture, analysis, mentoring and interim management. Previously,
+Mark started Graphite Systems, Inc (acquired by EMC) where he was the
+VP of Engineering and CTO developing large Analytics Appliances using
+highly integrated FLASH memory. Prior to Graphite, Mark held positions
+as the CTO of Quantum Corp, Vice President of Solaris development
+engineering at Sun Microsystems and other technical management roles
+at Apple, Infoblox, and MIPS.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
+
+*Plenary on Tue 6th at 10:00.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-10h00-Rick-O'CONNOR-slides.pdf).*
+
+[Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
+
+**Abstract**
+
+This talk will provide a brief overview of Open-Source HW activity
+across the industry, barriers to adoption of Open-Source HW and
+challenges associated with SoC design.  Lessons learned related to the
+OpenHW Group Governance model and commercial adoption of CORE-V Family
+of open source RISC-V cores will also be presented. The CORE-V family
+is an OpenHW Group project to develop, deploy, and execute pre-silicon
+functional verification and SoC based development kits of the CORE-V
+family of open-source RISC-V cores. Written in SystemVerilog, CORE-V
+open-source IP cores match the quality of IP offered by established
+commercial providers and are verified with state-of-the-art, auditable
+flows.
+
+*Bio*
+
+*Rick O'Connor is Founder and serves as President & CEO of the OpenHW
+Group a not-for-profit, global organization driven by its members and
+individual contributors where hardware and software designers
+collaborate on open source cores, related IP, tools and software
+projects. Previously Rick was Executive Director of the RISC-V
+Foundation. Founded by Rick in 2015 with the support of over 40
+Founding Members, the RISC-V Foundation currently comprises more than
+400 members building an open, collaborative community of software and
+hardware innovators powering processor innovation. With many years of
+Executive level management experience in semiconductor and systems
+companies, Rick possesses a unique combination of business and
+technical skills and was responsible for the development of dozens of
+products accounting for over $750 million in revenue. Rick holds an
+Executive MBA degree from the University of Ottawa, Canada and is an
+honors graduate of the faculty of Electronics Engineering Technology
+at Algonquin College, Canada.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
 ### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
+
+*Plenary on Tue 6th at 10:15. Links: [slides](media/proceedings/plenary/2023-06-06-10h15-Balaji-BAKTHA-slides.pdf)*.
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
 [Ventana Micro Systems](https://www.ventanamicro.com/)
 
-*Plenary on Tue 6th at 10:15. Links: [slides](media/proceedings/plenary/2023-06-06-10h15-Balaji-BAKTHA-slides.pdf)*.
-
 **Abstract**
 
-This presentation will explore the frontier where cutting-edge computing intersects with the rapidly evolving automotive industry.  As cars become increasingly reliant on advanced technologies for safety, efficiency, and performance, new design paradigms are required.  Balaji will provide an exploration of how Ventana is leveraging the power of RISC-V and chiplet technologies to revolutionize how automotive manufacturers take control of their technology supply chain and enable differentiated platforms.  The session will provide insights into not only the technology itself but also into the broader implications for the automotive industry and manufacturers.
+This presentation will explore the frontier where cutting-edge
+computing intersects with the rapidly evolving automotive industry. 
+As cars become increasingly reliant on advanced technologies for
+safety, efficiency, and performance, new design paradigms are
+required.  Balaji will provide an exploration of how Ventana is
+leveraging the power of RISC-V and chiplet technologies to
+revolutionize how automotive manufacturers take control of their
+technology supply chain and enable differentiated platforms.  The
+session will provide insights into not only the technology itself but
+also into the broader implications for the automotive industry and
+manufacturers.
 
 *Bio*
 
-*Balaji Baktha is the founder and CEO of Ventana Micro Systems, a leader in high-performance RISC-V processors. He is an experienced semiconductor executive and a serial technology entrepreneur and investor with a proven track record in founding and exiting several successful startups over more than 30 years in Silicon Valley. Balaji is a board member of RISC-V International as well as several other startups, and a Limited Partner and Senior Advisor at PE and VC funds.
-Prior to Ventana, Balaji was the founder and CEO of Veloce Technologies, the world’s first 64-bit ARM based high performance processor for cloud-compute (acquired by AppliedMicro). Before Veloce, Balaji was the VP and GM of the Communications Business at Marvell Semiconductor where he managed multiple product groups including compute, wired and wireless networking, and Enterprise Storage SoCs. Before Marvell, Balaji co-founded Platys, a startup that pioneered iSCSI storage networking and was subsequently acquired by Adaptec (now Microsemi). Prior to Platys, Balaji founded Shuttle Technologies (acquired by SCM Micro) to build the first digital media & storage I/O SoCs for Apple, Sony, and HP.*
+*Balaji Baktha is the founder and CEO of Ventana Micro Systems, a
+leader in high-performance RISC-V processors. He is an experienced
+semiconductor executive and a serial technology entrepreneur and
+investor with a proven track record in founding and exiting several
+successful startups over more than 30 years in Silicon Valley. Balaji
+is a board member of RISC-V International as well as several other
+startups, and a Limited Partner and Senior Advisor at PE and VC funds.
+Prior to Ventana, Balaji was the founder and CEO of Veloce
+Technologies, the world’s first 64-bit ARM based high performance
+processor for cloud-compute (acquired by AppliedMicro). Before Veloce,
+Balaji was the VP and GM of the Communications Business at Marvell
+Semiconductor where he managed multiple product groups including
+compute, wired and wireless networking, and Enterprise Storage
+SoCs. Before Marvell, Balaji co-founded Platys, a startup that
+pioneered iSCSI storage networking and was subsequently acquired by
+Adaptec (now Microsemi). Prior to Platys, Balaji founded Shuttle
+Technologies (acquired by SCM Micro) to build the first digital media
+& storage I/O SoCs for Apple, Sony, and HP.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Jon Taylor -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools
+
+*Plenary on Tue 6th at 11:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-11h30-Jon-TAYLOR-slides.pdf).*
+
+Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
+
+**Abstract**
+
+The freedom of RISC-V represents both new innovations in design and
+also the migration of verification responsibility. This keynote
+highlights the challenges facing SoC teams as they adopt RISC-V and
+provides a perspective on how the use of new verification standards
+and methodologies drives down cost, quality risk, and development
+time.
+
+*Bio*
+
+*Jon Taylor has over 20 years of experience in the semiconductor
+industry, working in technical areas from CPU verification to embedded
+software, and commercial areas including field applications and
+technology strategy. He has worked on multiple architectures including
+Arm, RISC-V and proprietary CPUs. He holds a degree from Southampton
+University in Electronic Engineering and is currently Director of
+Product Technology for Imperas working on technology to help enable
+the RISC-V revolution.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Brett Cline -- RISC-V Customization, HW/SW Co-Optimization, and Custom Compute
+
+*Plenary on Tue 6th at 11:45.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-11h45-Brett-CLINE-slides.pdf).*
+
+[Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
+
+**Abstract**
+
+If you optimize your software for a general-purpose core there is a
+substantial risk that your algorithms are executed inefficiently and
+therefore run slowly. You can address this by creating fixed-function
+circuits designed to perform a specific set of operations. These
+hardware functions can be extremely fast, but because they are hard
+coded, it is difficult to modify or update them. So how can you
+achieve flexibility and performance? By combining both approaches. A
+key benefit of RISC-V customization is that you can create custom
+instructions tailored to your specific application needs.
+
+To pick custom instructions correctly and create efficient
+implementations, software and hardware teams need to collaborate. By
+starting work earlier on processor customization, the software team
+can start developing their critical algorithms and uncover much sooner
+those potential gains that could not be achieved if the hardware was
+already frozen.   We call this Custom Compute, and its benefits extend
+beyond performance and energy efficiency. Custom Compute can also
+enable organizations to improve security by adding security features
+at the heart of the processor. A closer collaboration between hardware
+and software teams, supported by a strong methodology and by efficient
+tools, is the future standard of system design.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
+
+*Plenary on Tue 6th at 12:00.*
+
+[Dr. Charlie Su]([https://www.linkedin.com/in/patrickpype/](https://www.linkedin.com/in/charlie-hong-men-su-%E8%98%87%E6%B3%93%E8%90%8C-5bb64016/)) -- President and CTO, [Andes Technology](https://www.andestech.com/en/homepage/).
+
+**Abstract**
+
+RISC-V has been adopted with a record-breaking speed in pretty much
+all applications from general-purpose tiny MCUs to datacenter AI/ML
+accelerator SoCs. In this keynote, we will give examples of RISC-V
+applications and solutions to support them; in particular, we will
+also analyze various approaches for matrix multiplication extension to
+embrace AI/ML acceleration directly in RISC-V architecture. In
+addition, ISO 26262 certified automotive electronics solutions have
+been highly sought after in recent years due to multiple catalysts. In
+the second part of the keynote, we will talk about how RISC-V
+solutions address such market, some successful examples, and new
+technical challenges we should look into.
+
+*Bio*
+
+*Dr. Charlie Su is a Cofounder, President and CTO of Andes, a 18-year
+pure-play CPU IP vendor. Charlie’s main focus is on product
+definition, development and promotion. He spent over 12 years in the
+Silicon Valley with various technical and management positions at Sun
+Microsystems, Afara Websystems, C-Cube Microsystems, SGI/MIPS, and
+Intergraph. He made key contributions to several successful processors
+such as the Sun multi-core multi-threading Ultrasparc T1 and T2
+processors, the C-Cube high-performance E-series MPEG media
+processors, the MIPS out-of-order R10K processor, and the Intergraph
+Clipper VLIW processor. Prior to starting Andes, he led the CPU and
+DSP development in Faraday Technology as Chief Architect. Charlie
+obtained his Ph.D. in CS from the University of Illinois at
+Urbana-Champaign, M.S. in CS from National Tsing-Hua University, and
+B.S. in EE from National Taiwan University.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
+
+*Plenary on Tue 6th at 12:15.*
+*Links: [slides](media/proceedings/plenary/2023-06-06-12h15-Daniele-ROSSI-slides.pdf).*
+
+[Daniele Rossi](https://www.linkedin.com/in/daniele-rossi-24757210) --
+Università di Pisa.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Roger Espasa -- Semidynamics Highly Configurable OoO Vector Unit
+
+*Plenary on Tue 6th at 14:00.*
+
+Roger Espasa -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
+
+**Abstract**
+
+In this talk we will disclose Semidynamics Out-of-Order RISC-V Vector
+unit, which is fully compliant with the RVV1.0 specification. We will
+disclose all the configuration options available for customers and
+discuss some performance data for an 8-lane configuration
+
+*Bio*
+
+*Roger Espasa is the founder and CEO of Semidynamics, an IP supplier
+of two RISC-V cores, Avispado (in-order) and Atrevido (out-of-order)
+supporting the RISC-V vector extension and Gazzillion&trade; misses,
+both targeted at HPC and Machine Learning.  In addition, Semidynamics
+architected and designed the Esperanto Technologies; 1024+ core
+machine-learning 7&nbsp;nm SoC. Prior to Semidynamics, Roger was at
+Broadcom working on an ARMV8 wide out-of-order core. (2014-2016).
+Previously, Roger worked at Intel (2002-2014) developing a vector
+extension for the x86 ISA, initially deployed in XeonPhi (Larrabee)
+which then became AVX-512.  Roger also led the texture sampling unit
+for Larrabee. Roger then worked on Knight's Landing (14&nbsp;nm) and
+led the core for Knights Hill (10&nbsp;nm). Between 1999 and 2001
+Roger worked for the Alpha Microprocessor Group on a vector extension
+to the Alpha architecture known as Tarantula.  Roger got his PhD from
+UPC in 1997, has published over 40 peer-reviewed papers on Vector
+Architectures, Graphics/3D Architecture, Binary translation and
+optimization, Branch Prediction, and Media ISA Extensions and holds 9
+patents with 41 international filings.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
+
+*Plenary on Tue 6th at 14:15.*
+
+[Michael Gielda](https://www.linkedin.com/in/mgielda/) -- Co-Founder and VP Business Development, [Antmicro](https://antmicro.com/).
+
+**Abstract**
+
+RISC-V offers unprecedented freedom in designing hardware systems,
+prompting a renaissance in new core implementations, system building
+blocks and SW-HW co-design paradigms. Drawing on the experience of
+working with the expansive landscape of RISC-V implementations, both
+on the hardware and software level, Antmicro is developing a visual
+platform designer which helps navigate this complexity. The tool
+builds on the configurability of RISC-V and the our vast open source
+database of hardware components to let you create advanced, real-world
+systems which can be simulated with the open source Renode simulator
+and seeded with software such as Zephyr or Linux.
+
+Thanks to Renode’s support for vector and custom instructions and
+integration with Google’s IREE toolchain through Antmicro’s Kenning ML
+framework, the designer is also a great entrypoint for
+hardware-accelerated ML co-design, and combined with Antmicro’s
+photorealistic 3D component model library and open source HW design
+methodology it can be used to kickstart the development of custom
+RISC-V based devices.
+
+Combine cores and HW peripherals, SoCs, modules and other hardware
+components, all the way to heterogeneous connected systems to build,
+simulate and develop software for any kind of RISC-V platform. The
+transparency and flexibility of this comprehensive design paradigm
+will provide infinite possibilities for collecting both hardware and
+software data for efficient co-design
+
+*Bio*
+
+*Michael Gielda is Co-Founder and VP Business Development at Antmicro,
+Marketing Committee Chair of the Zephyr Project, Chair of Outreach for
+CHIPS Alliance and a member of the Marketing Committee in RISC-V
+International. A Computer Science graduate, he worked as a researcher
+in the fields of IoT and embedded systems before going on to found
+Antmicro. Michael is involved in many open source software and
+hardware projects related to software-driven tools and methodologies,
+AI, FPGA, ASIC development (among other things). He is working to
+build collaborations between projects with common goals, and expanding
+the lessons learned from the success of open source software into
+other fields.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Anthony Zgheib -- Enhancing the RISC-V Trace Encoder to Verify the Control-Flow and Code Execution Integrity</span
+
+*Plenary on Tue 6th at 14:30.*
+
+Anthony Zgheib -- CEA.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Stefano Mercogliano -- Enabling Virtualisation on RISC-V Microcontrollers
+
+*Plenary on Tue 6th at 14:45.*
+
+[Stefano Mercogliano](https://www.linkedin.com/in/stefano-mercogliano-880825229) -- [University of Naples Federico II](http://www.unina.it).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Franz Fuchs -- Mitigating Transient-Execution Attacks with CHERI Compartments
+
+*Plenary on Tue 6th at 15:00.*
+
+[Franz Fuchs](https://www.cst.cam.ac.uk/people/faf28) -- [University of Cambridge](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
+
+*Plenary on Tue 6th at 15:15.*
+*Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf), [slides](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-slides.pdf).*
+
+Jimmy Le Rhun -- Thales Research and Technology.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -532,12 +892,61 @@ and Security, in both the short and long term.
 
 *Bio*
 
-*Franck Bernard holds an Engineer degree in control processing from Grenoble INP and a Master of Sciences in image processing from Paris Telecom Engineering school (ENST).
-He started his career as researcher at Philips Electronic Lab in 1990 working in medical imaging before moving as system architect mgr for 3G Chips still with Philips.
-He moved to semiconductor business in 2002 as Program Manager for the 3G modem with Philips Semiconductor,
-and was appointed as director of IC development for 4G modem with NXP and then with ST-Ericsson.
-Joining STMicroelectronics in 2012, he was managing the development of Smart Rear Camera IC, and spent 2 years as technical marketing manager in the STMicroelectronics ASIC business before joining Bosch Automotive Electronics in 2015.
-Since then he is deputy manager of the EIY group in charge of developing Digital IPs and System on Chips for the automotive business.*
+*Franck Bernard holds an Engineer degree in control processing from
+Grenoble INP and a Master of Sciences in image processing from Paris
+Telecom Engineering school (ENST).  He started his career as
+researcher at Philips Electronic Lab in 1990 working in medical
+imaging before moving as system architect mgr for 3G Chips still with
+Philips.  He moved to semiconductor business in 2002 as Program
+Manager for the 3G modem with Philips Semiconductor, and was appointed
+as director of IC development for 4G modem with NXP and then with
+ST-Ericsson.  Joining STMicroelectronics in 2012, he was managing the
+development of Smart Rear Camera IC, and spent 2 years as technical
+marketing manager in the STMicroelectronics ASIC business before
+joining Bosch Automotive Electronics in 2015.  Since then he is deputy
+manager of the EIY group in charge of developing Digital IPs and
+System on Chips for the automotive business.*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+###  Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and Onward
+
+*Plenary on Tue 6th at 15:15.*
+
+Jimmy Le Rhun -- [Thales Research and Technology](https://www.thalesgroup.com/fr/global/innovation/recherche-technologie).
+ 
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Peter Lewin, Imagination -- Developing a RISC-V Automotive Safety Island
+
+*Plenary on Tue 6th at 17:00.*
+
+Peter Lewin -- [Imagination](https://www.imaginationtech.com).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Abdoulaye Berthe -- RISC-V Trusted MCU for Functional Safety Applications
+
+*Plenary on Tue 6th at 17:15.*
+
+Abdoulaye Berthe -- [Low Power Futures](https://lowpowerfutures.com).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Pannel -- What’s the reality of RISC-V in automotive?
+
+**Pannelists:**
+
+ - Nitin Dahad, embedded.com (moderator).
+ - Andrew Frame, SiFive.
+ - Travis Lanier, Ventana.
+ - Peter Lewin, Imagination.
+ - Charlie Su, Andes.
+ - Itai Yarom, MIPS
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -870,11 +1279,28 @@ politics, coaches, teachers and students.*
 
 **Abstract**
 
-Building a modern, complex, RISC-V based digital design like the Caliptra Root of Trust requires collaborative effort between multiple development teams of various backgrounds, especially in standards-based multi-organization environments like CHIPS Alliance. While in software development massive, standards-driven collaboration is a reality through open source infrastructure and tools, the digital design space often lacks the open source tooling needed to easily share and automate workflows, scale continuous integration and enable security through transparency of the development process. In this paper, we will describe how digital design tools and workflows developed by CHIPS Alliance are being used in practice in a collaborative environment as a potential template for other work in this space.
+Building a modern, complex, RISC-V based digital design like the
+Caliptra Root of Trust requires collaborative effort between multiple
+development teams of various backgrounds, especially in
+standards-based multi-organization environments like CHIPS
+Alliance. While in software development massive, standards-driven
+collaboration is a reality through open source infrastructure and
+tools, the digital design space often lacks the open source tooling
+needed to easily share and automate workflows, scale continuous
+integration and enable security through transparency of the
+development process. In this paper, we will describe how digital
+design tools and workflows developed by CHIPS Alliance are being used
+in practice in a collaborative environment as a potential template for
+other work in this space.
 
 *Bio*
 
-*Karol Gugala is Engineering Manager at Antmicro, where he leads the software team and works with open source in various contexts - digital design, AI and low level software. Open source enthusiast - involved in a wide variety of FOSS projects and is Chairman of CHIPS Alliance Tools Workgroup. He has 10+ years of experience in low level software, VHDL, Linux and Verilog.*
+*Karol Gugala is Engineering Manager at Antmicro, where he leads the
+software team and works with open source in various contexts - digital
+design, AI and low level software. Open source enthusiast - involved
+in a wide variety of FOSS projects and is Chairman of CHIPS Alliance
+Tools Workgroup. He has 10+ years of experience in low level software,
+VHDL, Linux and Verilog.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -883,7 +1309,8 @@ Building a modern, complex, RISC-V based digital design like the Caliptra Root o
 
 *Plenary on Wed 7th at 14:45.*
 
-Joaquim Maria Castella Triginer, [Virtual Vehicle Research GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
+Joaquim Maria Castella Triginer, [Virtual Vehicle Research
+GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -960,11 +1387,23 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 **Topic**
 
-In recent years, the importance of semiconductor chip design and production in Europe has grown. Amidst the global chip shortage and geopolitical tensions, Europe has realized its significant dependency on technologies, which serve as the backbone for myriad industries ranging from automotive to industrial electronics, healthcare, and more.
+In recent years, the importance of semiconductor chip design and
+production in Europe has grown. Amidst the global chip shortage and
+geopolitical tensions, Europe has realized its significant dependency
+on technologies, which serve as the backbone for myriad industries
+ranging from automotive to industrial electronics, healthcare, and
+more.
 
-European actors from industry and academia have been very active and involved in R&D around RISC-V from its early days, and the importance of RISC-V has led to various research projects over the last years. RISC-V has been identified as an important piece in the puzzle of the future of chips in Europe.
+European actors from industry and academia have been very active and
+involved in R&D around RISC-V from its early days, and the importance
+of RISC-V has led to various research projects over the last
+years. RISC-V has been identified as an important piece in the puzzle
+of the future of chips in Europe.
 
-In this pannel, pannelists from the European Commission and leading research institutions along with both established semiconductor companies and RISC-V focused startups will discuss the state of RISC-V in Europe and future directions.
+In this pannel, pannelists from the European Commission and leading
+research institutions along with both established semiconductor
+companies and RISC-V focused startups will discuss the state of RISC-V
+in Europe and future directions.
 
 **Pannelists:**
 
@@ -983,64 +1422,57 @@ In this pannel, pannelists from the European Commission and leading research ins
 ## Speakers of Thursday June 8th
 
 
-### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
+### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
-[Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
+*Plenary on Thu 8th at 09:00.*
 
-*Plenary on Thu 8th at 11:30.*
-*Links: [slides](media/proceedings/plenary/2023-06-08-11h30-Alex-BRADBURY-slides.pdf).*
-
-**Abstract**
-
-The ongoing development and maturation of RISC-V LLVM support has been
-a major success story for RISC-V software ecosystem enablement through
-cross-party collaboration. This talk will bring you up to date on the
-current status of that effort (both for scalar and vector instruction
-set extensions), highlighting some of the more interesting challenges
-along the way. Looking to the future, we'll explore how the nature of
-LLVM development for RISC-V is changing as support for the standard
-ratified extensions matures, more hardware reaches the market, and as
-RISC-V support is added for additional LLVM project tools and
-sub-projects beyond the backend and the Clang C/C++ frontend.
+Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Applications and Tools Horizontal Committee.
 
 *Bio*
 
-*Alex Bradbury is a compiler engineer at
-[Igalia](https://www.igalia.com), working within a growing LLVM
-sub-team largely focused on RISC-V compiler support. He has been
-heavily involved in the RISC-V ecosystem since its inception, working
-across the hardware and software stack, previously co-founding lowRISC
-CIC. He initiated the upstream RISC-V LLVM backend implementation,
-authoring the initial patchset, acting as upstream code owner, and
-collaborating with a growing set of contributors. Alex is also well
-known within the LLVM community for the LLVM Weekly newsletter.*
+*Dr. Philipp Tomsich is Chief Technologist and Founder of VRULL, a
+Software Engineering company building Software Ecosystems enabling
+next-generation silicon solutions for ARMv8 and RISC-V
+architectures. Philipp is an expert in runtime systems, high-assurance
+applications, secure/trusted boot, and embedded hardware. In Austria,
+Philipp is a court-certified expert on embedded systems, low-level
+programming, programming languages, compilers, and software
+performance.*
 
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+*With VRULL, he supports RISC-V International’s mission as the Chair
+of the Applications & Tools Horizontal Committee. He oversees the
+software ecosystem outreach, standardization of Platforms, and the
+development of performance modeling, dynamic instrumentation, and
+analysis tools for RISC-V.*
 
+*Philipp also sits on the Board of Directors of RISC-V, continuing to
+empower the software ecosystem perspective within RISC-V and work
+towards making RISC-V the premier platform for software innovation.*
 
-### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
+*In his early years, Philipp held teaching and research roles at the
+Vienna University of Technology. He started his career as a compiler
+engineer at Silicon Graphics Inc., worked several years as a
+technology consultant in banking and government IT, and went on to
+found and bootstrap Theobroma Systems (a Software and Hardware
+engineering company offering tailored & standard modular solutions for
+high-assurance computing) later acquired by Cherry GmbH.  Philipp
+holds a Master's Degree and a Doctorate Degree in Computer Science
+from the Technical University of Vienna.*
 
-[Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
-
-*Plenary on Tue 6th at 11:45.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-11h45-Brett-CLINE-slides.pdf).*
-
-**Abstract**
-
-If you optimize your software for a general-purpose core there is a substantial risk that your algorithms are executed inefficiently and therefore run slowly. You can address this by creating fixed-function circuits designed to perform a specific set of operations. These hardware functions can be extremely fast, but because they are hard coded, it is difficult to modify or update them. So how can you achieve flexibility and performance? By combining both approaches. A key benefit of RISC-V customization is that you can create custom instructions tailored to your specific application needs.
-To pick custom instructions correctly and create efficient implementations, software and hardware teams need to collaborate. By starting work earlier on processor customization, the software team can start developing their critical algorithms and uncover much sooner those potential gains that could not be achieved if the hardware was already frozen.
- We call this Custom Compute, and its benefits extend beyond performance and energy efficiency. Custom Compute can also enable organizations to improve security by adding security features at the heart of the processor. A closer collaboration between hardware and software teams, supported by a strong methodology and by efficient tools, is the future standard of system design.
+*For his contributions at RISC-V, Philipp has been awarded the 2021
+RISC-V Community Contributor Award and the 2021 RISC-V Board of
+Directors Technical Leadership Award.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
 ### Thierry Collette -- 4 years of Open Source RISC-V at Thales
 
+*Plenary on Thu 8th at 09:30.*
+
 PhD Thierry Collette -- Director, Information Sciences and Techniques
 Research Group, [Thales Research & Technology
 France](https://www.thalesgroup.com).
-
-*Plenary on Thu 8th at 09:30.*
 
 **Abstract**
 
@@ -1079,191 +1511,56 @@ microelectronics.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-### Jon Taylor -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools
 
-Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
+### Wei-Han Lien -- A High-Fidelity Flow for High-Performance RISC-V CPU Design from Scratch
 
-*Plenary on Tue 6th at 11:30.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-11h30-Jon-TAYLOR-slides.pdf).*
+*Plenary on Thu 8th at 10:00.*
+
+Wei-Han Lien -- [Tenstorrent](https://tenstorrent.com).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### David Mallasén Quintana -- PERCIVAL: Integrating Posit and Quire Arithmetic into the RISC-V Ecosystem
+
+*Plenary on Thu 8th at 10:15.*
+
+David Mallasén Quintana -- [Universidad Complutense De Madrid](https://www.ucm.es).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
+
+*Plenary on Thu 8th at 11:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-08-11h30-Alex-BRADBURY-slides.pdf).*
+
+[Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
 
 **Abstract**
 
-The freedom of RISC-V represents both new innovations in design and also the migration of verification responsibility. This keynote highlights the challenges facing SoC teams as they adopt RISC-V and provides a perspective on how the use of new verification standards and methodologies drives down cost, quality risk, and development time.
+The ongoing development and maturation of RISC-V LLVM support has been
+a major success story for RISC-V software ecosystem enablement through
+cross-party collaboration. This talk will bring you up to date on the
+current status of that effort (both for scalar and vector instruction
+set extensions), highlighting some of the more interesting challenges
+along the way. Looking to the future, we'll explore how the nature of
+LLVM development for RISC-V is changing as support for the standard
+ratified extensions matures, more hardware reaches the market, and as
+RISC-V support is added for additional LLVM project tools and
+sub-projects beyond the backend and the Clang C/C++ frontend.
 
 *Bio*
 
-*Jon Taylor has over 20 years of experience in the semiconductor industry, working in technical areas from CPU verification to embedded software, and commercial areas including field applications and technology strategy. He has worked on multiple architectures including Arm, RISC-V and proprietary CPUs. He holds a degree from Southampton University in Electronic Engineering and is currently Director of Product Technology for Imperas working on technology to help enable the RISC-V revolution.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
-### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
-
-Roger Espasa -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
-
-*Plenary on Tue 6th at 14:00.*
-
-**Abstract**
-
-In this talk we will disclose Semidynamics Out-of-order RISC-V Vector unit, which is fully compliant with the RVV1.0 specification. We will disclose all the configuration options available for customers and discuss some performance data for an 8-lane configuration
-
-*Bio*
-
-*Roger Espasa is the founder and CEO of Semidynamics, an IP supplier of two RISC-V cores, Avispado (in-order) and Atrevido (out-of-order) supporting the RISC-V vector extension and Gazzillion TM misses, both targeted at HPC and Machine Learning.
-In addition, Semidynamics architected and designed the Esperanto Technologies&#39; 1024+ core machine-learning 7nm SoC.
-Prior to Semidynamics, Roger was at Broadcom working on an ARMV8 wide out-of-order core.  (2014-2016).
-Previously, Roger worked at Intel (2002-2014) developing a vector extension for the x86 ISA, initially deployed in XeonPhi (Larrabee) which then became AVX-512.
-Roger also led the texture sampling unit for Larrabee. Roger then worked on Knight&#39;s Landing (14nm) and led the core for Knights Hill (10nm). Between 1999 and 2001 Roger worked for the Alpha Microprocessor Group on a vector extension to the Alpha architecture known as Tarantula.
-Roger got his PhD from UPC in 1997, has published over 40 peer-reviewed papers on Vector Architectures, Graphics/3D Architecture, Binary translation and optimization, Branch Prediction, and Media ISA Extensions and holds 9 patents with 41 international filings.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
-
-[Michael Gielda](https://www.linkedin.com/in/mgielda/) -- Co-Founder and VP Business Development, [Antmicro](https://antmicro.com/).
-
-*Plenary on Tue 6th at 14:15.*
-
-**Abstract**
-
-RISC-V offers unprecedented freedom in designing hardware systems,
-prompting a renaissance in new core implementations, system building
-blocks and SW-HW co-design paradigms. Drawing on the experience of
-working with the expansive landscape of RISC-V implementations, both
-on the hardware and software level, Antmicro is developing a visual
-platform designer which helps navigate this complexity. The tool
-builds on the configurability of RISC-V and the our vast open source
-database of hardware components to let you create advanced, real-world
-systems which can be simulated with the open source Renode simulator
-and seeded with software such as Zephyr or Linux.
-
-Thanks to Renode’s support for vector and custom instructions and
-integration with Google’s IREE toolchain through Antmicro’s Kenning ML
-framework, the designer is also a great entrypoint for
-hardware-accelerated ML co-design, and combined with Antmicro’s
-photorealistic 3D component model library and open source HW design
-methodology it can be used to kickstart the development of custom
-RISC-V based devices.
-
-Combine cores and HW peripherals, SoCs, modules and other hardware
-components, all the way to heterogeneous connected systems to build,
-simulate and develop software for any kind of RISC-V platform. The
-transparency and flexibility of this comprehensive design paradigm
-will provide infinite possibilities for collecting both hardware and
-software data for efficient co-design
-
-*Bio*
-
-*Michael Gielda is Co-Founder and VP Business Development at Antmicro, Marketing Committee Chair of the Zephyr Project, Chair of Outreach for CHIPS Alliance and a member of the Marketing Committee in RISC-V International. A Computer Science graduate, he worked as a researcher in the fields of IoT and embedded systems before going on to found Antmicro. Michael is involved in many open source software and hardware projects related to software-driven tools and methodologies, AI, FPGA, ASIC development (among other things). He is working to build collaborations between projects with common goals, and expanding the lessons learned from the success of open source software into other fields.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
-### Mark Himelstein -- The Road Ahead
-
-[Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
-
-*Plenary on Tue 6th at 09:45.*
-
-*Link: [slides](media/proceedings/plenary/2023-06-06-09h45-Mark-HIMELSTEIN-slides.pdf).*
-
-*Bio*
-
-*Before RISC-V international Mark Himelstein was the President of
-Heavenstone, Inc. which concentrated on Strategic, Management, and
-Technology Consulting providing hardware and software product
-architecture, analysis, mentoring and interim management. Previously,
-Mark started Graphite Systems, Inc (acquired by EMC) where he was the
-VP of Engineering and CTO developing large Analytics Appliances using
-highly integrated FLASH memory. Prior to Graphite, Mark held positions
-as the CTO of Quantum Corp, Vice President of Solaris development
-engineering at Sun Microsystems and other technical management roles
-at Apple, Infoblox, and MIPS.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
-### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
-
-[Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
-
-*Plenary on Tue 6th at 10:00.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-10h00-Rick-O'CONNOR-slides.pdf).*
-
-**Abstract**
-
-This talk will provide a brief overview of Open-Source HW activity across the industry, barriers to adoption of Open-Source HW and challenges associated with SoC design.  Lessons learned related to the OpenHW Group Governance model and commercial adoption of CORE-V Family of open source RISC-V cores will also be presented. The CORE-V family is an OpenHW Group project to develop, deploy, and execute pre-silicon functional verification and SoC based development kits of the CORE-V family of open-source RISC-V cores. Written in SystemVerilog, CORE-V open-source IP cores match the quality of IP offered by established commercial providers and are verified with state-of-the-art, auditable flows.
-
-*Bio*
-
-*Rick O'Connor is Founder and serves as President & CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects. Previously Rick was Executive Director of the RISC-V Foundation. Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 400 members building an open, collaborative community of software and hardware innovators powering processor innovation. With many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over $750 million in revenue. Rick holds an Executive MBA degree from the University of Ottawa, Canada and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College, Canada.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
-### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
-
-*Plenary on Tue 6th at 12:15.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-12h15-Daniele-ROSSI-slides.pdf).*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
-
-[Dr. Charlie Su]([https://www.linkedin.com/in/patrickpype/](https://www.linkedin.com/in/charlie-hong-men-su-%E8%98%87%E6%B3%93%E8%90%8C-5bb64016/)) -- President and CTO, [Andes Technology](https://www.andestech.com/en/homepage/)
-
-*Plenary on Tue 6th at 12:00.*
-
-**Abstract**
-
-RISC-V has been adopted with a record-breaking speed in pretty much all applications from general-purpose tiny MCUs to datacenter AI/ML accelerator SoCs. In this keynote, we will give examples of RISC-V applications and solutions to support them; in particular, we will also analyze various approaches for matrix multiplication extension to embrace AI/ML acceleration directly in RISC-V architecture. In addition, ISO 26262 certified automotive electronics solutions have been highly sought after in recent years due to multiple catalysts. In the second part of the keynote, we will talk about how RISC-V solutions address such market, some successful examples, and new technical challenges we should look into.
-
-*Bio*
-
-*Dr. Charlie Su is a Cofounder, President and CTO of Andes, a 18-year pure-play CPU IP vendor. Charlie’s main focus is on product definition, development and promotion. He spent over 12 years in the Silicon Valley with various technical and management positions at Sun Microsystems, Afara Websystems, C-Cube Microsystems, SGI/MIPS, and Intergraph. He made key contributions to several successful processors such as the Sun multi-core multi-threading Ultrasparc T1 and T2 processors, the C-Cube high-performance E-series MPEG media processors, the MIPS out-of-order R10K processor, and the Intergraph Clipper VLIW processor. Prior to starting Andes, he led the CPU and DSP development in Faraday Technology as Chief Architect. Charlie obtained his Ph.D. in CS from the University of Illinois at Urbana-Champaign, M.S. in CS from National Tsing-Hua University, and B.S. in EE from National Taiwan University.*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
-
-Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Applications and Tools Horizontal Committee.
-
-*Plenary on Thu 8th at 09:00.*
-
-*Bio*
-
-*Dr. Philipp Tomsich is Chief Technologist and Founder of VRULL, a
-Software Engineering company building Software Ecosystems enabling
-next-generation silicon solutions for ARMv8 and RISC-V
-architectures. Philipp is an expert in runtime systems, high-assurance
-applications, secure/trusted boot, and embedded hardware. In Austria,
-Philipp is a court-certified expert on embedded systems, low-level
-programming, programming languages, compilers, and software
-performance.*
-
-*With VRULL, he supports RISC-V International’s mission as the Chair
-of the Applications & Tools Horizontal Committee. He oversees the
-software ecosystem outreach, standardization of Platforms, and the
-development of performance modeling, dynamic instrumentation, and
-analysis tools for RISC-V.*
-
-*Philipp also sits on the Board of Directors of RISC-V, continuing to
-empower the software ecosystem perspective within RISC-V and work
-towards making RISC-V the premier platform for software innovation.*
-
-*In his early years, Philipp held teaching and research roles at the
-Vienna University of Technology. He started his career as a compiler
-engineer at Silicon Graphics Inc., worked several years as a
-technology consultant in banking and government IT, and went on to
-found and bootstrap Theobroma Systems (a Software and Hardware
-engineering company offering tailored & standard modular solutions for
-high-assurance computing) later acquired by Cherry GmbH.  Philipp
-holds a Master's Degree and a Doctorate Degree in Computer Science
-from the Technical University of Vienna.*
-
-*For his contributions at RISC-V, Philipp has been awarded the 2021
-RISC-V Community Contributor Award and the 2021 RISC-V Board of
-Directors Technical Leadership Award.*
+*Alex Bradbury is a compiler engineer at
+[Igalia](https://www.igalia.com), working within a growing LLVM
+sub-team largely focused on RISC-V compiler support. He has been
+heavily involved in the RISC-V ecosystem since its inception, working
+across the hardware and software stack, previously co-founding lowRISC
+CIC. He initiated the upstream RISC-V LLVM backend implementation,
+authoring the initial patchset, acting as upstream code owner, and
+collaborating with a growing set of contributors. Alex is also well
+known within the LLVM community for the LLVM Weekly newsletter.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
@@ -1329,16 +1626,6 @@ Luca Lingardo, NXP.
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
-
-Jimmy Le Rhun, Thales Research and Technology.
-
-*Plenary on Tue 6th at 15:15.*
-*Links: [extended abstract](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-abstract.pdf), [slides](media/proceedings/plenary/2023-06-06-15h15-Jimmy-LE-RHUN-slides.pdf).*
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
 ### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
 Bruno Sá -- [University Of Minho](https://www.uminho.pt).
@@ -1348,21 +1635,8 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-
-### Pannel -- What’s the reality of RISC-V in automotive?
-
-**Pannelists**
-
- - Nitin Dahad, embedded.com (moderator).
- - Andrew Frame, SiFive.
- - Travis Lanier, Ventana.
- - Peter Lewin, Imagination.
- - Charlie Su, Andes.
- - Itai Yarom, MIPS
-
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-### Demo Theatre Speakers
+<hr align="center" noshade="yes" width="100%">
+## Demo Theatre Speakers
 
 ### Karol Gugala -- Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE
 
