@@ -477,9 +477,6 @@ showcasing the latest developments across industry and research.
 
 ## Speakers
 
-
-### Keynotes Speakers
-
 #### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
@@ -1152,10 +1149,6 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-
-### Technical Talks
-
-
 <a id="Dave-DITZEL"/>
 
 #### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
@@ -1218,8 +1211,6 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-
-### Panels
 
 #### Pannel -- What’s the reality of RISC-V in automotive?
 
