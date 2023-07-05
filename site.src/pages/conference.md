@@ -910,15 +910,6 @@ System on Chips for the automotive business.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-###  Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020 Project and Onward
-
-*Plenary on Tue 6th at 15:15.*
-
-Jimmy Le Rhun -- [Thales Research and Technology](https://www.thalesgroup.com/fr/global/innovation/recherche-technologie).
- 
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
 ### Peter Lewin, Imagination -- Developing a RISC-V Automotive Safety Island
 
 *Plenary on Tue 6th at 17:00.*
