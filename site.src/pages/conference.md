@@ -477,7 +477,7 @@ showcasing the latest developments across industry and research.
 
 ## Speakers
 
-#### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
+### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
 [Ventana Micro Systems](https://www.ventanamicro.com/)
@@ -496,7 +496,7 @@ Prior to Ventana, Balaji was the founder and CEO of Veloce Technologies, the wor
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
+### Dr Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
 
 [Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- Secretary-General,
 [China RISC-V Alliance (CRVA)](http://crva.ict.ac.cn), Chief
@@ -537,7 +537,7 @@ the year for 2019.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Lars Bergstrom -- Android on RISC-V: Progress and Updates
+### Lars Bergstrom -- Android on RISC-V: Progress and Updates
 
 Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
 
@@ -577,7 +577,7 @@ in 2013.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Franck Bernard -- The RISC-V opportunity in Automotive Electronics
+### Franck Bernard -- The RISC-V opportunity in Automotive Electronics
 
 Franck Bernard, System and Innovation - ADAS & Driving Assistance - IC Design and SW development, Bosch.
 
@@ -621,7 +621,7 @@ Since then he is deputy manager of the EIY group in charge of developing Digital
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
+### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
 [Luca Benini](https://pulp-platform.org) -- [ETH
 Zürich](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html),
@@ -660,7 +660,7 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
+### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
 
 [Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
 
@@ -695,7 +695,7 @@ known within the LLVM community for the LLVM Weekly newsletter.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
+### Brett Cline -- RISC-V customization, HW/SW co-optimization, and custom compute
 
 [Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
 
@@ -711,7 +711,7 @@ To pick custom instructions correctly and create efficient implementations, soft
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Thierry Collette -- 4 years of Open Source RISC-V at Thales
+### Thierry Collette -- 4 years of Open Source RISC-V at Thales
 
 PhD Thierry Collette -- Director, Information Sciences and Techniques
 Research Group, [Thales Research & Technology
@@ -756,7 +756,7 @@ microelectronics.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Jon Taylor -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools
+### Jon Taylor -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools
 
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
@@ -774,7 +774,7 @@ The freedom of RISC-V represents both new innovations in design and also the mig
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
+### Roger Espasa -- Semidynamics Highly Configurable OOO Vector Unit
 
 Roger Espasa -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
 
@@ -795,7 +795,7 @@ Roger got his PhD from UPC in 1997, has published over 40 peer-reviewed papers o
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
+### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
 
 [Michael Gielda](https://www.linkedin.com/in/mgielda/) -- Co-Founder and VP Business Development, [Antmicro](https://antmicro.com/).
 
@@ -836,7 +836,7 @@ software data for efficient co-design
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Karol Gugala & Matt Cockrell -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
+### Karol Gugala & Matt Cockrell -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
 
 [Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/) and Matt Cockrell -- Hardware Engineer, Google
 
@@ -853,7 +853,7 @@ Building a modern, complex, RISC-V based digital design like the Caliptra Root o
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Mark Himelstein -- The Road Ahead
+### Mark Himelstein -- The Road Ahead
 
 [Mark Himelstein](https://www.linkedin.com/in/heavenstone) -- [CTO](https://riscv.org/risc-v-staff/), RISC-V International.
 
@@ -877,7 +877,7 @@ at Apple, Infoblox, and MIPS.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
+### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
 
 [Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
 
@@ -895,7 +895,7 @@ This talk will provide a brief overview of Open-Source HW activity across the in
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
+### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
 Strategic Partnerships, NXP Semiconductors.
@@ -948,7 +948,7 @@ politics, coaches, teachers and students.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
+### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
 
 Dominic Rizzo -- CEO zeroRISC
 Inc. [OpenTitan](https://www.opentitan.org) Project Director.
@@ -992,14 +992,14 @@ Technology.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
+### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
 
 *Plenary on Tue 6th at 12:15.*
 *Links: [slides](media/proceedings/plenary/2023-06-06-12h15-Daniele-ROSSI-slides.pdf).*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
+### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
 
 [Dr. Charlie Su]([https://www.linkedin.com/in/patrickpype/](https://www.linkedin.com/in/charlie-hong-men-su-%E8%98%87%E6%B3%93%E8%90%8C-5bb64016/)) -- President and CTO, [Andes Technology](https://www.andestech.com/en/homepage/)
 
@@ -1015,7 +1015,7 @@ RISC-V has been adopted with a record-breaking speed in pretty much all applicat
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
+### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
 Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Applications and Tools Horizontal Committee.
 
@@ -1059,7 +1059,7 @@ Directors Technical Leadership Award.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Roland Weigand -- RISC-V: a Rising Star in Space
+### Roland Weigand -- RISC-V: a Rising Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
 
@@ -1110,7 +1110,7 @@ methodology.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Matthew Xuereb -- The European Chips Act: Enabling chip design in Europe
+### Matthew Xuereb -- The European Chips Act: Enabling chip design in Europe
 
 [Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172)
 -- Policy Officer, European Commission.
@@ -1151,7 +1151,7 @@ Electronic Engineering and European Politics, Economics and Law.*
 
 <a id="Dave-DITZEL"/>
 
-#### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
+### Dave Ditzel -- RISC-V’s revolutionary role for simultaneously supporting machine learning and HPC
 
 Dave Ditzel, Esperanto Technologies.
 
@@ -1182,7 +1182,7 @@ in Electrical Engineering and a separate degree in Computer Science,
 Dave did his graduate work at U.C. Berkeley under professor David
 Patterson.*
 
-#### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
+### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
 
 Luca Lingardo, NXP.
 
@@ -1192,7 +1192,7 @@ Luca Lingardo, NXP.
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
+### Jimmy Le Rhun -- Safe, Secure and Reliable Computing with the NOEL-V Processor: from the De-RISC H2020
 
 Jimmy Le Rhun, Thales Research and Technology.
 
@@ -1202,7 +1202,7 @@ Jimmy Le Rhun, Thales Research and Technology.
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
+### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
 Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
@@ -1212,7 +1212,7 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-#### Pannel -- What’s the reality of RISC-V in automotive?
+### Pannel -- What’s the reality of RISC-V in automotive?
 
 **Pannelists**
 
@@ -1225,7 +1225,7 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
+### Panel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
 **Topic**
 
@@ -1246,7 +1246,7 @@ hear from members of the global community on how they address culture. create hi
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Panel on EU & RISC-V
+### Panel on EU & RISC-V
 
 **Topic**
 
@@ -1270,7 +1270,7 @@ In this panel, panelists from the European Commission and leading research insti
 
 ### Demo Theatre Speakers
 
-#### Karol Gugala -- Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE
+### Karol Gugala -- Bare metal AI runtime deployment and analysis for a RISC-V accelerator with Kenning, Renode and IREE
 
 [Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/).
 
@@ -1286,7 +1286,7 @@ To further improve the developer experience, Kenning has been integrated with Re
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Chris Morrison -- An innovative digitally wrapped analog IP subsystem for RISC-V applications
+### Chris Morrison -- An innovative digitally wrapped analog IP subsystem for RISC-V applications
 
 [Chris Morrison](https://www.linkedin.com/in/morrison1984/) -- Director of Product Marketing, [Agile Analog](https://www.agileanalog.com/).
 
@@ -1297,7 +1297,7 @@ To address these challenges, Agile Analog present an innovative analog IP subsys
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Mikael Carmona --  VASCO 2, an ASIC to highlight the latest innovations in security of component
+### Mikael Carmona --  VASCO 2, an ASIC to highlight the latest innovations in security of component
 
 [Mikael Carmona](https://www.linkedin.com/in/mikael-carmona-cyber/) -- Head of Laboratory for Security of hardware Components, [CEA-Leti](https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx)
 
@@ -1308,7 +1308,7 @@ VASCO 2 highlights the relevance and characteristics of these hardware IPs for i
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration
+### Simon Davidmann -- RISC-V Models for Verification, Software Development and Architectural Exploration
 
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
@@ -1322,7 +1322,7 @@ The design freedoms of RISC-V offer systems and SoC developers new flexibility t
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Semidynamics Team -- Semidynamics Vector Unit Performance Demonstration
+### Semidynamics Team -- Semidynamics Vector Unit Performance Demonstration
 
 [Semidynamics](https://semidynamics.com/).
 
@@ -1332,7 +1332,7 @@ In this demo session we will show the Semidynamics vector unit running several 
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
+### Zdenek Prikryl -- RISC-V as an enabler of heterogeneous compute
 
 [Zdenek Prikryl](https://www.linkedin.com/in/zdenek-prikryl/) -- CTO, [Codasip](https://codasip.com/).
 
@@ -1342,7 +1342,7 @@ The semiconductor industry has benefited from shrinking process nodes to improve
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Warren Chen -- Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity
+### Warren Chen -- Andes AI Runs Everywhere with DSP/Vector/NN Libraries and AndesClarity
 
 [Warren Chen](https://www.linkedin.com/in/warren-chen-42491267/) -- Senior Technical Manager, [Andes Technology](https://www.andestech.com/en/homepage/)
 
@@ -1356,7 +1356,7 @@ AI applications require efficient and powerful flexible computing capabilities o
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit
+### Brian Colgan -- Introducing the PolarFire® SoC Smart Embedded Vision Kit
 
 [Brian Colgan](https://www.linkedin.com/in/briancolgan/) -- FPGA Business Development Manager, [Microchip](https://www.microchip.com/)
 
@@ -1366,7 +1366,7 @@ The PolarFire SoC Smart Embedded Vision kit is the latest installment in the Pol
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Jan Andersson -- Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library
+### Jan Andersson -- Designing a RISC-V SoC with the NOEL-V Processor and the GRLIB IP Library
 
 [Jan Andersson](https://www.linkedin.com/in/jan-andersson-86b8251/) -- Director, Engineering,
 [Frontgrade Gaisler](https://www.gaisler.com/)
@@ -1377,7 +1377,7 @@ The talk will provide an overview of creating a SoC design using the NOEL-V proc
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
-#### Dr. Ari Kulmala -- Secure RISC-V for Flight controller and Mission Computer
+### Dr. Ari Kulmala -- Secure RISC-V for Flight controller and Mission Computer
 
 Dr. Ari Kulmala -- [Technology Innovation Institute](https://www.tii.ae/).
 
