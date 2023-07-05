@@ -475,7 +475,17 @@ Thursday 8th, with a single track of keynotes, technical and
 industrial talks, alongside an exhibition and [posters](posters.html)
 showcasing the latest developments across industry and research.
 
-## Speakers
+<hr align="center" noshade="yes" width="100%">
+## Speakers of Tuesday June 6th
+
+
+<hr align="center" noshade="yes" width="100%">
+## Speakers of Wednesday June 7th
+
+
+<hr align="center" noshade="yes" width="100%">
+## Speakers of Thursday June 8th
+
 
 ### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
