@@ -492,7 +492,7 @@ Calista Redmond -- CEO, RISC-V International.
 ### Christian Fabre -- Welcome from the RISC-V Summit Europe Steering Committee
 
 *Plenary on Tue 6th at 09:20.*
-*Link: [slides](media/proceedings/plenary/2023-06-06-09h20-Christian-FABRE-slides.pdf).
+*Link: [slides](media/proceedings/plenary/2023-06-06-09h20-Christian-FABRE-slides.pdf).*
 
 Christian Fabre -- CEA.
 
@@ -823,7 +823,7 @@ other fields.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
-### Anthony Zgheib -- Enhancing the RISC-V Trace Encoder to Verify the Control-Flow and Code Execution Integrity</span
+### Anthony Zgheib -- Enhancing the RISC-V Trace Encoder to Verify the Control-Flow and Code Execution Integrity
 
 *Plenary on Tue 6th at 14:30.*
 *Link: [slides](media/proceedings/plenary/2023-06-06-14h30-Anthony-ZGHEIB-slides.pdf).*
@@ -892,9 +892,6 @@ RISC-V ecosystem to address its computing needs across both hardware
 and software, as well as key considerations such as Functional Safety
 and Security, in both the short and long term.
 
-<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
-
-
 *Bio*
 
 *Franck Bernard holds an Engineer degree in control processing from
@@ -918,7 +915,7 @@ System on Chips for the automotive business.*
 ### Peter Lewin, Imagination -- Developing a RISC-V Automotive Safety Island
 
 *Plenary on Tue 6th at 17:00.*
-*Link: [slides](media/proceedings/plenary/2023-06-06-17h00-Peter-LEWIN-slides.pdf).
+*Link: [slides](media/proceedings/plenary/2023-06-06-17h00-Peter-LEWIN-slides.pdf).*
 
 Peter Lewin -- [Imagination](https://www.imaginationtech.com).
 
@@ -938,7 +935,7 @@ Abdoulaye Berthe -- [Low Power Futures](https://lowpowerfutures.com).
 
 **Pannelists:**
 
- - Nitin Dahad, embedded.com (moderator).
+ - Nitin Dahad, embedded.com, **moderator**.
  - Andrew Frame, SiFive.
  - Travis Lanier, Ventana.
  - Peter Lewin, Imagination.
@@ -1671,7 +1668,7 @@ To address these challenges, Agile Analog present an innovative analog IP subsys
 
 ### Mikael Carmona --  VASCO 2, an ASIC to highlight the latest innovations in security of component
 
-[Mikael Carmona](https://www.linkedin.com/in/mikael-carmona-cyber/) -- Head of Laboratory for Security of hardware Components, [CEA-Leti](https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx)
+[Mikael Carmona](https://www.linkedin.com/in/mikael-carmona-cyber/) -- Head of Laboratory for Security of hardware Components, [CEA](https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx)
 
 **Abstract**
 
