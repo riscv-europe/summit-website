@@ -494,6 +494,7 @@ Calista Redmond -- CEO, RISC-V International.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
+
 ### Christian Fabre -- Welcome from the RISC-V Summit Europe Steering Committee
 
 *Plenary on Tue 6th at 09:20.*
@@ -507,7 +508,7 @@ Christian Fabre -- CEA.
 ### Daniel Müller-Gritschneder & Teresa Cervero -- RISC-V Summit Europe Program Overview
 
 *Plenary on Tue 6th at 09:30.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-09h30-Daniel-MÜLLER-GRITSCHNEDER-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-09h30-Daniel-MÜLLER-GRITSCHNEDER-slides.pdf).*
 
 Daniel Müller-Gritschneder -- Technical University Munich. Teresa Cervero, BSC.
 
@@ -540,7 +541,7 @@ at Apple, Infoblox, and MIPS.*
 ### Rick O’Connor -- Commercial Adoption of CORE-V Open-Source RISC-V Cores - Lessons Learned
 
 *Plenary on Tue 6th at 10:00.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-10h00-Rick-O'CONNOR-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-10h00-Rick-O'CONNOR-slides.pdf).*
 
 [Rick O’Connor](https://www.linkedin.com/in/rickoco/) -- President & CEO, [OpenHW Group](https://www.openhwgroup.org/).
 
@@ -582,7 +583,7 @@ at Algonquin College, Canada.*
 
 ### Balaji Baktha -- Paving the Road Ahead: RISC-V and Chiplet Technologies in Modern Automotive and Data Center Architectures
 
-*Plenary on Tue 6th at 10:15. Links: [slides](media/proceedings/plenary/2023-06-06-10h15-Balaji-BAKTHA-slides.pdf)*.
+*Plenary on Tue 6th at 10:15. Link: [slides](media/proceedings/plenary/2023-06-06-10h15-Balaji-BAKTHA-slides.pdf)*.
 
 [Balaji Baktha](https://www.linkedin.com/in/balaji-baktha-31416987/) -- Founder and CEO,
 [Ventana Micro Systems](https://www.ventanamicro.com/)
@@ -628,7 +629,7 @@ Technologies (acquired by SCM Micro) to build the first digital media
 ### Jon Taylor -- The RISC-V Verification Ecosystem with Open Standards and Commercial Tools
 
 *Plenary on Tue 6th at 11:30.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-11h30-Jon-TAYLOR-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-11h30-Jon-TAYLOR-slides.pdf).*
 
 Jon Taylor -- Director of Product Technology, [Imperas Software Ltd.](https://www.imperas.com/).
 
@@ -658,7 +659,7 @@ the RISC-V revolution.*
 ### Brett Cline -- RISC-V Customization, HW/SW Co-Optimization, and Custom Compute
 
 *Plenary on Tue 6th at 11:45.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-11h45-Brett-CLINE-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-11h45-Brett-CLINE-slides.pdf).*
 
 [Brett Cline](https://www.linkedin.com/in/brett-cline/) -- CCO, [Codasip](https://codasip.com/)
 
@@ -732,7 +733,7 @@ B.S. in EE from National Taiwan University.*
 ### Daniele Rossi -- HW-SW Interface for RAS in RISC-V Architectures
 
 *Plenary on Tue 6th at 12:15.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-12h15-Daniele-ROSSI-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-12h15-Daniele-ROSSI-slides.pdf).*
 
 [Daniele Rossi](https://www.linkedin.com/in/daniele-rossi-24757210) --
 Università di Pisa.
@@ -851,7 +852,7 @@ Anthony Zgheib -- CEA.
 ### Franz Fuchs -- Mitigating Transient-Execution Attacks with CHERI Compartments
 
 *Plenary on Tue 6th at 15:00.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-15h00-Franz-FUCHS-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-15h00-Franz-FUCHS-slides.pdf).*
 
 [Franz Fuchs](https://www.cst.cam.ac.uk/people/faf28) -- [University of Cambridge](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/).
 
@@ -873,7 +874,7 @@ Jimmy Le Rhun -- Thales Research and Technology.
 Franck Bernard, System and Innovation - ADAS & Driving Assistance - IC Design and SW development, Bosch.
 
 *Plenary on Tue 6th at 16:30.*
-*Links: [slides](media/proceedings/plenary/2023-06-06-16h30-Franck-BERNARD-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-06-16h30-Franck-BERNARD-slides.pdf).*
 
 **Abstract**
 
@@ -1309,7 +1310,7 @@ VHDL, Linux and Verilog.*
 ### Joaquim Maria Castella Triginer -- Enhancing Safety with RISC-V-based SPIDER Autonomous Robot:A Use-Case from the ECSEL FRACTAL Project
 
 *Plenary on Wed 7th at 14:45.*
-*Links: [slides](media/proceedings/plenary/2023-06-07-14h45-Joaquim-Maria-CASTELLA-TRIGINER-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-07-14h45-Joaquim-Maria-CASTELLA-TRIGINER-slides.pdf).*
 
 Joaquim Maria Castella Triginer, [Virtual Vehicle Research
 GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
@@ -1320,7 +1321,7 @@ GmbH](https://www.linkedin.com/company/virtual-vehicle-research-gmbh/).
 ### Duncan Graham -- Hybrid Simulation with Emulation for RISC-V Software Bring Up and Hardware-Software Co-Verification
 
 *Plenary on Wed 7th at 15:00.*
-*Links: [slides](media/proceedings/plenary/2023-06-07-15h00-Duncan-GRAHAM-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-07-15h00-Duncan-GRAHAM-slides.pdf).*
 
 Duncan Graham --[Imperas Software](https://www.imperas.com).
 
@@ -1330,7 +1331,7 @@ Duncan Graham --[Imperas Software](https://www.imperas.com).
 ### Hualin Wu -- Accelerate HPC and AI applications with RVV auto vectorization
 
 *Plenary on Wed 7th at 15:15.*
-*Links: [slides](media/proceedings/plenary/2023-06-07-15h15-Hualin-WU-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-07-15h15-Hualin-WU-slides.pdf).*
 
 Hualin Wu -- [Terapines Ltd](https://www.terapines.com).
 
@@ -1529,7 +1530,7 @@ Wei-Han Lien -- [Tenstorrent](https://tenstorrent.com).
 ### David Mallasén Quintana -- PERCIVAL: Integrating Posit and Quire Arithmetic into the RISC-V Ecosystem
 
 *Plenary on Thu 8th at 10:15.*
-*Links: [slides](media/proceedings/plenary/2023-06-08-10h15-David-MALLASÉN-QUINTANA-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-08-10h15-David-MALLASÉN-QUINTANA-slides.pdf).*
 
 David Mallasén Quintana -- [Universidad Complutense De Madrid](https://www.ucm.es).
 
@@ -1539,7 +1540,7 @@ David Mallasén Quintana -- [Universidad Complutense De Madrid](https://www.ucm.
 ### Alex Bradbudy -- Developments in LLVM-based toolchains and tooling for RISC-V
 
 *Plenary on Thu 8th at 11:30.*
-*Links: [slides](media/proceedings/plenary/2023-06-08-11h30-Alex-BRADBURY-slides.pdf).*
+*Link: [slides](media/proceedings/plenary/2023-06-08-11h30-Alex-BRADBURY-slides.pdf).*
 
 [Alex Bradbury](https://asbradbury.org) -- Compiler Engineer [Igalia](https://www.igalia.com) (Spain, UK).
 
