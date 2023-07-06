@@ -790,6 +790,7 @@ tools, is the future standard of system design.
 ### Dr. Charlie Su -- RISC-V is Firing on All Cylinders
 
 *Plenary on Tue 6th at 12:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-12h00-Charlie-SUE-slides.pdf).*
 
 [Dr. Charlie Su]([https://www.linkedin.com/in/patrickpype/](https://www.linkedin.com/in/charlie-hong-men-su-%E8%98%87%E6%B3%93%E8%90%8C-5bb64016/)) -- President and CTO, [Andes Technology](https://www.andestech.com/en/homepage/).
 
@@ -919,6 +920,7 @@ the RISC-V revolution.*
 ### Roger Espasa -- Semidynamics Highly Configurable OoO Vector Unit
 
 *Plenary on Tue 6th at 14:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-14h30-Roger-ESPASA-slides.pdf).*
 
 Roger Espasa -- CEO and Founder, [Semidynamics](https://semidynamics.com/).
 
@@ -956,6 +958,7 @@ patents with 41 international filings.*
 ### Michael Gielda -- RISC-V and Antmicro’s visual system designer: Everything everywhere all at once
 
 *Plenary on Tue 6th at 14:15.*
+*Link: [slides](media/proceedings/plenary/2023-06-06-14h15-Michael-GIELDA-slides.pdf).*
 
 [Michael Gielda](https://www.linkedin.com/in/mgielda/) -- Co-Founder and VP Business Development, [Antmicro](https://antmicro.com/).
 
@@ -1167,6 +1170,7 @@ out of their teams.
 ### Luca Benini -- Open RISC-V Platforms for Energy-Efficient, Scalable Computing
 
 *Plenary on Wed 7th at 09:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-09h00-Luca-BENINI-slides.pdf).*
 
 [Luca Benini](https://pulp-platform.org) -- [ETH
 Zürich](https://ee.ethz.ch/the-department/people-a-z/person-detail.luca-benini.html),
@@ -1206,6 +1210,7 @@ achievement Award, the 2020 ACM/IEEE A. Richard Newton Award and the
 ### Yungang Bao -- RISC-V in China: Embracing the Era of Open-Source Chip
 
 *Plenary on Wed 7th at 09:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-09h30-Yungang-BAO-slides.pdf).*
 
 [Dr Yungang Bao](http://acs.ict.ac.cn/baoyg/) -- Secretary-General,
 [China RISC-V Alliance (CRVA)](http://crva.ict.ac.cn), Chief
@@ -1247,6 +1252,7 @@ the year for 2019.*
 ### Dominic Rizzo -- OpenTitan: Past, Present and Future of Open Source Secure Silicon
 
 *Plenary on Wed 7th at 10:00.*
+*Link: [slide](media/proceedings/plenary/2023-06-07-10h00-Dominic-RIZZO-slides.pdf).*
 
 Dominic Rizzo -- CEO [zeroRISC Inc](https://zerorisc.com)
 [OpenTitan](https://www.opentitan.org) Project Director.
@@ -1363,6 +1369,7 @@ RISC-V community.*
 ### Lars Bergstrom -- Android on RISC-V: Progress and Updates
 
 *Pleanry on Wed 7th at 11:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-11h30-Lars-BERGSTROM-slides.pdf).*
 
 Lars Bergstrom, Director of Engineering, Android Platform Programming Languages.
 
@@ -1533,6 +1540,7 @@ Semiconductor for heading a Digital IC site establishment.*
 ### Patrick Pype -- TRISTAN: Together for RISC-V Technology and Applications
 
 *Plenary on Wed 7th at 14:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-14h00-Patrick-PYPE-slides.pdf).*
 
 [Patrick Pype](https://www.linkedin.com/in/patrickpype/) -- Director
 Strategic Partnerships, NXP Semiconductors.
@@ -1587,6 +1595,7 @@ politics, coaches, teachers and students.*
 ### Karol Gugala & Matt Cockrell -- Enabling Collaborative Chip Design in the RISC-V VeeR core and Caliptra RoT Project with CHIPS Alliance tools
 
 *Plenary on Wed 7th at 14:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-14h30-Karol-GUGALA-slides.pdf).*
 
 [Karol Gugala](https://www.linkedin.com/in/karol-gugala-056313aa/) -- Engineering Manager, [Antmicro](https://antmicro.com/) and Matt Cockrell -- Hardware Engineer, Google
 
@@ -1662,6 +1671,7 @@ Jeremy Bennett -- [Embecosm](https://www.embecosm.com).
 ### Matthew Xuereb -- The European Chips Act: Enabling chip design in Europe
 
 *Plenary on Wed 7th at 16:45.*
+*Link: [slides](media/proceedings/plenary/2023-06-07-16h45-Matthew-XUEREB-slides.pdf).*
 
 [Matthew Xuereb](https://www.linkedin.com/in/matthew-xuereb-2216a5172)
 -- Policy Officer, European Commission.
