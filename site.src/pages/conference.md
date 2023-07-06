@@ -481,7 +481,15 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
 
 </div>
 
+Shortcuts to authors bios, talks abstracts, and media for each of the
+three days:
+
+ - [Tuesday June 6th](#speakers-of-tuesday-june-6th).
+ - [Wednesday June 7th](#speakers-of-wednesday-june-7th).
+ - [Thursday June 8th](#speakers-of-thursday-june-8th).
+
 <hr align="center" noshade="yes" width="100%">
+
 ## Speakers of Tuesday June 6th
 
 
