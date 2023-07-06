@@ -5,6 +5,14 @@ Thursday 8th, with a single track of keynotes, technical and
 industrial talks, alongside an exhibition and [posters](posters.html)
 showcasing the latest developments across industry and research.
 
+Authors bios, talks abstracts, and media are down below the schedule
+for each of the three days:
+
+ - [Tuesday June 6th](#speakers-of-tuesday-june-6th).
+ - [Wednesday June 7th](#speakers-of-wednesday-june-7th).
+ - [Thursday June 8th](#speakers-of-thursday-june-8th).
+
+
 ## Schedule
 
 <div class="schedule">
