@@ -1,7 +1,9 @@
 <img src="media/img/RISC-V-London-2019-09.jpg" width=100%>
 
-The core of the Summit will be the three days of conferences,
-exhibitions and demo from Tuesday 6th until Thursday 8th.
+The core of the conference will be from Tuesday June 6th, 2023 to
+Thursday 8th, with a single track of keynotes, technical and
+industrial talks, alongside an exhibition and [posters](posters.html)
+showcasing the latest developments across industry and research.
 
 ## Schedule
 
@@ -470,11 +472,6 @@ Demo Theatre,<span class="schedule-time">10.40</span> - <span class="schedule-au
   </div>
 
 </div>
-
-The core of the conference will be from Tuesday June 6th, 2023 to
-Thursday 8th, with a single track of keynotes, technical and
-industrial talks, alongside an exhibition and [posters](posters.html)
-showcasing the latest developments across industry and research.
 
 <hr align="center" noshade="yes" width="100%">
 ## Speakers of Tuesday June 6th
