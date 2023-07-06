@@ -1742,6 +1742,7 @@ in Europe and future directions.
 ### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
 *Plenary on Thu 8th at 09:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-09h00-Philipp-TOMSICH-slides.pdf).*
 
 Dr Philipp Tomsich -- Founder & Chief Technologist ([VRULL GmbH](https://vrull.io)), Chair of RISC-V Applications and Tools Horizontal Committee.
 
@@ -1786,6 +1787,7 @@ Directors Technical Leadership Award.*
 ### Thierry Collette -- 4 years of Open Source RISC-V at Thales
 
 *Plenary on Thu 8th at 09:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-09h30-Thierry-COLLETTE-slides.pdf).*
 
 PhD Thierry Collette -- Director, Information Sciences and Techniques
 Research Group, [Thales Research & Technology
@@ -1832,6 +1834,8 @@ microelectronics.*
 ### Wei-Han Lien -- A High-Fidelity Flow for High-Performance RISC-V CPU Design from Scratch
 
 *Plenary on Thu 8th at 10:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-10h00-Wei-han-LIEN-slides.pdf).*
+
 
 Wei-Han Lien -- [Tenstorrent](https://tenstorrent.com).
 
@@ -1906,6 +1910,7 @@ Andrei Warkentin -- Intel.
 ### Roland Weigand -- RISC-V: a Rising Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
+*Link: [slides](media/proceedings/plenary/2023-06-08-14h00-Roland-WEIGAND-slides.pdf).*
 
 *Plenary on Thu 8th at 14:00.*
 
@@ -2039,6 +2044,20 @@ Bruno Sá -- [University Of Minho](https://www.uminho.pt).
 *Links: [slides](media/proceedings/plenary/2023-06-08-17h30-Yifei-ZHU-slides.pdf).*
 
 Yifei Zhu -- Rios Lab, Tsinghua-berkeley Shenzhen Institute, Tsinghua University.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+### Calista Redmond & Christian Fabre -- Closing
+
+*Plenary on Thu 8th at 17:45.*
+*Links: [slides](media/proceedings/plenary/2023-06-08-17h45-Calista-REDMOND.pdf).*
+
+Calista Redmond -- CEO, RISC-V International. Christian Fabre -- CEA.
+
+**Abstract**
+
+Closing of the main conference of the 1st *RISC-V Summit Europe*, and
+brief presentation of the [side events](side-events.html) of Fri 9th.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
