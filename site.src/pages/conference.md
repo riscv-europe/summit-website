@@ -488,10 +488,17 @@ three days:
  - [Wednesday June 7th](#speakers-of-wednesday-june-7th).
  - [Thursday June 8th](#speakers-of-thursday-june-8th).
 
+And the videos of the presentations are available:
+
+ - [Videos from Tuesday June 6th](https://www.youtube.com/watch?v=T0M9qV_v3Fc&list=PL85jopFZCnbM2M-_QDFh89rdFPl0v44lF&pp=iAQB).
+ - [Videos from Wednesday June 7th](https://www.youtube.com/watch?v=HaMTbmnhU1g&list=PL85jopFZCnbOqXywTSNOg3_IHozUFIdIK&pp=iAQB).
+ - [Videos from Thursday June 8th](https://www.youtube.com/watch?v=Pp7328LADIE&list=PL85jopFZCnbMlDT5WOagUjQnk1ZSgjuRa&pp=iAQB).
+
 <hr align="center" noshade="yes" width="100%">
 
 ## Speakers of Tuesday June 6th
 
+Direct access to all [videos from Tuesday June 6th](https://www.youtube.com/watch?v=T0M9qV_v3Fc&list=PL85jopFZCnbM2M-_QDFh89rdFPl0v44lF&pp=iAQB).
 
 ### Calista Redmond -- Opening
 
@@ -1133,6 +1140,7 @@ Abdoulaye Berthe -- [Low Power Futures](https://lowpowerfutures.com).
 <hr align="center" noshade="yes" width="100%">
 ## Speakers of Wednesday June 7th
 
+Direct access to [videos from Wednesday June 7th](https://www.youtube.com/watch?v=HaMTbmnhU1g&list=PL85jopFZCnbOqXywTSNOg3_IHozUFIdIK&pp=iAQB).
 
 ### Pannel -- Collaboration and Culture: Leveraging Diverse Strengths to Cultivate a Stronger Community
 
@@ -1748,6 +1756,7 @@ in Europe and future directions.
 <hr align="center" noshade="yes" width="100%">
 ## Speakers of Thursday June 8th
 
+Direct access to [videos from Thursday June 8th](https://www.youtube.com/watch?v=Pp7328LADIE&list=PL85jopFZCnbMlDT5WOagUjQnk1ZSgjuRa&pp=iAQB).
 
 ### Philipp Tomsich -- SW-driven evolution of a uniquely modular and extensible ISA
 
