@@ -1875,6 +1875,26 @@ known within the LLVM community for the LLVM Weekly newsletter.*
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
+## Stanislaw Kaushanski -- Automated Cross-level Verification Flow of a Highly Configurable RISC-V Core Family with Custom Instructions
+
+*Plenary on Thu 8th at 12:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-12h00-Stanislaw-KAUSHANSKI-slides.pdf).*
+
+Stanislaw Kaushanski -- [MINRES GmbH](https://www.minres.com).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+## Andrei Warkentin -- Multi-ISA Firmware Compatibility - Bringing RISC-V and IHV Ecosystems Together
+
+*Plenary on Thu 8th at 12:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-12h15-Andrei-WARKENTIN-slides.pdf).*
+
+Andrei Warkentin -- Intel.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
 ### Roland Weigand -- RISC-V: a Rising Star in Space
 
 Roland Weigand -- [European Space Agency (ESA)](https://www.esa.int).
@@ -1926,6 +1946,7 @@ methodology.*
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
+
 ### Luca Lingardo, NXP - Implementation of an Edge-Computing architecture based on a RISC-V core for RFID communication
 
 *Plenary on Thu 8th at 14:30.*
@@ -1936,12 +1957,80 @@ Luca Lingardo, NXP.
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
 
+### Guy Lemieux -- From CCX to CIX: A Modest Proposal for (Custom) Composable Instruction eXtensions
+
+*Plenary on Thu 8th at 14:45.*
+
+[Guy Lemieux](https://people.ece.ubc.ca/lemieux/) -- University Of
+British Columbia.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Tariq Kurd -- RISC-V Code-Size Reduction with Zc Extensions and Dictionary Compression Custom Instruction
+
+*Plenary on Thu 8th at 15:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-15h00-Tariq-KURD-slides.pdf).*
+
+Tariq Kurd -- Codasip.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Andrei Ivanov -- RIVETS: An Efficient Training and Inference Library for RISC-V with Snitch Extensions
+
+*Plenary on Thu 8th at 15:15.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-15h15-Andrei-IVANOV-slides.pdf).*
+
+Andrei Ivanov, ETH Zürich.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Gregory Chadwick -- Building Commercially Relevant Open Source Silicon: The Many Aspects of Ibex
+
+*Plenary on Thu 8th at 16:30.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-16h30-Gregory-CHADWICK-1-slides.pdf).*
+
+Gregory Chadwick -- [lowRISC](https://lowrisc.org).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Marton Bognar -- Proteus: An Extensible RISC-V Core for Hardware Extensions
+
+*Plenary on Thu 8th at 16:45.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-16h45-Marton-BOGNAR-slides.pdf).*
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Thomas Benz -- Puma: An End-to-End Open-Source Linux-capable RISC-V SoC in 130nm CMOS
+
+*Plenary on Thu 8th at 17:00.*
+*Link: [slides](media/proceedings/plenary/2023-06-08-17h00-Thomas-BENZ-slides.pdf).*
+
+Thomas Benz -- ETH Zürich.
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
 ### Bruno Sá - RISC-V Virtualization: A Case Study on the CVA6
 
 *Plenary on Thu 8th at 17:15.*
 *Links: [extended abstract](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ-abstract.pdf), [slides](media/proceedings/plenary/2023-06-08-17h15-Bruno-SÁ-slides.pdf).*
 
 Bruno Sá -- [University Of Minho](https://www.uminho.pt).
+
+<div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
+
+
+### Yifei Zhu -- GreenRio: A Linux-Compatible RISC-V Processor Designed for Open-Source EDA Implementations
+
+*Plenary on Thu 8th at 17:30.*
+*Links: [slides](media/proceedings/plenary/2023-06-08-17h30-Yifei-ZHU-slides.pdf).*
+
+Yifei Zhu -- Rios Lab, Tsinghua-berkeley Shenzhen Institute, Tsinghua University.
 
 <div style="text-align: right">*Back to <a href="#top-tue">Tue 6th</a> - <a href="#top-wed">Wed 7th</a> - <a href="#top-thu">Thu 8th</a>.*</div>
 
