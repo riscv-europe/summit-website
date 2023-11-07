@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>RISC-V Summit Europe 2023 - Technical Workgroup Meetings</title>
+  <meta charset="UTF-8" />
+  <meta name="keywords" content="RISC-V, open source, open source hardware, open hardware, ISA" />
+  <meta name="author" content="Christian Fabre (CEA, France)" />
+  <meta name="title" property="og:title" content="RISC-V Summit Europe, 5-9th June 2023, Barcelona, Spain" />
+  <meta name="image" property="og:image" content="https://riscv-europe.org/media/banners/Barcelona-meta.jpg" />
+  <meta name="description" property="og:description"
+    content="The RISC-V Summit Europe in (Barcelona, 5-9th June 2023), will be the premier event that connects the European movers and shakers - from industry, government, research, academia and ecosystem support - that are building the future of innovation on RISC-V and open-source hardware." />
+  <meta http-equiv="refresh" content="1800" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="/assets/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="/assets/css/summit2023.css">
+  <link rel="stylesheet" href="/assets/css/summit2024.css">
+</head>
+
+<body style="padding-top: 75px;">
+  <nav class="navbar navbar-dark fixed-top navbar-expand-xl nav-colors justify-content-between">
+    <div class="container">
+      <a class="navbar-brand" href="/summit/2023/"><img src="media/logos/RISCV-logo-white.png" height="40px"></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link"
+               href="/summit/2023"><span style="font-weight: bold">Summit Europe 2023</span></a>
+          </li>
+          <li class="nav-item">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Program
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="conference">Conference Program (Tuesday to Thursday)</a></li>
+              <li><a class="dropdown-item" href="posters">Posters (Tuesday to Thursday)</a></li>
+              <li><a class="dropdown-item" href="twg-meetings">Technical Workgroup Meetings (Monday)</a></li>
+              <li><a class="dropdown-item" href="side-events">Side Events (Friday)</a></li>
+            </ul>
+          </li>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="registration">Registration</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="venue">Venue & Accomodation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="sponsoring">Sponsoring</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="about">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main role="main" class="container">
+    <div>
+      <figure class="figure container">
+    <img src="media/img/RISC-V-London-2019-09.jpg" class="figure-img img-fluid rounded" width="100%" />
+    
+</figure>
+
+<div class="container mb-3" id="technical-working-group-meetings">
+    <div class="p-3 bg-body-tertiary rounded-3">
+
+    <h1 class="text-body-emphasis text-center my-3">Technical Working Group Meetings
+</h1>
+
+    <p>Monday June 5th afternoon will be dedicated to Technical Working Group
+(TWG) meetings, organized by:</p>
+
+    <ul>
+      <li><a href="https://riscv.org">RISC-V International</a>.</li>
+      <li><a href="https://www.openhwgroup.org">OpenHW Group</a>.</li>
+    </ul>
+
+    <p>The room numbers for Monday 5th meetings will be published in a few
+days.</p>
+
+    <p>Please note that <strong>to attend RISC-V International TWG meetings, a
+<a href="https://riscv.org/membership">personal or corporate membership</a> is
+required</strong>.</p>
+
+    <table class="riscv-sb" style="width:95%;">
+<thead>
+<tr>
+<th>TWG</th>
+<th colspan="2">RISC-V International</th>
+<th>OpenHW Group</th>
+</tr>
+<tr>
+<th>Room</th>
+<th>MR01</th>
+<th>MR02</th>
+<th>MR03</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14:00</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#security-hc">Security HC</a></p>
+          </td>
+<td rowspan="4" style="background:var(--riscv-ly);">
+            <p><a href="#risc-v-academic-and-training-special-interest-group">RISC-V Academic &amp; Training<br />Special Interest Group</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-lg);">
+            <p><a href="#twg-introduction">TWG Introduction</a></p>
+          </td>
+</tr>
+<tr>
+<td>14:15</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#rvm-csi">RVM-CSI</a></p>
+          </td>
+<td rowspan="3" style="background:var(--riscv-lg);">
+            <p><a href="#cva6-status">CVA6 Status</a></p>
+          </td>
+</tr>
+<tr>
+<td>14:45</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#code-size">Code Size</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-ly);">
+            <p><a href="#data-center-sig">Data Centre SIG</a></p>
+          </td>
+</tr>
+<tr>
+<td>15:15</td>
+<td rowspan="3" style="background:var(--riscv-lg);">
+            <p><a href="#cv-x-if-status">CV-X-IF Status</a></p>
+          </td>
+</tr>
+<tr>
+<td>15:30</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#cryptographic-extensions-tg">Cryptographic Extensions TG</a></p>
+
+            <p><a href="#post-quantum-cryptography">Post-Quantum Cryptography</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-ly);">
+            <p><a href="#hpc-sig">HPC SIG</a></p>
+          </td>
+</tr>
+<tr>
+<td>15:45</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td colspan="3">Break</td>
+</tr>
+<tr>
+<td>16:15</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#architectural-compatibility-test-sig">Architectural Compatibility Test SIG</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-ly);">
+            <p><a href="#soc-hc">SoC HC</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-lg);">
+            <p><a href="#software-tg">Software TG</a></p>
+          </td>
+</tr>
+<tr>
+<td>16:30</td>
+</tr>
+<tr>
+<td>16:45</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#automotive-sig">Automotive SIG</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-ly);">
+            <p><a href="#sig-soft-cpu">SIG SOFT-CPU</a></p>
+          </td>
+<td rowspan="3" style="background:var(--riscv-lg);">
+            <p><a href="#verification-tg">Verification TG</a></p>
+          </td>
+</tr>
+<tr>
+<td>17:00</td>
+</tr>
+<tr>
+<td>17:15</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#floating-point-sig">Floating-Point SIG</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-ly);">
+            <p><a href="#shadow-stack-and-landing-pads-task-group">Shadow Stack &amp; Landing Pads Task Group (SSLP-TG)</a></p>
+          </td>
+</tr>
+<tr>
+<td>17:30</td>
+<td rowspan="3" style="background:var(--riscv-lg);">
+            <p><a href="#cv32e40pv2-status">CV32E40Pv2 Status</a></p>
+          </td>
+</tr>
+<tr>
+<td>17:45</td>
+<td rowspan="2" style="background:var(--riscv-lp);">
+            <p><a href="#act-plans-and-challenges">ACT Plans and Challenges</a></p>
+          </td>
+<td rowspan="2" style="background:var(--riscv-ly);">
+            <p>Graphics SIG</p>
+          </td>
+</tr>
+<tr>
+<td>18:00</td>
+</tr>
+<tr>
+<td>18:15</td>
+<td colspan="3">Closing</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</div>
+
+<div class="container mb-3" id="risc-v-international-wg-meetings">
+    <div class="p-3 bg-body-tertiary rounded-3">
+
+    <h1 class="text-body-emphasis text-center my-3">RISC-V International WG Meetings
+</h1>
+
+    <p>Reminder: <em>to attend RISC-V International TWG meetings</em>, a <a href="https://riscv.org/membership">personal
+or corporate membership</a> is required.</p>
+
+    <h3 id="security-hc">Security HC</h3>
+
+    <p>The main goals of the <em>Security Horizontal Committee</em> are:</p>
+
+    <ul>
+      <li>Promote RISC-V as an ideal vehicle for the security community</li>
+      <li>Liaise with other internal RISC V committees and with external
+security committees</li>
+      <li>Create an information repository on new attack trends, threats and
+countermeasures</li>
+      <li>Identify top 10 open challenges in security for the RISC-V
+community to address</li>
+      <li>Propose security committees (Marketing or Technical) to tackle
+specific security topics</li>
+      <li>Recruit security talent to the RISC-V ecosystem (e.g., into
+committees)</li>
+      <li>Develop consensus around best security practices for IoT devices
+and embedded systems</li>
+    </ul>
+
+    <p>More info at <a href="https://lists.riscv.org/g/security">https://lists.riscv.org/g/security</a>.</p>
+
+    <h3 id="rvm-csi">RVM-CSI</h3>
+
+    <p>The <em>RISC-V Common Software Interface (RVM-CSI) Special Interest Group
+(SIG)</em> drives the strategy and coordinates the development of RISC-V’s
+Common Software Interface (CSI) for RISC-V Microcontrollers.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-rvm-csi">https://lists.riscv.org/g/sig-rvm-csi</a>.</p>
+
+    <h3 id="code-size">Code Size</h3>
+
+    <p>The <em>Code Size Reduction TG</em> will develop a holistic solution to
+reducing code size, covering different profiles to be competitive with
+other core implementations of other architectures of a similar class.</p>
+
+    <p>Priority is given to small embedded cores which often have very
+constrained memory sizes and so code size reduction is most important
+for cost reduction. Larger/higher performance cores will also benefit
+from reduced code size.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/tech-code-size">https://lists.riscv.org/g/tech-code-size</a>.</p>
+
+    <h3 id="cryptographic-extensions-tg">Cryptographic Extensions TG</h3>
+
+    <p>The <em>Cryptographic Extensions Task Group</em> will propose ISA extensions
+to the vector extensions for the standardized and secure execution of
+popular cryptography algorithms.  To ensure that processor
+implementers are able to support a wide range of performance and
+security levels the committee will create a base and an extended
+specification. The base will be comprised of low-cost instructions
+that are useful for the acceleration of common algorithms. The
+extended specification will include greater functionality, reserve
+encodings for more algorithms, and will facilitate improved security
+of execution and higher performance.  The scope will include symmetric
+and asymmetric cryptographic algorithms and related primitives such as
+message digests.</p>
+
+    <p>The committee will also make ISA extension proposals for lightweight
+scalar instructions for 32 and 64 bit machines that improve the
+performance and reduce the code size required for software execution
+of common algorithms like AES and SHA and lightweight algorithms like
+PRESENT and GOST, as well as ISA proposals regarding the use of random
+bits and secure key management.</p>
+
+    <p>More info at <a href="https://wiki.riscv.org/display/HOME/Cryptographic+Extensions+TG">https://wiki.riscv.org/display/HOME/Cryptographic+Extensions+TG</a>.</p>
+
+    <h3 id="post-quantum-cryptography">Post-Quantum Cryptography</h3>
+
+    <p>The <em>Post-Quantum Cryptography</em> explore and recommend RISC-V
+Instruction Set Architecture (ISA) Extensions that enhance performance
+and implementation efficiency for contemporary public-key
+cryptography, with a focus on standard Post-Quantum Cryptography
+algorithms like Kyber, Dilithium, and others.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/tech-pqc-cryptography">https://lists.riscv.org/g/tech-pqc-cryptography</a>.</p>
+
+    <h3 id="architectural-compatibility-test-sig">Architectural Compatibility Test SIG</h3>
+
+    <p>The <em>Architectural Compatibility Test SIG</em> defines coverage
+requirements for RV32I compliance tests, release compliance test
+format spec, release compliance suite for RV32I.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-arch-test">https://lists.riscv.org/g/sig-arch-test</a>.</p>
+
+    <h3 id="automotive-sig">Automotive SIG</h3>
+
+    <p>The <em>Automotive SIG</em> provides a global forum for technical and
+strategic input into activities enabling or accelerating adoption of
+RISC-V related technology in the Automotive industry.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-automotive">https://lists.riscv.org/g/sig-automotive</a>.</p>
+
+    <h3 id="floating-point-sig">Floating-Point SIG</h3>
+
+    <p>The <em>Floating Point (FP) SIG</em> will manage the existing FP formats and
+evaluate emerging formats for inclusion in the RISC-V architecture.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-fp">https://lists.riscv.org/g/sig-fp</a>.</p>
+
+    <h3 id="act-plans-and-challenges">ACT Plans and Challenges</h3>
+
+    <p>(TBD).</p>
+
+    <h3 id="risc-v-academic-and-training-special-interest-group">RISC-V Academic and Training Special Interest Group</h3>
+
+    <p>Join academics and industry to connect on how to better support
+professors and students in teaching and learning RISC-V.</p>
+
+    <p>The mission of the <em>Academic and Training Special Interest Group</em> is
+to promote RISC-V as a common platform based on an open ISA. The group
+supports educators and students with resources to further their
+education on all levels of the hardware and software stack, using the
+RISC-V ecosystem of solutions. The group’s aim is to increase adoption
+of RISC-V to prepare computer and electronic engineers for the
+challenges and opportunities of the future.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-academia-training">https://lists.riscv.org/g/sig-academia-training</a>.</p>
+
+    <h3 id="data-center-sig">Data Center SIG</h3>
+
+    <p>The <em>Data center SIG</em> will provide strategy and oversight for
+technology sectors encompassing multiple industries and extensions in
+Datacenter &amp; Cloud Computing. This SIG will identify gaps across
+industries and RISC-V groups and create TGs that will address these
+gaps.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-datacenter">https://lists.riscv.org/g/sig-datacenter</a> and
+<a href="https://github.com/riscv-admin/datacenter/blob/main/CHARTER.md">https://github.com/riscv-admin/datacenter/blob/main/CHARTER.md</a>.</p>
+
+    <h3 id="hpc-sig">HPC-SIG</h3>
+
+    <p>Special Interest Group on <em>High-Performance Computing</em> (HPC).</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-hpc">https://lists.riscv.org/g/sig-hpc</a>.</p>
+
+    <h3 id="soc-hc">SoC HC</h3>
+
+    <p>The <em>System on Chip (SoC) infrastructure Horizontal Committee</em>
+contains but not limited to the components that straddle the
+hardware/software boundary and are necessary to boot and operate
+systems in every product from IOT/embedded through Data Center/Cloud
+and beyond. By their nature these components are also often matrixed
+into other committees pertaining to security, RAS, platforms, etc. The
+intent is to provide a robust set of specifications that product
+implementer’s need to be successful while minimizing duplication of
+effort and fragmentation of design choices in the RISC-V community.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/soc-infra">https://lists.riscv.org/g/soc-infra</a>.</p>
+
+    <h3 id="shadow-stack-and-landing-pads-task-group">Shadow Stack and Landing Pads Task Group</h3>
+
+    <p>The <em>Shadow Stack and Landing Pads for Control Flow Integrity
+(SSLP-CFI)</em> task group will define privileged and unprivileged ISA
+extensions that can be used by privileged and unprivileged programs to
+protect the integrity of their control-flow. Specifically, for
+protecting backward-edges we will define a shadow stack for storing
+return-addresses in each privilege level. For protecting forward-edges
+we will design a flexible label based landing pads approach which will
+ensure that the execution adheres to the application’s Control-Flow
+Graph. The design will follow the threat model compiled in CFI-SIG and
+will be updated on demand.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/tech-ss-lp-cfi">https://lists.riscv.org/g/tech-ss-lp-cfi</a>.</p>
+
+    <h3 id="sig-soft-cpu">SIG Soft-CPU</h3>
+
+    <p>Special intersest group on soft CPU.</p>
+
+    <p>More info at <a href="https://lists.riscv.org/g/sig-soft-cpu">https://lists.riscv.org/g/sig-soft-cpu</a>.</p>
+
+  </div>
+</div>
+
+<div class="container mb-3" id="openhw-group-wg-meetingss">
+    <div class="p-3 bg-body-tertiary rounded-3">
+
+    <h1 class="text-body-emphasis text-center my-3">OpenHW Group WG Meetingss
+</h1>
+
+    <p><a href="https://www.openhwgroup.org">OpenHW Group</a> WG meetings are public.</p>
+
+    <h3 id="twg-introduction">TWG Introduction</h3>
+
+    <p>Agenda review, Project release checklists.</p>
+
+    <p>More info at <a href="https://github.com/openhwgroup">https://github.com/openhwgroup</a>.</p>
+
+    <h3 id="cva6-status">CVA6 Status</h3>
+
+    <p>Hypervisor, HP Data Cache, CV-VEC, Verification Strategy.</p>
+
+    <p>More info at <a href="https://github.com/openhwgroup/cva6">https://github.com/openhwgroup/cva6</a>.</p>
+
+    <h3 id="cv-x-if-status">CV-X-IF Status</h3>
+
+    <p>Publication status and next steps.</p>
+
+    <h3 id="software-tg">Software TG</h3>
+
+    <p>Projects overviews.</p>
+
+    <p>More info at <a href="https://github.com/openhwgroup/core-v-sw">https://github.com/openhwgroup/core-v-sw</a>.</p>
+
+    <h3 id="verification-tg">Verification TG</h3>
+
+    <p>Project Overviews, Spike as a reference model in core-v-verif.</p>
+
+    <p>More info at <a href="https://github.com/openhwgroup/programs/tree/master/TGs/verification-task-group">https://github.com/openhwgroup/programs/tree/master/TGs/verification-task-group</a>.</p>
+
+    <h3 id="cv32e40pv2-status">CV32E40Pv2 Status</h3>
+
+    <p>E40Pv2 RTL freeze checklist, formal verification.</p>
+
+    <p>More info at <a href="https://github.com/openhwgroup/cv32e40p">https://github.com/openhwgroup/cv32e40p</a>.</p>
+
+  </div>
+</div>
+
+    </div>
+
+    <div style="width: 100%; text-align: center;">
+      <div style="font-size: 1.5em; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Diamond Sponsors</div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
+        <a href="http://www.andestech.com" target="_blank"><img src="media/logos/sponsors/Andes.svg"
+            width="300px" /></a>
+        <a href="https://antmicro.com/" target="_blank"><img src="media/logos/sponsors/antmicro.svg"
+            width="300px" /></a>
+        <a href="https://codasip.com" target="_blank"><img src="media/logos/sponsors/Codasip.svg" width="300px" /></a>
+        <a href="https://www.imperas.com" target="_blank"><img src="media/logos/sponsors/imperas.svg"
+            width="300px" /></a>
+        <a href="https://www.openhwgroup.org" target="_blank"><img src="media/logos/sponsors/openhw.svg"
+            width="300px" /></a>
+        <a href="https://semidynamics.com" target="_blank"><img src="media/logos/sponsors/semidynamics.svg"
+            width="300px" /></a>
+        <a href="https://www.ventanamicro.com" target="_blank"><img src="media/logos/sponsors/Ventana.svg"
+            width="300px" /></a>
+      </div>
+      <div style="font-size: 1.5em; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Gold Sponsors</div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
+        <a href="https://www.agileanalog.com" target="_blank"><img src="media/logos/sponsors/Agile.svg"
+            width="250px" /></a>
+        <a href="https://cea.fr" target="_blank"><img src="media/logos/sponsors/CEA.svg" width="250px" /></a>
+        <a href="https://www.gaisler.com" target="_blank"><img src="media/logos/sponsors/Gaisler.svg"
+            width="250px" /></a>
+        <a href="https://www.microchip.com" target="_blank"><img src="media/logos/sponsors/microchip.svg"
+            width="250px" /></a>
+        <a href="https://www.tii.ae" target="_blank"><img src="media/logos/sponsors/tii.svg" width="250px" /></a>
+      </div>
+      <div style="font-size: 1.5em; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">Silver Sponsors</div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
+        <a href="https://www.axelera.ai" target="_blank"><img src="media/logos/sponsors/Axelera.svg"
+            width="200px" /></a>
+        <a href="https://www.axiomise.com" target="_blank"><img src="media/logos/sponsors/axiomise.svg"
+            width="200px" /></a>
+        <a href="https://www.codethink.com" target="_blank"><img src="media/logos/sponsors/codethink.svg"
+            width="200px" /></a>
+        <a href="https://www.e4company.com" target="_blank"><img src="media/logos/sponsors/E4.svg" width="200px" /></a>
+        <a href="https://www.esperanto.ai" target="_blank"><img src="media/logos/sponsors/esperanto.svg"
+            width="200px" /></a>
+        <a href="https://www.hipeac.net" target="_blank"><img src="media/logos/sponsors/Hipeac.svg" width="200px" /></a>
+        <a href="https://ic-resources.com/" target="_blank"><img src="media/logos/sponsors/ICR.svg" width="200px" /></a>
+        <a href="https://irtnanoelec.fr/" target="_blank"><img src="media/logos/sponsors/irtnanoelec.svg"
+            width="200px" /></a>
+        <a href="https://lowrisc.org" target="_blank"><img src="media/logos/sponsors/lowrisc.svg" width="200px" /></a>
+        <a href="https://mips.com" target="_blank"><img src="media/logos/sponsors/mips.svg" width="200px" /></a>
+        <a href="https://synopsys.com" target="_blank"><img src="media/logos/sponsors/synopsys.svg" width="200px" /></a>
+      </div>
+    </div>
+
+    </div>
+  </main>
+  <footer class="py-3 my-2 container">
+    <hr width="66%" class="my-2" style="margin: auto" />
+    <p class="text-center text-muted" style="font-size: smaller;">Copyright © RISC-V International® and contributors (<a
+        href="https://riscv.org/about/contact/">contact</a>). All rights reserved. RISC-V, RISC-V International, and the
+      RISC-V logos are trademarks of RISC-V International. For trademark usage guidelines, please see our <a
+        href="https://riscv.org/about/risc-v-branding-guidelines/">Brand Guidelines</a> and <a
+        href="https://riscv.org/privacy-policy/">Privacy Policy</a>.</p>
+  </footer>
+  </footer>
+  <script src="/assets/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
