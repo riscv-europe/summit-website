@@ -19,3 +19,43 @@
 .navbar {
   background-color: var(--riscv-b);
 }
+
+.sponsor-table > tbody > tr {
+  border: 1px solid #000;
+}
+
+.sponsor-table > tbody > tr:last-child {
+  border: none;
+}
+
+.sponsor-table tr > td:first-child {
+  font-weight: bold;
+}
+
+.sponsor-table thead {
+  font-weight: bold;
+}
+
+.sponsor-platinum {
+  background-color: #E5E4E2;
+}
+
+.sponsor-gold {
+  background-color: #F1E5AC;
+}
+
+.sponsor-silver {
+  background-color: #E8E8E8;
+}
+
+.sponsor-bronze {
+  background-color: #e9cc9e;
+}
+
+.sponsor-table td {
+  text-align: center;
+}
+
+.sponsor-table td:first-child {
+  text-align: left;
+}
