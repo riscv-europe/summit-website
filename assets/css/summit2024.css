@@ -28,6 +28,10 @@
   border: none;
 }
 
+.sponsor-table td {
+  padding: 4px;
+}
+
 .sponsor-table tr > td:first-child {
   font-weight: bold;
 }
