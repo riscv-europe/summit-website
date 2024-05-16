@@ -63,3 +63,100 @@
 .sponsor-table td:first-child {
   text-align: left;
 }
+
+.schedule-time {
+  font-style: italic;
+}
+
+.schedule-author {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.schedule-title {
+  font-weight: bold;
+}
+
+.schedule-day {
+  color: var(--riscv-b);
+  font-size: x-large;
+  font-weight: 900;
+  padding: .5em;
+  width: 100%;
+  text-align: center;
+}
+
+.schedule {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.schedule div {
+  box-sizing: border-box;
+}
+
+.schedule-block-title {
+width: 25%;
+text-align: center;
+padding: 0.5em;
+}
+
+.schedule-block-title.org {
+  background-color: var(--riscv-sy);
+}
+
+.schedule-block-title.break {
+  background-color: var(--riscv-lg);
+}
+
+.schedule-block-title.keynote {
+  background-color: var(--riscv-ly);
+}
+
+.schedule-block-title.technical {
+  background-color: var(--riscv-lv);
+}
+
+.schedule-block-title.social {
+  background-color: var(--riscv-lp);
+}
+
+.schedule-block {
+display: flex;
+flex-flow: column wrap;
+width: 75%;
+padding: 0;
+
+}
+
+.schedule-entry {
+width: 100%;
+text-align: left;
+padding-left: 1em;
+padding-top: 0.5em;
+}
+
+.schedule-entry:last-of-type {
+padding-bottom: 0.5em;
+}
+
+.schedule-block-time {
+  font-weight: normal;
+}
+
+.schedule-block-name {
+  font-weight: bold;
+}
+
+@media all and (max-width: 768px) {
+  .schedule-block-title {
+      width: 100%;
+  }
+  .schedule-block {
+      width: 100%;
+  }
+  .schedule-entry {
+      text-align: left;
+    }
+}
