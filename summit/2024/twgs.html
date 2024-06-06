@@ -101,19 +101,25 @@ this first day of the summit. Those meetings are only open to members.</p>
     </tr>
     <tr>
       <td>10:00-11:00</td>
-      <td rowspan="2" style="background-color: var(--riscv-sy)">Tutorial:<br /> Introduction to RISC-V</td>
+      <td rowspan="3" style="background-color: var(--riscv-sy)">Tutorial:<br /> Introduction to RISC-V</td>
       <td>-</td>
       <td>-</td>
       <td style="background-color: var(--riscv-lg)">DTPM SIG</td>
       <td style="background-color: var(--riscv-lg)">Runtime Integrity SIG &amp; Security HC</td>
     </tr>
     <tr>
-      <td>11:00-12:00</td>
+      <td>11:00-11:30</td>
       <td>-</td>
-      <td style="background-color: var(--riscv-lv)">RISC-V Hackathon</td>
+      <td rowspan="2" style="background-color: var(--riscv-lv)">RISC-V Hackathon</td>
       <td style="background-color: var(--riscv-lg)">SoftCPU SIG</td>
       <td>-</td>
     </tr>
+      <tr>
+      <td>11:30-12:00</td>
+      <td>-</td>
+      <td style="background-color: var(--riscv-lg)">Composable Extensions TG</td>
+      <td>-</td>
+    </tr> 
     <tr>
       <td>12:00-13:00</td>
       <td colspan="5" style="text-align: center; vertical-align: middle;"> Lunch Break </td>    
@@ -144,7 +150,7 @@ this first day of the summit. Those meetings are only open to members.</p>
     </tr>  
     <tr>
       <td>15:00-15:30</td>
-      <td rowspan="3" style="background-color: var(--riscv-sy)">Tutorial: LLVM</td>
+      <td rowspan="3" style="background-color: var(--riscv-sy)">Tutorial Custom Extension Support in LLVM</td>
       <td rowspan="3" style="background-color: var(--riscv-sy)">Tutorial: <br />RISC-V in Education</td>   
       <td rowspan="3" style="background-color: var(--riscv-lv)">RISC-V Hackathon</td>
       <td style="background-color: var(--riscv-lg)">HPC SIG</td>
@@ -170,6 +176,73 @@ this first day of the summit. Those meetings are only open to members.</p>
   </tbody>
 </table>
 </div>
+
+  </div>
+</div>
+
+<div class="container mb-3" id="tutorials">
+    <div class="p-3 bg-body-tertiary rounded-3">
+
+    <h1 class="text-body-emphasis text-center my-3">Tutorials
+</h1>
+
+    <p class="lead text-center mb-4">Information on tutorials.
+</p>
+
+    <h2 id="tutorial-introduction-to-risc-v">Tutorial Introduction to RISC-V</h2>
+
+    <p>Details will follow</p>
+
+    <h2 id="tutorial-on-x-heep-soc">Tutorial on X-Heep SoC</h2>
+
+    <p><strong>Abstract</strong>
+X-HEEP is a RISC-V open-source platform meticulously crafted at the Embedded System Laboratory (ESL) of EPFL. It stands out for its configurability and extensibility, fostering rapid prototyping of custom IPs, which significantly reduces the entry threshold for developers.
+A pivotal aspect of X-HEEP is its strategic reuse of successful open-source IPs, primarily from renowned entities such as PULP, OpenHW Group, and OpenTitan. This integration not only bolsters the reliability and efficiency of X-HEEP but also enriches its feature set with validated components widely acknowledged in the industry.
+Users can seamlessly instantiate custom accelerators, co-processors, peripherals, and memory blocks, leveraging the X-HEEP’s versatile extension interface. We will also highlight X-HEEP’s readiness for FPGA implementation and its first tape-out implementation on TSMC 65nm technology, named HEEPocrates. The roadmap ahead and ongoing collaborations will be discussed, showcasing X-HEEP’s commitment to continuous improvement and innovation.
+The presentation will also spotlight X-HEEP’s strong focus on education, providing essential tools for students to learn how to design custom IPs, integrate them, and develop embedded software. Attendees will gain insights into the practical applications of X-HEEP, supported by demonstrations and case studies showcasing its versatility and efficiency. By the end of the session, participants will have a comprehensive understanding of how X-HEEP’s open-source approach and extendible architecture can streamline the development of customized hardware solutions, foster innovation, accelerate time-to-market for new products, and enrich educational experiences.</p>
+
+    <p><strong>Bios</strong>
+Pasquale Davide Schiavone (Davide) is a PostDoc at the Swiss Federal Institute of Technology Lausanne (EPFL) and Director of Engineering of the OpenHW Group. He obtained the Ph.D. title at the Integrated Systems Laboratory of ETH Zurich in the Digital Systems group in 2020 and the BSc. and MSc. from “Politecnico di Torino” in computer engineering in 2013 and 2016, respectively. His main activities are on RISC-V CPU design and low-power energy-efficient computer architectures for smart embedded systems and edge-computing devices.
+He likes to contribute what he does open-source. Since the Ph.D., he delivers training workshops to companies and universities.</p>
+
+    <p>Juan Sapriza is a doctoral candidate at the Embedded Systems Laboratory of EPFL. His research focuses on ultra-low-power embedded hardware and software co-design, particularly involving Coarse-Grained Reconfigurable Architectures (CGRAs) and sparse signal processing. Juan is actively involved in several X-HEEP projects and serves as a maintainer of the software stack for the main repository of X-HEEP.</p>
+
+    <h2 id="tutorial-on-implementing-support-for-custom-risc-v-extensions-in-llvm">Tutorial on Implementing support for custom RISC-V extensions in LLVM</h2>
+
+    <p><strong>Abstract</strong>
+This tutorial will provide a high level overview of how to implement support for custom RISC-V extensions in LLVM. It will guide you
+through:</p>
+    <ul>
+      <li>A very rapid summary of the LLVM compilation flow and the parts relevant to custom instruction set extensions.</li>
+      <li>The different levels of compiler support, when they would be appropriate, and the relevant trade-offs.</li>
+      <li>Implementation approaches and examples</li>
+      <li>Assessing the amount of effort required for different types of extensions</li>
+      <li>Testing approaches</li>
+      <li>Various other tips and guidance</li>
+    </ul>
+
+    <p><strong>Bio</strong>
+Alex Bradbury is a compiler engineer at Igalia, working within a growing LLVM sub-team largely focused on RISC-V compiler support. He has been heavily involved in the RISC-V ecosystem since its inception, working across the hardware and software stack having previously co-founded lowRISC CIC. He initiated the upstream RISC-V LLVM backend implementation, authoring the initial patchset, acting as upstream code owner, and collaborating with a growing set of contributors. Alex is also well known within the LLVM community for authoring the LLVM Weekly newsletter for the past 10 years.</p>
+
+    <h2 id="tutorial-risc-v-in-education">Tutorial: RISC-V in Education</h2>
+
+    <p>Details will follow</p>
+
+  </div>
+</div>
+
+<div class="container mb-3" id="hackathon">
+    <div class="p-3 bg-body-tertiary rounded-3">
+
+    <h1 class="text-body-emphasis text-center my-3">Hackathon
+</h1>
+
+    <p class="lead text-center mb-4">RISC-V International is excited to join with its members Codasip and Renesas to host an in person hackathon at
+RISC-V Summit Europe!
+</p>
+
+    <p>For details and updates please visit <a href="https://community.riscv.org/events/details/risc-v-international-risc-v-in-emea-presents-hackathon-at-risc-v-summit-europe/">the Hackathon Event
+website</a>.</p>
 
   </div>
 </div>
@@ -257,6 +330,10 @@ Explore and propose security mechanisms related to runtime integrity that may be
     <p>Participant projects will submit a plan of usage and be required to document their results using the board. In addition, RISC-V vendor members are running their own programs and coordinating with RISC-V International.</p>
 
     <h2 id="hpc-sig">HPC SIG</h2>
+
+    <p>Computer simulation of real-world processes and entities is crucial for scientific discovery and engineering. High Performance Computing (HPC) is the workhorse that not only enables these workloads, but furthermore is also crucial for AI and ML models. The HPC community have recently reached exascale (the ability for a supercomputer to perform a billion billion calculations per second), but as we move further into the exascale era there are other challenges, such as an increased focus on decarbonising our workloads, faced by the HPC community that requires the rethinking of existing approaches.</p>
+
+    <p>The RISC-V HPC SIG focusses on bringing RISC-V to HPC, with our belief that the unique flexibility offered by RISC-V will be crucial to the HPC community in meeting the challenges that it faces. In this SIG we are identifying and exploring the high priority areas in the RISC-V ecosystem that must be addressed to drive adoption in HPC, as well as building awareness of RISC-V in HPC and acting as a network for participants working in this area.</p>
 
     <p>Special Interest Group on High-Performance Computing (HPC).
 More info at https://lists.riscv.org/g/sig-hpc.</p>
