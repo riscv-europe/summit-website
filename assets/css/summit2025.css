@@ -160,3 +160,36 @@ padding-bottom: 0.5em;
       text-align: left;
     }
 }
+
+table.riscv-sy {
+    width: 80%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: var(--riscv-sy);
+    border-style: solid;
+    color: #000000;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table.riscv-sy td {
+    border-width: 2px;
+    border-color: var(--riscv-sy);
+    border-style: solid;
+    padding: 3px;
+    text-align:center;
+}
+
+table.riscv-sy th {
+    border-width: 2px;
+    border-color: #ffffff;
+    border-style: solid;
+    padding: 3px;
+    text-align:center;
+}
+
+table.riscv-sy thead {
+    background-color: var(--riscv-sy);
+}
