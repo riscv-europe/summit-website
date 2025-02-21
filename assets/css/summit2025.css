@@ -193,3 +193,7 @@ table.riscv-sy th {
 table.riscv-sy thead {
     background-color: var(--riscv-sy);
 }
+
+img.logo {
+    object-fit: contain;
+}
