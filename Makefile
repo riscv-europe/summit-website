@@ -16,19 +16,19 @@ GDRIVE_TARGET_DIR:=$(shell pwd)/_data
 
 # Import Google drive files downloaded by Firefox.
 
-## Remove previously downloadded files, if any. Or they will be
-## numbered by Forefox and you might just overlook them.
-gdrive-import-clean:
-	rm -f $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)plenary-sessions-config.csv
-	rm -f $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)plenary-sessions-agenda.csv
-	rm -f $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)invited-slots-details.csv
+## Remove previously downloadded files, if any. Leaving them before a
+## new download will have the next ones being numbered by Firefox. And
+## this is not what you want!
+clobber-imported:
+	rm -f $(GDRIVE_DOWNLOAD_DIR)/*.csv
 
 ## This done the brutal way because GNU make cannot handle properly
 ## file names with white spaces.
 gdrive-import-downloaded:
-	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)plenary-sessions-config.csv $(GDRIVE_TARGET_DIR)/plenary-sessions-config.csv
-	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)plenary-sessions-agenda.csv $(GDRIVE_TARGET_DIR)/plenary-sessions-agenda.csv
-	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)invited-slots-details.csv $(GDRIVE_TARGET_DIR)/invited-slots-details.csv
+	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)sessions-config.csv $(GDRIVE_TARGET_DIR)/sessions-config.csv
+	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)summit-agenda.csv $(GDRIVE_TARGET_DIR)/summit-agenda.csv
+	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)talks-details.csv $(GDRIVE_TARGET_DIR)/talks-details.csv
+	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)panels-details.csv $(GDRIVE_TARGET_DIR)/panels-details.csv
 
 # A couple of shorthands to Jekyll production management.
 
@@ -37,13 +37,17 @@ view-site:
 	bundle exec jekyll serve
 
 ## To properly import and commit the speaker list. 
-data-check:
-	dos2unix _data/summit25speakers.csv
-	git diff _data/summit25speakers.csv
+dos2unix:
+	dos2unix $(GDRIVE_TARGET_DIR)/sessions-config.csv
+	dos2unix $(GDRIVE_TARGET_DIR)/summit-agenda.csv
+	dos2unix $(GDRIVE_TARGET_DIR)/talks-details.csv
+	dos2unix $(GDRIVE_TARGET_DIR)/panels-details.csv
 
-data-commit:
-	dos2unix _data/summit25speakers.csv
-	git commit -m "Upd: updated the speakers database." _data/summit25speakers.csv
+data-check: dos2unix
+	git diff _data/*.csv
+
+data-commit: dos2unix
+	git commit -m "Upd: update summit's databases." _data/*.csv
 
 ## To arease the produced site and start producing next time from a
 ## clean slate.
