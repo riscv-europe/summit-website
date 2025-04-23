@@ -204,7 +204,20 @@ laptop.</li>
 
     <p>T1.3.02 (sub. #109), Tue 13 at 12:00, in Gaston Berger.</p>
 
-    <p>By <strong>Rocco Martino</strong>, Sapienza University of Rome.</p>
+    <p>By <strong>Rocco Martino</strong>, Sapienza University of Rome. <strong>Marco Angioli</strong>, Sapienza University of Rome. <strong>Antonello Rosato</strong>, Sapienza University of Rome. <strong>Marcello Barbirotta</strong>, Sapienza University of Rome. <strong>Abdallah Cheikh</strong>, Sapienza University of Rome. <strong>Mauro Olivieri</strong>, Sapienza University of Rome.</p>
+
+    <p><strong>Abstract</strong>: Hyperdimensional Computing (HDC) leverages high-dimensional distributed representations called hypervectors
+(HVs) and simple arithmetic operations, making it an ideal paradigm for learning tasks on resource-constrained
+devices. This work introduces the first RISC-V Instruction Set Architecture (ISA) extension specifically designed
+to execute all fundamental arithmetic operations of HDC directly through dedicated instructions, which, when
+appropriately combined, enable a variety of learning tasks by efficiently encoding and processing information.
+This extension is coupled with a specialized hardware acceleration unit, integrated into the Klessydra-T03 RISC-V
+core, to perform computations on binary HVs efficiently. The proposed solution enables a seamless trade-off
+between execution time and hardware resource utilization through both synthesis-time configurability and runtime
+programmability. The custom ISA extension is fully integrated into the RISC-V GCC toolchain, allowing
+software developers to exploit its capabilities via intrinsic function calls. Benchmarking on an FPGA platform
+demonstrates significant performance improvements across a wide range of HDC tasks, from basic arithmetic
+operations to real-world classification problems.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -212,7 +225,9 @@ laptop.</li>
 
     <p>T1.3.03 (sub. #206), Tue 13 at 12:15, in Gaston Berger.</p>
 
-    <p>By <strong>Alexey Khomich</strong>, Synopsys Inc.</p>
+    <p>By <strong>Alexey Khomich</strong>, Synopsys Inc. <strong>Evgenii Paltsev</strong>, Synopsys. <strong>Paul Stravers</strong>, Synopsys Inc.</p>
+
+    <p><strong>Abstract</strong>: The Real-Time Interrupt Architecture (RTIA) is the evolution of RISC-V Advanced Interrupt Architecture (AIA) targeted to extend use cases to real-time latency critical scenarios and/or to resource constrained designs. The RTIA defines necessary mechanisms for interrupt nesting and low latency fixed overhead interrupt handling. Keeping compatibility with RISC-V Privileged ISA and RISC-V AIA, the RTIA provides the same programming model for light weight embedded applications and heavy feature rich systems allowing mixing it in virtual environments.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -222,13 +237,34 @@ laptop.</li>
 
     <p>By <strong>Ren Guo</strong>, Alibaba Damo Academy.</p>
 
+    <p><strong>Abstract</strong>: With the increasing diversification of intelligent computing workloads, traditional programming paradigms face multidimensional challenges driven by architectural innovations. Addressing the concurrent demands of heterogeneous tasks, including AI inference, real-time graphics rendering, and high-performance signal processing, this presentation focuses on atomic IO enqueue instructions - the core technology enabling hardware accelerator interactions in heterogeneous computing architectures. This approach establishes efficient accelerator communication mechanisms through hardware primitives such as 64-byte atomic enqueue transfers and queue status feedback. At the protocol level, PCIe specifications define DMWr TLP (Transaction Layer Packet) for non-post write operations, while Armv8.7/9.2 implements 64-byte atomic enqueue operations via ST64BV instructions, and x86 architectures provide comparable functionality through MOVDIR64B and ENQCMD(S) instructions.</p>
+
+    <p>This presentation introduces RISC-V’s Atomic IO Enqueue Extension (AIOE) and its virtualization enhancements: the G-stage Page Table In-Process Context (GIPC) mechanism for RISC-V IOMMU, which improves accelerator sharing work queue in multi-tenant environments. In addition, we will share AIOE’s latency mitigation approach for PCI-e.</p>
+
     <hr style="width:50%;;margin-left:25%" />
 
     <h3 id="accelerating-ai-models-with-andes-matrix-multiplication-amm-and-risc-v-vector-rvv-extensions-from-cnns-to-llms">Accelerating AI Models with Andes Matrix Multiplication (AMM) and RISC-V Vector (RVV) extensions: From CNNs to LLMs</h3>
 
     <p>T1.3.05 (sub. #86), Tue 13 at 12:45, in Gaston Berger.</p>
 
-    <p>By <strong>I-WEI WU</strong>, Andes Technology.</p>
+    <p>By <strong>Pei-Hsiang Hung</strong>, Andes Technology. <strong>Chung-Hua Yen</strong>, Andes Technology. <strong>I-WEI WU</strong>, Andes Technology.</p>
+
+    <p><strong>Abstract</strong>: Matrix multiplication is a critical operation in a wide range of compute-intensive applications, including machine learning, image processing, and scientific computing. The computational demands of large-scale matrix operations necessitate specialized hardware acceleration to improve efficiency and performance. To address this challenge, RISC-V International (RVI) formed the Integrated Matrix Extension (IME) Task Group. To serve immediate market demands, Andes Technology implements the Andes Matrix Multiplication (AMM) instruction set, an extension to the RISC-V Vector Extension (RVV), which Andes presented in IME meetings. The AMM instruction set introduces two primary enhancements:</p>
+
+    <ol>
+      <li>Matrix operations optimized for 8-bit integers, specifically targeting AI and deep learning applications</li>
+      <li>Advanced 2D load/store instructions that minimize memory access overhead</li>
+    </ol>
+
+    <p>To assess AMM’s capabilities, we integrated it into the Intermediate Representation Execution Environment (IREE) for efficient compilation and execution on AMM-enabled RISC-V systems. A key aspect of this implementation involved extending IREE’s compilation infrastructure, which included:</p>
+
+    <ol>
+      <li>Developing a new MLIR pass to tensorize matrix multiplication and tensor data load/store operations</li>
+      <li>Designing a custom MLIR dialect tailored for AMM to support all its instructions.</li>
+      <li>Implementing conversion passes to lower matrix multiplication and tensor operations from the vector dialect to AMM one</li>
+    </ol>
+
+    <p>Our evaluation covered a broad spectrum of AI models, ranging from convolutional neural networks (CNNs) to large language models (LLMs), to measure performance improvements. This presentation explores the integration process, shares benchmark results, and discusses strategies for optimizing AI workloads using AMM and RISC-V Vector Extensions. We also examine the challenges encountered during AI model compilation and consider future developments in RISC-V-based AI acceleration.</p>
 
     <hr />
 
@@ -384,7 +420,9 @@ laptop.</li>
 
     <p>T1.7.01 (sub. #99), Tue 13 at 16:30, in Gaston Berger.</p>
 
-    <p>By <strong>Adeel Ahmad</strong>, 10xEngineers.</p>
+    <p>By <strong>Adeel Ahmad</strong>, 10xEngineers. <strong>Nouman Amir</strong>, 10xEngineers. <strong>Ahmad Tameem Kamal</strong>, 10xEngineers. <strong>Bilal Zafar</strong>, 10xEngineers.</p>
+
+    <p><strong>Abstract</strong>: This project aims to enable RISC-V microkernel support in the IREE Machine Learning Compiler. It includes enabling the lowering of the MLIR operations to IREE microkernel calls and implementing microkernel functions for RISC-V. A comprehensive analysis of RISC-V ISA would also be provided as part of the project to identify areas where it lags behind x86 and ARM when targeting GenAI models. This project is a work in progress, and hence, the proposed methodology is discussed in the extended abstract. We aim to improve the RISC-V software ecosystem and spark community interest in expanding RISC-V support in ML compilers and kernel libraries.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -394,13 +432,17 @@ laptop.</li>
 
     <p>By <strong>Raja Gopal Hari Vijay Sitharaman</strong>, Zoho Corporation.</p>
 
+    <p><strong>Abstract</strong>: Medical AI applications—including diagnostics, predictive analytics, and robotic surgery—demand specialized processing capabilities and must meet stringent performance requirements. However, in medical AI commercialization, meeting these demands is only part of the challenge. A critical hurdle is ensuring compliance with stringent regulatory standards such as FDA (U.S.), CE (Europe), and MDR (Medical Device Regulation), while maintaining innovation, efficiency, and cost-effectiveness. Traditional, some proprietary architecture often present significant barriers to achieving this balance. In contrast, RISC-V, with its open-source, modular ISA design, offers a key to unlocking this potential and fosters open collaboration, accelerating AI-specific optimizations across diverse applications. Its flexibility allows for tailored AI acceleration and secure computing – leading to, for example, significantly faster image processing times in diagnostic imaging or lower latency in real-time. This and verifiable regulatory compliance across hardware, operating systems, and software stacks of the RISC-V ecosystem, lower entry barriers and increase profitability by reducing development costs and speeding up time-to-market. This paper explores how RISC-V’s open ecosystem supports regulatory adherence, drives AI-optimized medical solutions, and unlocks new opportunities for scalable, secure, and cost-effective AI-driven healthcare innovations.</p>
+
     <hr style="width:50%;;margin-left:25%" />
 
     <h3 id="flex-rv-worlds-first-non-silicon-risc-v-microprocessor">Flex-RV: World’s First Non-silicon RISC-V Microprocessor</h3>
 
     <p>T1.7.03 (sub. #23), Tue 13 at 17:00, in Gaston Berger.</p>
 
-    <p>By <strong>Emre Ozer</strong>, Pragmatic.</p>
+    <p>By <strong>Emre Ozer</strong>, Pragmatic. <strong>Jedrzej Kufel</strong>, Pragmatic Semiconductor. <strong>Shvetank Prakash</strong>, Harvard University. <strong>Alireza Raisiardali</strong>, Pragmatic Semiconductor LTD, KU Leuven. <strong>Olof Kindgren</strong>, Qamcom. <strong>Ronald Wong</strong>, Pragmatic Semiconductor. <strong>Nelson Ng</strong>, Pragmatic Semiconductor. <strong>Damien Jausseran</strong>, Pragmatic Semiconductor. <strong>Feras Alkhalil</strong>, Pragmatic Semiconductor. <strong>David Kong</strong>, Harvard University. <strong>Gage Hills</strong>, Harvard University. <strong>Richard Price</strong>, Pragmatic Semiconductor. <strong>Vijay Janapa Reddi</strong>, Harvard University.</p>
+
+    <p><strong>Abstract</strong>: We present, Flex-RV, a 32-bit microprocessor based on RISC-V instruction set fabricated with Indium-Gallium-Zinc-Oxide (IGZO) thin-film transistors (TFTs) on a flexible substrate, enabling an ultra-low-cost bendable microprocessor, which makes the World’s first non-silicon RISC-V microprocessor. Flex-RV integrates a programmable machine learning (ML) hardware accelerator, and demonstrates new instructions to extend the RISC-V instruction set to run ML workloads. It is implemented, fabricated and demonstrated to operate at 60 kHz consuming less than 6 mW power and its functionality when assembled onto a flexible printed circuit board is validated whilst executing programs under flat and tight bending conditions. Flex-RV pioneers an era of ultra low-cost open standard non-silicon 32-bit microprocessors for applications at Extreme Edge.</p>
 
     <hr />
 
@@ -502,7 +544,12 @@ laptop.</li>
 
     <p>T2.3.02 (sub. #63), Wed 14 at 11:45, in Gaston Berger.</p>
 
-    <p>By <strong>Tobias Jauch</strong>, RPTU Kaiserslautern-Landau.</p>
+    <p>By <strong>Anna Lena Duque Antón</strong>, RPTU Kaiserslautern-Landau. <strong>Johannes Müller</strong>, RPTU Kaiserslautern-Landau. <strong>Philipp Schmitz</strong>, RPTU Kaiserslautern-Landau. <strong>Tobias Jauch</strong>, RPTU Kaiserslautern-Landau. <strong>Alex Wezel</strong>, RPTU Kaiserslautern-Landau. <strong>Lucas Deutschmann</strong>, RPTU Kaiserslautern-Landau. <strong>Mohammed R. Fadiheh</strong>, Stanford University. <strong>Dominik Stoffel</strong>, RPTU Kaiserslautern-Landau. <strong>Wolfgang Kunz</strong>, RPTU Kaiserslautern-Landau.</p>
+
+    <p><strong>Abstract</strong>: CHERI is a promising approach to safeguarding data in memory by providing and enforcing fine-grained memory protection
+directly in hardware. The recently published VeriCHERI verification flow can verify global confidentiality and integrity
+properties for CHERI systems “spec-free”, i.e., without relying on a golden ISA model. We present a case study to demonstrate
+the effectiveness and scalability of VeriCHERI on the CHERIoT Ibex RISC-V processor.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -510,7 +557,11 @@ laptop.</li>
 
     <p>T2.3.03 (sub. #171), Wed 14 at 12:00, in Gaston Berger.</p>
 
-    <p>By <strong>Jeffrey Osier-Mixon</strong>, Red Hat.</p>
+    <p>By <strong>Nathan Egge</strong>, Google. <strong>Ludovic Henry</strong>, Rivos.</p>
+
+    <p><strong>Abstract</strong>: The RISC-V Software Ecosystem (RISE) Project is in high gear investing time and money on software to support RISC-V, including more than $500K on contracts for further enhancements. This talk will highlight the way RISE prioritizes projects, and will outline some of our key achievements in the past year.</p>
+
+    <p>We have many ideas for further development and investments in 2025. Please join us for a deep dive into the latest developments shaping the RISC-V software ecosystem.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -518,7 +569,9 @@ laptop.</li>
 
     <p>T2.3.04 (sub. #186), Wed 14 at 12:15, in Gaston Berger.</p>
 
-    <p>By <strong>Riccardo Tedeschi</strong>, University of Bologna.</p>
+    <p>By <strong>Riccardo Tedeschi</strong>, University of Bologna. <strong>Gianmarco Ottavi</strong>, University of Bologna. <strong>Nils Wistoff</strong>, ETH Zurich. <strong>Zexin Fu</strong>, ETH Zurich. <strong>Filippo Grillotti</strong>, STMicroelectronics. <strong>Fabio De Ambroggi</strong>, STMicroelectronics. <strong>Elio Guidetti</strong>, STMicroelectronics. <strong>César Fuguet</strong>, Univ. Grenoble Alpes, Inria. <strong>Luca Benini</strong>, ETH Zurich, University of Bologna. <strong>Davide Rossi</strong>, University of Bologna.</p>
+
+    <p><strong>Abstract</strong>: Open-source RISC-V cores are increasingly adopted in high-end embedded domains such as automotive, where maximizing instructions per cycle (IPC) is becoming critical. Building on the industry-supported open-source CVA6 core and its superscalar variant, CVA6S, we introduce CVA6S+, an enhanced version incorporating improved branch prediction, register renaming and enhanced operand forwarding. These optimizations enable CVA6S+ to achieve a 43.5% performance improvement over the scalar configuration and 10.9% over CVA6S, with an area overhead of just 9.30% over the scalar core (CVA6). Furthermore, we integrate CVA6S+ with the OpenHW Core-V High-Performance L1 Dcache (HPDCache) and report a 74.1% bandwidth improvement over the legacy CVA6 cache subsystem.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -526,7 +579,9 @@ laptop.</li>
 
     <p>T2.3.05 (sub. #112), Wed 14 at 12:30, in Gaston Berger.</p>
 
-    <p>By <strong>Ambily Suresh</strong>, Silicon Austria Labs.</p>
+    <p>By <strong>Ambily Suresh</strong>, Silicon Austria Labs. <strong>Andrew Wilson</strong>, Silicon Austria Labs. <strong>Diego Gigena-Ivanovich</strong>, Silicon Austria Labs. <strong>Manuel Freiberger</strong>, Silicon Austria Labs. <strong>Willibald Krenn</strong>, Silicon Austria Labs.</p>
+
+    <p><strong>Abstract</strong>: Post-Quantum Cryptography (PQC) is a topic of increased interest in the past decade, both with regards to the cryptosystem definition and the hardware and software implementations to perform at optimum efficiency. We present our ongoing work on the implementation of RISC-V based accelerators for PQC algorithms, in particular the Classic McEliece Key Encapsulation Mechanism. Our system includes a PQC accelerator and an Open-HW Group CVA-6 core along with a PQC-specific instruction set. This presentation describes the architecture, performance estimates, and demonstration plans in the future.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -534,7 +589,9 @@ laptop.</li>
 
     <p>T2.3.06 (sub. #105), Wed 14 at 12:45, in Gaston Berger.</p>
 
-    <p>By <strong>Lawrence Hunter</strong>, Codethink.</p>
+    <p>By <strong>Lawrence Hunter</strong>, Codethink. <strong>Roan Richmond</strong>, Codethink. <strong>Ben Dooks</strong>, Codethink.</p>
+
+    <p><strong>Abstract</strong>: The RISC-V Privileged Specification introduced dynamic endianness switching in version 1.12, though no commercial hardware yet supports it. This work extends QEMU to enable big-endian execution, allowing the booting of a big-endian Linux system with OpenSBI. Modifications were required across QEMU, OpenSBI, the Linux kernel, and supporting libraries to ensure correct memory operations, instruction encoding, and runtime patching. The project demonstrates the feasibility of big-endian support for RISC-V, providing a foundation for future hardware and software development.</p>
 
     <hr />
 
@@ -580,7 +637,9 @@ laptop.</li>
 
     <p>T2.5.03 (sub. #177), Wed 14 at 15:00, in Gaston Berger.</p>
 
-    <p>By <strong>Emanuele Venieri</strong>, University of Bologna.</p>
+    <p>By <strong>Emanuele Venieri</strong>, University of Bologna. <strong>Simone Manoni</strong>, University of Bologna. <strong>Giacomo Madella</strong>, University of Bologna. <strong>Federico Ficarelli</strong>, CINECA. <strong>Daniele Gregori</strong>, E4 Computer Engineering SpA. <strong>Daniele Cesarini</strong>, CINECA. <strong>Luca Benini</strong>, University of Bologna. <strong>Andrea Bartolini</strong>, University of Bologna.</p>
+
+    <p><strong>Abstract</strong>: Many RISC-V platforms and SoCs have been announced in recent years targeting the HPC sector, but only a few of them are commercially available and engineered to fit the HPC requirements. The Monte Cimone project targeted assessing their capabilities and maturity, aiming to make RISC-V a competitive choice when building a datacenter. Nowadays, RV SoCs with vector extension, form factor and memory capacity suitable for HPC applications are available in the market, but it is unclear how compilers and open-source libraries can take advantage of its performance. In this paper, we describe the performance assessment of the upgrade of the Monte Cimone (MCv2) cluster with the Sophgo SG2042 processor’s HPC operations. The upgrade increases the attained node’s performance by 127x on HPL DP FLOP/s and 69x on Stream Memory Bandwidth.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -588,7 +647,9 @@ laptop.</li>
 
     <p>T2.5.04 (sub. #124), Wed 14 at 15:15, in Gaston Berger.</p>
 
-    <p>By <strong>Louis Savary</strong>, Inria.</p>
+    <p>By <strong>Louis Savary</strong>, Inria. <strong>Simon Rokicki</strong>, Irisa. <strong>Steven Derrien</strong>, UniversitÃ© de Bretagne Occidentale/Lab-STICC. <strong>Erven Rohou</strong>, Inria.</p>
+
+    <p><strong>Abstract</strong>: State-of-the-art hardware countermeasures against fault attacks are based, among others, on control flow and code integrity checking. These integrities can be asserted by Generalized Path Signature Analysis and Continuous Signature Monitoring. However, supporting such mechanisms requires a dedicated compiler flow and does not support indirect jumps. In this work we propose a technique based on a hardware/software runtime to generate those signatures while executing unmodified COTS RISC-V binaries. The proposed approach has been implemented on a pipelined rv32i processor, and experimental results show an average slowdown of x1.82 compared to unprotected implementations while being completely compiler independent.</p>
 
     <hr />
 
@@ -615,7 +676,9 @@ laptop.</li>
 
     <p>T2.7.03 (sub. #139), Wed 14 at 17:00, in Gaston Berger.</p>
 
-    <p>By <strong>Marco Andorno</strong>, CERN.</p>
+    <p>By <strong>Marco Andorno</strong>, CERN. <strong>Alessandro Caratelli</strong>, CERN. <strong>Benoît Denkinger</strong>, CERN. <strong>Kostas Kloukinas</strong>, CERN. <strong>Anvesh Nookala</strong>, CERN.</p>
+
+    <p><strong>Abstract</strong>: SOCRATES is a SoC generator framework, specifically targeted at fault-tolerant architectures, developed for high-energy physics experiments, but extensible wherever high reliability is required. It allows to automatically build full SoCs starting from a collection of RISC-V CPU cores, IP blocks and interconnects. To do that, a custom build system, called SoCMake, takes care of managing dependencies and invoking the tools to generate both hardware and software components of the system. A silicon prototype has been designed and taped out to validate the toolkit and test the performance of the resulting architecture.</p>
 
     <h2 id="panel--accelerating-automotive-innovation-with-risc-v-the-journey-from-early-adoption-to-industry-wide-deployment">Panel – Accelerating Automotive Innovation with RISC-V: The journey from early adoption to industry wide deployment</h2>
 
@@ -651,7 +714,9 @@ Gaston Berger.</p>
 
     <p>T3.1.03 (sub. #78), Thu 15 at 09:45, in Gaston Berger.</p>
 
-    <p>By <strong>Matthew Weingarten</strong>, Columbia University in the City of New York.</p>
+    <p>By <strong>Matthew E. Weingarten</strong>, Columbia University in the City of New York. <strong>Tanvir Ahmed Khan</strong>, University of Michigan.</p>
+
+    <p><strong>Abstract</strong>: Performance characterization is the key to unlocking efficient utilization of the underlying processing system. Rapid developments in specialized computing and hardware/software co-design make performance characterization more challenging—as the underlying hardware changes, so must the performance monitoring hardware and the accompanying performance models. CPU vendors have successfully popularized the top-down micro-architectural analysis (TMA) methodology that is effective in identifying true bottlenecks in a processor while abstracting away the hardware implementation. Unfortunately, researchers and practitioners are often limited to open-source RISC-V processors that lack hardware support for TMA or any other systematic performance characterization methodology. Even the simple scalar in-order RocketCore has not implemented performance hardware capable of providing enough information to support TMA, let alone more complex Out-of-Order (OoO) and super scalar SonicBOOM core. Furthermore, the challenges of performance characterization are compounded by the ever-increasing heterogeneity and specialization of hardware, and a wholistic performance characterization methodology for an entire System-on-Chip (SoC) remains open-ended. Overall, the lack of hardware-supported performance characterization hamstrings the ability to evaluate new hardware designs, for performance tooling to adapt to modern hardware, or even programmers efficiently exploit the target hardware.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -659,7 +724,9 @@ Gaston Berger.</p>
 
     <p>T3.1.04 (sub. #180), Thu 15 at 10:00, in Gaston Berger.</p>
 
-    <p>By <strong>Oana Lazar</strong>, Tessent Embedded Analytics.</p>
+    <p>By <strong>Oana Alexandra Lazar</strong>, Tessent Embedded Analytics. <strong>Henrique Mendes</strong>, Tessent Embedded Analytics. <strong>Angelo Maldonado-Liu</strong>, Tessent Embedded Analytics.</p>
+
+    <p><strong>Abstract</strong>: The development risks of novel RISC-V solutions are exacerbated by bugs which are increasingly complicated to root-cause in ever-larger and more complex systems. Current debugging solutions are intrusive, impacting program execution timing and potentially hiding Heisenbugs. Run-stop-step debuggers alone lack the depth of visibility needed to root-cause complex and timing-sensitive bugs. We propose a complete end-to-end solution for highly efficient tracing, minimally invasive logging, and accelerated run-stop-step debugging of any RISC-V system, with out-of-the-box support for custom instructions. We demonstrate that an approach using both hardware and software to their full extent increases the efficiency of RISC-V debug and trace.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -667,7 +734,9 @@ Gaston Berger.</p>
 
     <p>T3.1.05 (sub. #199), Thu 15 at 10:15, in Gaston Berger.</p>
 
-    <p>By <strong>Luke Lau</strong>, Igalia.</p>
+    <p>By <strong>Luke Lau</strong>, Igalia. <strong>Alex Bradbury</strong>, Igalia.</p>
+
+    <p><strong>Abstract</strong>: LLVM has had stable support for the RISC-V vector extension for the past several releases, with both forms of autovectorization – the loop vectorizer and the SLP (superword-level-parallelism) vectorizer – enabled by default, as well as a rich set of C intrinsics for the RVV programming model. A key focus since then has been on improving generated code performance. This submission explains the changes made in the middle-end and backend that have delivered these gains and looks ahead to future work.</p>
 
     <hr />
 
@@ -701,7 +770,9 @@ Gaston Berger.</p>
 
     <p>T3.3.02 (sub. #128), Thu 15 at 11:45, in Gaston Berger.</p>
 
-    <p>By <strong>Marcel Zak</strong>, Siemens EDA.</p>
+    <p>By <strong>Marcel Zak</strong>, Siemens EDA. <strong>Mat O’Donnell</strong>, Siemens EDA. <strong>Vivek Chickermane</strong>, Siemens EDA.</p>
+
+    <p><strong>Abstract</strong>: Debugging program misbehaviour that impacts large scale deployment of highly connected systems requires a robust debug infrastructure to monitor the instructions, data, and transactions between system components. The rapid adoption of RISC-V processors in mission critical applications has compelled system designers to rely on embedded trace monitors based on the RISC-V E-Trace specification to collect instruction trace data to analyse the trajectory of the transactions involving the CPU, memory, I/Os, peripherals, and other sub-systems. In this paper we describe a highly efficient software E-Trace Decoder that allows trace data to be non-intrusively captured at-speed. We describe two case studies to highlight the power of this implementation and provide quantitative data to show the efficiency of this implementation.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -709,7 +780,18 @@ Gaston Berger.</p>
 
     <p>T3.3.03 (sub. #62), Thu 15 at 12:00, in Gaston Berger.</p>
 
-    <p>By <strong>Trevor Gamblin</strong>, BayLibre Inc.</p>
+    <p>By <strong>Trevor Gamblin</strong>, BayLibre Inc. <strong>Mark D. Ryan</strong>, Rivos Inc. <strong>Julien Stephan</strong>, BayLibre Inc..</p>
+
+    <p><strong>Abstract</strong>: As the RISC-V ecosystem grows with new platforms and higher performance, a key area of interest is its
+applicability towards scientific computing, data analysis, and machine learning. On other architectures such
+as ARM, these areas are already well-supported thanks to broad availability of binaries for critical packages
+such as NumPy, pandas, and PyTorch, but with RISC-V these are largely unavailable. The problem is further
+compounded by the challenge of building such packages manually, where even foundational examples such as
+NumPy take a prohibitively long time to build from source on commonly-available hardware, in addition to being
+prone to build errors and dependency chains that lead to long hours of sorting through confusing stack traces.
+The RISE project is tackling this problem by building, testing, deploying, and maintaining binaries for a selection
+of these packages. This creates a path forward for developers that wish to leverage current and upcoming RISC-V
+platforms for specialized research and industry applications</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -717,7 +799,11 @@ Gaston Berger.</p>
 
     <p>T3.3.04 (sub. #202), Thu 15 at 12:15, in Gaston Berger.</p>
 
-    <p>By <strong>Sergio Mazzola</strong>, ETH Zürich.</p>
+    <p>By <strong>Sergio Mazzola</strong>, Integrated Systems Laboratory, ETH Zürich. <strong>Yichao Zhang</strong>, Integrated Systems Laboratory, ETH Zürich. <strong>Marco Bertuletti</strong>, Integrated Systems Laboratory, ETH Zürich. <strong>Diyou Shen</strong>, Integrated Systems Laboratory, ETH Zürich. <strong>Luca Benini</strong>, Integrated Systems Laboratory, ETH Zürich.</p>
+
+    <p><strong>Abstract</strong>: As computational paradigms evolve, applications such as attention-based models, wireless telecommunications, and computer vision impose increasingly challenging requirements on computer architectures: significant memory footprints and computing resources are demanded while maintaining flexibility and programmability at a low power budget.
+Thanks to their advantageous trade-offs, shared-L1-memory clusters have become a common building block of massively parallel computing architectures tackling these issues.
+MemPool is an open-source, RISC-V-based manycore cluster scaling up to 1024 processing elements (PEs). MemPool offers a scalable, extensible, and programmable solution to the challenges of shared-L1 clusters, establishing itself as an open-source research platform for architectural variants covering a wide trade-off space between versatility and performance. As a demonstration, this paper compares the three main MemPool flavors, Baseline MemPool, Systolic MemPool, and Vectorial MemPool, detailing their architecture, targets, and achieved trade-offs.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -726,6 +812,8 @@ Gaston Berger.</p>
     <p>T3.3.05 (sub. #55), Thu 15 at 12:30, in Gaston Berger.</p>
 
     <p>By <strong>Paul-Antoine Arras</strong>, BayLibre.</p>
+
+    <p><strong>Abstract</strong>: This contribution explores possible improvements on GCC code generation for RISC-V. We collected dynamic instruction counts from selected SPEC CPU 2017 benchmarks and compared the results with AArch64. Findings reveal that prominent compiler weaknesses include missed unrolling opportunities, extra move instructions and suboptimal register allocation. Additionally, addressing ISA limitations, such as the lack of a scaled addressing mode, and vectorising library functions, like memset and math operations, are crucial for maximising RISC-V efficiency.</p>
 
     <hr />
 
@@ -787,7 +875,13 @@ Gaston Berger.</p>
 
     <p>T3.7.02 (sub. #221), Thu 15 at 16:45, in Gaston Berger.</p>
 
-    <p>By <strong>Robert Schilling</strong>, Rivos Inc.</p>
+    <p>By <strong>Robert Schilling</strong>, Rivos Inc.. <strong>Samuel Ortiz</strong>, Rivos Inc.. <strong>Ravi Sahita</strong>, Rivos Inc.. <strong>Andreas Kurth</strong>, Lowrisc CIC.</p>
+
+    <p><strong>Abstract</strong>: Modern System-on-Chips (SoCs) rely on a secure Root of Trust (RoT) as the foundation for all security services. Compromise of the RoT can have catastrophic consequences, undermining the security of the entire system.</p>
+
+    <p>This paper presents OpenTitan Integrated, an open-source silicon RoT based on RISC-V specifically tailored for integration into the complex security subsystems of large SoCs. OpenTitan Integrated extends the functionality of the discrete OpenTitan implementation by addressing the specific needs of integrated deployments. Key contributions include: 1) a clear interface trust boundary, defining secure communication paths and preventing privilege escalation; 2) a robust and standardized communication interface, enabling seamless interaction with other SoC components; and 3) a flexible register isolation mechanism, protecting sensitive registers in the system from unauthorized access and modification. These additions enable secure interaction with other SoC components and prevent unauthorized access, enhancing the overall security posture of the SoC.</p>
+
+    <p>Furthermore, OpenTitan Integrated’s open-source nature, available on GitHub under a permissive license, facilitates community review, independent verification, and enhances the overall security and trustworthiness of the design. This collaborative approach allows for rapid identification and mitigation of potential vulnerabilities, leading to a more robust and secure RoT.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
