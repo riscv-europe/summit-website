@@ -197,3 +197,20 @@ table.riscv-sy thead {
 img.logo {
     object-fit: contain;
 }
+
+a.summit:link {
+    color: black; /* unvisited link */
+    text-decoration: none; /* Remove underline */
+}
+a.summit:visited {
+    color: black; /* visited link */
+}
+a.summit:hover {
+    color: var(--riscv-y); /* mouse over link */
+}
+a.summit:active {
+    color: black; /* selected link */
+}
+a.summit:link {
+    text-decoration: none; /* Remove underline */
+}
