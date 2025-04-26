@@ -198,19 +198,27 @@ img.logo {
     object-fit: contain;
 }
 
-a.summit:link {
+
+a.speaker:link {
     color: black; /* unvisited link */
-    text-decoration: none; /* Remove underline */
 }
-a.summit:visited {
+
+a.speaker:visited {
     color: black; /* visited link */
 }
-a.summit:hover {
+
+a.speaker:hover {
     color: var(--riscv-y); /* mouse over link */
 }
-a.summit:active {
+
+a.speaker:active {
     color: black; /* selected link */
 }
-a.summit:link {
+
+a.speaker:link {
+    text-decoration: underline; /* Remove underline */
+}
+
+a.speaker:link {
     text-decoration: none; /* Remove underline */
 }
