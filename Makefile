@@ -31,6 +31,7 @@ gdrive-import-downloaded:
 	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_SUMMITCONFIG_BFN)posters-agenda.csv  $(GDRIVE_TARGET_DIR)/posters-agenda.csv
 	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)talks-details.csv   $(GDRIVE_TARGET_DIR)/talks-details.csv
 	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)panels-details.csv  $(GDRIVE_TARGET_DIR)/panels-details.csv
+	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)univ-demos.csv      $(GDRIVE_TARGET_DIR)/univ-demos.csv
 
 # A couple of shorthands to Jekyll production management.
 
@@ -46,6 +47,7 @@ dos2unix:
 	dos2unix $(GDRIVE_TARGET_DIR)/posters-agenda.csv
 	dos2unix $(GDRIVE_TARGET_DIR)/talks-details.csv
 	dos2unix $(GDRIVE_TARGET_DIR)/panels-details.csv
+	dos2unix $(GDRIVE_TARGET_DIR)/univ-demos.csv
 
 data-check: dos2unix
 	git diff _data/*.csv
