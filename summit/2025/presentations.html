@@ -428,13 +428,13 @@ operations to real-world classification problems.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
-    <h3 id="unlocking-performance-profit-and-compliance-the-risc-v-approach-to-medical-ai">Unlocking Performance, Profit, and Compliance: The RISC-V Approach to Medical AI</h3>
+    <h3 id="risc-v-based-gpgpu-on-fpga-a-competitive-approach-for-scientific-computing-">RISC-V based GPGPU on FPGA: A Competitive Approach for Scientific Computing ?</h3>
 
-    <p>T1.7.03 (sub. #170), Tue 13 at 17:00, in Gaston Berger (S2).</p>
+    <p>T1.7.03 (sub. #35), Tue 13 at 17:00, in Gaston Berger (S2).</p>
 
-    <p>By <strong>Raja Gopal Hari Vijay Sitharaman</strong>, Zoho Corporation.</p>
+    <p>By <strong>Eric Guthmuller</strong>, Univ. Grenoble Alpes, CEA, List. <strong>Jérôme Fereyre</strong>, Univ. Grenoble Alpes, CEA, List.</p>
 
-    <p><strong>Abstract</strong>: Medical AI applications—including diagnostics, predictive analytics, and robotic surgery—demand specialized processing capabilities and must meet stringent performance requirements. However, in medical AI commercialization, meeting these demands is only part of the challenge. A critical hurdle is ensuring compliance with stringent regulatory standards such as FDA (U.S.), CE (Europe), and MDR (Medical Device Regulation), while maintaining innovation, efficiency, and cost-effectiveness. Traditional, some proprietary architecture often present significant barriers to achieving this balance. In contrast, RISC-V, with its open-source, modular ISA design, offers a key to unlocking this potential and fosters open collaboration, accelerating AI-specific optimizations across diverse applications. Its flexibility allows for tailored AI acceleration and secure computing – leading to, for example, significantly faster image processing times in diagnostic imaging or lower latency in real-time. This and verifiable regulatory compliance across hardware, operating systems, and software stacks of the RISC-V ecosystem, lower entry barriers and increase profitability by reducing development costs and speeding up time-to-market. This paper explores how RISC-V’s open ecosystem supports regulatory adherence, drives AI-optimized medical solutions, and unlocks new opportunities for scalable, secure, and cost-effective AI-driven healthcare innovations.</p>
+    <p><strong>Abstract</strong>: FPGA architectures include increasingly complex arithmetic operators and optimized hard IPs, such as memory subsystems and Networks-on-Chip (NoC). This evolution leads to higher compute density also linked with high memory bandwidth. It represents an opportunity to tailor an architecture to niche application needs while being competitive with a costly ASIC implementation. More specifically, scientific computing requires high precision ($&gt;$~32 bits) floating point computation. However, GPU vendors are progressively favoring low precision performance for AI needs, and are even phasing out support for 64-bit floating point compute. We present an analytical study motivating the need to investigate the implementation of an open source 64-bit GPGPU architecture on a state of the art FPGA, as an alternative to GPUs for scientific computing.</p>
 
     <hr />
 
@@ -755,6 +755,78 @@ the effectiveness and scalability of VeriCHERI on the CHERIoT Ibex RISC-V proces
     <p align="center" style="font-weight: bold; font-size: 1.875em">Thursday 15,  10:30-11:30</p>
     <p align="center" style="font-style: italic">Booths and posters in expo area's S1, S2, &amp; S3.<br />Demos in Louis Armand East amphitheater (S3).</p>
 
+    <h3 id="fast-and-fine-grained-compartmentalisation-in-cheri">Fast and fine-grained compartmentalisation in CHERI</h3>
+
+    <p>T3.2.01 (sub. #236), Thu 15 at 10:35, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Franz A. Fuchs</strong>, University of Cambridge. <strong>Peter Rugg</strong>, University of Cambridge. <strong>Dapeng Gao</strong>, University of Cambridge. <strong>Jonathan Woodruff</strong>, University of Cambridge. <strong>Alexandre Joannou</strong>, University of Cambridge. <strong>Robert N. M. Watson</strong>, University of Cambridge. <strong>Simon W. Moore</strong>, University of Cambridge.</p>
+
+    <p><strong>Abstract</strong>: This demonstration will show library compartmentalisation running on our CHERI processor. Library compartmentalisation fundamentally reduces the attack surface through privilege reduction and containment. CHERI (Capability Hardware Enhanced RISC Instructions) is an ISA extension that mitigates memory-safety vulnerabilities and facilitates fine-grained compartmentalisation. There exists a CHERI SIG and TG whose goal is to ratify the CHERI technology within RISC-V.</p>
+
+    <p>In this demonstration, we will show an out-of-order, superscalar RISC-V CHERI processor running on a DE10Pro FPGA board. This processor will run CheriBSD, which is a full-scale pure-capability operating system derived from FreeBSD. The core piece of our demonstration is fast and fine-grained compartmentalisation. For this demonstration, we use library compartmentalisation, which places each library in its own compartment mitigating dangerous security threats. We will show a small example demonstrating the security benefits of fine-grained CHERI compartmentalisation. We aim to extend this demonstration to a larger software corpus, e.g., running a compartmentalised nginx server.</p>
+
+    <p>In the application video, we run the experiments on a DE10Pro FPGA board connected to a server for convenience and filming reasons, e.g., noise produced by a running FPGA.</p>
+
+    <h3 id="developing-custom-risc-v-isa-extensions-for-general-embedded-image-processing-operations">Developing Custom RISC-V ISA Extensions for General Embedded Image Processing Operations</h3>
+
+    <p>T3.2.02 (sub. #239), Thu 15 at 10:45, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Carsten Rolfes</strong>, Fraunhofer IMS. <strong>Stephan Nolting</strong>, Fraunhofer IMS.</p>
+
+    <p><strong>Abstract</strong>: The demo shows an FPGA implementation of Custom RISC-V ISA Extensions for General Embedded Image Processing Operations. The RISC-V processor is connected to an image sensor. After taking a photo the histrogram of the image is calculated.</p>
+
+    <p>This work presents an area-optimized customized RISC-V processing system designed as application-specific instruction set processor (ASIP), which is optimized to accelerate exemplary image processing operations. The proposed ISA extensions exploit single-instruction multiple-data (SIMD) concepts on pixel level, resulting in a speedup of 13 (compared to a software-only approach) while increasing the prototype’s FPGA hardware utilization by just 15%.</p>
+
+    <p>This work is the live demo of the two summit posters.
+2023: Stephan Nolting ? Developing Custom RISC-V ISA Extensions for General Embedded Image Processing Operations
+Stephan Nolting (Fraunhofer IMS, Duisburg, Germany), Alexander Utz
+Poster #20</p>
+
+    <p>2024: Wearable Biomarker Processing using Speckle Plethysmography based on an Embedded RISC-V ASIP
+Stephan Nolting (Fraunhofer IMS)
+Poster stand C-13</p>
+
+    <p>For the demo at the summit we plan to extend the demo (see video) by</p>
+    <ul>
+      <li>Python based GUI to print image and histrgram instead of ASCII art.</li>
+      <li>Plotting numbers of the speed: software vs. ISA extension</li>
+      <li>new, cleaner board with out the flying wires.</li>
+    </ul>
+
+    <h3 id="one-student-one-chip---learn-to-create-your-own-risc-v-processor-from-scratch">“One Student One Chip” - Learn to Create Your Own RISC-V Processor From Scratch</h3>
+
+    <p>T3.2.04 (sub. #240), Thu 15 at 10:55, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Xiaoke Su</strong>, ICT, CAS. <strong>Zeyu Gao</strong>, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences.</p>
+
+    <p><strong>Abstract</strong>: This video documents the unboxing and functional verification process of the StarrySky development board by participants of the “One Student One Chip (OSOC)” Program III, following the successful tape-out and chip delivery. Featuring a fully customized RISC-V processor core independently developed by the trainees, this self-designed board demonstrates remarkable technical achievements through successful execution of classic games like Mario and rendering of the university’s emblem. Beyond showcasing the engineering capabilities of young talents, this milestone embodies the program’s philosophy: to inspire viewers to cherish current opportunities while embracing technological challenges and industry evolution with proactive optimism.</p>
+
+    <h3 id="open-source-xiangshan-nanhu-processor-experience-day">Open-Source Xiangshan Nanhu Processor Experience Day</h3>
+
+    <p>T3.2.05 (sub. #242), Thu 15 at 11:05, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Haojin Tang</strong>, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences. <strong>Xin Li</strong>, Beijing Institute of Open Source Chip. <strong>Xuan Hu</strong>, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences. <strong>Xi Chen</strong>, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences. <strong>Yinan Xu</strong>, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences.</p>
+
+    <p><strong>Abstract</strong>: The Xiangshan open-source high-performance RISC-V processor, as the highest-performing open-source processor to date, has gone through three generations of development. Today, our second-generation processor, the Nanhu architecture, already has ready-to-use development boards available. At this Demo Day event, we will provide community enthusiasts and industry users with the opportunity to get hands-on experience with the second-generation Xiangshan processor, the Nanhu. Users will be able to experience a wide variety of functions such as video playback, web browsing, and software development on top of a Linux distribution. With the support of a GPU, users can even experience cloud gaming through streaming.</p>
+
+    <h3 id="omnixtend-open-coherent-memory-fabric-for-risc-v">OmniXtend: Open Coherent Memory Fabric for RISC-V</h3>
+
+    <p>T3.2.06 (sub. #244), Thu 15 at 11:15, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Seung-Jun Cha</strong>, ETRI. <strong>Hyuk Je Kwon</strong>, ETRI. <strong>Young Woo Kim</strong>, ETRI. <strong>Song-woo Sok</strong>, ETRI. <strong>Jinmee Kim</strong>, ETRI. <strong>Hag Young Kim</strong>, ETRI. <strong>Kwang-Won Koh</strong>, ETRI. <strong>Kang Ho Kim</strong>, ETRI.</p>
+
+    <p><strong>Abstract</strong>: As the RISC-V ecosystem expands rapidly into high-performance computing, AI/ML, and data-intensive domains, a key infrastructural gap has become increasingly evident ? the lack of a standardized, open, and scalable coherent interconnect to support memory-centric architectures. While significant progress has been made in RISC-V processor and software development, the ability to flexibly connect multiple nodes with shared, coherent memory remains a challenge.
+Our demo addresses this critical need by introducing a working prototype of an OmniXtend-based open coherent memory fabric for RISC-V platforms. Built on standard Ethernet infrastructure, this system enables memory disaggregation, pooling, and sharing between multiple RISC-V nodes while preserving cache coherence. The underlying fabric controller is implemented on FPGA and communicates with a RISC-V SoC, demonstrating a practical path toward open, composable system architectures.</p>
+
+    <p>The live demonstration includes:</p>
+    <ol>
+      <li>Random memory access patterns issued from the RISC-V processor to remote memory over OmniXtend links.</li>
+      <li>Memory pooling across nodes, where distributed memory resources are presented as a unified coherent address space.</li>
+      <li>Benchmark evaluation to showcase system-level performance, latency, and bandwidth of the fabric under realistic workloads.</li>
+    </ol>
+
+    <p>Through this demo, we emphasize our contribution in addressing one of the RISC-V ecosystem’s most pressing needs ? a robust, open, and scalable memory interconnect ? and demonstrate how OmniXtend over Ethernet can serve as a cost-effective and flexible solution for future data-centric RISC-V systems.</p>
+
     <hr />
 
     <hr />
@@ -832,6 +904,110 @@ MemPool is an open-source, RISC-V-based manycore cluster scaling up to 1024 proc
 
     <p align="center" style="font-weight: bold; font-size: 1.875em">Thursday 15,  13:00-14:30</p>
     <p align="center" style="font-style: italic">Booths and posters in expo area's S1, S2, &amp; S3.<br />Demos in Louis Armand East amphitheater (S3).</p>
+
+    <h3 id="fgmt-riscv-running-on-an-fpga-evaluation-board-with-a-live-gdb-debug-session">FGMT-RiscV running on an FPGA evaluation board with a live GDB debug session</h3>
+
+    <p>T3.4.01 (sub. #246), Thu 15 at 13:05, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Bernhard Lang</strong>, Hochschule Osnabrück, University of Applied Sciences.</p>
+
+    <p><strong>Abstract</strong>: In the demo, a fine grained multi threading Risc-V, designated FGMT-RiscV, is demonstrated. This processor can execute a configurable number of threads almost simultaneously. A GDB server can be installed as thread 0 so that the GNU debugger can be connected directly to the processor via a serial interface in order to start and test the other threads of the system.</p>
+
+    <p>In the live demo, a small system consisting of FGMT processor, memory and peripherals is started in an FPGA, the GNU Debugger is connected to it and the debugging of multiple threads on the system is shown.</p>
+
+    <h3 id="profiling-whisper-ai-model-on-risc-v-cpu-gpu-and-npu-performance-on-the-dc-roma-ai-pc">Profiling Whisper AI Model on RISC-V: CPU, GPU, and NPU Performance on the DC-ROMA AI PC</h3>
+
+    <p>T3.4.02 (sub. #247), Thu 15 at 13:15, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Tan Siret AKINCI</strong>, Politecnico di Torino, DeepComputing.</p>
+
+    <p><strong>Abstract</strong>: This demo presents a practical performance profiling of the Whisper speech-to-text model running on DeepComputing’s latest DC-ROMA RISC-V AI PC. We demonstrate Whisper.cpp running across three compute engines?CPU, GPU, and NPU?on a single RISC-V platform, showcasing the flexibility and performance of RISC-V-based AI hardware.</p>
+
+    <p>We walk through:</p>
+
+    <p>Execution and profiling of Whisper.cpp on the RISC-V CPU, analyzing bottlenecks and efficiency.</p>
+
+    <p>GPU-accelerated inference using Vulkan, including runtime measurements.</p>
+
+    <p>NPU-based acceleration for better performance, with detailed profiling results.</p>
+
+    <p>Attendees will gain insight into real-world AI workload deployment on RISC-V systems and understand the trade-offs between compute units when running large models like Whisper.cpp. This is an ideal session for developers, researchers, and system integrators looking to optimize AI workloads on emerging RISC-V platforms.</p>
+
+    <h3 id="optimizing-sparse-matrix-vector-multiplication-on-the-epac-architecture">Optimizing Sparse matrix-vector multiplication on the EPAC architecture</h3>
+
+    <p>T3.4.03 (sub. #248), Thu 15 at 13:25, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Davor Sluga</strong>, University of Ljubljana, Faculty of Computer and Information Science. <strong>Ratko Pilipovi?</strong>, University of Ljubljana, Faculty of Computer and Information Science.</p>
+
+    <p><strong>Abstract</strong>: The European Processor Initiative (EPI) is a strategic project focused on developing high-performance, energy-efficient processors for European supercomputers, edge devices, and automotive applications. The initiative aims to enhance Europe’s technological sovereignty by designing processors based on European intellectual property (IP) and reducing reliance on foreign technologies. Our demonstration will showcase our findings from experiments with the EPAC European Processor Accelerator Chip architecture based on the RISC-V Instruction Set Architecture (ISA). Specifically, we will highlight the Vitruvius vector processing unit, which was developed as part of the EPI initiative. The Vitruvius vector processor is a flagship project of EPI and utilizes the RISC-V Vector extension to support the next generation of high-performance computing (HPC) in European supercomputers.</p>
+
+    <p>We implemented sparse matrix-vector multiplication (SpMV) tailored for the EPAC processor, experimented with various sparse matrix formats, and utilized different vector instructions, e.g., memory scatter operations or vector permutation instructions, to find what works best for specific formats. In our work, we used the FPGA Software Development Vehicles (SDV) that provide a hardware emulation for EPAC processors on the HCA RISCV cluster hosted at Barcelona Supercomputing Center (BSC-CNS). We obtained interesting results, showcasing the strengths and the limitations of the Vitruvius processing units. The results demonstrated factor 10 speed-up of vector accelerated kernel over the scalar version.? In our demonstration, we will go through our findings and showcase the performance of SpMV on the Vitruvius processing unit emulated on FPGA SDV.</p>
+
+    <h3 id="spike-rtl-quasi-cycle-accuracy-hardwaresoftware-co-simulation">Spike-RTL: quasi-cycle accuracy hardware/software co-simulation</h3>
+
+    <p>T3.4.04 (sub. #250), Thu 15 at 13:35, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Raul Gomez-Varela</strong>, University of Cantabria. <strong>Hector Posadas</strong>, Universidad de Cantabria. <strong>Eugenio Villar</strong>, University of Cantabria.</p>
+
+    <p><strong>Abstract</strong>: The demo proposed is based on the demonstration of the Spike-RTL tool, which is currently under development by the University of Cantabria.</p>
+
+    <p>The Spike-RTL tool is designed to simulate RISC-V systems by combining the fast execution of an Instruction Set Simulator (ISS), specifically Spike, with the detailed and cycle-accurate simulation of Verilog code, using Verilator. This hybrid approach brings significant performance benefits while maintaining precision.</p>
+
+    <p>On the one hand, the simulation avoids executing the Verilog code corresponding to the processor/memory subsystem, which represents a large portion of the RTL code and the associated simulation overhead. This is possible because the subsystem relies on standard processors and memories that can be effectively simulated using Spike.</p>
+
+    <p>On the other hand, integrating Spike with the Verilog simulation of the remaining platform components enables full software development, execution, and debugging in an environment that accurately replicates the behavior of the real hardware, from application code to platform-specific software interactions.</p>
+
+    <p>The submitted brief demo video showcases this infrastructure with a basic example: combining Spike with a modified version of the Verilog code of the X-HEEP platform, where the processor/memory subsystem is removed and replaced by an interface to Spike. The example demonstrates a simple application that interacts with the GPIO peripheral to read input data and, based on its value, activates two output lines, which correspond to two LEDs on the final hardware. The system uses interrupts to detect changes on the GPIO input and visualizes the results using waveform signals. These waveforms show the input values injected via the testbench (GPIO[15:8]) and the output responses (GPIO[17:16]), as well as internal GPIO behavior such as interrupt lines and bus transactions.</p>
+
+    <p>The final version of the demonstration to be presented during the Summit will be based on a more realistic, complex application. This application will include the use of additional X-HEEP peripherals and bidirectional communication between Verilog and Spike, as a consequence of the use of platform’s integrated DMA for internal data transfers.</p>
+
+    <h3 id="a-risc-v-compatible-systolic-array-for-tinyml-applications-in-cfu-playground">A RISC-V Compatible Systolic Array for TinyML Applications in CFU Playground</h3>
+
+    <p>T3.4.05 (sub. #252), Thu 15 at 13:45, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Omar Mardini</strong>, American University of Beirut. <strong>Omar Shibli</strong>, American University of Beirut. <strong>Mazen Saghir</strong>, American University of Beirut.</p>
+
+    <p><strong>Abstract</strong>: The proliferation of embedded machine learning (TinyML) has increased the need for computing solutions that are both high-performance and energy-efficient. Systolic arrays are an effective hardware architecture for enhancing the performance of TinyML applications. They are particularly useful for matrix multiplication, a fundamental operation in TinyML workloads.</p>
+
+    <p>This demo shows a configurable, RISC-V compatible systolic array architecture built using CFU Playground. CFU Playground is a platform that enables custom hardware accelerators to function as co-processors for a RISC-V host core. We demonstrate matrix multiplication acceleration on a Xilinx Artix-7 FPGA using an Arty A7-100T development board. Our systolic arrays run at 100 MHz. The 3×3 array uses 14% of the FPGA’s DSP blocks and 24% of its LUTs. The 10×10 array uses 100% of the DSP blocks and 37% of the LUTs.</p>
+
+    <p>Our experimental results show that the systolic arrays improve execution performance by 2.7x and 9x compared to software-only implementations. They also reduce energy consumption by 120x and 40x, respectively. Our demo highlights how systolic array hardware accelerators can improve TinyML performance and energy efficiency on resource-limited RISC-V platforms.</p>
+
+    <h3 id="metasat-demonstrator-mixed-criticality-accelerated-ai-computing-for-future-space-systems">METASAT Demonstrator: Mixed Criticality, Accelerated AI Computing for Future Space Systems</h3>
+
+    <p>T3.4.06 (sub. #253), Thu 15 at 13:55, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Marc Solé Bonet</strong>, Barcelona Supercomputing Center<strong>, BSC.. **Jannis Wolf</strong>, Barcelona Supercomputing Center. <strong>Matina Maria Trompouki</strong>, Barcelona Supercomputing Center<strong>, BSC.. **Leonidas Kosmidis</strong>, Barcelona Supercomputing Center<strong>, BSC. and Universitat PolitÃ¨cnica de Catalunya</strong>, UPC..</p>
+
+    <p><strong>Abstract</strong>: This submission is about the demonstrator of the METASAT hardware platform for space systems, which consists of a RISC-V multicore and RISC-V GPU, running three AI space applications in parallel.</p>
+
+    <p>The METASAT project (https://metasat-project.eu/), funded by the European Union’s Horizon Europe programme, finished in December 2024. The project focused on the development of a revolutionary hardware and software concepts for future space systems.</p>
+
+    <p>Barcelona Supercomputing Center was coordinating the project and the main contributor of hardware platform, the low level software stack and AI applications, all of which are included in our demonstrator. No contribution from the non-academic project partners is used in our demo submission.</p>
+
+    <p>In particular, at BSC we developed the METASAT hardware platform, which includes a multicore NOEL-V processor integrated with our custom SIMD unit, SPARROW, and the RISC-V based VORTEX GPU. The platform is prototyped on an FPGA as well as on the QEMU emulator.</p>
+
+    <p>We also developed three AI space applications of varying criticality that run in parallel on the platform: cloud screening and ship detection (as lower-criticality payload tasks), and a Fault Detection, Isolation and Recovery (FDIR) application that detects anomalies in satellite camera temperature data, trained on real mission data provided by the German Space Agency.</p>
+
+    <p>The demo will showcase a streamlined version of the final METASAT demonstrator. In the linked video, you can see an early version running in our (noisy) server room where our FPGA is located. On the left is the Xilinx VCU118 FPGA board which instantiates our METASAT SoC implementation. Its output is provided through UART to a laptop computer which plays the role of EGSE (Electrical Ground Support Equipment), i.e. emulating the satellite connections, and receiving telecommands and displaying telemetry data.</p>
+
+    <p>The relevant interesting output of our demonstrator consists of the visualisation of the inference results of our AI applications. In particular, we can see at 0:14 the original satellite image on the left and the detection of the pixels
+covered by clouds on the right. At 0:19 we can see the original satellite image on the left and the detected ship on the right, within its computed bounding box. Finally 0:24 displays the plots of the satellite health data from the
+(emulated) temperature sensors (orange), as well as the prediction of the health curves (blue), showing the detected anomalies when the two lines are not overlapping.</p>
+
+    <p>The AI applications are executed in parallel, and can use both the SPARROW accelerator and the GPU. Therefore, not only they can be executed faster than their scalar versions, but they can also timeshare the accelerator and the GPU.</p>
+
+    <h3 id="booting-xv6-on-an-fpga-running-an-open-source-risc-v-core">Booting XV6 on an FPGA running an open source RISC-V core</h3>
+
+    <p>T3.4.07 (sub. #255), Thu 15 at 14:05, in Louis Armand East (S3).</p>
+
+    <p>By <strong>Thomas J. Kidd</strong>, Student.</p>
+
+    <p><strong>Abstract</strong>: This video showcases a project focused on creating a cost-effective, open-source educational framework by successfully booting the xv6 operating system on the Core-V-Wally (CVW) RISC-V soft core. xv6 is an open-source educational OS originally from MIT, and CVW is an adaptable, open-source 5-stage RISC-V core initially developed by Oklahoma State University and Harvey Mudd College, now part of the OpenHW Group ecosystem.</p>
+
+    <p>We demonstrate the entire process running on an affordable ($300) Arty A7 FPGA platform, loading the xv6 OS from an SD card using a custom zero-stage bootloader. Key technical aspects highlighted include hardware initialization (UART, SPI), memory mapping, robust error handling, and the simulation/emulation workflow (using ModelSim, with work towards Verilator).</p>
+
+    <p>We have successfully booted the xv6 kernel to its initial messages, proving the feasibility of bringing up a full OS stack on accessible hardware. This project provides valuable hands-on experience across hardware and software, offering insights into bridging the hardware-software interface and managing FPGA resource constraints. It serves as an excellent educational tool and research platform for computer architecture and operating systems.</p>
 
     <hr />
 
@@ -966,6 +1142,11 @@ MemPool is an open-source, RISC-V-based manycore cluster scaling up to 1024 proc
         <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
           <a href="https://www.codethink.co.uk"  target="_blank"><img src="media/logos/CODETHINK.png"     width="150" alt="Codethink"></a>
           <a href="https://irtnanoelec.fr"       target="_blank"><img src="media/logos/IRT-NANOELEC.svg"  width="150" alt="IRT NanoElec"></a>
+        </div>
+        <!-- Media partners are 150x60 -->
+        <div style="font-size: 1.5em; font-weight: bold; margin-top: 40px; margin-bottom: 20px;">Media Partners</div>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
+          <a href="https://semiwiki.com"         target="_blank"><img src="media/logos/SEMIWIKI.png"      width="150" alt="SemiWiki"></a>
         </div>
       </div>
 
