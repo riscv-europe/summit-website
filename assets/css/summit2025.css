@@ -222,3 +222,23 @@ a.speaker:link {
 a.speaker:link {
     text-decoration: none; /* Remove underline */
 }
+
+a.backnavigation:link {
+    color: black; /* unvisited link */
+}
+
+a.backnavigation:visited {
+    color: black; /* visited link */
+}
+
+a.backnavigation:hover {
+    color: var(--riscv-y); /* mouse over link */
+}
+
+a.backnavigation:active {
+    color: black; /* selected link */
+}
+
+a.backnavigation:link {
+    text-decoration: underline; /* Remove underline */
+}
