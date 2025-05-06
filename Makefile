@@ -56,7 +56,7 @@ data-check: dos2unix
 	git diff _data/*.csv
 
 data-commit: dos2unix
-	git commit -m "Upd: update summit's databases imported from Google drive." _data/*.csv
+	git commit -m "Upd: update summit's databases imported from Google drive and/or Softconf." _data/*.csv
 
 ## To arease the produced site and start producing next time from a
 ## clean slate.
