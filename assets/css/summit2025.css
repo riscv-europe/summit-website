@@ -242,3 +242,16 @@ a.backnavigation:active {
 a.backnavigation:link {
     text-decoration: underline; /* Remove underline */
 }
+
+
+/* For images in tables, sort of... */
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
