@@ -45,6 +45,7 @@ gdrive-import-downloaded:
 	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)panels-details.csv  $(ASIMPORTED_CSV_DIR)/panels-details.csv
 	cp $(GDRIVE_DOWNLOAD_DIR)/$(GDRIVE_INVITEDTALKS_BFN)univ-demos.csv      $(ASIMPORTED_CSV_DIR)/univ-demos.csv
 	cp $(GDRIVE_DOWNLOAD_DIR)/Submission_Information.csv      		$(ASIMPORTED_CSV_DIR)/summit25posters.csv
+	dos2unix $(ASIMPORTED_CSV_DIR)/*.csv
 
 
 # Integrate information from various CSV files to ease Summit's web
@@ -57,12 +58,14 @@ integrate:
 		--agenda  $(ASIMPORTED_CSV_DIR)/summit-agenda.csv \
 		--posters $(ASIMPORTED_CSV_DIR)/posters-agenda.csv \
 		--invited $(ASIMPORTED_CSV_DIR)/talks-details.csv \
+		--panels  $(ASIMPORTED_CSV_DIR)/panels-details.csv \
 		--subm    $(ASIMPORTED_CSV_DIR)/summit25posters.csv \
 		--submitted-pdfs $(SUBMITTED_PDFS) \
 		--integrated-csvs $(INTEGRATED_CSV_DIR) \
 		--published-pdfs $(PROCEEDINGS_DIR) \
 		${INTEGRATE_DEBUG} \
 		2> integrate.log
+	dos2unix $(INTEGRATED_CSV_DIR)/*.csv
 
 # A couple of shorthands to Jekyll production management.
 
