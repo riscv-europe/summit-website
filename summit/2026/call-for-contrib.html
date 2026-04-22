@@ -319,5 +319,65 @@ conference</strong> (Tuesday 9th to Thursday 11th).</li>
 
     <script src="/assets/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
+    <!-- Cookie consent banner -->
+    <div id="cookie-banner" style="display:none; position:fixed; bottom:0; left:0; right:0; z-index:9999; background:#1a1a2e; color:#fff; padding:16px 24px; box-shadow:0 -2px 12px rgba(0,0,0,0.4);">
+      <div style="max-width:960px; margin:auto; display:flex; flex-wrap:wrap; align-items:center; gap:12px; justify-content:space-between;">
+        <p style="margin:0; font-size:0.9em; flex:1 1 300px;">
+          We use analytics cookies (LinkedIn Insight Tag, Google Tag Manager) to measure the reach of this event and improve future editions.
+          You can accept or decline non-essential cookies. See our <a href="https://riscv.org/privacy-policy/" target="_blank" style="color:#f5c518;">Privacy Policy</a>.
+        </p>
+        <div style="display:flex; gap:8px; flex-shrink:0;">
+          <button id="cookie-decline" style="padding:8px 18px; border:1px solid #aaa; background:transparent; color:#fff; border-radius:4px; cursor:pointer; font-size:0.9em;">Decline</button>
+          <button id="cookie-accept"  style="padding:8px 18px; border:none; background:#f5c518; color:#000; border-radius:4px; cursor:pointer; font-size:0.9em; font-weight:bold;">Accept</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        var CONSENT_KEY = 'cookie_consent_v1';
+
+        function loadTrackers() {
+          // LinkedIn Insight Tag
+          _linkedin_partner_id = "8030538";
+          window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+          window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+          (function(l) {
+            if (!l) { window.lintrk = function(a,b){ window.lintrk.q.push([a,b]) }; window.lintrk.q = []; }
+            var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript"; b.async = true;
+            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+            s.parentNode.insertBefore(b, s);
+          })(window.lintrk);
+
+          // Google Tag Manager
+          (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true; j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-TPMT5TJ5');
+        }
+
+        var consent = localStorage.getItem(CONSENT_KEY);
+        if (consent === 'accepted') {
+          loadTrackers();
+        } else if (consent === null) {
+          document.getElementById('cookie-banner').style.display = 'block';
+          document.getElementById('cookie-accept').addEventListener('click', function () {
+            localStorage.setItem(CONSENT_KEY, 'accepted');
+            document.getElementById('cookie-banner').style.display = 'none';
+            loadTrackers();
+          });
+          document.getElementById('cookie-decline').addEventListener('click', function () {
+            localStorage.setItem(CONSENT_KEY, 'declined');
+            document.getElementById('cookie-banner').style.display = 'none';
+          });
+        }
+      })();
+    </script>
+
   </body>
 </html>
