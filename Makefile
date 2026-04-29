@@ -26,7 +26,18 @@ SUBMITTED_PDFS?=$(shell pwd)/../submitted-pdfs
 PROCEEDINGS_DIR:=summit/$(YEAR)/media/proceedings
 
 
-# Import Google drive files downloaded by Firefox.
+# Import 2026 contributions data right from the submission web site.
+
+## The API key to access the submission website is outside of the
+## repo., for obvious security reasons. Defaults to the repo's parent
+## directory.
+PRETALX_APIKEY?=../api.env
+
+## The python script to pull and turn data into CSVs.
+PRETALX_IMPORT_PY:=_bin/pretalx-import.py
+
+
+# Import Google drive files downloaded by Firefox, for Summit 2025.
 
 ## Remove previously downloadded files, if any. Leaving them before a
 ## new download will have the next ones being numbered by Firefox. And
@@ -48,10 +59,11 @@ gdrive-import-downloaded:
 	dos2unix $(ASIMPORTED_CSV_DIR)/*.csv
 
 
-# Integrate information from various CSV files to ease Summit's web
-# site generation.
 
-## Call the integration of all data source
+# Integrate information from various CSV files to ease 2025 Summit's
+# web site generation.
+
+## Call the integration of all data source for 2025.
 integrate:
 	mkdir -p _tmp
 	_bin/integrate.py \
@@ -66,6 +78,16 @@ integrate:
 		${INTEGRATE_DEBUG} \
 		2> integrate.log
 	dos2unix $(INTEGRATED_CSV_DIR)/*.csv
+
+
+# Fetch data from the 2026 web site, intergrate it, and generate CSV
+# files for further consumption by the MD-to-HTML Liquid templates of
+# the 2026 pages. For obvious security reasons, the key is not stored
+# within the public repo. See details above.
+pretalx-import:
+	( set -a && source $(PRETALX_APIKEY) && set +a && $(PRETALX_IMPORT_PY) --pretty )
+
+
 
 # A couple of shorthands to Jekyll production management.
 
