@@ -208,8 +208,12 @@ European computing innovation!</p>
       <div class="col-md-12 text-center">
         <div class="pt-2">
 
+          <a class="speaker" href="#Tanya-Dadasheva-talk">
+
 	      <h5 class="mt-4 font-weight-medium mb-1"><b>Tanya Dadasheva</b><br />Ainekko</h5>
           <h6 class="subtitle">Co-Founder</h6>
+
+          </a>
 
         </div>
       </div>
@@ -252,8 +256,12 @@ European computing innovation!</p>
       <div class="col-md-12 text-center">
         <div class="pt-2">
 
+          <a class="speaker" href="#Marco-Fariselli -talk">
+
 	      <h5 class="mt-4 font-weight-medium mb-1"><b>Marco Fariselli </b><br />Luxottica</h5>
           <h6 class="subtitle">Embedded AI Engineer</h6>
+
+          </a>
 
         </div>
       </div>
@@ -272,8 +280,12 @@ European computing innovation!</p>
       <div class="col-md-12 text-center">
         <div class="pt-2">
 
+          <a class="speaker" href="#Andrea-Gallo-talk">
+
 	      <h5 class="mt-4 font-weight-medium mb-1"><b>Andrea Gallo</b><br />RISC-V International</h5>
           <h6 class="subtitle">CEO</h6>
+
+          </a>
 
         </div>
       </div>
@@ -468,6 +480,20 @@ European computing innovation!</p>
 
   
   
+	<h3 id="Tanya-Dadasheva-talk">Developing an Open Agentic SoC</h3>
+
+
+<p>By <strong>Tanya Dadasheva</strong>, Co-Founder, Ainekko.</p>
+
+<p><strong>Abstract</strong>: Ainekko’s Agentic SoC is an open, full-stack approach to AI-native silicon that treats hardware as a programmable, composable substrate for model execution rather than a fixed target. Built on a many-core RISC-V architecture with tile-based compute and memory, the platform enables automated model-to-hardware mapping, dynamic quantization, and workload-specific system composition at packaging time, eliminating the need for per-model tape-outs.
+
+We invert the traditional stack: models define the hardware. Our approach sits between FPGA flexibility and etching models into ASIC-level efficiency, delivering high performance and practical economics while remaining fully programmable to adapt to rapidly evolving models and architectures.
+
+Our programmable RISC-V fabric has been validated with a 1,088-core tape-out and is designed to scale to 4,000+ cores. On top of this foundation, we have built a set of open building blocks across RTL, compiler, and runtime, which we are open-sourcing through the OpenHW Foundation (CORE-ET project) and AIFoundry. This open ecosystem enables developers, researchers, and AI agents to co-design across the full stack and directly optimize execution on hardware. This openness is essential: supporting fast-moving models, heterogeneous edge workloads, and agent-driven development requires a system where new kernels, quantization strategies, and architectural innovations can be introduced and composed without vendor constraints.</p>
+
+
+
+  
 
   
   
@@ -496,8 +522,32 @@ Supervisor Domains are introduced as an emerging architectural direction within 
 
   
   
+	<h3 id="Marco-Fariselli -talk">From Eyewear to Silicon: RISC-V for Low-Power AI in Next-Generation Smart Glasses</h3>
+
+
+<p>By <strong>Marco Fariselli </strong>, Embedded AI Engineer, Luxottica.</p>
+
+<p><strong>Abstract</strong>: Next generation smart glasses must do more with less. Speech enhancement to isolate voice in noisy environments, eye tracking for interaction and health monitoring, automatic speech recognition for hands-free control: each new capability adds compute demand to a platform constrained by milliampere-hour batteries and gram-scale form factors. The challenge is not picking one application to run efficiently - it is running all of them simultaneously within tens of milliwatts of power budget. 
+Open hardware ecosystems, and RISC-V in particular, have proven great value in this journey — not as a contribution target, but as a foundation to build on. In the recent years, industrial and academic efforts have produced rigorously validated, ultra-low-power microarchitectures and a large amount of open knowledge that significantly lowers the barrier to custom silicon for teams whose core expertise lies outside traditional semiconductor IP development.  
+The second key challenge is on-device ML inference in a field where model architectures evolve faster than fixed-function accelerators can. A hyper-specialized NPU risks obsolescence before it ships. In this context heterogeneous SoCs are the key, systems where dedicated NPUs, handling the heavy-lifting of well-characterized inference workloads, are tightly coupled with programmable cores to manage pre/post processing and new types of operations. Crucially, because those cores are RISC-V, they are not truly general-purpose in the limiting sense, their ISA can be extended with custom instructions to efficiently cover emerging operators without a full hardware redesign.  
+This talk offers a high-level perspective on how a product-driven company approaches custom silicon for smart eyewear, and why RISC-V sits at the center of that strategy. </p>
+
+<p><strong>Bio</strong>: <em>After completing his Master’s degree in Electronic Engineering at the University of Bologna in 2019, Marco Fariselli began his career at GreenWaves Technologies, a fabless semiconductor company developing RISC‑V multicore processors to enable AI on ultra‑low‑power platforms. His work focused on bridging algorithm design and hardware execution, enabling neural networks and signal‑processing workloads to run efficiently on battery‑powered devices.
+He is currently with Luxottica, where he advances embedded machine learning deployment and contributes to the co‑design of next‑generation AI accelerators. His interests lie at the intersection of software optimization, hardware‑aware machine learning, and scalable edge intelligence on emerging architectures such as RISC‑V.</em></p>
 
   
+
+  
+  
+	<h3 id="Andrea-Gallo-talk">RISC-V Innovation at Scale</h3>
+
+
+<p>By <strong>Andrea Gallo</strong>, CEO, RISC-V International.</p>
+
+<p><strong>Abstract</strong>: The RISC-V ISA and ecosystem are redefining computing, enabling new innovations in applications from the smallest, simplest embedded systems to the most demanding high performance deployments. In this session Andrea Gallo, the CEO of RISC-V International, outlines the progress of the RISC-V ecosystem in real world applications from Automotive, to Embedded, to AI and Data Center. He will outline the successes and momentum that have come from the ratification of the RVA23 profile including the latest product news from around the RISC-V ecosystem in both hardware and software enablement.</p>
+
+<p><strong>Bio</strong>: <em>Andrea Gallo is CEO of RISC-V International. Before joining  RISC-V as VP of Technology, Gallo worked in leadership roles at Linaro for over a decade as Vice President of Business Development, driving the company’s membership acquisition strategy and previously managing the Linaro Datacenter and Cloud, Home, Mobile, Networking, IoT, and Embedded Segment Groups and underlying open source collaborative projects within the Arm ecosystem. Before Linaro, Gallo was a fellow at STMicroelectronics, where he led the optimization of hardware-software architectures for new smartphone and telecommunication ICs. He also served on the board of directors for CHAOSS, a Linux Foundation project focused on the health of open source communities.</em></p>
+
   
 
   
