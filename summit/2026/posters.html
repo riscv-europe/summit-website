@@ -521,7 +521,7 @@ Sub. #AHPSLC.
 Sub. #ALLVDR.
 </p>
 
-    <p>Giorgio Marletta.</p>
+    <p>Giovanni Di Guardo and Giorgio Marletta.</p>
 
     <p><strong>Abstract</strong>: In this paper we present STRiVe-VP, a hybrid RISC-V simulation framework that unifies functional and timing simulation by leveraging LLVM’s compiler infrastructure. Built on RISC-V VP++, it translates executed instructions into LLVM MCInst and LLVM MCA Instruction objects, which are injected into an extended LLVM MCA pipeline. Custom hardware units (cache, prefetch buffer, branch predictor) are modeled, allowing the combination of static scheduling information with dynamic effects from control flow and memory behavior. This direct integration enables timing-aware decisions using live architectural state and provides unified functional and timing debugging. Validation against an FPGA prototype of an in-order, single-issue rv32emc_zfinx core shows that STRiVe-VP matches FPGA cycle counts exactly for several benchmarks and across multiple optimization levels, demonstrating cycle-accurate performance estimation and a solid basis for extending to more complex RISC-V microarchitectures.</p>
 
@@ -755,7 +755,7 @@ Sub. #ETWYRB.
 Sub. #EZCAXM.
 </p>
 
-    <p>Giacomo Valente.</p>
+    <p>Giacomo Valente and Leonardo Fazzini.</p>
 
     <p><strong>Abstract</strong>: Mixed-criticality systems incorporating software components with different criticality levels demand strong isolation mechanisms to guarantee dependability. High-end and mid-end architectures accomplish this through rigorous temporal and spatial partitioning, backed by multiple privilege levels and memory management units. Nevertheless, low-end processors, constrained to two privilege levels, encounter difficulties in realizing effective temporal and spatial partitioning without undermining system composability. This paper presents a novel multi-context framework for low-end RISC-V processors, exploiting a lightweight hardware extension and enabling efficient temporal and spatial partitioning. The proposed approach not only guarantees robust isolation and system composability but also offers flexibility to trade off hardware and software overhead, pushing forward the state of the art in dependability for resource-constrained embedded systems.</p>
 
@@ -798,7 +798,7 @@ Sub. #F7UKA3.
 
     <hr style="width:50%;;margin-left:25%" />
 
-    <h3 id="P">Concolic Execution Guided Hybrid Whitebox Fuzzing for RISC-V Processors with FPGA Acceleration</h3>
+    <h3 id="P">Concolic Execution Guided Hybrid Whitebox Fuzzing for RISC-V Processors</h3>
 
     <p style="font-size: 80%;">
 Sub. #FFPCHP.
@@ -1234,7 +1234,7 @@ Sub. #NFYQCV.
 
     <p>Yueh-Feng Lee.</p>
 
-    <p><strong>Abstract</strong>: In this work, we optimize LLM inference on edge RISC-V CPUs using vector extension instructions. We leverage 4-bit vector load and efficient 8-bit dot-product instructions to accelerate quantized and repacked 4-bit kernels in llama.cpp. In addition, we implement RVV support for tiled flash attention, which further improves performance in the prefill stage. Experimental results show that the proposed optimizations achieve up to 1.6-1.7x speedup over the upstream implementation while maintaining near-linear multi-core scalability on an RVV-enabled platform.</p>
+    <p><strong>Abstract</strong>: In this work, we optimize LLM inference on edge RISC-V CPUs using vector extension instructions. We leverage 4-bit vector load and efficient 8-bit dot-product instructions to accelerate quantized and repacked 4-bit kernels in llama.cpp. In addition, we implement RVV support for tiled flash attention, which further improves performance in the prefill stage. Experimental results show that the proposed optimizations achieve 1.76x-2.14x speedup over the upstream implementation while maintaining near-linear scaling for prefill workloads on an RVV-enabled multi-core platform.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1771,7 +1771,7 @@ Sub. #XTDV7A.
 
     <hr style="width:50%;;margin-left:25%" />
 
-    <h3 id="P">Anonymized+: re-assessing split vector and scalar cache designs for increased efficiency</h3>
+    <h3 id="P">Bicameral+: re-assessing split vector and scalar cache designs for increased efficiency</h3>
 
     <p style="font-size: 80%;">
 Sub. #XYRVET.
@@ -1779,7 +1779,7 @@ Sub. #XYRVET.
 
     <p>Aitor Echevarría and Borja Perez.</p>
 
-    <p><strong>Abstract</strong>: This paper introduces the Anonymized+, an enhanced version of the Anonymized; a vector-aware memory hierarchy that separates vector and scalar accesses into two cache partitions tailored to the needs of each kind of access, improving spatial locality for vectors and eliminating scalar interference. The new design aims to reduce implementation complexity and improve energy efficiency, while retaining the performance improvements of the original proposal, by introducing a set associative design and an alternative opportunistic dirty block management scheme. Experimental results on thirteen benchmarks across various configurations show a 7x area reduction and 18x energy savings, while retaining an average 1.59x speedup w.r.t a conventional cache.</p>
+    <p><strong>Abstract</strong>: This paper introduces the Bicameral+, an enhanced version of the Bicameral Cache; a vector-aware memory hierarchy that separates vector and scalar accesses into two cache partitions tailored to the needs of each kind of access, improving spatial locality for vectors and eliminating scalar interference. The new design aims to reduce implementation complexity and improve energy efficiency, while retaining the performance improvements of the original proposal, by introducing a set associative design and an alternative opportunistic dirty block management scheme. Experimental results on thirteen benchmarks across various configurations show a 7x area reduction and 18x energy savings, while retaining an average 1.59x speedup w.r.t a conventional cache.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1817,7 +1817,7 @@ Sub. #YXSRKX.
     <p>Udaya Subedi and Angela Gonzalez.</p>
 
     <p><strong>Abstract</strong>: CVA6 is an open-source RISC-V core with highly configurable parameters for tailoring the core to various
-applications. An optimization-oriented analysis of the current implementation showed that the scoreboard (SB) and controller are the biggest combinational modules involved in the critical path. The SB is in charge of many crucial functions, including issuing, forwarding, writeback, and committing, while the controller manages all the stages of the core. This work presents two optimization proposals:  re-order buffer (ROB) and Issue logic separation from the Scoreboard and registering Controller output. Preliminary results show promising outcomes in implementing the core, relaxing the timing, which in turn enables operating at a higher frequency. With this optimization, we get to improve the maximum frequency of operation by 12.5% for the existing FPGA configuration from OpenHW for Xilinx FPGA.</p>
+applications. An optimization-oriented analysis of the current implementation showed that the scoreboard (SB) and controller are the biggest combinational modules involved in the critical path. The SB is in charge of many crucial functions, including issuing, forwarding, writeback, and committing, while the controller manages all the stages of the core. This work presents two optimization proposals:  re-order buffer (ROB) and Issue logic separation from the Scoreboard and registering Controller output. Preliminary results show promising outcomes in implementing the core, relaxing the timing, which in turn enables operating at a higher frequency. With this optimization, we get to improve the maximum frequency of operation by 14% for the existing FPGA configuration from OpenHW for Xilinx FPGA.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -2137,7 +2137,7 @@ this growth, the software ecosystem remains a major challenge to broader adoptio
 Sub. #DMYH7U.
 </p>
 
-    <p>Lilia Zaourar and Bruno Bodin.</p>
+    <p>Lilia Zaourar, Bruno Bodin and Bruno Bodin.</p>
 
     <p><strong>Abstract</strong>: The increasing demand for domain-specific architectures from various domains such as Artificial Intelligence (AI),High Performance Computing (HPC), and automotive systems is reshaping modern System on Chip (SoC) design,requiring faster iteration cycles and deeper hardware/software integration.  While the open ISA RISC-V enablesunprecedented architectural flexibility, it also dramatically expands the design space across system, micro-architectural,and implementation levels. Efficiently navigating this complexity remains a key challenge for both academia and industry.The A-DECA framework is a design space exploration framework developed within the SoC Planner project to accelerateproductive SoC design. A-DECA enables a structured and modular exploration from high-level architectural configurationdown to synthesis-aware micro-architectural evaluation, effectively bridging the gap between system-level modeling andimplementation constraints.Our methodology leverage the open-source RISC-V design flow Chipyard to develop a hardware/software co-designsolution that supports automated configuration generation, parameter tuning, and quantitative performance, power, areatrade-off analysis. By reducing manual exploration effort and formalizing early-stage architectural planning, A-DECAsignificantly improves design productivity and accelerates pre-silicon decision-making. The framework reinforces theopen-source chip design ecosystem and lays the foundation for scalable, chiplet-oriented RISC-V architectures. Its plannedopen-source release aims to further enable reproducible research, industrial adoption, and collaborative innovation infull-flow RISC-V SoC development.</p>
 
@@ -2296,18 +2296,6 @@ Sub. #NA9Q9H.
     <p>Roberto Avanzi, Ruud Derwig, Luis Fiolhais, and Radim Krcmár.</p>
 
     <p><strong>Abstract</strong>: The Atomic Cryptographic Extension (ACE) is an ISA extension to enable secure cryptographic implementations. ACE separates key provisioning from key usage, enabling distinct environments to perform the two functions. For example, keys could be delivered to user software by a TEE applet. Unlike existing round-based AES extensions, which inherently expose key material, ACE performs cryptographic operations atomically. Keys are associated with metadata that ties them to specific algorithms and usage policies. Keys and metadata are bonded to each other by writing them in Context Registers (CRs). The contents of CRs can only be exported in encrypted and authenticated form for secure re-import, enabling secure context switches and VM migrations. ACE is work in progress of the High Assurance Cryptography (HAC) TG of RISC-V International.</p>
-
-    <hr style="width:50%;;margin-left:25%" />
-
-    <h3 id="P">wueHans: A Full-Stack Open-Source RISC-V Gaming Console and SoC Architecture</h3>
-
-    <p style="font-size: 80%;">
-Sub. #NHUVSR.
-</p>
-
-    <p>Matthias Jung, Yannik Stamm, Timo Grundheber and Jonathan Hager.</p>
-
-    <p><strong>Abstract</strong>: To address the lack of hardware sovereignty in proprietary console ecosystems, this paper presents a fully open-source RISC-V gaming platform utilizing a VexRiscv core and Lattice ECP5 FPGA. We implemented a custom SoC featuring dedicated 2D GPU and APU accelerators, supported by a complete LLVM-based toolchain and a high-level Game Development Framework API. Validation through a 48-hour game jam demonstrated the platform’s utility, achieving a stable 640 × 480 at 60 FPS output and high power efficiency for independent development.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -2757,14 +2745,15 @@ While CHERI has been validated through extensive academic research and multiple 
           <a href="https://www.bosc.ac.cn"         target="_blank"><img class="logo" src="media/logos/BOSC.svg"     width="300" height="120" alt="BOSC - Beijing Institute of Open Source Chip"></a>
           <a href="https://www.e4company.com/en/"  target="_blank"><img class="logo" src="media/logos/E4.png"     width="300" height="120" alt="E4 Computing"></a>
           <a href="https://mips.com"               target="_blank"><img class="logo" src="media/logos/MIPS.svg"   width="300" height="120" alt="MIPS"></a>
-          <a href="https://www.nucleisys.com"      target="_blank"><img class="logo" src="media/logos/NUCLEI.svg"    width="200" height="80" alt="Nuclei System"></a>
+          <a href="https://www.nextsilicon.com"    target="_blank"><img class="logo" src="media/logos/NEXTSILICON.svg" width="300" height="120" alt="NextSilicon"></a>
+          <a href="https://www.nucleisys.com"      target="_blank"><img class="logo" src="media/logos/NUCLEI.svg"    width="300" height="120" alt="Nuclei System"></a>
         </div>
         <!-- Gold are 250x100-->
         <div style="font-size: 1.5em; font-weight: bold; margin-top: 40px; margin-bottom: 20px;">Gold Sponsors</div>
         <div style="display: flex; object-fit: contain; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
           <a href="https://brekersystems.com"          target="_blank"><img class="logo" src="media/logos/BREKER.jpg"   width="250" height="100" alt="Breker Systems"></a>
           <a href="https://www.cea.fr"                 target="_blank"><img class="logo" src="media/logos/CEA.svg"      width="250" height="100" alt="CEA"></a>
-          <a href="https://www.epicsemi.com"           target="_blank"><img class="logo" src="media/logos/EPICSEMI.svg" width="200" height="80"  alt="Epic Semi"></a>
+          <a href="https://www.epicsemi.com"           target="_blank"><img class="logo" src="media/logos/EPICSEMI.svg" width="250" height="100"  alt="Epic Semi"></a>
           <a href="https://www.eswincomputing.com/en/" target="_blank"><img class="logo" src="media/logos/ESWIN.png"    width="250" height="100" alt="ESWIN Computing"></a>
           <a href="https://www.sifive.com"             target="_blank"><img class="logo" src="media/logos/SIFIVE.jpg"   width="250" height="100" alt="SiFive"></a>
           <a href="https://www.tenstorrent.com"        target="_blank"><img class="logo" src="media/logos/TENSTORRENT.png" width="250" height="100" alt="Tenstorrent"></a>
@@ -2783,6 +2772,7 @@ While CHERI has been validated through extensive academic research and multiple 
           <a href="https://www.bosch.com"          target="_blank"><img class="logo" src="media/logos/BOSCH.svg"     width="200" height="80" alt="Robert Bosch Gmbh"></a>
           <a href="https://www.chips.it"           target="_blank"><img class="logo" src="media/logos/CHIPS-IT.png"  width="200" height="80" alt="Chips-IT"></a>
           <a href="https://www.circuitsutra.com"   target="_blank"><img class="logo" src="media/logos/CIRCUITSUTRA.svg" width="200" height="80" alt="CircuitSutra"></a>
+          <a href="https://www.deepcomputing.io"   target="_blank"><img class="logo" src="media/logos/DEEPCOMPUTING.svg" width="200" height="80" alt="DeepComputing"></a>
           <a href="https://ergtech.ch"             target="_blank"><img class="logo" src="media/logos/ERGTECH.jpg"   width="200" height="80" alt="Ergtech"></a>
           <a href="https://www.gliwa.com"          target="_blank"><img class="logo" src="media/logos/GLIWA.svg"     width="200" height="80" alt="GLIWA"></a>
           <a href="https://inspiresemi.com"        target="_blank"><img class="logo" src="media/logos/INSPIRE.svg"   width="200" height="80" alt="InspireSemi"></a>
