@@ -232,7 +232,7 @@ This paper presents a lightweight single instruction multiple data (SIMD) archit
 Sub. #3TQ3K9.
 </p>
 
-    <p>Arbi.</p>
+    <p>Arbi Gunbardhi.</p>
 
     <p><strong>Abstract</strong>: Embedded applications increasingly rely on highly efficient, low-area RISC-V processors. However, short 3-stage pipelines often suffer from data and control hazards that degrade performance by introducing frequent stalls. This paper presents the implementation of Fine-Grained Multithreading (FGMT) on [OMITTED FOR BLIND REVIEW], an industrial 32-bit RISC-V core supporting the RV32ECM instruction set. By interleaving two hardware threads, the design effectively hides pipeline stalls and simplifies branch target calculation without requiring complex branch prediction. To further mitigate structural hazards and the underutilization caused by inactive thread contexts in fixed round-robin scheduling, we introduce a novel “Thread Forwarding” (TF) technique which enables a form of TLP (Thread-Level Parallelism). Implemented in 40nm (C40) technology with a target frequency of 300MHz, the standard FGMT achieves a 14\% IPC improvement over the baseline at the cost of a 9\% area overhead within an MCU SoC featuring 16 KBytes of instruction and data memory. The TF architecture achieves a Pareto optimal configuration, further boosting IPC to 0.958 (+18.8\% over baseline) while maintaining the same area footprint as the standard FGMT implementation.</p>
 
@@ -330,7 +330,7 @@ Sub. #88TJXG.
 
     <p>Fengrui Sun and Zhanheng Yang.</p>
 
-    <p><strong>Abstract</strong>: Data integrity and fault tolerance are prerequisites for RISC-V adoption in enterprise server environments, relying heavily on Cyclic Redundancy Check (CRC) and Erasure Coding (EC) for storage reliability and network transmission. Currently, the RISC-V ISA lacks the dedicated hardware acceleration found in mature architectures such as x86, leading to significant overhead in implementations. We propose novel ISA extensions to bridge this gap: a fused carry-less multiply-add instruction for CRC folding achieving up to 4x speedup, and a specialized GF(2^8) multiply-accumulate instruction for EC delivering 4x throughput gains over vectorized baselines. Evaluation confirms that these extensions significantly enhance data path efficiency, positioning RISC-V as a competitive architecture for reliable, high-performance storage and networking systems.</p>
+    <p><strong>Abstract</strong>: Data integrity and fault tolerance are prerequisites for RISC-V adoption in enterprise server environments, relying heavily on Cyclic Redundancy Check (CRC) and Erasure Coding (EC) for storage reliability and network transmission. Currently, the RISC-V ISA lacks the dedicated hardware acceleration found in mature architectures such as x86, leading to significant overhead in implementations. We propose novel ISA extensions to bridge this gap: a fused carry-less multiply-add instruction for CRC folding achieving up to 4x - 8x speedup, and a specialized GF(2^8) multiply-accumulate instruction for EC delivering 4x throughput gains over vectorized baselines. Evaluation confirms that these extensions significantly enhance data path efficiency, positioning RISC-V as a competitive architecture for reliable, high-performance storage and networking systems.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -413,7 +413,7 @@ Sub. #9GW78U.
 
     <p>Andreas Nüchter, Matthias Jung, Jonathan Hager, Sergio Montenegro and Andreas Theiner.</p>
 
-    <p><strong>Abstract</strong>: This work implements the first port of the Real-Time Operating System RODOS on RISC-V. Specifically, the utilized RISC-V core is the RV32IM version of the PicoRV32. In order to develop and test the implementation, the PicoSoC, which is a System-on-a-Chip with a PicoRV32 core, is employed on the Basys3 FPGA board. RODOS provides benchmarks that give a rough estimate of the performance. These benchmarks of various versions of the PicoSoC are evaluated on the FPGA and compared to results of already existing ports. Our benchmarks show that the FPGA prototype is only 5 times slower than CPUs on real chips like an STM32F4. This shows that RISC-V is a promising platform for future applications of RODOS.</p>
+    <p><strong>Abstract</strong>: This work implements two ports of the Real-Time Operating System RODOS on RISC-V. Specifically, the RV32E_ZICSR ISA variant is supported for QEMU. This enables easy development and testing. The other port targets the BeagleV-Ahead board, which is an open-source RISC-V single board computer. RODOS provides benchmarks that give a rough estimate of the performance. These benchmarks are carried out on the BeagleV-Ahead board and compared to results of already existing ports. Our benchmarks show that this RISC-V port on the BeagleV-Ahead is about 20\% faster than other boards like an STM32F4. This shows that RISC-V is a promising platform for future applications of RODOS.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -497,7 +497,7 @@ Sub. #A9JD3J.
 Sub. #ACRS3G.
 </p>
 
-    <p>Valeria Piscopo, aledolme and Enrico Manfredi.</p>
+    <p>Valeria Piscopo, Alessandra Dolmeta and Enrico Manfredi.</p>
 
     <p><strong>Abstract</strong>: As the NIST Lightweight Cryptography (LWC) standard, ASCON is pivotal for securing IoT ecosystems. This work presents CHIMERA, a multipurpose cryptographic engine for RISC-V, supporting AEAD and Hashing. We propose two architectural paradigms integrated via the Core-V eXtension Interface (CV-X-IF): a high-performance Complete Round (CR) version utilizing a state-register bank, and a minimalist Bitwise Rotation Unit (BRU) version focusing on Instruction Set Extensions (ISE). Our designs suit throughput-critical workloads, delivering up to 6x speed-up, as well as footprint-constrained deployments on ASIC and FPGA.</p>
 
@@ -592,13 +592,13 @@ Sub. #BXQ73A.
 
     <hr style="width:50%;;margin-left:25%" />
 
-    <h3 id="P">Insights on high-performance code generation for early and future RISC-V vector systems</h3>
+    <h3 id="P">High-performance code generation for early and future RISC-V vector systems</h3>
 
     <p style="font-size: 80%;">
 Sub. #C8TUDR.
 </p>
 
-    <p>asantana.</p>
+    <p>Alexandre de Limas Santana.</p>
 
     <p><strong>Abstract</strong>: To achieve both high performance and productivity, modern software stacks rely on linear algebra libraries that encapsulate decades of optimization efforts. These libraries derive from empirical studies and analytical models developed primarily for high-end general-purpose systems, particularly the vector/SIMD extensions of x86-64 processors (e.g., SSE, AVX, and AVX-512). As a new and open-standard architecture, RISC-V software programming models target systems with unprecedent hardware diversity since pivotal extensions, such as the RISC-V V, may be realized on processors for domains ranging from edge to supercomputing. In this work, we advocate for flexible code generation tools to foster vendor-agnostic performance on high-performance software stacks, highlighting the most impactful software-level performance optimizations on early RISC-V vector systems and our insights on how to handle them on the context of linear algebra library development.</p>
 
@@ -1016,7 +1016,7 @@ Sub. #HZQQP9.
 
     <p>Mohamed Soliman.</p>
 
-    <p><strong>Abstract</strong>: While hardware prefetchers accelerate memory performance, they inadvertently leave microarchitectural footprints that attackers can exploit. Previous work showed that instruction and data prefetchers on Intel, AMD and Apple processors are prone to microarchitectural side-channel attacks. In this paper we investigate the data stride prefetcher in the \textit{Xuantie C910} – a server-grade RISC-V processor extensively deployed in cloud environments. Furthermore, we present the first microarchitectural attack targeting a hardware prefetcher on a RISC-V processors. In that regard, we port StrideRE on RISC-V processors to reverse engineer its hardware prefetcher. Finally, we provide two Proof-of-Concept (PoC) attacks: partial memory address disclosure and control flow leakage. We find that both attacks are effective across privilege levels.</p>
+    <p><strong>Abstract</strong>: While hardware prefetchers accelerate memory performance, they inadvertently leave microarchitectural footprints that attackers can exploit. Previous work showed that instruction and data prefetchers on Intel, AMD and Apple processors are prone to microarchitectural side-channel attacks. In this paper we investigate the data stride prefetcher in the Xuantie C910 – a server-grade RISC-V processor newly deployed in cloud environments. Furthermore, we present the first microarchitectural attack targeting a hardware prefetcher on a RISC-V processors. In that regard, we port StrideRE on RISC-V processors to reverse engineer its hardware prefetcher. Finally, we provide two Proof-of-Concept (PoC) attacks: partial memory address disclosure and control flow leakage. We find that both attacks are effective across privilege levels.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1062,7 +1062,7 @@ Sub. #KGMSLQ.
 Sub. #LNBB8V.
 </p>
 
-    <p>Tsung-LI.</p>
+    <p>Tsung-Li Chen.</p>
 
     <p><strong>Abstract</strong>: Microarchitectural performance evaluation is an essential step in modern processor design and architecture exploration. However, developing a cycle-accurate simulator from scratch requires implementing both instruction semantics and detailed microarchitectural models, which significantly increases development complexity.</p>
 
@@ -1193,7 +1193,7 @@ Sub. #MKBAZS.
 
     <p>Vasileios Karakostas.</p>
 
-    <p><strong>Abstract</strong>: Assessing the vulnerability of caches against side-channel attacks is of critical importance when enhanced microarchitectural security is a must-have feature for a multicore CPU implementation. Previous works have proposed various metrics and methodologies to assess such vulnerabilities. However, those works suffer from limitations regarding either the range of target cache attacks, the support for the RISC-V ISA, or the public availability of the assessment tools. The goal of this paper is to provide support for systematically evaluating RISC-V multicore CPUs against a wide range of cache timing attacks. This support should allow the assessment of both real and simulated systems, enabling early security evaluation in the design phase of the processor using the open-source gem5 microarchitectural simulator. We base our approach on the Cache Timing Vulnerability Score (CTVS) methodology and enhance it along two axes. We first port the CTVS methodology to the RISC-V ISA, and then we integrate the CTVS methodology for the RISC-V and x86 ISAs with gem5. We evaluate the use of the CTVS methodology for simulated RISC-V and x86 multicore CPUs and analyze the results.</p>
+    <p><strong>Abstract</strong>: Assessing the vulnerability of caches against side-channel attacks is of critical importance when enhanced microarchitectural security is a must-have feature for a multicore CPU implementation. Previous works have proposed various metrics and methodologies to assess such vulnerabilities. However, those works suffer from limitations regarding either the range of target cache attacks, the support for the RISC-V ISA, or the availability of the assessment tools. The goal of this paper is to provide support for systematically evaluating RISC-V multicore CPUs against a wide range of cache timing attacks. This support should allow the assessment of both real and simulated systems, enabling early security evaluation in the design phase of the processor using the open-source gem5 microarchitectural simulator. We base our approach on the Cache Timing Vulnerability Score (CTVS) methodology and enhance it along two axes. We first port the CTVS methodology to the RISC-V ISA, and then we integrate the CTVS methodology for the RISC-V and x86 ISAs with gem5. We evaluate the use of the CTVS methodology for simulated RISC-V and x86 multicore CPUs and analyze the results.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1222,7 +1222,7 @@ Sub. #NEMJHQ.
 
     <p>Francisco J. Romero.</p>
 
-    <p><strong>Abstract</strong>: This work introduces a compatible acceleration approach for AES encryption that retains the standardized ISA interface while enhancing execution time for AES-128 on 32-bit processors, including the key-schedule phase. By reformulating the behavior of existing Zk instructions without altering their opcodes, we preserve binary and source compatibility with software written for Zkne, without the performance losses of having to perform key expansion only by software. The result is an integration strategy suitable for constrained IoT or automotive devices that delivers improved throughput with reduced area overhead, enabling systems to realize the intended benefits of RISC-V’s cryptographic extension without sacrificing portability and standarization.</p>
+    <p><strong>Abstract</strong>: This work introduces a compatible acceleration approach for AES encryption that retains the standardized ISA interface while enhancing execution time for AES-128 on 32-bit processors, including the key-schedule phase. By reformulating the behavior of existing Zk instructions without altering their opcodes, we preserve binary and source compatibility with software written for Zkne, without the performance losses of having to perform key expansion only by software. The result is an integration strategy suitable for constrained IoT or automotive devices that delivers improved throughput with reduced area overhead, enabling systems to realize the intended benefits of RISC-V’s cryptographic extension without sacrificing portability and standardization.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1367,7 +1367,7 @@ Sub. #QM3SVB.
 Sub. #QPZCJG.
 </p>
 
-    <p>Quentin_Melotte and Henri-Pierre CHARLES.</p>
+    <p>Quentin MÉLOTTE and Henri-Pierre CHARLES.</p>
 
     <p><strong>Abstract</strong>: RISC-V is a major breakthrough in the computing ecosystem. It open
     opportunities for hardware research, innovation for
@@ -1543,7 +1543,7 @@ Sub. #SFZSB9.
 
     <p><strong>Abstract</strong>: Rust is increasingly discussed in embedded and safety-aware systems, yet it remains uncommon in serious RISC-V projects. For teams working in C and assembly, the question is whether Rust meaningfully complements the RISC-V ecosystem at all.</p>
 
-    <p>This talk offers an engineering-level exploration of that question. Rather than a migration guide or code-heavy tutorial, it examines where Rust aligns with low-level RISC-V work - and where real friction remains.</p>
+    <p>This presentation offers an engineering-level exploration of that question. Rather than a migration guide or code-heavy tutorial, it examines where Rust aligns with low-level RISC-V work - and where real friction remains.</p>
 
     <p>Topics include:</p>
     <ul>
@@ -1555,7 +1555,7 @@ Sub. #SFZSB9.
       <li>Off-hardware testing and separation of logic from hardware layers.</li>
     </ul>
 
-    <p>The goal is to give engineers enough practical insight to judge whether Rust has a place in their RISC-V workflow. This is an exploratory talk, not a language tutorial - no prior Rust experience is required or assumed.</p>
+    <p>The goal is to give engineers enough practical insight to judge whether Rust has a place in their RISC-V workflow. This is an exploratory presentation, not a language tutorial - no prior Rust experience is required or assumed.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1565,7 +1565,7 @@ Sub. #SFZSB9.
 Sub. #SXGTPT.
 </p>
 
-    <p>Valeria Piscopo and aledolme.</p>
+    <p>Valeria Piscopo and Alessandra Dolmeta.</p>
 
     <p><strong>Abstract</strong>: Post-Quantum Cryptography (PQC) is moving from algorithm selection to deployment, where performance, energy, and portability are key constraints, especially on embedded and IoT-class processors. Many PQC schemes stress general-purpose cores with large arithmetic workloads and heavy memory traffic. Instruction-set extensions (ISE) offer a practical middle ground: they speed up dominant kernels while preserving programmability.
 In this context, we target post-quantum digital signatures, which remain under active evaluation, as reflected by NIST’s 2023 call for additional schemes. We focus on CROSS, a code-based signature built from zero-knowledge proofs and the Restricted Syndrome Decoding Problem, and present CIRCE: a RISC-V–integrated extension connected through the Core-V eXtension Interface (CV-X-IF). CIRCE supports both R-SDP and R-SDP(G), runs across all official parameter sets without hardware retuning, and achieves an average 2x speed-up on a Zynq UltraScale+ FPGA with an ultra-compact footprint (down to 800 LUTs / 100 FFs).</p>
@@ -1603,7 +1603,7 @@ Sub. #TYLEYW.
 Sub. #UCSJXG.
 </p>
 
-    <p>Holger Blasum and Tianhai Liu.</p>
+    <p>Holger Blasum, Darshak Sheladiya and Tianhai Liu.</p>
 
     <p><strong>Abstract</strong>: An end-to-end case study evaluating cloud-connected workloads on CVA6 platforms is presented.
 System behaviour under increasing telemetry loads is analysed using CAN trace replay.
@@ -1779,7 +1779,7 @@ Sub. #XYRVET.
 
     <p>Aitor Echevarría and Borja Perez.</p>
 
-    <p><strong>Abstract</strong>: This paper introduces the Bicameral+, an enhanced version of the Bicameral Cache; a vector-aware memory hierarchy that separates vector and scalar accesses into two cache partitions tailored to the needs of each kind of access, improving spatial locality for vectors and eliminating scalar interference. The new design aims to reduce implementation complexity and improve energy efficiency, while retaining the performance improvements of the original proposal, by introducing a set associative design and an alternative opportunistic dirty block management scheme. Experimental results on thirteen benchmarks across various configurations show a 7x area reduction and 18x energy savings, while retaining an average 1.59x speedup w.r.t a conventional cache.</p>
+    <p><strong>Abstract</strong>: This poster introduces the Bicameral+, an enhanced version of the Bicameral Cache; a vector-aware memory hierarchy that separates vector and scalar accesses into two cache partitions tailored to the needs of each kind of access, improving spatial locality for vectors and eliminating scalar interference. The new design aims to reduce implementation complexity and improve energy efficiency, while retaining the performance improvements of the original proposal, by introducing a set associative design and an alternative opportunistic dirty block management scheme. Experimental results on thirteen benchmarks across various configurations show a 7x area reduction and 18x energy savings, while retaining an average 1.59x speedup w.r.t a conventional cache.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -1814,7 +1814,7 @@ evaluation of RV64Y microarchitectures and software stacks. This infrastructure 
 Sub. #YXSRKX.
 </p>
 
-    <p>Udaya Subedi and Angela Gonzalez.</p>
+    <p>Udaya Raj Subedi and Angela Gonzalez.</p>
 
     <p><strong>Abstract</strong>: CVA6 is an open-source RISC-V core with highly configurable parameters for tailoring the core to various
 applications. An optimization-oriented analysis of the current implementation showed that the scoreboard (SB) and controller are the biggest combinational modules involved in the critical path. The SB is in charge of many crucial functions, including issuing, forwarding, writeback, and committing, while the controller manages all the stages of the core. This work presents two optimization proposals:  re-order buffer (ROB) and Issue logic separation from the Scoreboard and registering Controller output. Preliminary results show promising outcomes in implementing the core, relaxing the timing, which in turn enables operating at a higher frequency. With this optimization, we get to improve the maximum frequency of operation by 14% for the existing FPGA configuration from OpenHW for Xilinx FPGA.</p>
@@ -1938,7 +1938,7 @@ Sub. #ZZ7ADW.
 Sub. #ZZQYRH.
 </p>
 
-    <p>Valeria Piscopo and aledolme.</p>
+    <p>Valeria Piscopo and Alessandra Dolmeta.</p>
 
     <p><strong>Abstract</strong>: This paper introduces HORCRUX, an open RISC-V instruction set extension for post-quantum cryptography (PQC). A modular PQ-ALU, integrated through the Core-V eXtension Interface (CV-X-IF) accelerates the core kernels shared by hash-, lattice-, and code-based schemes, including Keccak processing, sampling, modular/polynomial arithmetic, finite-field operations, and coefficient compression. The design targets NIST-standardized algorithms (ML-KEM, ML-DSA, SLH-DSA, HQC) and additional candidates under evaluation. We release the complete hardware/software stack as open source and report 65 nm ASIC post-synthesis results: with a compact footprint of ~26.3 kGE and energy savings up to 99.5%, the extension provides a practical route to energy-efficient PQC on RISC-V with minimal integration effort.</p>
 
@@ -2245,9 +2245,9 @@ Sub. #LCDXJK.
 Sub. #LWYLAF.
 </p>
 
-    <p>Alexander Weiss and Simon Wegener (AbsInt).</p>
+    <p>Alexander Weiss and Simon Wegener.</p>
 
-    <p><strong>Abstract</strong>: Embedded tracing is essential for validating reliability, optimizing performance, and debugging complex embedded software. Despite rapid innovation in the RISC-V ecosystem, open and interoperable trace solutions have remained limited. C-Trace, developed in the context of the European TRISTAN project , addresses this gap with an open-source trace encoder and an extensible ecosystem approach. C-Trace introduces a modular trace-encoder architecture designed for efficient, continuous “live” observation. Beyond standard program-flow tracing, it supports hardware-assisted instrumentation that can automatically emit trace messages on access to selected control/status registers (CSRs) or on configurable watchpoints. This enables trace streams that carry richer runtime context (e.g., program counter, timestamps, direct data, and selected performance counters) and can support application use cases such as worst-case execution time (WCET) estimation, timing optimization, test-case prioritization, and integration-level coverage measurement. In addition to off-chip export, C-Trace can forward trace-triggered events internally to an on-chip CPU, enabling watchdog, runtime verification, or control-flow integrity (CFI) checking functionality. Finally, C-Trace is provided under a dual-licensing model (CERN-OHL-S and a non-copyleft commercial option) to balance open collaboration with industrial IP needs.</p>
+    <p><strong>Abstract</strong>: Embedded tracing is essential for validating reliability, optimizing performance, and debugging complex embedded software. Despite rapid innovation in the RISC-V ecosystem, open and interoperable trace solutions have remained limited. C-Trace, developed in the context of the European TRISTAN project, addresses this gap with an open-source trace encoder and an extensible ecosystem approach. C-Trace introduces a modular trace-encoder architecture designed for efficient, continuous “live” observation. Beyond standard program-flow tracing, it supports hardware-assisted instrumentation that can automatically emit trace messages on access to selected control/status registers (CSRs) or on configurable watchpoints. This enables trace streams that carry richer runtime context (e.g., program counter, timestamps, direct data, and selected performance counters) and can support application use cases such as worst-case execution time (WCET) estimation, timing optimization, test-case prioritization, and integration-level coverage measurement. In addition to off-chip export, C-Trace can forward trace-triggered events internally to an on-chip CPU, enabling watchdog, runtime verification, or control-flow integrity (CFI) checking functionality. Finally, C-Trace is provided under a dual-licensing model (CERN-OHL-S and a non-copyleft commercial option) to balance open collaboration with industrial IP needs.</p>
 
     <hr style="width:50%;;margin-left:25%" />
 
@@ -2281,7 +2281,7 @@ Sub. #MQJFNF.
 Sub. #MYRD9A.
 </p>
 
-    <p>Adeel Ahmad.</p>
+    <p>Ahsan Jalil and Adeel Ahmad.</p>
 
     <p><strong>Abstract</strong>: This work enables optimized, end-to-end inference of the object detection models on RISC-V vector CPU. It includes the implementation of optimized pre- and post-processing pipelines as well as the enablement of efficient execution of the models at FP32, FP16, and INT8 precisions. IREE, an MLIR-based compiler, is used to compile and optimize the model. Model inference on the Banana Pi BPI-F3 is profiled to identify top hotspot ops and their compilation is optimized in the IREE compilation pipeline either by improving vectorization or by implementing ukernels. For accuracy validation, the mean Average Precision (mAP) is computed using the COCO validation dataset. This project is supported by the RISC-V Software Ecosystem (RISE), and all the developed artifacts are open-source.</p>
 
