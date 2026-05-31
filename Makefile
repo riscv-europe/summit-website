@@ -99,7 +99,7 @@ pretalx-import:
 
 pretalx-integrate:
 	rm -f $(PRETALX_INTEGRATE_LOG)
-	$(PRETALX_INTEGRATE_PY) $(PRETALX_SCHEDULE_JSON)
+	$(PRETALX_INTEGRATE_PY) $(PRETALX_INTEGRATE_OPT) $(PRETALX_SCHEDULE_JSON)
 
 # A couple of shorthands to Jekyll production management.
 
