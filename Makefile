@@ -36,6 +36,16 @@ PRETALX_APIKEY?=../api.env
 ## The python script to pull and turn data into CSVs.
 PRETALX_IMPORT_PY:=_bin/pretalx-import.py
 
+## The script to pull the schedule as JOSN dump and turn it into CSVs
+## files for the liquid templates."
+PRETALX_INTEGRATE_PY:=_bin/pretalx-integrate.py
+
+## The script's default log file.
+PRETALX_INTEGRATE_LOG?=../pretalx-integrate.log
+
+## The default path to the Pretalx schedule JSON dump file.
+PRETALX_SCHEDULE_JSON?=_data/summit2026/asimported/eu-summit-2026_sessions.json
+
 
 # Import Google drive files downloaded by Firefox, for Summit 2025.
 
@@ -87,7 +97,9 @@ integrate:
 pretalx-import:
 	( set -a && source $(PRETALX_APIKEY) && set +a && $(PRETALX_IMPORT_PY) --pretty )
 
-
+pretalx-integrate:
+	rm -f $(PRETALX_INTEGRATE_LOG)
+	$(PRETALX_INTEGRATE_PY) $(PRETALX_SCHEDULE_JSON)
 
 # A couple of shorthands to Jekyll production management.
 
