@@ -1106,7 +1106,7 @@ This work introduces four such optimizations integrated into LLVM: (1) extending
 
     <p>Yueh-Feng Lee.</p>
 
-    <p><strong>Abstract</strong>: In this work, we optimize LLM inference on edge RISC-V CPUs using vector extension instructions. We leverage 4-bit vector load and efficient 8-bit dot-product instructions to accelerate quantized and repacked 4-bit kernels in llama.cpp. In addition, we implement RVV support for tiled flash attention, which further improves performance in the prefill stage. Experimental results show that the proposed optimizations achieve 1.76x-2.14x speedup over the upstream implementation while maintaining near-linear scaling for prefill workloads on an RVV-enabled multi-core platform.</p>
+    <p><strong>Abstract</strong>: In this work, we optimize LLM inference on edge RISC-V CPUs using vector extension instructions. We leverage 4-bit vector load and efficient 8-bit dot-product instructions to accelerate quantized and repacked 4-bit kernels in llama.cpp. In addition, we implement RVV support for tiled flash attention, which further improves performance in the prefill stage. Experimental results show that the proposed optimizations achieve 1.72x-2.14x speedup over the upstream implementation while maintaining near-linear scaling for prefill workloads on an RVV-enabled multi-core platform.</p>
 
     <p align="center" style="font-size: 0.8em">
 <a class="backnavigation" href="#summary">To page top</a> &mdash;
