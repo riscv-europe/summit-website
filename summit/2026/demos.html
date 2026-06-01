@@ -179,17 +179,13 @@ Internally, the chip integrates the classic lightweight open-source RISC-V proce
 
     <hr style="width:50%;;margin-left:25%" />
 
-    <h3 id="P-">REPTILES: Repeated tiles of Sargantana</h3>
+    <h3 id="P-">Hardware Acceleration Island for Safety-Critical Applications based on RISC-V</h3>
 
     <p>On Tuesday 9, at 14h00.</p>
 
-    <p>Lluc Alvarez, Serik Perez Gomez, and Arnau Bigas Soldevila.</p>
+    <p>Luis Waucquez.</p>
 
-    <p><strong>Abstract</strong>: This demo introduces Reptiles - Repeated Tiles of Sargantana, an open-source RISC-V multicore architecture designed to support research in HPC systems. Reptiles builds upon the OpenPiton manycore framework by integrating multiple Sargantana RISC-V cores and enhancing the memory hierarchy and interconnection network to improve scalability and performance. The goal is to provide an accessible and flexible platform for researchers to develop, experiment with, and optimize HPC workloads using open hardware.</p>
-
-    <p>Reptiles replicates Sargantana tiles within OpenPiton’s architecture and introduces several architectural improvements. These include a configurable network-on-chip width (from 64 up to 704 bits), flexible cache block sizes, adjustable numbers of miss status holding registers (MSHRs), improved cache sizes and associativities, parallel SRAM access in the L2 and the last-level cache, and configurable number of memory controllers. The system also integrates the High-Performance Data Cache (HPDcache) as an L1 data cache and enhances the Sargantana core with broader support for RISC-V extensions, particularly the RISC-V Vector Extension (RVV 1.0). Additional improvements include debugging support, performance counter access in Linux, and enhanced RTL simulation features such as checkpointing.</p>
-
-    <p>In this demo we show a fully functional FPGA prototype of Reptiles with four Sargantana cores booting Linux and running OpenMP benchmarks such as the NAS Parallel Benchmarks, interactive UART console games, and graphical applications by performing X11 forwarding over SSH. Overall, Reptiles demonstrates that open-source RISC-V multicore systems can effectively support scalable HPC research and experimentation.</p>
+    <p><strong>Abstract</strong>: The complexity of modern electronics systems and their behavior in harsh environments, demanding performance, fault-tolerance capabilities, and energy efficiency, proves the need to design and implement systems adaptable to applications with mixed-criticality requirements. The Extensible Reliable Offloading Solution (EROS) has been developed as a HW-based accelerator template capable of addressing these requirements. It is compatible with several RISC-V cores from the OpenHW Foundation and eases the integration of both MM accelerators and ISA extensions using CV-X-IF coprocessors. The platform offers a safety wrapper, allowing the selected core to be configured at design time and runtime in different operational modes, from single core execution to fault-tolerant operational modes such as TCLS, DCLS, and staggered. It also provides methods for error detection and recovery. The EROS solution has been implemented as a safety accelerator island in the X-HEEP system, a RISC-V microcontroller platform conceived for ultra-low power scenarios, creating the resulting X-EROS system. This demo evaluates X-EROS, which has been taped out in TSMC 65nm LP technology. The platform is evaluated through performance analysis results obtained from the execution of an AES-256-CBC algorithm. In conjunction, a controlled error injection is performed to prove the functional detection and recovery capabilities. The overall system power consumption is measured to show the different power profiles under different modes of operation, demonstrating the capacity of the platform to adapt itself not only to fault-tolerance requirements but also to low-power requirements.</p>
     <p align="center" style="font-size: 0.8em">
 <a class="backnavigation" href="#summary">To page top</a> &mdash;
 <a href="#Tue" class="backnavigation">To demos of Tuesday 9</a> &mdash;
@@ -318,13 +314,17 @@ Overall, this demo illustrates how heterogeneous, open-source RISC-V architectur
 
     <hr style="width:50%;;margin-left:25%" />
 
-    <h3 id="P-">Hardware Acceleration Island for Safety-Critical Applications based on RISC-V</h3>
+    <h3 id="P-">REPTILES: Repeated tiles of Sargantana</h3>
 
     <p>On Thusrday 11, at 10h30.</p>
 
-    <p>Luis Waucquez.</p>
+    <p>Lluc Alvarez, Serik Perez Gomez, and Arnau Bigas Soldevila.</p>
 
-    <p><strong>Abstract</strong>: The complexity of modern electronics systems and their behavior in harsh environments, demanding performance, fault-tolerance capabilities, and energy efficiency, proves the need to design and implement systems adaptable to applications with mixed-criticality requirements. The Extensible Reliable Offloading Solution (EROS) has been developed as a HW-based accelerator template capable of addressing these requirements. It is compatible with several RISC-V cores from the OpenHW Foundation and eases the integration of both MM accelerators and ISA extensions using CV-X-IF coprocessors. The platform offers a safety wrapper, allowing the selected core to be configured at design time and runtime in different operational modes, from single core execution to fault-tolerant operational modes such as TCLS, DCLS, and staggered. It also provides methods for error detection and recovery. The EROS solution has been implemented as a safety accelerator island in the X-HEEP system, a RISC-V microcontroller platform conceived for ultra-low power scenarios, creating the resulting X-EROS system. This demo evaluates X-EROS, which has been taped out in TSMC 65nm LP technology. The platform is evaluated through performance analysis results obtained from the execution of an AES-256-CBC algorithm. In conjunction, a controlled error injection is performed to prove the functional detection and recovery capabilities. The overall system power consumption is measured to show the different power profiles under different modes of operation, demonstrating the capacity of the platform to adapt itself not only to fault-tolerance requirements but also to low-power requirements.</p>
+    <p><strong>Abstract</strong>: This demo introduces Reptiles - Repeated Tiles of Sargantana, an open-source RISC-V multicore architecture designed to support research in HPC systems. Reptiles builds upon the OpenPiton manycore framework by integrating multiple Sargantana RISC-V cores and enhancing the memory hierarchy and interconnection network to improve scalability and performance. The goal is to provide an accessible and flexible platform for researchers to develop, experiment with, and optimize HPC workloads using open hardware.</p>
+
+    <p>Reptiles replicates Sargantana tiles within OpenPiton’s architecture and introduces several architectural improvements. These include a configurable network-on-chip width (from 64 up to 704 bits), flexible cache block sizes, adjustable numbers of miss status holding registers (MSHRs), improved cache sizes and associativities, parallel SRAM access in the L2 and the last-level cache, and configurable number of memory controllers. The system also integrates the High-Performance Data Cache (HPDcache) as an L1 data cache and enhances the Sargantana core with broader support for RISC-V extensions, particularly the RISC-V Vector Extension (RVV 1.0). Additional improvements include debugging support, performance counter access in Linux, and enhanced RTL simulation features such as checkpointing.</p>
+
+    <p>In this demo we show a fully functional FPGA prototype of Reptiles with four Sargantana cores booting Linux and running OpenMP benchmarks such as the NAS Parallel Benchmarks, interactive UART console games, and graphical applications by performing X11 forwarding over SSH. Overall, Reptiles demonstrates that open-source RISC-V multicore systems can effectively support scalable HPC research and experimentation.</p>
     <p align="center" style="font-size: 0.8em">
 <a class="backnavigation" href="#summary">To page top</a> &mdash;
 <a href="#Tue" class="backnavigation">To demos of Tuesday 9</a> &mdash;
