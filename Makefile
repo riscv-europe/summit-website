@@ -43,9 +43,6 @@ PRETALX_INTEGRATE_PY:=_bin/pretalx-integrate.py
 ## The script's default log file.
 PRETALX_INTEGRATE_LOG?=../pretalx-integrate.log
 
-## The default path to the Pretalx schedule JSON dump file.
-PRETALX_SCHEDULE_JSON?=_data/summit2026/asimported/eu-summit-2026_sessions.json
-
 
 # Import Google drive files downloaded by Firefox, for Summit 2025.
 
@@ -99,7 +96,7 @@ pretalx-import:
 
 pretalx-integrate:
 	rm -f $(PRETALX_INTEGRATE_LOG)
-	$(PRETALX_INTEGRATE_PY) $(PRETALX_INTEGRATE_OPT) $(PRETALX_SCHEDULE_JSON)
+	$(PRETALX_INTEGRATE_PY) $(PRETALX_INTEGRATE_OPT)
 
 # A couple of shorthands to Jekyll production management.
 
