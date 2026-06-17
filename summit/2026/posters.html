@@ -695,7 +695,7 @@
 
     <p>Blind submission #PB9JGQ at poster <strong>island B/35</strong> on Tuesday 9.</p>
 
-    <p>Stefano Di Matteo, Ivan Sarno, Emanuele Valea, and Hack.</p>
+    <p>Stefano Di Matteo, Ivan Sarno, Hack, and Emanuele Valea.</p>
 
     <p><strong>Abstract</strong>: This paper provides a quantitative analysis of the costs and benefits of integrating a dedicated hardware accelerator for the Post Quantum Cryptography (PQC) algorithm ML-KEM into a 32-bit RISC-V SoC. We compare a software-only implementation on the CV32E40P core against a full-hardware datapath offloading the entire algorithm. We implemented the system on a 22 nm ASIC chip, and we measured the results: the dedicated hardware achieves a 139x speed-up over the software baseline. This performance gain requires an area overhead of 301 kGE, representing only a 6% increase in the total SoC silicon footprint. This study provides a data-driven assessment of the silicon-to-latency trade-off for Post-Quantum Cryptography (PQC) in resource-constrained RISC-V systems.</p>
 
@@ -1035,7 +1035,7 @@
 
     <p>Non-blind submission #VPNYEP at poster <strong>island C/55</strong> on Tuesday 9.</p>
 
-    <p>Aditi Pandey, Dongjie Xie, Rama Malladi, Jose Arnau, and Chip Kerchner.</p>
+    <p>Dongjie Xie, Rama Malladi, Jose Arnau, Chip Kerchner, and Aditi Pandey.</p>
 
     <p><strong>Abstract</strong>: Small Language Models (SLMs) are increasingly critical for edge AI, yet their performance on RISC-V requires rigorous profiling to identify architectural bottlenecks. This work evaluates the performance of SLMs including Gemma3, Llama-3.2, Qwen-2.5, DeepSeek, and Phi-3.5 on the Tenstorrent Ascalon RISC-V Core. We developed a profiling methodology to analyze workload distribution, which revealed that Matrix Multiplication (MatMul) contributes ~90% of total compute across all evaluated models. Given the computational complexity of running full-model emulations, we extract these critical kernels for targeted benchmarking. Our implementation on the HAPS platform achieves significant performance leaps over standard baselines. FP32 execution, utilized for maximum precision, was optimized by transitioning from traditional SGEMM to a new high-performance implementation. Simultaneously, INT8 performance, targeted for efficient inference, was accelerated by migrating from standard RVV to a specialized IGEMM (with a VQDOT) implementation.</p>
 
@@ -2742,7 +2742,7 @@
 
     <p>Blind submission #VRKMGE at poster <strong>island A/154</strong> on Tusrday 11.</p>
 
-    <p>Andrei Stan.</p>
+    <p>Andrei Stan and Cosmin-Andrei Popovici.</p>
 
     <p><strong>Abstract</strong>: The Discrete Cosine Transform (DCT) is a key component in image and video compression systems due to its high energy compaction and efficient implementation. This paper presents a hardware accelerator for the 2-D DCT integrated into RISC-V–based FPGA systems. The design relies on an optimized 8-point 1-D DCT algorithm requiring only 11 multiplications and 29 additions, extended to 2-D using row–column decomposition. The accelerator employs a three-stage pipeline performing row-wise transform, column-wise transform, and quantization. It was integrated with both MicroBlaze V and CVA6 RISC-V cores and implemented on AMD VCU128 and KCU116 FPGA development boards. Experimental results for multiple image resolutions show significant performance improvements compared with the software implementation, achieving speedups of up to 44.56× and a throughput of 2 Mpixel/s at 100 MHz. The accelerator uses modest FPGA resources, enabling multiple instances and demonstrating its suitability for accelerating image and video compression pipelines in RISC-V–based systems.</p>
 
@@ -3184,7 +3184,7 @@
 
     <p>Blind submission #BXQ73A at poster <strong>island C/180</strong> on Tusrday 11.</p>
 
-    <p>Leo Marek.</p>
+    <p>Leo Marek and Jun Han Chen.</p>
 
     <p><strong>Abstract</strong>: This paper presents a standards-aligned microarchitectural extension that leverages architecturally reserved RISC-V HINT encodings to enable lightweight Very Long Instruction Word (VLIW) execution while preserving full backward binary compatibility. Unlike conventional superscalar designs that rely on dynamic scheduling, speculative issue, and complex hazard detection, our approach encodes static scheduling decisions in HINT instructions that execute as NOPs on unmodified cores. Modified implementations interpret these hints to form statically scheduled issue bundles, achieving higher Instruction-Level Parallelism (ILP) without increasing ISA surface area or compromising compliance.  We validate the proposal through a full-stack methodology spanning ISA modeling, RTL implementation, and FPGA deployment. ISA semantics were prototyped using Google’s MPACT simulator to evaluate bundle formation and decode behavior. We then extended the OpenHW Group CVW (Wally) core to support 4-wide integer VLIW execution via a widened multi-ported register file and parallel datapaths. The design was verified in Questa and Verilator and synthesized for FPGA-based cycle-accurate measurement.  Evaluation on representative DSP kernels (FFT, FIR, IIR, and dot product) demonstrates substantial IPC and cycle-count improvements relative to scalar RV32I execution, while maintaining binary compatibility and toolchain transparency. The proposed mechanism provides a path for energy-efficient ILP extraction in embedded and domain-specific systems, illustrating how reserved ISA space can be systematically exploited to deliver microarchitectural innovation without ecosystem fragmentation.</p>
 
